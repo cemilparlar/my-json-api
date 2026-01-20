@@ -80930,14 +80930,14 @@
         "matchCode": "4415109",
         "home": "De Treffers",
         "away": "Nijmegen",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "1 - 2",
         "prediction": "Match Result 2",
         "ihtimal": "70.0",
         "odds": "1.23",
         "matchCount": "10",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4415109",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "20.01.2026 18:15",
@@ -83352,6 +83352,36 @@
         "odds": "1.10",
         "matchCount": "3",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4360247",
+        "status": "Pending"
+    },
+    {
+        "date": "20.01.2026 22:00",
+        "league": " ŞİLİSK",
+        "matchCode": "4431786",
+        "home": "Huachipato",
+        "away": "Univ. Catolica",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "100.0",
+        "odds": "1.15",
+        "matchCount": "5",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4431786",
+        "status": "Pending"
+    },
+    {
+        "date": "20.01.2026 22:00",
+        "league": " ŞİLİSK",
+        "matchCode": "4431786",
+        "home": "Huachipato",
+        "away": "Univ. Catolica",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance X2",
+        "ihtimal": "80.0",
+        "odds": "1.06",
+        "matchCount": "5",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4431786",
         "status": "Pending"
     }
 ]
