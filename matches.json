@@ -109340,14 +109340,14 @@
         "matchCode": "4403968",
         "home": "Dire Dawa Kene",
         "away": "Ethiopian Insur",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
         "prediction": "Double Chance X2",
         "ihtimal": "100.0",
         "odds": "1.15",
         "matchCount": "3",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4403968",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "22.01.2026 10:00",
@@ -109355,14 +109355,14 @@
         "matchCode": "4403968",
         "home": "Dire Dawa Kene",
         "away": "Ethiopian Insur",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
         "prediction": "1st Half Over 0.5",
         "ihtimal": "100.0",
         "odds": "1.44",
         "matchCount": "3",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4403968",
-        "status": "Pending"
+        "status": "Lost"
     },
     {
         "date": "22.01.2026 10:00",
@@ -109370,14 +109370,14 @@
         "matchCode": "4403968",
         "home": "Dire Dawa Kene",
         "away": "Ethiopian Insur",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
         "prediction": "1st Half Double Chance 12",
         "ihtimal": "100.0",
         "odds": "1.61",
         "matchCount": "3",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4403968",
-        "status": "Pending"
+        "status": "Lost"
     },
     {
         "date": "22.01.2026 11:00",
@@ -110367,6 +110367,51 @@
         "odds": "1.31",
         "matchCount": "39",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4343003",
+        "status": "Pending"
+    },
+    {
+        "date": "22.01.2026 14:00",
+        "league": "FR",
+        "matchCode": "4432958",
+        "home": "Arsenal Tula",
+        "away": "Ofk Beograd",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "71.05",
+        "odds": "1.18",
+        "matchCount": "38",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432958",
+        "status": "Pending"
+    },
+    {
+        "date": "22.01.2026 14:00",
+        "league": "FR",
+        "matchCode": "4432958",
+        "home": "Arsenal Tula",
+        "away": "Ofk Beograd",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "76.32",
+        "odds": "1.11",
+        "matchCount": "38",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432958",
+        "status": "Pending"
+    },
+    {
+        "date": "22.01.2026 14:10",
+        "league": "KSA1",
+        "matchCode": "4415995",
+        "home": "Al Ula",
+        "away": "Al Wahda",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "86.49",
+        "odds": "1.07",
+        "matchCount": "37",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4415995",
         "status": "Pending"
     }
 ]
