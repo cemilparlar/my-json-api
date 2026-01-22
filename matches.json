@@ -109303,5 +109303,35 @@
         "matchCount": "5",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4431786",
         "status": "Lost"
+    },
+    {
+        "date": "22.01.2026 09:30",
+        "league": "ITAC",
+        "matchCode": "4343012",
+        "home": "Hellas Verona",
+        "away": "Cagliari U20",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "80.0",
+        "odds": "1.11",
+        "matchCount": "30",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4343012",
+        "status": "Pending"
+    },
+    {
+        "date": "22.01.2026 09:30",
+        "league": "ITAC",
+        "matchCode": "4343012",
+        "home": "Hellas Verona",
+        "away": "Cagliari U20",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 12",
+        "ihtimal": "73.33",
+        "odds": "1.36",
+        "matchCount": "30",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4343012",
+        "status": "Pending"
     }
 ]
