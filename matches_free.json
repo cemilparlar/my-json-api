@@ -5521,6 +5521,21 @@
     },
     {
         "date": "10.01.2026 17:00",
+        "league": "EGY LC",
+        "matchCode": "4409639",
+        "home": "Kahraba Ismailia",
+        "away": "Masryal Masry P",
+        "firstHalf": "0 - 1",
+        "finalScore": "1 - 1",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "75.76",
+        "odds": "1.19",
+        "matchCount": "33",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4409639",
+        "status": "Won"
+    },
+    {
+        "date": "10.01.2026 17:00",
         "league": "FRA CUP",
         "matchCode": "4415097",
         "home": "Istres",
@@ -24781,6 +24796,21 @@
     },
     {
         "date": "30.01.2026 17:00",
+        "league": "POL",
+        "matchCode": "4290662",
+        "home": "Zaglebie Lubin",
+        "away": "Gks Katowice",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 2",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "78.57",
+        "odds": "1.19",
+        "matchCount": "28",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4290662",
+        "status": "Won"
+    },
+    {
+        "date": "30.01.2026 17:00",
         "league": "TSL",
         "matchCode": "4308493",
         "home": "Antalyaspor",
@@ -33631,6 +33661,21 @@
     },
     {
         "date": "06.02.2026 17:00",
+        "league": "POL",
+        "matchCode": "4290670",
+        "home": "Korona Kielce",
+        "away": "Zaglebie Lubin",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 2",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "70.59",
+        "odds": "1.19",
+        "matchCount": "34",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4290670",
+        "status": "Won"
+    },
+    {
+        "date": "06.02.2026 17:00",
         "league": " GAFK",
         "matchCode": "4438136",
         "home": "Vasco Da Gama",
@@ -34452,6 +34497,21 @@
         "odds": "1.09",
         "matchCount": "26",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4316831",
+        "status": "Pending"
+    },
+    {
+        "date": "06.02.2026 21:00",
+        "league": " ŞİLİK",
+        "matchCode": "4437500",
+        "home": "Magallanes",
+        "away": "Deportes Santa",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "73.08",
+        "odds": "1.14",
+        "matchCount": "78",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4437500",
         "status": "Pending"
     }
 ]
