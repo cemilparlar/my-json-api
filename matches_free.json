@@ -12210,6 +12210,21 @@
         "status": "Won"
     },
     {
+        "date": "18.01.2026 06:00",
+        "league": "AUS",
+        "matchCode": "4378446",
+        "home": "Sydney",
+        "away": "Wellington Phoe",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 2",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "100.0",
+        "odds": "1.14",
+        "matchCount": "1",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4378446",
+        "status": "Won"
+    },
+    {
         "date": "18.01.2026 09:00",
         "league": "MYS CUP",
         "matchCode": "4427922",
@@ -33020,14 +33035,29 @@
         "matchCode": "4378459",
         "home": "Wellington Pho",
         "away": "Melbourne Victo",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 2",
+        "finalScore": "2 - 3",
+        "prediction": "Double Chance X2",
+        "ihtimal": "100.0",
+        "odds": "1.14",
+        "matchCount": "2",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4378459",
+        "status": "Won"
+    },
+    {
+        "date": "06.02.2026 06:00",
+        "league": "AUS",
+        "matchCode": "4378459",
+        "home": "Wellington Pho",
+        "away": "Melbourne Victo",
+        "firstHalf": "1 - 2",
+        "finalScore": "2 - 3",
         "prediction": "Over 1.5 Goals",
         "ihtimal": "100.0",
         "odds": "1.06",
         "matchCount": "2",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4378459",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "06.02.2026 08:35",
