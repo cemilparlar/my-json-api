@@ -33901,21 +33901,6 @@
     },
     {
         "date": "06.02.2026 18:00",
-        "league": "DEN",
-        "matchCode": "4291402",
-        "home": "Aarhus",
-        "away": "Odense",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "75.0",
-        "odds": "1.10",
-        "matchCount": "4",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4291402",
-        "status": "Pending"
-    },
-    {
-        "date": "06.02.2026 18:00",
         "league": "ESP3",
         "matchCode": "4356801",
         "home": "Barakaldo",
@@ -34685,13 +34670,13 @@
         "matchCode": "4437500",
         "home": "Magallanes",
         "away": "Deportes Santa",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 2",
         "prediction": "Double Chance 12",
         "ihtimal": "73.08",
         "odds": "1.14",
         "matchCount": "78",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4437500",
-        "status": "Pending"
+        "status": "Won"
     }
 ]
