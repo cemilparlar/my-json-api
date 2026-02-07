@@ -4487,6 +4487,21 @@
     {
         "date": "10.01.2026 13:30",
         "league": "ITA3",
+        "matchCode": "4339936",
+        "home": "Vicenza",
+        "away": "Ospitaletto",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "Match Result 1",
+        "ihtimal": "100.0",
+        "odds": "1.17",
+        "matchCount": "4",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4339936",
+        "status": "Won"
+    },
+    {
+        "date": "10.01.2026 13:30",
+        "league": "ITA3",
         "matchCode": "4340312",
         "home": "Sassari Torres",
         "away": "Campobasso",
@@ -5337,6 +5352,21 @@
         "odds": "1.17",
         "matchCount": "48",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4339934",
+        "status": "Won"
+    },
+    {
+        "date": "10.01.2026 16:30",
+        "league": "ITA3",
+        "matchCode": "4340699",
+        "home": "Crotone",
+        "away": "Team Altamura",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 1",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "82.14",
+        "odds": "1.17",
+        "matchCount": "28",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340699",
         "status": "Won"
     },
     {
@@ -18205,6 +18235,21 @@
         "prediction": "Double Chance 1X",
         "ihtimal": "75.0",
         "odds": "1.10",
+        "matchCount": "40",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340715",
+        "status": "Won"
+    },
+    {
+        "date": "24.01.2026 13:30",
+        "league": "ITA3",
+        "matchCode": "4340715",
+        "home": "Latina",
+        "away": "Foggia",
+        "firstHalf": "2 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "Double Chance 12",
+        "ihtimal": "82.5",
+        "odds": "1.17",
         "matchCount": "40",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340715",
         "status": "Won"
@@ -35495,14 +35540,14 @@
         "matchCode": "4340354",
         "home": "Ravenna",
         "away": "Athletic Carpi",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 0",
         "prediction": "Double Chance 12",
         "ihtimal": "81.36",
         "odds": "1.07",
         "matchCount": "59",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340354",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "07.02.2026 16:30",
@@ -35510,14 +35555,14 @@
         "matchCode": "4340354",
         "home": "Ravenna",
         "away": "Athletic Carpi",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 0",
         "prediction": "1st Half Over 0.5",
         "ihtimal": "74.58",
         "odds": "1.23",
         "matchCount": "59",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340354",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "07.02.2026 16:30",
@@ -35525,14 +35570,14 @@
         "matchCode": "4340738",
         "home": "Rossoblu Poten",
         "away": "Siracusa",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "2 - 2",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "77.36",
         "odds": "1.10",
         "matchCount": "53",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340738",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "07.02.2026 16:30",
@@ -35540,14 +35585,14 @@
         "matchCode": "4339979",
         "home": "Pergolettese",
         "away": "Trento Calcio 1",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "1 - 2",
         "prediction": "Double Chance 12",
         "ihtimal": "71.88",
         "odds": "1.17",
         "matchCount": "32",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4339979",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "07.02.2026 17:00",
@@ -35922,6 +35967,51 @@
         "odds": "1.09",
         "matchCount": "12",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4306746",
+        "status": "Pending"
+    },
+    {
+        "date": "07.02.2026 19:45",
+        "league": "ITA1",
+        "matchCode": "4291658",
+        "home": "ACF Fiorentina",
+        "away": "Torino",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "100.0",
+        "odds": "1.24",
+        "matchCount": "1",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4291658",
+        "status": "Pending"
+    },
+    {
+        "date": "07.02.2026 19:45",
+        "league": "ITA1",
+        "matchCode": "4291658",
+        "home": "ACF Fiorentina",
+        "away": "Torino",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.14",
+        "matchCount": "1",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4291658",
+        "status": "Pending"
+    },
+    {
+        "date": "07.02.2026 19:45",
+        "league": "BEL",
+        "matchCode": "4299792",
+        "home": "Gent",
+        "away": "Oh Leuven",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "85.71428571428571",
+        "odds": "1.10",
+        "matchCount": "7",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4299792",
         "status": "Pending"
     }
 ]
