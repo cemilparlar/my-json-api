@@ -1472,6 +1472,21 @@
     {
         "date": "04.01.2026 11:00",
         "league": "ESP4",
+        "matchCode": "4361733",
+        "home": "Real Valladoli",
+        "away": "Dep. Fabril",
+        "firstHalf": "0 - 2",
+        "finalScore": "0 - 4",
+        "prediction": "Double Chance X2",
+        "ihtimal": "85.71",
+        "odds": "1.19",
+        "matchCount": "28",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4361733",
+        "status": "Won"
+    },
+    {
+        "date": "04.01.2026 11:00",
+        "league": "ESP4",
         "matchCode": "4362654",
         "home": "Ucam Murcia",
         "away": "Cd Aguilas",
@@ -1482,21 +1497,6 @@
         "odds": "1.10",
         "matchCount": "18",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4362654",
-        "status": "Won"
-    },
-    {
-        "date": "04.01.2026 11:00",
-        "league": "ESP4",
-        "matchCode": "4362346",
-        "home": "Ue Olot",
-        "away": "Atletico Balear",
-        "firstHalf": "0 - 1",
-        "finalScore": "1 - 1",
-        "prediction": "Double Chance X2",
-        "ihtimal": "76.19",
-        "odds": "1.14",
-        "matchCount": "63",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4362346",
         "status": "Won"
     },
     {
@@ -1572,21 +1572,6 @@
         "odds": "1.08",
         "matchCount": "30",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4362043",
-        "status": "Won"
-    },
-    {
-        "date": "04.01.2026 11:00",
-        "league": "ESP4",
-        "matchCode": "4362348",
-        "home": "Porreres",
-        "away": "Poblense",
-        "firstHalf": "0 - 2",
-        "finalScore": "0 - 3",
-        "prediction": "Double Chance X2",
-        "ihtimal": "72.0",
-        "odds": "1.14",
-        "matchCount": "25",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4362348",
         "status": "Won"
     },
     {
@@ -6087,36 +6072,6 @@
         "odds": "1.07",
         "matchCount": "44",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4356762",
-        "status": "Won"
-    },
-    {
-        "date": "11.01.2026 11:00",
-        "league": "ESP3",
-        "matchCode": "4356762",
-        "home": "Merida Ad",
-        "away": "Osasuna Ii",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "77.27",
-        "odds": "1.14",
-        "matchCount": "44",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4356762",
-        "status": "Won"
-    },
-    {
-        "date": "11.01.2026 11:00",
-        "league": "ESP4",
-        "matchCode": "4362354",
-        "home": "Poblense",
-        "away": "Girona Ii",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "77.42",
-        "odds": "1.14",
-        "matchCount": "62",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4362354",
         "status": "Won"
     },
     {
@@ -12586,21 +12541,6 @@
     },
     {
         "date": "18.01.2026 11:00",
-        "league": "ESP3",
-        "matchCode": "4356776",
-        "home": "Ourense Cf",
-        "away": "Osasuna Ii",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "77.19",
-        "odds": "1.14",
-        "matchCount": "57",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4356776",
-        "status": "Won"
-    },
-    {
-        "date": "18.01.2026 11:00",
         "league": "ESP4",
         "matchCode": "4362367",
         "home": "Barbastro",
@@ -17670,6 +17610,21 @@
         "status": "Won"
     },
     {
+        "date": "24.01.2026 11:30",
+        "league": "TSL",
+        "matchCode": "4308486",
+        "home": "Kayserispor",
+        "away": "Basaksehir FK",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 3",
+        "prediction": "Double Chance X2",
+        "ihtimal": "75.0",
+        "odds": "1.19",
+        "matchCount": "4",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4308486",
+        "status": "Won"
+    },
+    {
         "date": "24.01.2026 12:00",
         "league": "GER2",
         "matchCode": "4306727",
@@ -20002,9 +19957,9 @@
         "away": "Real Jaen",
         "firstHalf": "1 - 0",
         "finalScore": "1 - 1",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "78.57",
-        "odds": "1.14",
+        "prediction": "Double Chance X2",
+        "ihtimal": "71.43",
+        "odds": "1.19",
         "matchCount": "14",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4362676",
         "status": "Won"
@@ -20310,21 +20265,6 @@
         "status": "Won"
     },
     {
-        "date": "25.01.2026 11:55",
-        "league": "ENGFLT",
-        "matchCode": "4361205",
-        "home": "Liverpool Women",
-        "away": "Tottenham Hotspur",
-        "firstHalf": "0 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "70.59",
-        "odds": "1.14",
-        "matchCount": "17",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4361205",
-        "status": "Won"
-    },
-    {
         "date": "25.01.2026 12:00",
         "league": "ENG1",
         "matchCode": "4302139",
@@ -20457,21 +20397,6 @@
         "odds": "1.10",
         "matchCount": "18",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4349428",
-        "status": "Won"
-    },
-    {
-        "date": "25.01.2026 11:15",
-        "league": "NED",
-        "matchCode": "4295960",
-        "home": "Telstar",
-        "away": "AZ Alkmaar",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "100.0",
-        "odds": "1.14",
-        "matchCount": "2",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4295960",
         "status": "Won"
     },
     {
@@ -25902,6 +25827,21 @@
         "odds": "1.11",
         "matchCount": "110",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4316815",
+        "status": "Won"
+    },
+    {
+        "date": "31.01.2026 11:00",
+        "league": "POR U23",
+        "matchCode": "4418464",
+        "home": "Leixoes U23",
+        "away": "Benfica U23",
+        "firstHalf": "0 - 2",
+        "finalScore": "2 - 5",
+        "prediction": "Double Chance X2",
+        "ihtimal": "77.55",
+        "odds": "1.19",
+        "matchCount": "49",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4418464",
         "status": "Won"
     },
     {
@@ -37186,36 +37126,6 @@
     },
     {
         "date": "08.02.2026 11:00",
-        "league": "ESP4",
-        "matchCode": "4362088",
-        "home": "Ejea",
-        "away": "Ebro",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "77.78",
-        "odds": "1.14",
-        "matchCount": "54",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4362088",
-        "status": "Pending"
-    },
-    {
-        "date": "08.02.2026 11:00",
-        "league": "ESP4",
-        "matchCode": "4363003",
-        "home": "Tenerife Ii",
-        "away": "Navalcarnero",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "79.01",
-        "odds": "1.14",
-        "matchCount": "81",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4363003",
-        "status": "Pending"
-    },
-    {
-        "date": "08.02.2026 11:00",
         "league": "ESP3",
         "matchCode": "4356807",
         "home": "Pontevedra",
@@ -37246,21 +37156,6 @@
     },
     {
         "date": "08.02.2026 11:00",
-        "league": "ESP4",
-        "matchCode": "4362693",
-        "home": "Almeria Ii",
-        "away": "Malaga B",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "75.64",
-        "odds": "1.14",
-        "matchCount": "78",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4362693",
-        "status": "Won"
-    },
-    {
-        "date": "08.02.2026 11:00",
         "league": " FINYK",
         "matchCode": "4425506",
         "home": "Sjk Ii",
@@ -37287,6 +37182,21 @@
         "odds": "1.07",
         "matchCount": "54",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4362388",
+        "status": "Won"
+    },
+    {
+        "date": "08.02.2026 11:15",
+        "league": "NED",
+        "matchCode": "4295973",
+        "home": "Utrecht",
+        "away": "Feyenoord",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 1",
+        "prediction": "Double Chance X2",
+        "ihtimal": "75.0",
+        "odds": "1.19",
+        "matchCount": "4",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4295973",
         "status": "Won"
     },
     {
@@ -37722,6 +37632,36 @@
         "odds": "1.19",
         "matchCount": "56",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4438143",
+        "status": "Pending"
+    },
+    {
+        "date": "08.02.2026 13:30",
+        "league": "POL1",
+        "matchCode": "4316516",
+        "home": "Ruch Chorzow",
+        "away": "Slask Wroclaw",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "77.5",
+        "odds": "1.06",
+        "matchCount": "40",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4316516",
+        "status": "Pending"
+    },
+    {
+        "date": "08.02.2026 13:30",
+        "league": "AUT",
+        "matchCode": "4306975",
+        "home": "Altach",
+        "away": "Blau-Weiss Linz",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "81.82",
+        "odds": "1.07",
+        "matchCount": "11",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4306975",
         "status": "Pending"
     }
 ]
