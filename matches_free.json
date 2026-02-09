@@ -31260,21 +31260,6 @@
         "status": "Won"
     },
     {
-        "date": "02.02.2026 11:00",
-        "league": "IRN2",
-        "matchCode": "4436707",
-        "home": "Saipa",
-        "away": "Besat Kermansha",
-        "firstHalf": "1 - 1",
-        "finalScore": "1 - 1",
-        "prediction": "Double Chance X2",
-        "ihtimal": "100.0",
-        "odds": "1.44",
-        "matchCount": "1",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4436707",
-        "status": "Won"
-    },
-    {
         "date": "02.02.2026 12:00",
         "league": "IDN1",
         "matchCode": "4337999",
@@ -38495,29 +38480,14 @@
         "matchCode": "4404063",
         "home": "M Nam Dinh",
         "away": "Hong Linh Ha Ti",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Both Teams to Score - No",
-        "ihtimal": "71.43",
-        "odds": "1.44",
-        "matchCount": "7",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4404063",
-        "status": "Pending"
-    },
-    {
-        "date": "09.02.2026 11:00",
-        "league": "VIE",
-        "matchCode": "4404063",
-        "home": "M Nam Dinh",
-        "away": "Hong Linh Ha Ti",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 1",
         "prediction": "1st Half Under 1.5",
         "ihtimal": "71.43",
         "odds": "1.27",
         "matchCount": "7",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4404063",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "09.02.2026 12:00",
@@ -38577,6 +38547,21 @@
         "odds": "1.13",
         "matchCount": "29",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4439954",
+        "status": "Pending"
+    },
+    {
+        "date": "09.02.2026 15:05",
+        "league": "KSA1",
+        "matchCode": "4416022",
+        "home": "Al Jubail",
+        "away": "Al Orubah Club",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "83.33",
+        "odds": "1.33",
+        "matchCount": "6",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4416022",
         "status": "Pending"
     }
 ]
