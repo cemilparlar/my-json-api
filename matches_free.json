@@ -3091,6 +3091,21 @@
     },
     {
         "date": "06.01.2026 13:00",
+        "league": "GRE",
+        "matchCode": "4415981",
+        "home": "Aris",
+        "away": "Panetolikos",
+        "firstHalf": "2 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "75.0",
+        "odds": "1.27",
+        "matchCount": "40",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4415981",
+        "status": "Won"
+    },
+    {
+        "date": "06.01.2026 13:00",
         "league": "UGA",
         "matchCode": "4387960",
         "home": "Police",
@@ -7060,6 +7075,21 @@
         "prediction": "Double Chance 12",
         "ihtimal": "100.0",
         "odds": "1.13",
+        "matchCount": "1",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4389165",
+        "status": "Won"
+    },
+    {
+        "date": "13.01.2026 20:00",
+        "league": "ITA CUP",
+        "matchCode": "4389165",
+        "home": "Roma",
+        "away": "Torino",
+        "firstHalf": "0 - 1",
+        "finalScore": "2 - 3",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "100.0",
+        "odds": "1.27",
         "matchCount": "1",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4389165",
         "status": "Won"
@@ -23550,6 +23580,21 @@
         "status": "Won"
     },
     {
+        "date": "27.01.2026 19:30",
+        "league": "ENG3",
+        "matchCode": "4304568",
+        "home": "Newport County",
+        "away": "Accrington",
+        "firstHalf": "1 - 1",
+        "finalScore": "1 - 4",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "72.55",
+        "odds": "1.27",
+        "matchCount": "51",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4304568",
+        "status": "Won"
+    },
+    {
         "date": "27.01.2026 19:45",
         "league": "ENG2",
         "matchCode": "4304018",
@@ -23755,6 +23800,21 @@
         "prediction": "Double Chance 12",
         "ihtimal": "71.43",
         "odds": "1.17",
+        "matchCount": "98",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4304021",
+        "status": "Won"
+    },
+    {
+        "date": "27.01.2026 19:45",
+        "league": "ENG2",
+        "matchCode": "4304021",
+        "home": "Lincoln",
+        "away": "Bradford",
+        "firstHalf": "2 - 0",
+        "finalScore": "3 - 0",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "72.45",
+        "odds": "1.27",
         "matchCount": "98",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4304021",
         "status": "Won"
@@ -39315,6 +39375,36 @@
         "status": "Won"
     },
     {
+        "date": "10.02.2026 15:00",
+        "league": "AZE",
+        "matchCode": "4375358",
+        "home": "Neftchi Baku",
+        "away": "Qabala",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "76.32",
+        "odds": "1.06",
+        "matchCount": "38",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4375358",
+        "status": "Won"
+    },
+    {
+        "date": "10.02.2026 15:00",
+        "league": "AZE",
+        "matchCode": "4375358",
+        "home": "Neftchi Baku",
+        "away": "Qabala",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "71.05",
+        "odds": "1.27",
+        "matchCount": "38",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4375358",
+        "status": "Won"
+    },
+    {
         "date": "10.02.2026 15:55",
         "league": "KSA1",
         "matchCode": "4416024",
@@ -39387,6 +39477,21 @@
         "odds": "1.06",
         "matchCount": "45",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340743",
+        "status": "Pending"
+    },
+    {
+        "date": "10.02.2026 19:00",
+        "league": "INT CUP",
+        "matchCode": "4432909",
+        "home": "Port Vale",
+        "away": "Stockport",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "81.82",
+        "odds": "1.14",
+        "matchCount": "22",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432909",
         "status": "Pending"
     }
 ]
