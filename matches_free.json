@@ -40445,14 +40445,14 @@
         "matchCode": "4425523",
         "home": "Mariehamn",
         "away": "Turku",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 1",
         "prediction": "Over 1.5 Goals",
         "ihtimal": "72.46",
         "odds": "1.06",
         "matchCount": "69",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4425523",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "11.02.2026 17:00",
@@ -40542,6 +40542,21 @@
         "odds": "1.18",
         "matchCount": "8",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4295650",
+        "status": "Pending"
+    },
+    {
+        "date": "11.02.2026 19:30",
+        "league": "SWE",
+        "matchCode": "4427443",
+        "home": "Lugano",
+        "away": "Servette",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "93.33333333333333",
+        "odds": "1.07",
+        "matchCount": "15",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4427443",
         "status": "Pending"
     }
 ]
