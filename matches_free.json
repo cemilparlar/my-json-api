@@ -8407,6 +8407,21 @@
         "away": "Barcelona",
         "firstHalf": "0 - 0",
         "finalScore": "0 - 2",
+        "prediction": "Match Result 2",
+        "ihtimal": "100.0",
+        "odds": "1.06",
+        "matchCount": "2",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4426577",
+        "status": "Won"
+    },
+    {
+        "date": "15.01.2026 20:15",
+        "league": "ESP CUP",
+        "matchCode": "4426577",
+        "home": "Santander",
+        "away": "Barcelona",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 2",
         "prediction": "Under 4.5 Goals",
         "ihtimal": "100.0",
         "odds": "1.49",
@@ -41780,14 +41795,14 @@
         "matchCode": "4439550",
         "home": "Atletico Madrid",
         "away": "Barcelona",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "4 - 0",
+        "finalScore": "4 - 0",
         "prediction": "Over 1.5 Goals",
         "ihtimal": "100.0",
         "odds": "1.06",
         "matchCount": "1",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4439550",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "12.02.2026 20:00",
@@ -41795,14 +41810,14 @@
         "matchCode": "4295648",
         "home": "Brentford",
         "away": "Arsenal",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 1",
         "prediction": "Handicap (2:0) 1",
         "ihtimal": "100.0",
         "odds": "1.27",
         "matchCount": "1",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4295648",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "12.02.2026 22:30",
