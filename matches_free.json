@@ -8371,6 +8371,21 @@
     },
     {
         "date": "15.01.2026 20:00",
+        "league": "ESP CUP",
+        "matchCode": "4426580",
+        "home": "Burgos",
+        "away": "Valencia",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 2",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "72.73",
+        "odds": "1.06",
+        "matchCount": "11",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4426580",
+        "status": "Won"
+    },
+    {
+        "date": "15.01.2026 20:00",
         "league": "NED CUP",
         "matchCode": "4415113",
         "home": "Sparta Rotterd",
@@ -16857,6 +16872,21 @@
         "odds": "1.13",
         "matchCount": "5",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4360411",
+        "status": "Won"
+    },
+    {
+        "date": "22.01.2026 17:45",
+        "league": "UEL",
+        "matchCode": "4360405",
+        "home": "Young Boys",
+        "away": "Lyon",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 1",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "100.0",
+        "odds": "1.06",
+        "matchCount": "3",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4360405",
         "status": "Won"
     },
     {
@@ -41600,14 +41630,29 @@
         "matchCode": "4354332",
         "home": "Damak",
         "away": "Al Taawon",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 1",
+        "finalScore": "2 - 1",
         "prediction": "Under 3.5 Goals",
         "ihtimal": "80.0",
         "odds": "1.13",
         "matchCount": "40",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4354332",
-        "status": "Pending"
+        "status": "Won"
+    },
+    {
+        "date": "12.02.2026 15:45",
+        "league": "KSA",
+        "matchCode": "4354332",
+        "home": "Damak",
+        "away": "Al Taawon",
+        "firstHalf": "1 - 1",
+        "finalScore": "2 - 1",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "85.0",
+        "odds": "1.06",
+        "matchCount": "40",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4354332",
+        "status": "Won"
     },
     {
         "date": "12.02.2026 16:00",
@@ -41802,6 +41847,21 @@
         "odds": "1.11",
         "matchCount": "72",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340363",
+        "status": "Pending"
+    },
+    {
+        "date": "12.02.2026 19:30",
+        "league": "ITA3",
+        "matchCode": "4340369",
+        "home": "Ascoli Picchio",
+        "away": "Sassari Torres",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "72.73",
+        "odds": "1.20",
+        "matchCount": "11",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340369",
         "status": "Pending"
     }
 ]
