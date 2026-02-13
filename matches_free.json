@@ -42185,14 +42185,14 @@
         "matchCode": "4441983",
         "home": "Al Shamal",
         "away": "Qatar Sc",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "2 - 1",
+        "finalScore": "2 - 1",
         "prediction": "Under 4.5 Goals",
         "ihtimal": "74.36",
         "odds": "1.08",
         "matchCount": "39",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4441983",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "13.02.2026 13:30",
@@ -42200,14 +42200,14 @@
         "matchCode": "4434641",
         "home": "Al Bataeh",
         "away": "Al Dhafra",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "1 - 1",
         "prediction": "Over 1.5 Goals",
         "ihtimal": "80.0",
         "odds": "1.06",
         "matchCount": "55",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4434641",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "13.02.2026 13:55",
@@ -42507,6 +42507,36 @@
         "odds": "1.06",
         "matchCount": "21",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4354333",
+        "status": "Pending"
+    },
+    {
+        "date": "13.02.2026 17:30",
+        "league": "GER2",
+        "matchCode": "4306754",
+        "home": "Fortuna Dussel",
+        "away": "Preussen Munste",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "85.71",
+        "odds": "1.14",
+        "matchCount": "14",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4306754",
+        "status": "Pending"
+    },
+    {
+        "date": "13.02.2026 17:30",
+        "league": "GER2",
+        "matchCode": "4306754",
+        "home": "Fortuna Dussel",
+        "away": "Preussen Munste",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "85.71",
+        "odds": "1.10",
+        "matchCount": "14",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4306754",
         "status": "Pending"
     }
 ]
