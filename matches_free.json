@@ -42215,14 +42215,14 @@
         "matchCode": "4354334",
         "home": "Al Shabab",
         "away": "Al Ahli",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "2 - 4",
+        "finalScore": "2 - 5",
         "prediction": "Double Chance X2",
         "ihtimal": "90.48",
         "odds": "1.06",
         "matchCount": "21",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4354334",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "13.02.2026 14:00",
@@ -42537,6 +42537,51 @@
         "odds": "1.10",
         "matchCount": "14",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4306754",
+        "status": "Pending"
+    },
+    {
+        "date": "13.02.2026 18:00",
+        "league": "ROU",
+        "matchCode": "4307559",
+        "home": "Petrolul 52",
+        "away": "Argesul Pitesti",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 2.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.17",
+        "matchCount": "2",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4307559",
+        "status": "Pending"
+    },
+    {
+        "date": "13.02.2026 18:00",
+        "league": "GER3",
+        "matchCode": "4314856",
+        "home": "Viktoria Koln",
+        "away": "Aue",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "100.0",
+        "odds": "1.18",
+        "matchCount": "2",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4314856",
+        "status": "Pending"
+    },
+    {
+        "date": "13.02.2026 18:00",
+        "league": "DEN",
+        "matchCode": "4291409",
+        "home": "Randers",
+        "away": "Vejle",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "100.0",
+        "odds": "1.28",
+        "matchCount": "5",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4291409",
         "status": "Pending"
     }
 ]
