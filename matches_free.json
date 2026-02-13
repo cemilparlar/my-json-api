@@ -17101,6 +17101,21 @@
     },
     {
         "date": "23.01.2026 12:00",
+        "league": "IRN",
+        "matchCode": "4414108",
+        "home": "Chadormalu",
+        "away": "Shams Azar Qazv",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "Handicap (0:1) 2",
+        "ihtimal": "75.0",
+        "odds": "1.33",
+        "matchCount": "4",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4414108",
+        "status": "Won"
+    },
+    {
+        "date": "23.01.2026 12:00",
         "league": "IRQ",
         "matchCode": "4433757",
         "home": "Al Kahraba",
@@ -25632,6 +25647,21 @@
         "odds": "1.09",
         "matchCount": "33",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4301311",
+        "status": "Won"
+    },
+    {
+        "date": "30.01.2026 16:45",
+        "league": "QAT",
+        "matchCode": "4415648",
+        "home": "Al Duhail Sc",
+        "away": "Al Rayyan",
+        "firstHalf": "1 - 1",
+        "finalScore": "1 - 1",
+        "prediction": "Handicap (0:1) 2",
+        "ihtimal": "81.81818181818183",
+        "odds": "1.33",
+        "matchCount": "11",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4415648",
         "status": "Won"
     },
     {
@@ -35452,6 +35482,21 @@
         "away": "St. Truidense",
         "firstHalf": "0 - 3",
         "finalScore": "0 - 4",
+        "prediction": "Handicap (0:1) 2",
+        "ihtimal": "100.0",
+        "odds": "1.33",
+        "matchCount": "2",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4299795",
+        "status": "Won"
+    },
+    {
+        "date": "06.02.2026 19:45",
+        "league": "BEL",
+        "matchCode": "4299795",
+        "home": "Westerlo",
+        "away": "St. Truidense",
+        "firstHalf": "0 - 3",
+        "finalScore": "0 - 4",
         "prediction": "Under 4.5 Goals",
         "ihtimal": "100.0",
         "odds": "1.09",
@@ -41925,6 +41970,21 @@
         "status": "Won"
     },
     {
+        "date": "13.02.2026 09:00",
+        "league": " AVPL1",
+        "matchCode": "4443482",
+        "home": "Brunswick City",
+        "away": "Northcote City",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 4",
+        "prediction": "Handicap (0:1) 2",
+        "ihtimal": "70.83333333333334",
+        "odds": "1.33",
+        "matchCount": "24",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4443482",
+        "status": "Won"
+    },
+    {
         "date": "13.02.2026 10:00",
         "league": "JPN1",
         "matchCode": "4437651",
@@ -42087,6 +42147,21 @@
         "odds": "1.06",
         "matchCount": "55",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4434641",
+        "status": "Pending"
+    },
+    {
+        "date": "13.02.2026 13:55",
+        "league": "KSA",
+        "matchCode": "4354334",
+        "home": "Al Shabab",
+        "away": "Al Ahli",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance X2",
+        "ihtimal": "90.48",
+        "odds": "1.06",
+        "matchCount": "21",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4354334",
         "status": "Pending"
     }
 ]
