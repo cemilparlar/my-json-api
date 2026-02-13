@@ -21247,21 +21247,6 @@
         "away": "Amed SK",
         "firstHalf": "1 - 0",
         "finalScore": "1 - 1",
-        "prediction": "Handicap (2:0) 1",
-        "ihtimal": "100.0",
-        "odds": "1.07",
-        "matchCount": "4",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4309016",
-        "status": "Won"
-    },
-    {
-        "date": "25.01.2026 13:00",
-        "league": "TUR1",
-        "matchCode": "4309016",
-        "home": "Sivasspor",
-        "away": "Amed SK",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 1",
         "prediction": "Under 3.5 Goals",
         "ihtimal": "75.0",
         "odds": "1.22",
@@ -42075,21 +42060,6 @@
         "status": "Won"
     },
     {
-        "date": "13.02.2026 10:30",
-        "league": "TUR1",
-        "matchCode": "4309047",
-        "home": "Igdir FK",
-        "away": "Umraniyespor",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "80.0",
-        "odds": "1.07",
-        "matchCount": "5",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4309047",
-        "status": "Pending"
-    },
-    {
         "date": "13.02.2026 12:00",
         "league": "KEN",
         "matchCode": "4380169",
@@ -42252,6 +42222,21 @@
         "odds": "1.13",
         "matchCount": "2",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4442068",
+        "status": "Pending"
+    },
+    {
+        "date": "13.02.2026 14:00",
+        "league": "CZE2",
+        "matchCode": "4442086",
+        "home": "Rc Arbaa",
+        "away": "Jsm Tiaret",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "78.0",
+        "odds": "1.14",
+        "matchCount": "100",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4442086",
         "status": "Pending"
     }
 ]
