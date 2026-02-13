@@ -34185,6 +34185,21 @@
         "status": "Won"
     },
     {
+        "date": "06.02.2026 06:00",
+        "league": "AUS",
+        "matchCode": "4378459",
+        "home": "Wellington Pho",
+        "away": "Melbourne Victo",
+        "firstHalf": "1 - 2",
+        "finalScore": "2 - 3",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.06",
+        "matchCount": "2",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4378459",
+        "status": "Won"
+    },
+    {
         "date": "06.02.2026 08:35",
         "league": "AUS",
         "matchCode": "4378460",
@@ -42065,14 +42080,14 @@
         "matchCode": "4380169",
         "home": "Bidco United",
         "away": "Kakamega Homebo",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 2",
+        "finalScore": "1 - 4",
         "prediction": "Double Chance 12",
         "ihtimal": "75.0",
         "odds": "1.22",
         "matchCount": "4",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4380169",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "13.02.2026 10:45",
@@ -42080,14 +42095,29 @@
         "matchCode": "4378468",
         "home": "Perth Glory",
         "away": "Newcastle Jet",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "1 - 3",
         "prediction": "Double Chance 12",
         "ihtimal": "100.0",
         "odds": "1.13",
         "matchCount": "2",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4378468",
-        "status": "Pending"
+        "status": "Won"
+    },
+    {
+        "date": "13.02.2026 10:45",
+        "league": "AUS",
+        "matchCode": "4378468",
+        "home": "Perth Glory",
+        "away": "Newcastle Jet",
+        "firstHalf": "0 - 1",
+        "finalScore": "1 - 3",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "100.0",
+        "odds": "1.06",
+        "matchCount": "2",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4378468",
+        "status": "Won"
     },
     {
         "date": "13.02.2026 12:30",
