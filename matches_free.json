@@ -9840,21 +9840,6 @@
         "status": "Won"
     },
     {
-        "date": "17.01.2026 12:30",
-        "league": "ENG2",
-        "matchCode": "4304003",
-        "home": "Wigan",
-        "away": "Bolton",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "75.44",
-        "odds": "1.17",
-        "matchCount": "57",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4304003",
-        "status": "Won"
-    },
-    {
         "date": "17.01.2026 13:00",
         "league": "TUN",
         "matchCode": "4430510",
@@ -43336,21 +43321,6 @@
     },
     {
         "date": "14.02.2026 12:00",
-        "league": "GER2",
-        "matchCode": "4306758",
-        "home": "Braunschweig",
-        "away": "Darmstadt",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "100.0",
-        "odds": "1.17",
-        "matchCount": "6",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4306758",
-        "status": "Pending"
-    },
-    {
-        "date": "14.02.2026 12:00",
         "league": "TUR3-4",
         "matchCode": "4311857",
         "home": "Denizli Iy Gur",
@@ -43542,21 +43512,6 @@
         "odds": "1.07",
         "matchCount": "31",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4433926",
-        "status": "Pending"
-    },
-    {
-        "date": "14.02.2026 12:45",
-        "league": "BUL1",
-        "matchCode": "4379714",
-        "home": "Cska 1948 Sofi",
-        "away": "Cska Sofia",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "79.31",
-        "odds": "1.17",
-        "matchCount": "29",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4379714",
         "status": "Pending"
     },
     {
@@ -44067,6 +44022,36 @@
         "odds": "1.13",
         "matchCount": "54",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4296777",
+        "status": "Pending"
+    },
+    {
+        "date": "14.02.2026 14:00",
+        "league": "WALFA",
+        "matchCode": "4315820",
+        "home": "Brickfield Ran",
+        "away": "Ruthin Town",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "77.5",
+        "odds": "1.12",
+        "matchCount": "40",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4315820",
+        "status": "Pending"
+    },
+    {
+        "date": "14.02.2026 14:00",
+        "league": "ITA2",
+        "matchCode": "4331464",
+        "home": "Modena",
+        "away": "Carrarese",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "100.0",
+        "odds": "1.12",
+        "matchCount": "4",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4331464",
         "status": "Pending"
     }
 ]
