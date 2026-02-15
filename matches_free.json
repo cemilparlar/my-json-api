@@ -45110,14 +45110,14 @@
         "matchCode": "4379715",
         "home": "Lokomotiv Plov",
         "away": "Cherno More",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 1",
         "prediction": "1st Half Double Chance X2",
         "ihtimal": "84.62",
         "odds": "1.10",
         "matchCount": "13",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4379715",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "15.02.2026 10:00",
@@ -45597,6 +45597,36 @@
         "odds": "1.06",
         "matchCount": "37",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4343047",
+        "status": "Pending"
+    },
+    {
+        "date": "15.02.2026 12:15",
+        "league": "LBN",
+        "matchCode": "4434070",
+        "home": "Mabarra",
+        "away": "Ahed",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "83.33",
+        "odds": "1.06",
+        "matchCount": "6",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4434070",
+        "status": "Pending"
+    },
+    {
+        "date": "15.02.2026 12:30",
+        "league": "GER2",
+        "matchCode": "4306751",
+        "home": "Holstein Kiel",
+        "away": "Schalke",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "78.95",
+        "odds": "1.29",
+        "matchCount": "19",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4306751",
         "status": "Pending"
     }
 ]
