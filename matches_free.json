@@ -3915,6 +3915,21 @@
         "status": "Won"
     },
     {
+        "date": "09.01.2026 08:30",
+        "league": "IDN1",
+        "matchCode": "4337973",
+        "home": "Persita Tanger",
+        "away": "Borneo Fc",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "Double Chance 12",
+        "ihtimal": "72.5",
+        "odds": "1.13",
+        "matchCount": "40",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4337973",
+        "status": "Won"
+    },
+    {
         "date": "09.01.2026 08:35",
         "league": "AUS",
         "matchCode": "4378435",
@@ -3942,6 +3957,21 @@
         "odds": "1.26",
         "matchCount": "9",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4378435",
+        "status": "Won"
+    },
+    {
+        "date": "09.01.2026 12:00",
+        "league": "IDN1",
+        "matchCode": "4337974",
+        "home": "Psm Makassar",
+        "away": "Bali United",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 2",
+        "prediction": "Double Chance 12",
+        "ihtimal": "79.63",
+        "odds": "1.13",
+        "matchCount": "54",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4337974",
         "status": "Won"
     },
     {
@@ -16677,6 +16707,21 @@
         "odds": "1.33",
         "matchCount": "4",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4425766",
+        "status": "Won"
+    },
+    {
+        "date": "23.01.2026 08:30",
+        "league": "IDN1",
+        "matchCode": "4337982",
+        "home": "Persis Solo",
+        "away": "Borneo Fc",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 1",
+        "prediction": "Double Chance 12",
+        "ihtimal": "76.6",
+        "odds": "1.13",
+        "matchCount": "47",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4337982",
         "status": "Won"
     },
     {
@@ -33706,6 +33751,21 @@
     },
     {
         "date": "06.02.2026 12:00",
+        "league": "IDN1",
+        "matchCode": "4338001",
+        "home": "Persib",
+        "away": "Malut United",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "Double Chance 12",
+        "ihtimal": "71.19",
+        "odds": "1.13",
+        "matchCount": "59",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338001",
+        "status": "Won"
+    },
+    {
+        "date": "06.02.2026 12:00",
         "league": "IRQ",
         "matchCode": "4438167",
         "home": "Baghdad",
@@ -45140,14 +45200,29 @@
         "matchCode": "4338014",
         "home": "Arema",
         "away": "Semen Padang",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "3 - 0",
+        "prediction": "Double Chance 12",
+        "ihtimal": "72.82",
+        "odds": "1.13",
+        "matchCount": "103",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338014",
+        "status": "Won"
+    },
+    {
+        "date": "15.02.2026 08:30",
+        "league": "IDN1",
+        "matchCode": "4338014",
+        "home": "Arema",
+        "away": "Semen Padang",
+        "firstHalf": "1 - 0",
+        "finalScore": "3 - 0",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "78.64",
         "odds": "1.06",
         "matchCount": "103",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338014",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "15.02.2026 09:00",
@@ -45462,6 +45537,51 @@
         "odds": "1.16",
         "matchCount": "178",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4357193",
+        "status": "Pending"
+    },
+    {
+        "date": "15.02.2026 11:30",
+        "league": "ITA3",
+        "matchCode": "4339991",
+        "home": "Vicenza",
+        "away": "Alcione",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 1",
+        "ihtimal": "71.43",
+        "odds": "1.19",
+        "matchCount": "7",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4339991",
+        "status": "Pending"
+    },
+    {
+        "date": "15.02.2026 11:30",
+        "league": "TSL",
+        "matchCode": "4308514",
+        "home": "Kocaelispor",
+        "away": "Gaziantep FK",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "95.45",
+        "odds": "1.10",
+        "matchCount": "22",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4308514",
+        "status": "Pending"
+    },
+    {
+        "date": "15.02.2026 11:30",
+        "league": "TSL",
+        "matchCode": "4308514",
+        "home": "Kocaelispor",
+        "away": "Gaziantep FK",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "90.91",
+        "odds": "1.06",
+        "matchCount": "22",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4308514",
         "status": "Pending"
     }
 ]
