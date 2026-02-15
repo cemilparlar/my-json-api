@@ -34755,6 +34755,21 @@
         "status": "Won"
     },
     {
+        "date": "07.02.2026 07:00",
+        "league": "JPN1",
+        "matchCode": "4437648",
+        "home": "Cerezo Osaka",
+        "away": "Gamba Osaka",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "Handicap (1:0) 1",
+        "ihtimal": "90.9090909090909",
+        "odds": "1.20",
+        "matchCount": "11",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4437648",
+        "status": "Won"
+    },
+    {
         "date": "07.02.2026 08:30",
         "league": "IDN1",
         "matchCode": "4338003",
@@ -36852,6 +36867,21 @@
         "odds": "1.07",
         "matchCount": "32",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4378603",
+        "status": "Won"
+    },
+    {
+        "date": "08.02.2026 07:00",
+        "league": "JPN1",
+        "matchCode": "4437560",
+        "home": "Tokyo Verdy",
+        "away": "Mito Hollyhock",
+        "firstHalf": "2 - 0",
+        "finalScore": "3 - 1",
+        "prediction": "Handicap (1:0) 1",
+        "ihtimal": "100.0",
+        "odds": "1.20",
+        "matchCount": "1",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4437560",
         "status": "Won"
     },
     {
@@ -41265,6 +41295,21 @@
         "status": "Won"
     },
     {
+        "date": "13.02.2026 10:00",
+        "league": "JPN1",
+        "matchCode": "4437651",
+        "home": "Vissel Kobe",
+        "away": "V-Varen Nagasak",
+        "firstHalf": "2 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "81.48",
+        "odds": "1.20",
+        "matchCount": "27",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4437651",
+        "status": "Won"
+    },
+    {
         "date": "13.02.2026 10:30",
         "league": "TUR1",
         "matchCode": "4309047",
@@ -42490,6 +42535,21 @@
         "prediction": "Over 1.5 Goals",
         "ihtimal": "90.0",
         "odds": "1.13",
+        "matchCount": "10",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4437653",
+        "status": "Won"
+    },
+    {
+        "date": "14.02.2026 05:00",
+        "league": "JPN1",
+        "matchCode": "4437653",
+        "home": "Hiroshima",
+        "away": "Fagiano Okayama",
+        "firstHalf": "1 - 1",
+        "finalScore": "1 - 1",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "80.0",
+        "odds": "1.20",
         "matchCount": "10",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4437653",
         "status": "Won"
@@ -44990,14 +45050,14 @@
         "matchCode": "4437654",
         "home": "Avispa Fukuoka",
         "away": "Cerezo Osaka",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 2",
+        "finalScore": "0 - 2",
         "prediction": "1st Half Over 0.5",
         "ihtimal": "70.0",
         "odds": "1.20",
         "matchCount": "40",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4437654",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "15.02.2026 08:30",
@@ -45027,6 +45087,36 @@
         "odds": "1.27",
         "matchCount": "54",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4438416",
+        "status": "Pending"
+    },
+    {
+        "date": "15.02.2026 10:00",
+        "league": "BUL1",
+        "matchCode": "4379715",
+        "home": "Lokomotiv Plov",
+        "away": "Cherno More",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "84.62",
+        "odds": "1.10",
+        "matchCount": "13",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4379715",
+        "status": "Pending"
+    },
+    {
+        "date": "15.02.2026 10:00",
+        "league": "ITAC",
+        "matchCode": "4343046",
+        "home": "Inter Milan",
+        "away": "Roma U20",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "81.58",
+        "odds": "1.11",
+        "matchCount": "38",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4343046",
         "status": "Pending"
     }
 ]
