@@ -6232,6 +6232,21 @@
         "away": "Cruz Azul",
         "firstHalf": "1 - 0",
         "finalScore": "2 - 1",
+        "prediction": "Double Chance 12",
+        "ihtimal": "82.5",
+        "odds": "1.11",
+        "matchCount": "40",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4418224",
+        "status": "Won"
+    },
+    {
+        "date": "11.01.2026 01:00",
+        "league": "MEX",
+        "matchCode": "4418224",
+        "home": "Club Leon",
+        "away": "Cruz Azul",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 1",
         "prediction": "Over 1.5 Goals",
         "ihtimal": "72.5",
         "odds": "1.08",
@@ -31245,6 +31260,21 @@
         "status": "Won"
     },
     {
+        "date": "01.02.2026 23:00",
+        "league": "MEX",
+        "matchCode": "4418254",
+        "home": "Queretaro",
+        "away": "Pachuca",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "82.61",
+        "odds": "1.11",
+        "matchCount": "46",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4418254",
+        "status": "Won"
+    },
+    {
         "date": "01.02.2026 23:15",
         "league": "PAR",
         "matchCode": "4430363",
@@ -47570,13 +47600,28 @@
         "matchCode": "4418272",
         "home": "Santos Laguna",
         "away": "Mazatlan",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 1",
+        "finalScore": "1 - 2",
+        "prediction": "Double Chance 12",
+        "ihtimal": "76.27",
+        "odds": "1.11",
+        "matchCount": "59",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4418272",
+        "status": "Won"
+    },
+    {
+        "date": "15.02.2026 23:00",
+        "league": "MEX",
+        "matchCode": "4418272",
+        "home": "Santos Laguna",
+        "away": "Mazatlan",
+        "firstHalf": "1 - 1",
+        "finalScore": "1 - 2",
         "prediction": "Over 1.5 Goals",
         "ihtimal": "72.88",
         "odds": "1.06",
         "matchCount": "59",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4418272",
-        "status": "Pending"
+        "status": "Won"
     }
 ]
