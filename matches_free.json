@@ -23145,6 +23145,21 @@
         "status": "Won"
     },
     {
+        "date": "27.01.2026 10:30",
+        "league": "IRN2",
+        "matchCode": "4414145",
+        "home": "Naft Gachsaran",
+        "away": "Fard Alborz",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 1",
+        "prediction": "Over 0.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.06",
+        "matchCount": "1",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4414145",
+        "status": "Won"
+    },
+    {
         "date": "27.01.2026 12:00",
         "league": "IRQ",
         "matchCode": "4433763",
@@ -39270,6 +39285,21 @@
         "status": "Won"
     },
     {
+        "date": "10.02.2026 10:00",
+        "league": " AŞMP",
+        "matchCode": "4439942",
+        "home": "Vissel Kobe",
+        "away": "Fc Seoul",
+        "firstHalf": "0 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "76.56",
+        "odds": "1.06",
+        "matchCount": "64",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4439942",
+        "status": "Won"
+    },
+    {
         "date": "10.02.2026 12:00",
         "league": " BOSK",
         "matchCode": "4423912",
@@ -39552,6 +39582,21 @@
         "odds": "1.10",
         "matchCount": "69",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340746",
+        "status": "Won"
+    },
+    {
+        "date": "10.02.2026 18:15",
+        "league": " AŞMP",
+        "matchCode": "4439958",
+        "home": "Al Ittihad",
+        "away": "Gharrafa",
+        "firstHalf": "2 - 0",
+        "finalScore": "7 - 0",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "100.0",
+        "odds": "1.06",
+        "matchCount": "3",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4439958",
         "status": "Won"
     },
     {
@@ -48140,14 +48185,29 @@
         "matchCode": "4439948",
         "home": "Machida Zelvia",
         "away": "Chengdu Ron.",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "2 - 1",
+        "finalScore": "3 - 2",
+        "prediction": "Double Chance 12",
+        "ihtimal": "94.0",
+        "odds": "1.06",
+        "matchCount": "50",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4439948",
+        "status": "Won"
+    },
+    {
+        "date": "17.02.2026 10:00",
+        "league": " AŞMP",
+        "matchCode": "4439948",
+        "home": "Machida Zelvia",
+        "away": "Chengdu Ron.",
+        "firstHalf": "2 - 1",
+        "finalScore": "3 - 2",
         "prediction": "Over 1.5 Goals",
         "ihtimal": "84.0",
         "odds": "1.06",
         "matchCount": "50",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4439948",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "17.02.2026 10:00",
@@ -48155,14 +48215,14 @@
         "matchCode": "4439947",
         "home": "Fc Seoul",
         "away": "Hiroshima",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "2 - 0",
+        "finalScore": "2 - 2",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "79.07",
         "odds": "1.12",
         "matchCount": "129",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4439947",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "17.02.2026 12:15",
@@ -48237,6 +48297,21 @@
         "odds": "1.20",
         "matchCount": "15",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4442088",
+        "status": "Pending"
+    },
+    {
+        "date": "17.02.2026 13:00",
+        "league": "CZE2",
+        "matchCode": "4442077",
+        "home": "Mo Constantine",
+        "away": "Js Djijel",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "71.43",
+        "odds": "1.16",
+        "matchCount": "112",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4442077",
         "status": "Pending"
     }
 ]
