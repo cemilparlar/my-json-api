@@ -49085,14 +49085,14 @@
         "matchCode": "4290692",
         "home": "Piast Gliwice",
         "away": "Motor Lublin",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "1 - 2",
         "prediction": "Over 1.5 Goals",
         "ihtimal": "75.4",
         "odds": "1.13",
         "matchCount": "126",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4290692",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "20.02.2026 17:30",
@@ -49572,6 +49572,51 @@
         "odds": "1.32",
         "matchCount": "14",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4303552",
+        "status": "Pending"
+    },
+    {
+        "date": "20.02.2026 19:30",
+        "league": "WALFA",
+        "matchCode": "4315587",
+        "home": "Newport City",
+        "away": "Llantwit Major",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "70.95",
+        "odds": "1.13",
+        "matchCount": "210",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4315587",
+        "status": "Pending"
+    },
+    {
+        "date": "20.02.2026 19:30",
+        "league": "WALFA",
+        "matchCode": "4315433",
+        "home": "Afan Lido",
+        "away": "Trethomas Blueb",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "72.0",
+        "odds": "1.06",
+        "matchCount": "25",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4315433",
+        "status": "Pending"
+    },
+    {
+        "date": "20.02.2026 19:30",
+        "league": "EGY",
+        "matchCode": "4338311",
+        "home": "Ismaily",
+        "away": "Wadi Degla",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance X2",
+        "ihtimal": "100.0",
+        "odds": "1.06",
+        "matchCount": "1",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338311",
         "status": "Pending"
     }
 ]
