@@ -11086,6 +11086,21 @@
     },
     {
         "date": "17.01.2026 15:00",
+        "league": "BEL",
+        "matchCode": "4299768",
+        "home": "Zulte Waregem",
+        "away": "Genk",
+        "firstHalf": "0 - 0",
+        "finalScore": "2 - 1",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "100.0",
+        "odds": "1.12",
+        "matchCount": "8",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4299768",
+        "status": "Won"
+    },
+    {
+        "date": "17.01.2026 15:00",
         "league": "ENGNL",
         "matchCode": "4337213",
         "home": "Stockton Town",
@@ -29547,6 +29562,21 @@
         "odds": "1.08",
         "matchCount": "25",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4297374",
+        "status": "Won"
+    },
+    {
+        "date": "01.02.2026 15:00",
+        "league": "BEL",
+        "matchCode": "4299788",
+        "home": "Dender",
+        "away": "Genk",
+        "firstHalf": "0 - 2",
+        "finalScore": "1 - 2",
+        "prediction": "Handicap (2:0) 1",
+        "ihtimal": "100.0",
+        "odds": "1.12",
+        "matchCount": "1",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4299788",
         "status": "Won"
     },
     {
@@ -50925,6 +50955,21 @@
         "status": "Pending"
     },
     {
+        "date": "21.02.2026 15:00",
+        "league": "BEL",
+        "matchCode": "4299812",
+        "home": "Dender",
+        "away": "St. Truidense",
+        "firstHalf": "1 - 2",
+        "finalScore": "1 - 4",
+        "prediction": "Handicap (0:1) 2",
+        "ihtimal": "80.0",
+        "odds": "1.12",
+        "matchCount": "10",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4299812",
+        "status": "Won"
+    },
+    {
         "date": "21.02.2026 15:30",
         "league": " FINYK",
         "matchCode": "4425500",
@@ -51177,6 +51222,21 @@
         "odds": "1.07",
         "matchCount": "61",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4300192",
+        "status": "Pending"
+    },
+    {
+        "date": "21.02.2026 17:00",
+        "league": "ITA1",
+        "matchCode": "4291682",
+        "home": "Lecce",
+        "away": "Inter",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "100.0",
+        "odds": "1.21",
+        "matchCount": "2",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4291682",
         "status": "Pending"
     }
 ]
