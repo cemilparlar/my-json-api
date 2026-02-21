@@ -30811,6 +30811,21 @@
     },
     {
         "date": "02.02.2026 14:35",
+        "league": "OMA",
+        "matchCode": "4414931",
+        "home": "Al Nahda",
+        "away": "Bahla Club",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 1",
+        "prediction": "Double Chance 12",
+        "ihtimal": "93.48",
+        "odds": "1.13",
+        "matchCount": "46",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4414931",
+        "status": "Won"
+    },
+    {
+        "date": "02.02.2026 14:35",
         "league": " BAECK",
         "matchCode": "4415951",
         "home": "Banniyas",
@@ -31272,6 +31287,21 @@
         "odds": "1.31",
         "matchCount": "21",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4433843",
+        "status": "Won"
+    },
+    {
+        "date": "03.02.2026 13:15",
+        "league": "OMA",
+        "matchCode": "4414933",
+        "home": "Smail",
+        "away": "Al Nasr",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 1",
+        "prediction": "Double Chance X2",
+        "ihtimal": "81.25",
+        "odds": "1.13",
+        "matchCount": "16",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4414933",
         "status": "Won"
     },
     {
@@ -51330,6 +51360,21 @@
         "status": "Won"
     },
     {
+        "date": "21.02.2026 18:00",
+        "league": "OMA",
+        "matchCode": "4445327",
+        "home": "Al Nahda",
+        "away": "Ibri",
+        "firstHalf": "0 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "Match Result 1",
+        "ihtimal": "100.0",
+        "odds": "1.13",
+        "matchCount": "8",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4445327",
+        "status": "Won"
+    },
+    {
         "date": "21.02.2026 18:30",
         "league": "POL1",
         "matchCode": "4316529",
@@ -51627,6 +51672,36 @@
         "odds": "1.22",
         "matchCount": "24",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4305849",
+        "status": "Pending"
+    },
+    {
+        "date": "21.02.2026 21:00",
+        "league": "CHI",
+        "matchCode": "4435823",
+        "home": "O Higgins",
+        "away": "Colo Colo",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "78.95",
+        "odds": "1.14",
+        "matchCount": "38",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4435823",
+        "status": "Pending"
+    },
+    {
+        "date": "21.02.2026 21:00",
+        "league": " PER",
+        "matchCode": "4437146",
+        "home": "Sporting Crist",
+        "away": "Universitario",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "90.0",
+        "odds": "1.06",
+        "matchCount": "50",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4437146",
         "status": "Pending"
     }
 ]
