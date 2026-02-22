@@ -52430,14 +52430,14 @@
         "matchCode": "4378476",
         "home": "Newcastle Jet",
         "away": "Macarthur",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
         "prediction": "Handicap (1:0) 1",
         "ihtimal": "100.0",
         "odds": "1.12",
         "matchCount": "1",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4378476",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "22.02.2026 10:00",
@@ -52482,6 +52482,36 @@
         "odds": "1.06",
         "matchCount": "52",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4308519",
+        "status": "Pending"
+    },
+    {
+        "date": "22.02.2026 11:00",
+        "league": "ESP4",
+        "matchCode": "4363024",
+        "home": "Socuellamos",
+        "away": "Elche Ii",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "88.14",
+        "odds": "1.09",
+        "matchCount": "59",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4363024",
+        "status": "Pending"
+    },
+    {
+        "date": "22.02.2026 11:00",
+        "league": "ESP4",
+        "matchCode": "4362407",
+        "home": "Andratx",
+        "away": "Porreres",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "72.57",
+        "odds": "1.17",
+        "matchCount": "175",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4362407",
         "status": "Pending"
     }
 ]
