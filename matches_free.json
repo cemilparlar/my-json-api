@@ -53505,6 +53505,21 @@
         "status": "Won"
     },
     {
+        "date": "22.02.2026 16:45",
+        "league": "CRO",
+        "matchCode": "4296578",
+        "home": "Hajduk Split",
+        "away": "Rijeka",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "73.02",
+        "odds": "1.08",
+        "matchCount": "63",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4296578",
+        "status": "Won"
+    },
+    {
         "date": "22.02.2026 17:00",
         "league": "ESP4",
         "matchCode": "4362718",
@@ -53712,6 +53727,51 @@
         "odds": "1.13",
         "matchCount": "11",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4314874",
+        "status": "Pending"
+    },
+    {
+        "date": "22.02.2026 19:30",
+        "league": "ESP3",
+        "matchCode": "4357204",
+        "home": "Teruel",
+        "away": "Ud Ibiza",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "85.71",
+        "odds": "1.09",
+        "matchCount": "35",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4357204",
+        "status": "Pending"
+    },
+    {
+        "date": "22.02.2026 19:30",
+        "league": "ITA3",
+        "matchCode": "4340001",
+        "home": "Lecco",
+        "away": "Albinoleffe",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "73.28",
+        "odds": "1.09",
+        "matchCount": "116",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340001",
+        "status": "Pending"
+    },
+    {
+        "date": "22.02.2026 19:45",
+        "league": "FRA1",
+        "matchCode": "4303233",
+        "home": "Strasbourg",
+        "away": "Lyon",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "80.0",
+        "odds": "1.07",
+        "matchCount": "25",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4303233",
         "status": "Pending"
     }
 ]
