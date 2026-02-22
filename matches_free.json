@@ -2370,6 +2370,21 @@
         "status": "Won"
     },
     {
+        "date": "04.01.2026 16:15",
+        "league": "FRA1",
+        "matchCode": "4303185",
+        "home": "Brest",
+        "away": "Auxerre",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "85.71",
+        "odds": "1.15",
+        "matchCount": "7",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4303185",
+        "status": "Won"
+    },
+    {
         "date": "04.01.2026 16:30",
         "league": "ITA3",
         "matchCode": "4340682",
@@ -19557,6 +19572,21 @@
         "odds": "1.27",
         "matchCount": "1",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4305803",
+        "status": "Won"
+    },
+    {
+        "date": "24.01.2026 20:05",
+        "league": "FRA1",
+        "matchCode": "4303205",
+        "home": "Marseille",
+        "away": "Lens",
+        "firstHalf": "2 - 0",
+        "finalScore": "3 - 1",
+        "prediction": "Handicap (1:0) 1",
+        "ihtimal": "100.0",
+        "odds": "1.15",
+        "matchCount": "3",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4303205",
         "status": "Won"
     },
     {
@@ -53310,6 +53340,21 @@
         "status": "Won"
     },
     {
+        "date": "22.02.2026 16:15",
+        "league": "FRA1",
+        "matchCode": "4303240",
+        "home": "Angers",
+        "away": "Lille",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 1",
+        "prediction": "Handicap (2:0) 1",
+        "ihtimal": "87.5",
+        "odds": "1.15",
+        "matchCount": "8",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4303240",
+        "status": "Won"
+    },
+    {
         "date": "22.02.2026 16:30",
         "league": "ITA3",
         "matchCode": "4340770",
@@ -53615,14 +53660,44 @@
         "matchCode": "4303233",
         "home": "Strasbourg",
         "away": "Lyon",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "3 - 1",
+        "prediction": "Double Chance 12",
+        "ihtimal": "84.0",
+        "odds": "1.15",
+        "matchCount": "25",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4303233",
+        "status": "Won"
+    },
+    {
+        "date": "22.02.2026 19:45",
+        "league": "FRA1",
+        "matchCode": "4303233",
+        "home": "Strasbourg",
+        "away": "Lyon",
+        "firstHalf": "1 - 0",
+        "finalScore": "3 - 1",
         "prediction": "Over 1.5 Goals",
         "ihtimal": "80.0",
         "odds": "1.07",
         "matchCount": "25",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4303233",
-        "status": "Pending"
+        "status": "Won"
+    },
+    {
+        "date": "22.02.2026 19:45",
+        "league": "FRA1",
+        "matchCode": "4303233",
+        "home": "Strasbourg",
+        "away": "Lyon",
+        "firstHalf": "1 - 0",
+        "finalScore": "3 - 1",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "76.0",
+        "odds": "1.15",
+        "matchCount": "25",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4303233",
+        "status": "Won"
     },
     {
         "date": "22.02.2026 20:00",
