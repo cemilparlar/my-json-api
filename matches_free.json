@@ -29176,6 +29176,21 @@
     },
     {
         "date": "01.02.2026 13:00",
+        "league": "TUN2",
+        "matchCode": "4436800",
+        "home": "Club Sportif K",
+        "away": "Redeyef",
+        "firstHalf": "0 - 0",
+        "finalScore": "3 - 0",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "80.0",
+        "odds": "1.36",
+        "matchCount": "5",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4436800",
+        "status": "Won"
+    },
+    {
+        "date": "01.02.2026 13:00",
         "league": "SWE",
         "matchCode": "4299974",
         "home": "Luzern",
@@ -29517,6 +29532,21 @@
         "odds": "1.06",
         "matchCount": "2",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4295632",
+        "status": "Won"
+    },
+    {
+        "date": "01.02.2026 14:00",
+        "league": "MAR2",
+        "matchCode": "4434970",
+        "home": "Stade Marocain",
+        "away": "Chabab",
+        "firstHalf": "0 - 0",
+        "finalScore": "3 - 0",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "85.71",
+        "odds": "1.36",
+        "matchCount": "7",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4434970",
         "status": "Won"
     },
     {
@@ -37857,6 +37887,21 @@
         "odds": "1.23",
         "matchCount": "39",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4312493",
+        "status": "Won"
+    },
+    {
+        "date": "08.02.2026 19:00",
+        "league": "CAF CONF",
+        "matchCode": "4410706",
+        "home": "Ol. Safi",
+        "away": "Djoliba",
+        "firstHalf": "1 - 1",
+        "finalScore": "2 - 1",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.36",
+        "matchCount": "1",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4410706",
         "status": "Won"
     },
     {
@@ -52070,13 +52115,28 @@
         "matchCode": "4432749",
         "home": "Banfield",
         "away": "Newells Old Boy",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "3 - 0",
         "prediction": "Handicap (1:0) 1",
         "ihtimal": "80.0",
         "odds": "1.15",
         "matchCount": "10",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432749",
-        "status": "Pending"
+        "status": "Won"
+    },
+    {
+        "date": "21.02.2026 22:15",
+        "league": "ARG",
+        "matchCode": "4432749",
+        "home": "Banfield",
+        "away": "Newells Old Boy",
+        "firstHalf": "0 - 0",
+        "finalScore": "3 - 0",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "70.0",
+        "odds": "1.36",
+        "matchCount": "10",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432749",
+        "status": "Won"
     }
 ]
