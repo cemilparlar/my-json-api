@@ -1155,6 +1155,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "31.12.2025 12:30",
         "league": "WALFA",
         "matchCode": "4315784",
@@ -1170,6 +1171,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "31.12.2025 14:30",
         "league": "WAL",
         "matchCode": "4315400",
@@ -1230,6 +1233,24 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
+=======
+        "date": "31.12.2025 18:00",
+        "league": "EGY LC",
+        "matchCode": "4409634",
+        "home": "Zed",
+        "away": "Haras El Hodood",
+        "firstHalf": "2 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "Both Teams to Score - No",
+        "ihtimal": "100.0",
+        "odds": "1.27",
+        "matchCount": "2",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4409634",
+        "status": "Won"
+    },
+    {
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "04.01.2026 08:30",
         "league": "IDN1",
         "matchCode": "4337967",
@@ -1861,6 +1882,7 @@
     },
     {
         "date": "04.01.2026 15:00",
+<<<<<<< HEAD
         "league": "ENG1",
         "matchCode": "4295591",
         "home": "Fulham",
@@ -1876,6 +1898,8 @@
     },
     {
         "date": "04.01.2026 15:00",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "ENG2",
         "matchCode": "4303976",
         "home": "Reading",
@@ -2371,6 +2395,7 @@
     },
     {
         "date": "04.01.2026 20:00",
+<<<<<<< HEAD
         "league": "ESP1",
         "matchCode": "4305345",
         "home": "Real Sociedad",
@@ -2386,6 +2411,8 @@
     },
     {
         "date": "04.01.2026 20:00",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "ESP2",
         "matchCode": "4305763",
         "home": "D.La Coruna",
@@ -2632,6 +2659,24 @@
         "away": "Casertana",
         "firstHalf": "0 - 2",
         "finalScore": "0 - 2",
+<<<<<<< HEAD
+=======
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "74.42",
+        "odds": "1.26",
+        "matchCount": "43",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340683",
+        "status": "Won"
+    },
+    {
+        "date": "05.01.2026 19:30",
+        "league": "ITA3",
+        "matchCode": "4340683",
+        "home": "Team Altamura",
+        "away": "Casertana",
+        "firstHalf": "0 - 2",
+        "finalScore": "0 - 2",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Over 0.5",
         "ihtimal": "74.42",
         "odds": "1.33",
@@ -3120,6 +3165,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "07.01.2026 14:00",
         "league": "FR",
         "matchCode": "4416669",
@@ -3135,6 +3181,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "07.01.2026 14:30",
         "league": "QAT",
         "matchCode": "4415635",
@@ -3300,6 +3348,24 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
+=======
+        "date": "07.01.2026 18:30",
+        "league": "MLT",
+        "matchCode": "4410946",
+        "home": "Valletta",
+        "away": "Birkirkara",
+        "firstHalf": "2 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "75.0",
+        "odds": "1.10",
+        "matchCount": "60",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4410946",
+        "status": "Won"
+    },
+    {
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "07.01.2026 19:30",
         "league": "ENG1",
         "matchCode": "4295597",
@@ -3331,6 +3397,7 @@
     },
     {
         "date": "07.01.2026 19:45",
+<<<<<<< HEAD
         "league": "ITA1",
         "matchCode": "4291608",
         "home": "Lazio",
@@ -3346,6 +3413,8 @@
     },
     {
         "date": "07.01.2026 19:45",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "ENGNL",
         "matchCode": "4336124",
         "home": "Havant And W.",
@@ -3510,6 +3579,24 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
+=======
+        "date": "08.01.2026 13:00",
+        "league": "CZE1",
+        "matchCode": "4339723",
+        "home": "El Bayadh",
+        "away": "Mostaganem",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "86.67",
+        "odds": "1.06",
+        "matchCount": "30",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4339723",
+        "status": "Won"
+    },
+    {
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "08.01.2026 14:00",
         "league": "AFC U23",
         "matchCode": "4417614",
@@ -4337,6 +4424,24 @@
     {
         "date": "10.01.2026 13:30",
         "league": "ITA3",
+<<<<<<< HEAD
+=======
+        "matchCode": "4339937",
+        "home": "Albinoleffe",
+        "away": "Pro Vercelli",
+        "firstHalf": "0 - 1",
+        "finalScore": "2 - 1",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "71.64",
+        "odds": "1.26",
+        "matchCount": "67",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4339937",
+        "status": "Won"
+    },
+    {
+        "date": "10.01.2026 13:30",
+        "league": "ITA3",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "matchCode": "4339936",
         "home": "Vicenza",
         "away": "Ospitaletto",
@@ -4591,6 +4696,7 @@
     },
     {
         "date": "10.01.2026 14:30",
+<<<<<<< HEAD
         "league": "FRA CUP",
         "matchCode": "4415092",
         "home": "Montreuil",
@@ -4606,6 +4712,8 @@
     },
     {
         "date": "10.01.2026 14:30",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "IRQ",
         "matchCode": "4419859",
         "home": "Al Talaba",
@@ -5386,6 +5494,7 @@
     },
     {
         "date": "10.01.2026 17:30",
+<<<<<<< HEAD
         "league": "GRE",
         "matchCode": "4312467",
         "home": "Panetolikos",
@@ -5401,6 +5510,8 @@
     },
     {
         "date": "10.01.2026 17:30",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "ESP2",
         "matchCode": "4305779",
         "home": "Las Palmas",
@@ -6736,6 +6847,7 @@
     },
     {
         "date": "13.01.2026 20:00",
+<<<<<<< HEAD
         "league": "ITA CUP",
         "matchCode": "4389165",
         "home": "Roma",
@@ -6751,6 +6863,8 @@
     },
     {
         "date": "13.01.2026 20:00",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "NED CUP",
         "matchCode": "4415112",
         "home": "Utrecht",
@@ -6930,6 +7044,24 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
+=======
+        "date": "14.01.2026 18:00",
+        "league": "FRA CUP",
+        "matchCode": "4363314",
+        "home": "Le Havre Women",
+        "away": "Fleury 91 Women",
+        "firstHalf": "0 - 1",
+        "finalScore": "1 - 1",
+        "prediction": "Double Chance X2",
+        "ihtimal": "84.0",
+        "odds": "1.11",
+        "matchCount": "25",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4363314",
+        "status": "Won"
+    },
+    {
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "14.01.2026 16:00",
         "league": "BHR",
         "matchCode": "4415559",
@@ -7051,6 +7183,7 @@
     },
     {
         "date": "14.01.2026 19:30",
+<<<<<<< HEAD
         "league": "SWE",
         "matchCode": "4299949",
         "home": "Servette",
@@ -7062,6 +7195,19 @@
         "odds": "1.15",
         "matchCount": "6",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4299949",
+=======
+        "league": "GER1",
+        "matchCode": "4306402",
+        "home": "Rb Leipzig",
+        "away": "Freiburg",
+        "firstHalf": "0 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "83.33",
+        "odds": "1.10",
+        "matchCount": "6",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4306402",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "status": "Won"
     },
     {
@@ -7097,6 +7243,7 @@
     {
         "date": "14.01.2026 19:45",
         "league": "ENG CUP",
+<<<<<<< HEAD
         "matchCode": "4298356",
         "home": "Falkirk",
         "away": "Celtic",
@@ -7112,6 +7259,8 @@
     {
         "date": "14.01.2026 19:45",
         "league": "ENG CUP",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "matchCode": "4298352",
         "home": "Hearts",
         "away": "St Mirren",
@@ -7207,6 +7356,7 @@
         "away": "Ajax",
         "firstHalf": "3 - 0",
         "finalScore": "6 - 0",
+<<<<<<< HEAD
         "prediction": "Double Chance 1X",
         "ihtimal": "85.19",
         "odds": "1.12",
@@ -7222,6 +7372,8 @@
         "away": "Ajax",
         "firstHalf": "3 - 0",
         "finalScore": "6 - 0",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Double Chance 12",
         "ihtimal": "77.78",
         "odds": "1.11",
@@ -7275,6 +7427,24 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
+=======
+        "date": "14.01.2026 22:00",
+        "league": "FR",
+        "matchCode": "4427509",
+        "home": "Boca Juniors",
+        "away": "Los Millionario",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "80.43",
+        "odds": "1.06",
+        "matchCount": "46",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4427509",
+        "status": "Won"
+    },
+    {
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "14.01.2026 23:00",
         "league": "MEX",
         "matchCode": "4418232",
@@ -7367,6 +7537,24 @@
     {
         "date": "15.01.2026 12:30",
         "league": "EGY2",
+<<<<<<< HEAD
+=======
+        "matchCode": "4351980",
+        "home": "Al Qanah",
+        "away": "La Viena Fc",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "100.0",
+        "odds": "1.06",
+        "matchCount": "2",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4351980",
+        "status": "Won"
+    },
+    {
+        "date": "15.01.2026 12:30",
+        "league": "EGY2",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "matchCode": "4351978",
         "home": "Maleyet Kafr E",
         "away": "Derot",
@@ -7396,6 +7584,24 @@
     },
     {
         "date": "15.01.2026 13:00",
+<<<<<<< HEAD
+=======
+        "league": "TUN",
+        "matchCode": "4430504",
+        "home": "As Slimane",
+        "away": "Kairouan",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "83.93",
+        "odds": "1.06",
+        "matchCount": "56",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4430504",
+        "status": "Won"
+    },
+    {
+        "date": "15.01.2026 13:00",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "FR",
         "matchCode": "4416799",
         "home": "Midtjylland",
@@ -7486,6 +7692,7 @@
     },
     {
         "date": "15.01.2026 15:00",
+<<<<<<< HEAD
         "league": "FR",
         "matchCode": "4416792",
         "home": "Puskas Academy",
@@ -7497,6 +7704,34 @@
         "odds": "1.15",
         "matchCount": "16",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4416792",
+=======
+        "league": "CZE CUP",
+        "matchCode": "4414495",
+        "home": "Mostaganem",
+        "away": "Js Saoura",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 2",
+        "prediction": "Double Chance X2",
+        "ihtimal": "86.67",
+        "odds": "1.14",
+        "matchCount": "15",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4414495",
+        "status": "Won"
+    },
+    {
+        "date": "15.01.2026 15:00",
+        "league": "TUR CUP",
+        "matchCode": "4412363",
+        "home": "Bodrum Fk",
+        "away": "Konyaspor",
+        "firstHalf": "0 - 1",
+        "finalScore": "1 - 2",
+        "prediction": "Double Chance X2",
+        "ihtimal": "100.0",
+        "odds": "1.14",
+        "matchCount": "3",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4412363",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "status": "Won"
     },
     {
@@ -7725,6 +7960,39 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
+=======
+        "date": "15.01.2026 19:30",
+        "league": "BEL CUP",
+        "matchCode": "4420377",
+        "home": "Anderlecht",
+        "away": "Gent",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "100.0",
+        "odds": "1.06",
+        "matchCount": "6",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4420377",
+        "status": "Won"
+    },
+    {
+        "date": "15.01.2026 19:30",
+        "league": "BEL CUP",
+        "matchCode": "4420377",
+        "home": "Anderlecht",
+        "away": "Gent",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "83.33",
+        "odds": "1.25",
+        "matchCount": "6",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4420377",
+        "status": "Won"
+    },
+    {
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "15.01.2026 19:45",
         "league": "ITA1",
         "matchCode": "4291577",
@@ -8597,6 +8865,24 @@
     {
         "date": "16.01.2026 19:30",
         "league": "ITA3",
+<<<<<<< HEAD
+=======
+        "matchCode": "4340321",
+        "home": "Vis Pasaro",
+        "away": "Arezzo",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 3",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "72.22",
+        "odds": "1.26",
+        "matchCount": "36",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340321",
+        "status": "Won"
+    },
+    {
+        "date": "16.01.2026 19:30",
+        "league": "ITA3",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "matchCode": "4340710",
         "home": "Cavese",
         "away": "Team Altamura",
@@ -8632,6 +8918,7 @@
         "away": "Valletta",
         "firstHalf": "0 - 1",
         "finalScore": "0 - 5",
+<<<<<<< HEAD
         "prediction": "Match Result 2",
         "ihtimal": "70.0",
         "odds": "1.46",
@@ -8647,6 +8934,8 @@
         "away": "Valletta",
         "firstHalf": "0 - 1",
         "finalScore": "0 - 5",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Double Chance 12",
         "ihtimal": "75.0",
         "odds": "1.11",
@@ -9577,6 +9866,24 @@
         "away": "Lecco",
         "firstHalf": "0 - 3",
         "finalScore": "1 - 4",
+<<<<<<< HEAD
+=======
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "70.0",
+        "odds": "1.26",
+        "matchCount": "20",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4339945",
+        "status": "Won"
+    },
+    {
+        "date": "17.01.2026 13:30",
+        "league": "ITA3",
+        "matchCode": "4339945",
+        "home": "Dolomiti Bellu",
+        "away": "Lecco",
+        "firstHalf": "0 - 3",
+        "finalScore": "1 - 4",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Over 0.5",
         "ihtimal": "75.0",
         "odds": "1.33",
@@ -10147,6 +10454,7 @@
         "away": "Elgin",
         "firstHalf": "1 - 1",
         "finalScore": "1 - 3",
+<<<<<<< HEAD
         "prediction": "Match Result 2",
         "ihtimal": "76.92",
         "odds": "1.46",
@@ -10162,6 +10470,8 @@
         "away": "Elgin",
         "firstHalf": "1 - 1",
         "finalScore": "1 - 3",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Double Chance X2",
         "ihtimal": "84.62",
         "odds": "1.06",
@@ -14730,6 +15040,24 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
+=======
+        "date": "19.01.2026 17:30",
+        "league": "WAL PL",
+        "matchCode": "4338969",
+        "home": "Mamelodi Sundo",
+        "away": "Orbit College",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.10",
+        "matchCount": "1",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338969",
+        "status": "Won"
+    },
+    {
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "19.01.2026 18:00",
         "league": "ROU",
         "matchCode": "4307523",
@@ -15136,6 +15464,7 @@
     },
     {
         "date": "20.01.2026 15:00",
+<<<<<<< HEAD
         "league": "ETH",
         "matchCode": "4403961",
         "home": "Mekelle 70 End",
@@ -15151,6 +15480,8 @@
     },
     {
         "date": "20.01.2026 15:00",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "POR U23",
         "matchCode": "4418516",
         "home": "Estrela U23",
@@ -15706,6 +16037,24 @@
     },
     {
         "date": "22.01.2026 12:30",
+<<<<<<< HEAD
+=======
+        "league": "IRN",
+        "matchCode": "4414102",
+        "home": "Kheybar Khorra",
+        "away": "Shahrdari Arak",
+        "firstHalf": "1 - 1",
+        "finalScore": "2 - 2",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "100.0",
+        "odds": "1.06",
+        "matchCount": "1",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4414102",
+        "status": "Won"
+    },
+    {
+        "date": "22.01.2026 12:30",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "EGY2",
         "matchCode": "4351986",
         "home": "Asyut Petroleu",
@@ -15780,6 +16129,24 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
+=======
+        "date": "22.01.2026 13:00",
+        "league": "TUN",
+        "matchCode": "4430515",
+        "home": "Club Africain",
+        "away": "Etoile Sportive",
+        "firstHalf": "1 - 0",
+        "finalScore": "3 - 0",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "87.5",
+        "odds": "1.06",
+        "matchCount": "8",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4430515",
+        "status": "Won"
+    },
+    {
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "22.01.2026 14:10",
         "league": "KSA1",
         "matchCode": "4415995",
@@ -15862,6 +16229,7 @@
         "away": "Al Ittihad (Cid",
         "firstHalf": "1 - 1",
         "finalScore": "2 - 1",
+<<<<<<< HEAD
         "prediction": "Double Chance 12",
         "ihtimal": "80.0",
         "odds": "1.12",
@@ -15877,6 +16245,8 @@
         "away": "Al Ittihad (Cid",
         "firstHalf": "1 - 1",
         "finalScore": "2 - 1",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Under 4.5 Goals",
         "ihtimal": "80.0",
         "odds": "1.11",
@@ -15902,6 +16272,7 @@
     {
         "date": "22.01.2026 17:45",
         "league": "UEL",
+<<<<<<< HEAD
         "matchCode": "4360410",
         "home": "Freiburg",
         "away": "Maccabi Tel Avi",
@@ -15912,6 +16283,18 @@
         "odds": "1.44",
         "matchCount": "1",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4360410",
+=======
+        "matchCode": "4360404",
+        "home": "Bologna",
+        "away": "Celtic",
+        "firstHalf": "0 - 2",
+        "finalScore": "2 - 2",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "88.89",
+        "odds": "1.06",
+        "matchCount": "9",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4360404",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "status": "Won"
     },
     {
@@ -15997,6 +16380,7 @@
         "away": "Basel",
         "firstHalf": "3 - 0",
         "finalScore": "3 - 1",
+<<<<<<< HEAD
         "prediction": "Handicap (1:0) 1",
         "ihtimal": "100.0",
         "odds": "1.20",
@@ -16012,6 +16396,8 @@
         "away": "Basel",
         "firstHalf": "3 - 0",
         "finalScore": "3 - 1",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Under 4.5 Goals",
         "ihtimal": "100.0",
         "odds": "1.13",
@@ -16066,6 +16452,7 @@
     },
     {
         "date": "22.01.2026 20:00",
+<<<<<<< HEAD
         "league": "ARG",
         "matchCode": "4432660",
         "home": "Aldosivi",
@@ -16081,6 +16468,8 @@
     },
     {
         "date": "22.01.2026 20:00",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "ENG2",
         "matchCode": "4304009",
         "home": "Lincoln",
@@ -16162,6 +16551,24 @@
         "away": "Stuttgart",
         "firstHalf": "1 - 0",
         "finalScore": "2 - 0",
+<<<<<<< HEAD
+=======
+        "prediction": "Double Chance 12",
+        "ihtimal": "100.0",
+        "odds": "1.17",
+        "matchCount": "7",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4360412",
+        "status": "Won"
+    },
+    {
+        "date": "22.01.2026 20:00",
+        "league": "UEL",
+        "matchCode": "4360412",
+        "home": "Roma",
+        "away": "Stuttgart",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 0",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Over 0.5",
         "ihtimal": "85.71",
         "odds": "1.24",
@@ -16650,6 +17057,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "23.01.2026 18:00",
         "league": "POR2",
         "matchCode": "4316805",
@@ -16665,6 +17073,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "23.01.2026 18:30",
         "league": "SWE2",
         "matchCode": "4416254",
@@ -16726,6 +17136,7 @@
     },
     {
         "date": "23.01.2026 19:00",
+<<<<<<< HEAD
         "league": "FRA2",
         "matchCode": "4303516",
         "home": "Pau Fc",
@@ -16741,6 +17152,8 @@
     },
     {
         "date": "23.01.2026 19:00",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "NED2",
         "matchCode": "4296317",
         "home": "De Graafschap",
@@ -16831,6 +17244,7 @@
     },
     {
         "date": "23.01.2026 19:30",
+<<<<<<< HEAD
         "league": "ITA3",
         "matchCode": "4340713",
         "home": "Ssc Giugliano",
@@ -16846,6 +17260,8 @@
     },
     {
         "date": "23.01.2026 19:30",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "WALFA",
         "matchCode": "4315562",
         "home": "Ammanford",
@@ -17821,6 +18237,7 @@
     },
     {
         "date": "24.01.2026 13:00",
+<<<<<<< HEAD
         "league": "GER3",
         "matchCode": "4314833",
         "home": "Essen",
@@ -17836,6 +18253,8 @@
     },
     {
         "date": "24.01.2026 13:00",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "CZE1",
         "matchCode": "4433707",
         "home": "Rouisset",
@@ -19792,6 +20211,7 @@
         "away": "Mekelle 70 Ende",
         "firstHalf": "0 - 0",
         "finalScore": "0 - 0",
+<<<<<<< HEAD
         "prediction": "Double Chance 1X",
         "ihtimal": "75.0",
         "odds": "1.19",
@@ -19807,6 +20227,8 @@
         "away": "Mekelle 70 Ende",
         "firstHalf": "0 - 0",
         "finalScore": "0 - 0",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Both Teams to Score - No",
         "ihtimal": "75.0",
         "odds": "1.40",
@@ -21015,6 +21437,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "25.01.2026 16:45",
         "league": "CRO",
         "matchCode": "4296557",
@@ -21030,6 +21453,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "25.01.2026 17:00",
         "league": "ESP4",
         "matchCode": "4362681",
@@ -23355,6 +23780,24 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
+=======
+        "date": "28.01.2026 13:30",
+        "league": "ITAC",
+        "matchCode": "4427525",
+        "home": "Latina",
+        "away": "Renate",
+        "firstHalf": "1 - 1",
+        "finalScore": "2 - 1",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "100.0",
+        "odds": "1.10",
+        "matchCount": "5",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4427525",
+        "status": "Won"
+    },
+    {
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "28.01.2026 15:00",
         "league": "EGY",
         "matchCode": "4338287",
@@ -23790,6 +24233,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "28.01.2026 23:00",
         "league": "BRA1",
         "matchCode": "4423039",
@@ -23805,6 +24249,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "28.01.2026 23:15",
         "league": "PAR",
         "matchCode": "4430356",
@@ -24242,6 +24688,24 @@
     {
         "date": "29.01.2026 20:00",
         "league": "UEL",
+<<<<<<< HEAD
+=======
+        "matchCode": "4360437",
+        "home": "Lille",
+        "away": "Freiburg",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "Double Chance 12",
+        "ihtimal": "81.25",
+        "odds": "1.17",
+        "matchCount": "16",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4360437",
+        "status": "Won"
+    },
+    {
+        "date": "29.01.2026 20:00",
+        "league": "UEL",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "matchCode": "4360439",
         "home": "Nottingham Forest",
         "away": "Ferencvaros",
@@ -24375,6 +24839,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "30.01.2026 14:00",
         "league": "ENG PL2",
         "matchCode": "4342592",
@@ -24390,6 +24855,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "30.01.2026 16:45",
         "league": "QAT",
         "matchCode": "4415648",
@@ -24541,6 +25008,24 @@
     },
     {
         "date": "30.01.2026 18:30",
+<<<<<<< HEAD
+=======
+        "league": "SWE2",
+        "matchCode": "4416259",
+        "home": "Bellinzona",
+        "away": "Neuchatel Xamax",
+        "firstHalf": "4 - 0",
+        "finalScore": "5 - 0",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.09",
+        "matchCount": "1",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4416259",
+        "status": "Won"
+    },
+    {
+        "date": "30.01.2026 18:30",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "FRA3",
         "matchCode": "4338511",
         "home": "Fc Fleury 91",
@@ -24841,6 +25326,24 @@
     },
     {
         "date": "30.01.2026 19:30",
+<<<<<<< HEAD
+=======
+        "league": "ITA3",
+        "matchCode": "4340343",
+        "home": "Ascoli Picchio",
+        "away": "Livorno",
+        "firstHalf": "3 - 1",
+        "finalScore": "3 - 1",
+        "prediction": "Double Chance 12",
+        "ihtimal": "80.65",
+        "odds": "1.14",
+        "matchCount": "31",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340343",
+        "status": "Won"
+    },
+    {
+        "date": "30.01.2026 19:30",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "GER1",
         "matchCode": "4306434",
         "home": "FC Koln",
@@ -24900,6 +25403,24 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
+=======
+        "date": "30.01.2026 19:30",
+        "league": "ITA3",
+        "matchCode": "4340346",
+        "home": "Perugia",
+        "away": "Ravenna",
+        "firstHalf": "1 - 1",
+        "finalScore": "1 - 1",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "75.0",
+        "odds": "1.26",
+        "matchCount": "68",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340346",
+        "status": "Won"
+    },
+    {
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "30.01.2026 19:45",
         "league": "WALFA",
         "matchCode": "4315809",
@@ -25366,6 +25887,7 @@
     },
     {
         "date": "31.01.2026 13:00",
+<<<<<<< HEAD
         "league": "GER3",
         "matchCode": "4314836",
         "home": "Viktoria Koln",
@@ -25381,6 +25903,8 @@
     },
     {
         "date": "31.01.2026 13:00",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "CAF CL",
         "matchCode": "4410668",
         "home": "Young Africans",
@@ -25441,6 +25965,7 @@
     },
     {
         "date": "31.01.2026 13:00",
+<<<<<<< HEAD
         "league": "GER3",
         "matchCode": "4314838",
         "home": "E.Cottbus",
@@ -25456,6 +25981,8 @@
     },
     {
         "date": "31.01.2026 13:00",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "GER REG",
         "matchCode": "4320485",
         "home": "Fortuna Ii",
@@ -26812,6 +27339,7 @@
         "away": "Regensburg",
         "firstHalf": "0 - 1",
         "finalScore": "0 - 1",
+<<<<<<< HEAD
         "prediction": "Handicap (2:0) 1",
         "ihtimal": "85.71428571428571",
         "odds": "1.11",
@@ -26827,6 +27355,8 @@
         "away": "Regensburg",
         "firstHalf": "0 - 1",
         "finalScore": "0 - 1",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Double Chance X2",
         "ihtimal": "100.0",
         "odds": "1.12",
@@ -27255,6 +27785,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "31.01.2026 17:00",
         "league": "CZE",
         "matchCode": "4297372",
@@ -27270,6 +27801,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "31.01.2026 17:30",
         "league": "ESP4",
         "matchCode": "4362079",
@@ -28951,6 +29484,7 @@
     },
     {
         "date": "01.02.2026 14:00",
+<<<<<<< HEAD
         "league": "GRE",
         "matchCode": "4312485",
         "home": "Apo Levadeiako",
@@ -28966,6 +29500,8 @@
     },
     {
         "date": "01.02.2026 14:00",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "HUN2",
         "matchCode": "4321730",
         "home": "Csakvari Tk",
@@ -29731,6 +30267,7 @@
     },
     {
         "date": "01.02.2026 17:00",
+<<<<<<< HEAD
         "league": "ESP4",
         "matchCode": "4362381",
         "home": "Terrassa",
@@ -29746,6 +30283,8 @@
     },
     {
         "date": "01.02.2026 17:00",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "GUA",
         "matchCode": "4425786",
         "home": "Aurora",
@@ -30975,6 +31514,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "03.02.2026 17:30",
         "league": "WAL PL",
         "matchCode": "4338909",
@@ -30990,6 +31530,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "03.02.2026 18:00",
         "league": "MLT",
         "matchCode": "4433885",
@@ -31087,6 +31629,7 @@
         "away": "Le Mans",
         "firstHalf": "1 - 0",
         "finalScore": "3 - 0",
+<<<<<<< HEAD
         "prediction": "Handicap (1:0) 1",
         "ihtimal": "80.0",
         "odds": "1.11",
@@ -31102,6 +31645,8 @@
         "away": "Le Mans",
         "firstHalf": "1 - 0",
         "finalScore": "3 - 0",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Over 1.5 Goals",
         "ihtimal": "100.0",
         "odds": "1.23",
@@ -31110,6 +31655,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "03.02.2026 19:30",
         "league": "FRA CUP",
         "matchCode": "4431930",
@@ -31125,6 +31671,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "03.02.2026 19:45",
         "league": "ITA1",
         "matchCode": "4291646",
@@ -31755,6 +32303,24 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
+=======
+        "date": "04.02.2026 18:30",
+        "league": "MLT",
+        "matchCode": "4433887",
+        "home": "Valletta",
+        "away": "Floriana",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "94.44",
+        "odds": "1.11",
+        "matchCount": "18",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4433887",
+        "status": "Won"
+    },
+    {
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "04.02.2026 19:30",
         "league": "BEL CUP",
         "matchCode": "4433744",
@@ -31861,6 +32427,7 @@
     },
     {
         "date": "04.02.2026 20:00",
+<<<<<<< HEAD
         "league": "NED CUP",
         "matchCode": "4435673",
         "home": "PSV Eindhoven",
@@ -31891,6 +32458,8 @@
     },
     {
         "date": "04.02.2026 20:00",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "ENG LC",
         "matchCode": "4415117",
         "home": "Manchester Cit",
@@ -31942,6 +32511,7 @@
         "away": "Atletico Mg",
         "firstHalf": "1 - 0",
         "finalScore": "1 - 0",
+<<<<<<< HEAD
         "prediction": "Double Chance 1X",
         "ihtimal": "75.0",
         "odds": "1.15",
@@ -31957,6 +32527,8 @@
         "away": "Atletico Mg",
         "firstHalf": "1 - 0",
         "finalScore": "1 - 0",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Handicap (0:2) 2",
         "ihtimal": "87.5",
         "odds": "1.06",
@@ -32017,6 +32589,7 @@
         "away": "Moroccoil Kenema",
         "firstHalf": "0 - 0",
         "finalScore": "0 - 0",
+<<<<<<< HEAD
         "prediction": "Handicap (1:0) 1",
         "ihtimal": "100.0",
         "odds": "1.20",
@@ -32032,6 +32605,8 @@
         "away": "Moroccoil Kenema",
         "firstHalf": "0 - 0",
         "finalScore": "0 - 0",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Double Chance X2",
         "ihtimal": "100.0",
         "odds": "1.08",
@@ -33825,6 +34400,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "06.02.2026 20:15",
         "league": "ESP3",
         "matchCode": "4357181",
@@ -33840,6 +34416,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "06.02.2026 21:00",
         "league": " ŞİLİK",
         "matchCode": "4437500",
@@ -34666,6 +35244,7 @@
     },
     {
         "date": "07.02.2026 14:00",
+<<<<<<< HEAD
         "league": "ITA CUP",
         "matchCode": "4331672",
         "home": "Como Women",
@@ -34681,6 +35260,8 @@
     },
     {
         "date": "07.02.2026 14:00",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "KSA",
         "matchCode": "4354323",
         "home": "Al Kholood",
@@ -35985,6 +36566,24 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
+=======
+        "date": "08.02.2026 05:00",
+        "league": " JAP2-3",
+        "matchCode": "4439737",
+        "home": "Fc Imabari",
+        "away": "Zweigen Kanazaw",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "70.97",
+        "odds": "1.24",
+        "matchCount": "62",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4439737",
+        "status": "Won"
+    },
+    {
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "08.02.2026 06:00",
         "league": "AUSW",
         "matchCode": "4378603",
@@ -37800,6 +38399,24 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
+=======
+        "date": "09.02.2026 18:30",
+        "league": "POL1",
+        "matchCode": "4316513",
+        "home": "Chrobry Glogow",
+        "away": "Rzeszow",
+        "firstHalf": "1 - 1",
+        "finalScore": "1 - 1",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "72.58",
+        "odds": "1.09",
+        "matchCount": "62",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4316513",
+        "status": "Won"
+    },
+    {
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "09.02.2026 18:45",
         "league": "POR1",
         "matchCode": "4309410",
@@ -38287,6 +38904,24 @@
         "away": "Benevento",
         "firstHalf": "0 - 2",
         "finalScore": "0 - 5",
+<<<<<<< HEAD
+=======
+        "prediction": "Double Chance 12",
+        "ihtimal": "86.67",
+        "odds": "1.14",
+        "matchCount": "45",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340743",
+        "status": "Won"
+    },
+    {
+        "date": "10.02.2026 17:00",
+        "league": "ITA3",
+        "matchCode": "4340743",
+        "home": "Trapani 1905",
+        "away": "Benevento",
+        "firstHalf": "0 - 2",
+        "finalScore": "0 - 5",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Double Chance X2",
         "ihtimal": "95.56",
         "odds": "1.06",
@@ -38370,6 +39005,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "10.02.2026 19:00",
         "league": "ITA2",
         "matchCode": "4331457",
@@ -38400,6 +39036,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "10.02.2026 19:30",
         "league": "ITA3",
         "matchCode": "4340750",
@@ -38872,6 +39510,7 @@
         "away": "Como",
         "firstHalf": "0 - 1",
         "finalScore": "1 - 1",
+<<<<<<< HEAD
         "prediction": "Double Chance X2",
         "ihtimal": "100.0",
         "odds": "1.27",
@@ -38902,6 +39541,8 @@
         "away": "Como",
         "firstHalf": "0 - 1",
         "finalScore": "1 - 1",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Under 3.5 Goals",
         "ihtimal": "100.0",
         "odds": "1.06",
@@ -38947,6 +39588,7 @@
         "away": "Manchester United",
         "firstHalf": "0 - 0",
         "finalScore": "1 - 1",
+<<<<<<< HEAD
         "prediction": "Both Teams to Score - Yes",
         "ihtimal": "100.0",
         "odds": "1.37",
@@ -38962,6 +39604,8 @@
         "away": "Manchester United",
         "firstHalf": "0 - 0",
         "finalScore": "1 - 1",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Under 2.5",
         "ihtimal": "100.0",
         "odds": "1.06",
@@ -39135,6 +39779,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "11.02.2026 16:00",
         "league": " BULK",
         "matchCode": "4423923",
@@ -39150,6 +39795,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "11.02.2026 17:00",
         "league": "ITA3",
         "matchCode": "4339989",
@@ -39180,6 +39827,24 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
+=======
+        "date": "11.02.2026 17:00",
+        "league": "ITA3",
+        "matchCode": "4339987",
+        "home": "Dolomiti Bellu",
+        "away": "Pergolettese",
+        "firstHalf": "0 - 1",
+        "finalScore": "1 - 2",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "70.45",
+        "odds": "1.26",
+        "matchCount": "44",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4339987",
+        "status": "Won"
+    },
+    {
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "11.02.2026 17:45",
         "league": "NED",
         "matchCode": "4295957",
@@ -39232,6 +39897,24 @@
         "away": "Smouha",
         "firstHalf": "0 - 0",
         "finalScore": "1 - 0",
+<<<<<<< HEAD
+=======
+        "prediction": "Double Chance 1X",
+        "ihtimal": "77.78",
+        "odds": "1.11",
+        "matchCount": "36",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338273",
+        "status": "Won"
+    },
+    {
+        "date": "11.02.2026 18:00",
+        "league": "EGY",
+        "matchCode": "4338273",
+        "home": "Zamalek SC",
+        "away": "Smouha",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Under 1.5",
         "ihtimal": "75.0",
         "odds": "1.08",
@@ -39241,6 +39924,39 @@
     },
     {
         "date": "11.02.2026 18:00",
+<<<<<<< HEAD
+=======
+        "league": " ROMK",
+        "matchCode": "4393987",
+        "home": "Metalul Buzau",
+        "away": "Sepsi",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "72.22",
+        "odds": "1.27",
+        "matchCount": "54",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4393987",
+        "status": "Won"
+    },
+    {
+        "date": "11.02.2026 18:00",
+        "league": " ROMK",
+        "matchCode": "4393987",
+        "home": "Metalul Buzau",
+        "away": "Sepsi",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "Handicap (1:0) 1",
+        "ihtimal": "72.22222222222221",
+        "odds": "1.27",
+        "matchCount": "54",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4393987",
+        "status": "Won"
+    },
+    {
+        "date": "11.02.2026 18:00",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "ITA2",
         "matchCode": "4331456",
         "home": "Sudtirol",
@@ -39262,14 +39978,21 @@
         "away": "Wadi Degla",
         "firstHalf": "0 - 0",
         "finalScore": "1 - 1",
+<<<<<<< HEAD
         "prediction": "Over 1.5 Goals",
         "ihtimal": "71.11",
         "odds": "1.27",
+=======
+        "prediction": "Double Chance 1X",
+        "ihtimal": "80.0",
+        "odds": "1.11",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "matchCount": "45",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338274",
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "11.02.2026 19:00",
         "league": "ITA2",
         "matchCode": "4331449",
@@ -39282,6 +40005,20 @@
         "odds": "1.18",
         "matchCount": "5",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4331449",
+=======
+        "date": "11.02.2026 18:00",
+        "league": "EGY",
+        "matchCode": "4338274",
+        "home": "Masryal Masry",
+        "away": "Wadi Degla",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 1",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "71.11",
+        "odds": "1.27",
+        "matchCount": "45",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338274",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "status": "Won"
     },
     {
@@ -39315,6 +40052,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "11.02.2026 19:00",
         "league": "ITA2",
         "matchCode": "4331450",
@@ -39342,6 +40080,20 @@
         "odds": "1.16",
         "matchCount": "12",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4295647",
+=======
+        "date": "11.02.2026 19:30",
+        "league": "ITA3",
+        "matchCode": "4339983",
+        "home": "Pro Vercelli",
+        "away": "Vicenza",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 2",
+        "prediction": "Double Chance 12",
+        "ihtimal": "100.0",
+        "odds": "1.14",
+        "matchCount": "5",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4339983",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "status": "Won"
     },
     {
@@ -39405,6 +40157,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "11.02.2026 19:30",
         "league": "ITA3",
         "matchCode": "4339985",
@@ -39420,6 +40173,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "11.02.2026 19:00",
         "league": "ITA2",
         "matchCode": "4331451",
@@ -39526,6 +40281,24 @@
     },
     {
         "date": "11.02.2026 19:45",
+<<<<<<< HEAD
+=======
+        "league": "ENG3",
+        "matchCode": "4304610",
+        "home": "Grimsby",
+        "away": "Accrington",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "73.86",
+        "odds": "1.10",
+        "matchCount": "88",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4304610",
+        "status": "Won"
+    },
+    {
+        "date": "11.02.2026 19:45",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "ISR",
         "matchCode": "4334743",
         "home": "Rochdale",
@@ -39817,6 +40590,24 @@
         "away": "Aali Fc",
         "firstHalf": "1 - 0",
         "finalScore": "1 - 2",
+<<<<<<< HEAD
+=======
+        "prediction": "Double Chance 12",
+        "ihtimal": "82.54",
+        "odds": "1.17",
+        "matchCount": "63",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4434163",
+        "status": "Won"
+    },
+    {
+        "date": "12.02.2026 16:00",
+        "league": "BHR",
+        "matchCode": "4434163",
+        "home": "Al Ahli Manama",
+        "away": "Aali Fc",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 2",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Over 1.5 Goals",
         "ihtimal": "76.19",
         "odds": "1.20",
@@ -39982,9 +40773,15 @@
         "away": "Pontedera",
         "firstHalf": "1 - 0",
         "finalScore": "2 - 0",
+<<<<<<< HEAD
         "prediction": "Under 3.5 Goals",
         "ihtimal": "76.27",
         "odds": "1.12",
+=======
+        "prediction": "Double Chance 12",
+        "ihtimal": "72.88",
+        "odds": "1.14",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "matchCount": "59",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340366",
         "status": "Won"
@@ -40027,6 +40824,7 @@
         "away": "Fc Eindhoven",
         "firstHalf": "0 - 0",
         "finalScore": "2 - 1",
+<<<<<<< HEAD
         "prediction": "Handicap (1:0) 1",
         "ihtimal": "73.68421052631578",
         "odds": "1.12",
@@ -40042,6 +40840,8 @@
         "away": "Fc Eindhoven",
         "firstHalf": "0 - 0",
         "finalScore": "2 - 1",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Under 4.5 Goals",
         "ihtimal": "84.21",
         "odds": "1.13",
@@ -40072,9 +40872,15 @@
         "away": "Ravenna",
         "firstHalf": "0 - 0",
         "finalScore": "2 - 0",
+<<<<<<< HEAD
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "75.44",
         "odds": "1.12",
+=======
+        "prediction": "Double Chance 12",
+        "ihtimal": "75.44",
+        "odds": "1.17",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "matchCount": "57",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340367",
         "status": "Won"
@@ -41011,6 +41817,24 @@
     },
     {
         "date": "13.02.2026 19:00",
+<<<<<<< HEAD
+=======
+        "league": "HUN",
+        "matchCode": "4296775",
+        "home": "Ujpest",
+        "away": "Debreceni",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 1",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "71.6",
+        "odds": "1.25",
+        "matchCount": "81",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4296775",
+        "status": "Won"
+    },
+    {
+        "date": "13.02.2026 19:00",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "NED2",
         "matchCode": "4296350",
         "home": "Psv (B)",
@@ -41596,6 +42420,24 @@
     },
     {
         "date": "14.02.2026 05:00",
+<<<<<<< HEAD
+=======
+        "league": " JAP2-3",
+        "matchCode": "4439561",
+        "home": "Shonan",
+        "away": "Sagamihara",
+        "firstHalf": "1 - 0",
+        "finalScore": "4 - 0",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "72.97",
+        "odds": "1.24",
+        "matchCount": "37",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4439561",
+        "status": "Won"
+    },
+    {
+        "date": "14.02.2026 05:00",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "JPN1",
         "matchCode": "4437652",
         "home": "Shimizu",
@@ -42211,6 +43053,24 @@
     },
     {
         "date": "14.02.2026 13:00",
+<<<<<<< HEAD
+=======
+        "league": "GER3",
+        "matchCode": "4314861",
+        "home": "Havelse",
+        "away": "1860 Munich",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 5",
+        "prediction": "Double Chance 12",
+        "ihtimal": "100.0",
+        "odds": "1.15",
+        "matchCount": "2",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4314861",
+        "status": "Won"
+    },
+    {
+        "date": "14.02.2026 13:00",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "CAF CL",
         "matchCode": "4410684",
         "home": "Al Hilal Omdur",
@@ -43081,6 +43941,24 @@
     },
     {
         "date": "14.02.2026 17:00",
+<<<<<<< HEAD
+=======
+        "league": "SVK",
+        "matchCode": "4300185",
+        "home": "Tatran Presov",
+        "away": "Fk Kosice",
+        "firstHalf": "1 - 3",
+        "finalScore": "1 - 4",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "82.61",
+        "odds": "1.10",
+        "matchCount": "46",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4300185",
+        "status": "Won"
+    },
+    {
+        "date": "14.02.2026 17:00",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "MAR",
         "matchCode": "4438424",
         "home": "Difaa",
@@ -43132,15 +44010,22 @@
         "away": "Fenerbahce",
         "firstHalf": "2 - 2",
         "finalScore": "2 - 3",
+<<<<<<< HEAD
         "prediction": "1st Half Double Chance X2",
         "ihtimal": "83.33",
         "odds": "1.12",
+=======
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.10",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "matchCount": "6",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4308515",
         "status": "Won"
     },
     {
         "date": "14.02.2026 17:00",
+<<<<<<< HEAD
         "league": "ITA1",
         "matchCode": "4291670",
         "home": "Lazio",
@@ -43156,6 +44041,8 @@
     },
     {
         "date": "14.02.2026 17:00",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "SWE",
         "matchCode": "4427449",
         "home": "Zurich",
@@ -43387,6 +44274,24 @@
         "away": "AZ Alkmaar",
         "firstHalf": "1 - 0",
         "finalScore": "1 - 2",
+<<<<<<< HEAD
+=======
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "87.5",
+        "odds": "1.10",
+        "matchCount": "8",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4295980",
+        "status": "Won"
+    },
+    {
+        "date": "14.02.2026 17:45",
+        "league": "NED",
+        "matchCode": "4295980",
+        "home": "Excelsior",
+        "away": "AZ Alkmaar",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 2",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Under 3.5 Goals",
         "ihtimal": "87.5",
         "odds": "1.26",
@@ -43815,6 +44720,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "14.02.2026 20:15",
         "league": " PER",
         "matchCode": "4437132",
@@ -43830,6 +44736,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "14.02.2026 20:30",
         "league": "POR1",
         "matchCode": "4309424",
@@ -43997,6 +44905,24 @@
     {
         "date": "15.02.2026 05:00",
         "league": " JAP2-3",
+<<<<<<< HEAD
+=======
+        "matchCode": "4439743",
+        "home": "Ehime Fc",
+        "away": "Zweigen Kanazaw",
+        "firstHalf": "0 - 1",
+        "finalScore": "2 - 2",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "72.73",
+        "odds": "1.24",
+        "matchCount": "55",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4439743",
+        "status": "Won"
+    },
+    {
+        "date": "15.02.2026 05:00",
+        "league": " JAP2-3",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "matchCode": "4439741",
         "home": "Kamatamare San",
         "away": "Kataller Toyama",
@@ -44070,6 +44996,24 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
+=======
+        "date": "15.02.2026 05:00",
+        "league": "JPN1",
+        "matchCode": "4437565",
+        "home": "Kashiwa",
+        "away": "Tokyo Verdy",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 2",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "72.41",
+        "odds": "1.24",
+        "matchCount": "29",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4437565",
+        "status": "Won"
+    },
+    {
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "15.02.2026 06:00",
         "league": "JPN1",
         "matchCode": "4437654",
@@ -44947,6 +45891,7 @@
         "away": "Celtic",
         "firstHalf": "2 - 0",
         "finalScore": "2 - 3",
+<<<<<<< HEAD
         "prediction": "Match Result 2",
         "ihtimal": "100.0",
         "odds": "1.22",
@@ -44962,6 +45907,8 @@
         "away": "Celtic",
         "firstHalf": "2 - 0",
         "finalScore": "2 - 3",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Over 0.5",
         "ihtimal": "100.0",
         "odds": "1.10",
@@ -45817,6 +46764,7 @@
         "away": "Ingolstadt",
         "firstHalf": "1 - 0",
         "finalScore": "1 - 1",
+<<<<<<< HEAD
         "prediction": "Double Chance X2",
         "ihtimal": "100.0",
         "odds": "1.08",
@@ -45832,6 +46780,8 @@
         "away": "Ingolstadt",
         "firstHalf": "1 - 0",
         "finalScore": "1 - 1",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Over 0.5",
         "ihtimal": "100.0",
         "odds": "1.12",
@@ -46125,6 +47075,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "16.02.2026 13:00",
         "league": "BUL1",
         "matchCode": "4379717",
@@ -46140,6 +47091,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "16.02.2026 13:25",
         "league": "UAE2",
         "matchCode": "4344721",
@@ -46185,6 +47138,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "16.02.2026 15:30",
         "league": "BUL1",
         "matchCode": "4379716",
@@ -46200,6 +47154,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "16.02.2026 16:00",
         "league": " AŞMP",
         "matchCode": "4439960",
@@ -46365,6 +47321,24 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
+=======
+        "date": "16.02.2026 18:15",
+        "league": " AŞMP",
+        "matchCode": "4439962",
+        "home": "Al Shorta",
+        "away": "Al Duhail Sc",
+        "firstHalf": "1 - 2",
+        "finalScore": "3 - 2",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "75.0",
+        "odds": "1.09",
+        "matchCount": "24",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4439962",
+        "status": "Won"
+    },
+    {
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "16.02.2026 19:00",
         "league": "NED2",
         "matchCode": "4296356",
@@ -46396,6 +47370,7 @@
     },
     {
         "date": "16.02.2026 19:30",
+<<<<<<< HEAD
         "league": "ITA3",
         "matchCode": "4340372",
         "home": "Vis Pasaro",
@@ -46426,6 +47401,8 @@
     },
     {
         "date": "16.02.2026 19:30",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "ESP2",
         "matchCode": "4305838",
         "home": "Real Sociedad",
@@ -47595,6 +48572,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "18.02.2026 17:30",
         "league": "MLT",
         "matchCode": "4433904",
@@ -47610,6 +48588,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "18.02.2026 17:45",
         "league": " ŞMP-K",
         "matchCode": "4439969",
@@ -47670,6 +48650,24 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
+=======
+        "date": "18.02.2026 19:45",
+        "league": "ENG2",
+        "matchCode": "4304074",
+        "home": "Wigan",
+        "away": "Luton",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "76.04",
+        "odds": "1.05",
+        "matchCount": "96",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4304074",
+        "status": "Won"
+    },
+    {
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "18.02.2026 20:00",
         "league": "CL",
         "matchCode": "4437518",
@@ -47910,6 +48908,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "19.02.2026 17:00",
         "league": "UGA",
         "matchCode": "4442519",
@@ -47955,6 +48954,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "19.02.2026 17:45",
         "league": "UEL",
         "matchCode": "4437536",
@@ -48172,6 +49173,7 @@
         "away": "Al Fateh",
         "firstHalf": "3 - 2",
         "finalScore": "4 - 3",
+<<<<<<< HEAD
         "prediction": "Double Chance 12",
         "ihtimal": "78.99",
         "odds": "1.12",
@@ -48187,6 +49189,8 @@
         "away": "Al Fateh",
         "firstHalf": "3 - 2",
         "finalScore": "4 - 3",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Over 1.5 Goals",
         "ihtimal": "73.11",
         "odds": "1.05",
@@ -48256,6 +49260,7 @@
     },
     {
         "date": "19.02.2026 20:00",
+<<<<<<< HEAD
         "league": "UEL",
         "matchCode": "4437535",
         "home": "Celtic",
@@ -48271,6 +49276,8 @@
     },
     {
         "date": "19.02.2026 20:00",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": " ŞMP-K",
         "matchCode": "4439972",
         "home": "Manchester Uni",
@@ -48292,14 +49299,21 @@
         "away": "ACF Fiorentina",
         "firstHalf": "0 - 0",
         "finalScore": "0 - 3",
+<<<<<<< HEAD
         "prediction": "Over 1.5 Goals",
         "ihtimal": "81.58",
         "odds": "1.12",
+=======
+        "prediction": "Double Chance 12",
+        "ihtimal": "81.58",
+        "odds": "1.17",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "matchCount": "38",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432520",
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "19.02.2026 22:00",
         "league": " LKU",
         "matchCode": "4445284",
@@ -48312,6 +49326,20 @@
         "odds": "1.15",
         "matchCount": "92",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4445284",
+=======
+        "date": "19.02.2026 20:00",
+        "league": " AVKL",
+        "matchCode": "4432520",
+        "home": "Jagiellonia",
+        "away": "ACF Fiorentina",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 3",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "81.58",
+        "odds": "1.12",
+        "matchCount": "38",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432520",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "status": "Won"
     },
     {
@@ -48532,6 +49560,24 @@
         "away": "Waldhof Mannhei",
         "firstHalf": "3 - 0",
         "finalScore": "3 - 1",
+<<<<<<< HEAD
+=======
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "70.0",
+        "odds": "1.15",
+        "matchCount": "10",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4314866",
+        "status": "Won"
+    },
+    {
+        "date": "20.02.2026 18:00",
+        "league": "GER3",
+        "matchCode": "4314866",
+        "home": "Stuttgart (Amt",
+        "away": "Waldhof Mannhei",
+        "firstHalf": "3 - 0",
+        "finalScore": "3 - 1",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "80.0",
         "odds": "1.14",
@@ -48781,6 +49827,7 @@
     },
     {
         "date": "20.02.2026 19:00",
+<<<<<<< HEAD
         "league": "NED2",
         "matchCode": "4296357",
         "home": "De Graafschap",
@@ -48796,6 +49843,8 @@
     },
     {
         "date": "20.02.2026 19:00",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "BEL2",
         "matchCode": "4315206",
         "home": "Rsc Anderlecht",
@@ -49052,6 +50101,24 @@
     {
         "date": "20.02.2026 19:30",
         "league": "EGY",
+<<<<<<< HEAD
+=======
+        "matchCode": "4338312",
+        "home": "Pyramids FC",
+        "away": "Ceramica Cleopatra",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "86.67",
+        "odds": "1.08",
+        "matchCount": "30",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338312",
+        "status": "Won"
+    },
+    {
+        "date": "20.02.2026 19:30",
+        "league": "EGY",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "matchCode": "4338311",
         "home": "Ismaily",
         "away": "Wadi Degla",
@@ -49081,6 +50148,7 @@
     },
     {
         "date": "20.02.2026 19:30",
+<<<<<<< HEAD
         "league": "ITA2",
         "matchCode": "4331471",
         "home": "Frosinone",
@@ -49096,6 +50164,8 @@
     },
     {
         "date": "20.02.2026 19:30",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "ESP2",
         "matchCode": "4305840",
         "home": "Ceuta",
@@ -49216,6 +50286,7 @@
     },
     {
         "date": "20.02.2026 20:00",
+<<<<<<< HEAD
         "league": " İRL",
         "matchCode": "4426218",
         "home": "Dundalk",
@@ -49231,6 +50302,8 @@
     },
     {
         "date": "20.02.2026 20:00",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "ESP1",
         "matchCode": "4305419",
         "home": "Athletic Bilba",
@@ -50317,6 +51390,7 @@
         "away": "Vis Pasaro",
         "firstHalf": "0 - 0",
         "finalScore": "0 - 0",
+<<<<<<< HEAD
         "prediction": "Under 3.5 Goals",
         "ihtimal": "79.72",
         "odds": "1.05",
@@ -50332,6 +51406,8 @@
         "away": "Vis Pasaro",
         "firstHalf": "0 - 0",
         "finalScore": "0 - 0",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "75.0",
         "odds": "1.06",
@@ -50730,6 +51806,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "21.02.2026 16:30",
         "league": "ITA3",
         "matchCode": "4340761",
@@ -50745,6 +51822,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "21.02.2026 16:45",
         "league": "POL",
         "matchCode": "4290688",
@@ -50940,6 +52019,24 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
+=======
+        "date": "21.02.2026 17:30",
+        "league": "UAE",
+        "matchCode": "4434648",
+        "home": "Al Ittihad Kal",
+        "away": "Dubba Al Fujair",
+        "firstHalf": "0 - 0",
+        "finalScore": "2 - 1",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "72.97",
+        "odds": "1.10",
+        "matchCount": "111",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4434648",
+        "status": "Won"
+    },
+    {
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "21.02.2026 17:45",
         "league": "NED",
         "matchCode": "4295996",
@@ -50957,6 +52054,7 @@
     {
         "date": "21.02.2026 18:00",
         "league": "OMA",
+<<<<<<< HEAD
         "matchCode": "4445326",
         "home": "Al Seeb",
         "away": "Oman Fc",
@@ -50972,6 +52070,8 @@
     {
         "date": "21.02.2026 18:00",
         "league": "OMA",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "matchCode": "4445327",
         "home": "Al Nahda",
         "away": "Ibri",
@@ -51002,6 +52102,24 @@
     {
         "date": "21.02.2026 18:30",
         "league": "POL1",
+<<<<<<< HEAD
+=======
+        "matchCode": "4316531",
+        "home": "Ruch Chorzow",
+        "away": "Polonia Varsova",
+        "firstHalf": "0 - 2",
+        "finalScore": "2 - 3",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "76.39",
+        "odds": "1.09",
+        "matchCount": "72",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4316531",
+        "status": "Won"
+    },
+    {
+        "date": "21.02.2026 18:30",
+        "league": "POL1",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "matchCode": "4316374",
         "home": "Miedz Legnica",
         "away": "Chrobry Glogow",
@@ -51892,6 +53010,24 @@
         "away": "Juventus Ii",
         "firstHalf": "0 - 1",
         "finalScore": "2 - 1",
+<<<<<<< HEAD
+=======
+        "prediction": "Double Chance 12",
+        "ihtimal": "72.26",
+        "odds": "1.14",
+        "matchCount": "137",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340386",
+        "status": "Won"
+    },
+    {
+        "date": "22.02.2026 11:30",
+        "league": "ITA3",
+        "matchCode": "4340386",
+        "home": "Campobasso",
+        "away": "Juventus Ii",
+        "firstHalf": "0 - 1",
+        "finalScore": "2 - 1",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Under 3.5 Goals",
         "ihtimal": "75.91",
         "odds": "1.09",
@@ -52635,6 +53771,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "22.02.2026 14:00",
         "league": "ENG1",
         "matchCode": "4295663",
@@ -52650,6 +53787,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "22.02.2026 14:30",
         "league": "GER1",
         "matchCode": "4306455",
@@ -53010,6 +54149,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "22.02.2026 17:00",
         "league": "ITA1",
         "matchCode": "4291683",
@@ -53025,6 +54165,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "22.02.2026 17:30",
         "league": "ESP2",
         "matchCode": "4305848",
@@ -53137,6 +54279,24 @@
         "away": "Apo Levadeiakos",
         "firstHalf": "1 - 0",
         "finalScore": "4 - 0",
+<<<<<<< HEAD
+=======
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "93.33",
+        "odds": "1.09",
+        "matchCount": "15",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4312503",
+        "status": "Won"
+    },
+    {
+        "date": "22.02.2026 18:00",
+        "league": "GRE",
+        "matchCode": "4312503",
+        "home": "Aek",
+        "away": "Apo Levadeiakos",
+        "firstHalf": "1 - 0",
+        "finalScore": "4 - 0",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Over 0.5",
         "ihtimal": "93.33",
         "odds": "1.16",
@@ -54052,6 +55212,7 @@
         "away": "Udinese",
         "firstHalf": "0 - 0",
         "finalScore": "1 - 0",
+<<<<<<< HEAD
         "prediction": "Handicap (1:0) 1",
         "ihtimal": "80.76923076923077",
         "odds": "1.05",
@@ -54067,6 +55228,8 @@
         "away": "Udinese",
         "firstHalf": "0 - 0",
         "finalScore": "1 - 0",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Under 3.5 Goals",
         "ihtimal": "73.08",
         "odds": "1.11",
@@ -55192,6 +56355,7 @@
         "away": "Instituto Cordo",
         "firstHalf": "0 - 1",
         "finalScore": "1 - 1",
+<<<<<<< HEAD
         "prediction": "Double Chance 1X",
         "ihtimal": "75.0",
         "odds": "1.16",
@@ -55207,6 +56371,8 @@
         "away": "Instituto Cordo",
         "firstHalf": "0 - 1",
         "finalScore": "1 - 1",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Handicap (1:0) 1",
         "ihtimal": "75.0",
         "odds": "1.14",
@@ -55562,6 +56728,24 @@
     {
         "date": "22.02.2026 05:00",
         "league": " JAP2-3",
+<<<<<<< HEAD
+=======
+        "matchCode": "4439747",
+        "home": "Fc Imabari",
+        "away": "Osaka",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "71.85",
+        "odds": "1.24",
+        "matchCount": "135",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4439747",
+        "status": "Won"
+    },
+    {
+        "date": "22.02.2026 05:00",
+        "league": " JAP2-3",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "matchCode": "4439658",
         "home": "Fc Gifu",
         "away": "Iwaki",
@@ -55846,6 +57030,24 @@
     },
     {
         "date": "25.02.2026 18:00",
+<<<<<<< HEAD
+=======
+        "league": "SWE",
+        "matchCode": "4427455",
+        "home": "Winterthur",
+        "away": "Thun",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 3",
+        "prediction": "Over 2.5 Goals",
+        "ihtimal": "80.0",
+        "odds": "1.27",
+        "matchCount": "5",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4427455",
+        "status": "Won"
+    },
+    {
+        "date": "25.02.2026 18:00",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "GER REG",
         "matchCode": "4320189",
         "home": "Sonnenhof Gros",
@@ -55861,6 +57063,7 @@
     },
     {
         "date": "25.02.2026 18:00",
+<<<<<<< HEAD
         "league": "ESP3",
         "matchCode": "4357184",
         "home": "Juventud Torre",
@@ -55872,6 +57075,19 @@
         "odds": "1.15",
         "matchCount": "54",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4357184",
+=======
+        "league": "ESP2",
+        "matchCode": "4305826",
+        "home": "Ceuta",
+        "away": "Cordoba",
+        "firstHalf": "3 - 2",
+        "finalScore": "3 - 2",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "80.0",
+        "odds": "1.09",
+        "matchCount": "25",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4305826",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "status": "Won"
     },
     {
@@ -55882,9 +57098,15 @@
         "away": "Teruel",
         "firstHalf": "1 - 1",
         "finalScore": "2 - 2",
+<<<<<<< HEAD
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "83.33",
         "odds": "1.05",
+=======
+        "prediction": "Double Chance 1X",
+        "ihtimal": "74.07",
+        "odds": "1.15",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "matchCount": "54",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4357184",
         "status": "Won"
@@ -55995,6 +57217,39 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
+=======
+        "date": "25.02.2026 19:30",
+        "league": "EGY",
+        "matchCode": "4338324",
+        "home": "Petrojet",
+        "away": "Al Ittihad Al S",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "76.32",
+        "odds": "1.05",
+        "matchCount": "38",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338324",
+        "status": "Won"
+    },
+    {
+        "date": "25.02.2026 19:45",
+        "league": "ISR",
+        "matchCode": "4334776",
+        "home": "Braintree",
+        "away": "Aldershot",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 2",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "79.31",
+        "odds": "1.05",
+        "matchCount": "29",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4334776",
+        "status": "Won"
+    },
+    {
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "25.02.2026 19:45",
         "league": "ENG1",
         "matchCode": "4302199",
@@ -56101,6 +57356,24 @@
     },
     {
         "date": "25.02.2026 19:45",
+<<<<<<< HEAD
+=======
+        "league": "ENG1",
+        "matchCode": "4302201",
+        "home": "Sheffield United",
+        "away": "Coventry",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 2",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "73.68",
+        "odds": "1.05",
+        "matchCount": "19",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4302201",
+        "status": "Won"
+    },
+    {
+        "date": "25.02.2026 19:45",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "ISR",
         "matchCode": "4334779",
         "home": "Hartlepool",
@@ -56565,6 +57838,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "26.02.2026 12:00",
         "league": "ETH",
         "matchCode": "4445827",
@@ -56580,6 +57854,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "26.02.2026 13:00",
         "league": "TAN",
         "matchCode": "4441841",
@@ -56625,6 +57901,24 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
+=======
+        "date": "26.02.2026 13:30",
+        "league": "IDN1",
+        "matchCode": "4338032",
+        "home": "Borneo Fc",
+        "away": "Arema",
+        "firstHalf": "3 - 0",
+        "finalScore": "3 - 1",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "81.25",
+        "odds": "1.06",
+        "matchCount": "128",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338032",
+        "status": "Won"
+    },
+    {
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "26.02.2026 14:00",
         "league": "IND SL",
         "matchCode": "4443136",
@@ -56850,6 +58144,24 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
+=======
+        "date": "26.02.2026 19:00",
+        "league": "KSA",
+        "matchCode": "4354353",
+        "home": "Al Fateh",
+        "away": "Damak",
+        "firstHalf": "0 - 1",
+        "finalScore": "1 - 1",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "79.07",
+        "odds": "1.06",
+        "matchCount": "43",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4354353",
+        "status": "Won"
+    },
+    {
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "26.02.2026 19:30",
         "league": "EGY2",
         "matchCode": "4352023",
@@ -57030,6 +58342,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "27.02.2026 13:15",
         "league": "BUL1",
         "matchCode": "4379729",
@@ -57045,6 +58358,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "27.02.2026 13:30",
         "league": "IDN1",
         "matchCode": "4338033",
@@ -57165,6 +58480,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "27.02.2026 15:45",
         "league": "BUL1",
         "matchCode": "4379730",
@@ -57180,6 +58496,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "27.02.2026 17:00",
         "league": "AUT2",
         "matchCode": "4313879",
@@ -57547,6 +58865,24 @@
         "away": "Saint Brieuc",
         "firstHalf": "1 - 1",
         "finalScore": "1 - 1",
+<<<<<<< HEAD
+=======
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "75.0",
+        "odds": "1.09",
+        "matchCount": "52",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338546",
+        "status": "Won"
+    },
+    {
+        "date": "27.02.2026 18:30",
+        "league": "FRA3",
+        "matchCode": "4338546",
+        "home": "Le Puy",
+        "away": "Saint Brieuc",
+        "firstHalf": "1 - 1",
+        "finalScore": "1 - 1",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Over 0.5",
         "ihtimal": "73.08",
         "odds": "1.17",
@@ -57842,6 +59178,7 @@
     {
         "date": "27.02.2026 19:30",
         "league": "ITA3",
+<<<<<<< HEAD
         "matchCode": "4340019",
         "home": "Pergolettese",
         "away": "Triestina",
@@ -57857,6 +59194,8 @@
     {
         "date": "27.02.2026 19:30",
         "league": "ITA3",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "matchCode": "4340016",
         "home": "Cittadella",
         "away": "Ospitaletto",
@@ -58111,6 +59450,7 @@
     },
     {
         "date": "27.02.2026 20:00",
+<<<<<<< HEAD
         "league": "ESP1",
         "matchCode": "4305432",
         "home": "Levante",
@@ -58126,6 +59466,8 @@
     },
     {
         "date": "27.02.2026 20:00",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "POL1",
         "matchCode": "4316568",
         "home": "Rzeszow",
@@ -60210,6 +61552,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "01.03.2026 20:30",
         "league": " PER",
         "matchCode": "4437150",
@@ -60225,6 +61568,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "01.03.2026 21:00",
         "league": "COL",
         "matchCode": "4431315",
@@ -60482,6 +61827,7 @@
     {
         "date": "02.03.2026 00:30",
         "league": "ARG",
+<<<<<<< HEAD
         "matchCode": "4432773",
         "home": "Tigre",
         "away": "Gimnasia La Pla",
@@ -60497,6 +61843,8 @@
     {
         "date": "02.03.2026 00:30",
         "league": "ARG",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "matchCode": "4432768",
         "home": "Defensa Justic",
         "away": "Lanus",
@@ -60637,6 +61985,7 @@
         "away": "Hirvatistan Women",
         "firstHalf": "0 - 0",
         "finalScore": "0 - 1",
+<<<<<<< HEAD
         "prediction": "Match Result 2",
         "ihtimal": "71.43",
         "odds": "1.46",
@@ -60652,6 +62001,8 @@
         "away": "Hirvatistan Women",
         "firstHalf": "0 - 0",
         "finalScore": "0 - 1",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Double Chance 12",
         "ihtimal": "78.57",
         "odds": "1.06",
@@ -60825,6 +62176,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "03.03.2026 15:00",
         "league": "ETH",
         "matchCode": "4445838",
@@ -60840,6 +62192,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "03.03.2026 17:15",
         "league": " KDK",
         "matchCode": "4448276",
@@ -61007,6 +62361,24 @@
     {
         "date": "03.03.2026 18:00",
         "league": "GER3",
+<<<<<<< HEAD
+=======
+        "matchCode": "4314889",
+        "home": "Osnabruck",
+        "away": "Viktoria Koln",
+        "firstHalf": "2 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "73.91",
+        "odds": "1.15",
+        "matchCount": "23",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4314889",
+        "status": "Won"
+    },
+    {
+        "date": "03.03.2026 18:00",
+        "league": "GER3",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "matchCode": "4314887",
         "home": "Stuttgart (Amt",
         "away": "E.Cottbus",
@@ -61207,6 +62579,24 @@
         "away": "Aue",
         "firstHalf": "1 - 1",
         "finalScore": "2 - 1",
+<<<<<<< HEAD
+=======
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "74.19",
+        "odds": "1.15",
+        "matchCount": "31",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4314893",
+        "status": "Won"
+    },
+    {
+        "date": "03.03.2026 18:00",
+        "league": "GER3",
+        "matchCode": "4314893",
+        "home": "1860 Munich",
+        "away": "Aue",
+        "firstHalf": "1 - 1",
+        "finalScore": "2 - 1",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "87.1",
         "odds": "1.06",
@@ -61247,6 +62637,7 @@
     {
         "date": "03.03.2026 19:00",
         "league": "ITA2",
+<<<<<<< HEAD
         "matchCode": "4331498",
         "home": "Virtus Entella",
         "away": "Modena",
@@ -61262,6 +62653,8 @@
     {
         "date": "03.03.2026 19:00",
         "league": "ITA2",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "matchCode": "4331497",
         "home": "Unione V.",
         "away": "Avellino",
@@ -61282,6 +62675,7 @@
         "away": "Sudtirol",
         "firstHalf": "0 - 1",
         "finalScore": "0 - 4",
+<<<<<<< HEAD
         "prediction": "Handicap (0:1) 2",
         "ihtimal": "71.42857142857143",
         "odds": "1.16",
@@ -61297,6 +62691,8 @@
         "away": "Sudtirol",
         "firstHalf": "0 - 1",
         "finalScore": "0 - 4",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Under 1.5",
         "ihtimal": "85.71",
         "odds": "1.12",
@@ -61366,6 +62762,7 @@
     },
     {
         "date": "03.03.2026 19:30",
+<<<<<<< HEAD
         "league": "ITA3",
         "matchCode": "4340025",
         "home": "Virtus Verona",
@@ -61381,6 +62778,8 @@
     },
     {
         "date": "03.03.2026 19:30",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "league": "ENG1",
         "matchCode": "4295677",
         "home": "Bournemouth",
@@ -61905,6 +63304,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "04.03.2026 14:00",
         "league": "BUL1",
         "matchCode": "4379736",
@@ -61935,6 +63335,8 @@
         "status": "Won"
     },
     {
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "date": "04.03.2026 15:00",
         "league": " AZERK",
         "matchCode": "4414602",
@@ -61950,6 +63352,7 @@
         "status": "Won"
     },
     {
+<<<<<<< HEAD
         "date": "04.03.2026 17:00",
         "league": "ITA3",
         "matchCode": "4340407",
@@ -61963,6 +63366,36 @@
         "matchCount": "133",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340407",
         "status": "Won"
+=======
+        "date": "04.03.2026 16:00",
+        "league": "CRO CUP",
+        "matchCode": "4414515",
+        "home": "Varazdin",
+        "away": "Hnk Gorica",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "80.23",
+        "odds": "1.10",
+        "matchCount": "86",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4414515",
+        "status": "Pending"
+    },
+    {
+        "date": "04.03.2026 17:00",
+        "league": " AVK",
+        "matchCode": "4438042",
+        "home": "Salzburg",
+        "away": "Altach",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "93.33",
+        "odds": "1.10",
+        "matchCount": "15",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4438042",
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 17:00",
@@ -61970,14 +63403,23 @@
         "matchCode": "4340402",
         "home": "Vis Pasaro",
         "away": "Bra",
+<<<<<<< HEAD
         "firstHalf": "0 - 0",
         "finalScore": "2 - 1",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Under 3.5 Goals",
         "ihtimal": "77.33",
         "odds": "1.06",
         "matchCount": "75",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340402",
+<<<<<<< HEAD
         "status": "Won"
+=======
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 17:00",
@@ -61985,14 +63427,23 @@
         "matchCode": "4340404",
         "home": "Gubbio",
         "away": "Athletic Carpi",
+<<<<<<< HEAD
         "firstHalf": "1 - 0",
         "finalScore": "2 - 1",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Double Chance 1X",
         "ihtimal": "73.68",
         "odds": "1.06",
         "matchCount": "57",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340404",
+<<<<<<< HEAD
         "status": "Won"
+=======
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 17:00",
@@ -62000,13 +63451,19 @@
         "matchCode": "4449367",
         "home": "Graficar",
         "away": "Macva",
+<<<<<<< HEAD
         "firstHalf": "1 - 1",
         "finalScore": "1 - 1",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Double Chance 1X",
         "ihtimal": "74.86",
         "odds": "1.15",
         "matchCount": "179",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4449367",
+<<<<<<< HEAD
         "status": "Won"
     },
     {
@@ -62038,6 +63495,24 @@
         "matchCount": "86",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4449344",
         "status": "Won"
+=======
+        "status": "Pending"
+    },
+    {
+        "date": "04.03.2026 17:30",
+        "league": "WAL PL",
+        "matchCode": "4339017",
+        "home": "Chippa United",
+        "away": "Marumo Gallants",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "94.12",
+        "odds": "1.10",
+        "matchCount": "17",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4339017",
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 17:30",
@@ -62045,13 +63520,19 @@
         "matchCode": "4357195",
         "home": "Villarreal B",
         "away": "Eldense",
+<<<<<<< HEAD
         "firstHalf": "1 - 0",
         "finalScore": "2 - 0",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Over 1.5 Goals",
         "ihtimal": "70.97",
         "odds": "1.27",
         "matchCount": "93",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4357195",
+<<<<<<< HEAD
         "status": "Won"
     },
     {
@@ -62068,6 +63549,9 @@
         "matchCount": "42",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4339018",
         "status": "Won"
+=======
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 17:30",
@@ -62075,14 +63559,23 @@
         "matchCode": "4339016",
         "home": "Amazulu",
         "away": "Magesi Fc",
+<<<<<<< HEAD
         "firstHalf": "0 - 0",
         "finalScore": "0 - 0",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Double Chance 1X",
         "ihtimal": "83.33",
         "odds": "1.11",
         "matchCount": "36",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4339016",
+<<<<<<< HEAD
         "status": "Won"
+=======
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 17:30",
@@ -62090,13 +63583,19 @@
         "matchCode": "4412385",
         "home": "Gaziantep FK",
         "away": "Fenerbahce",
+<<<<<<< HEAD
         "firstHalf": "0 - 1",
         "finalScore": "0 - 4",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Under 4.5 Goals",
         "ihtimal": "76.19",
         "odds": "1.06",
         "matchCount": "21",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4412385",
+<<<<<<< HEAD
         "status": "Won"
     },
     {
@@ -62113,10 +63612,44 @@
         "matchCount": "26",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4319870",
         "status": "Won"
+=======
+        "status": "Pending"
+    },
+    {
+        "date": "04.03.2026 17:45",
+        "league": " RUK",
+        "matchCode": "4416144",
+        "home": "Cska Moskova",
+        "away": "Krasnodar",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "76.92",
+        "odds": "1.10",
+        "matchCount": "26",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4416144",
+        "status": "Pending"
+    },
+    {
+        "date": "04.03.2026 18:00",
+        "league": "ITA2",
+        "matchCode": "4331490",
+        "home": "Carrarese",
+        "away": "Catanzaro",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "93.1",
+        "odds": "1.12",
+        "matchCount": "29",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4331490",
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 18:00",
         "league": "GER3",
+<<<<<<< HEAD
         "matchCode": "4314890",
         "home": "Havelse",
         "away": "Hansa Rostock",
@@ -62128,10 +63661,39 @@
         "matchCount": "5",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4314890",
         "status": "Won"
+=======
+        "matchCode": "4314886",
+        "home": "Ingolstadt",
+        "away": "Duisburg",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "71.43",
+        "odds": "1.15",
+        "matchCount": "14",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4314886",
+        "status": "Pending"
+    },
+    {
+        "date": "04.03.2026 18:00",
+        "league": "GER3",
+        "matchCode": "4314886",
+        "home": "Ingolstadt",
+        "away": "Duisburg",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "71.43",
+        "odds": "1.09",
+        "matchCount": "14",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4314886",
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 18:00",
         "league": "GER REG",
+<<<<<<< HEAD
         "matchCode": "4319871",
         "home": "Hertha Zehlend",
         "away": "Hallescher",
@@ -62143,10 +63705,24 @@
         "matchCount": "14",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4319871",
         "status": "Won"
+=======
+        "matchCode": "4319868",
+        "home": "Greifswalder S",
+        "away": "Erfurt",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "78.66",
+        "odds": "1.11",
+        "matchCount": "164",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4319868",
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 18:00",
         "league": "GER REG",
+<<<<<<< HEAD
         "matchCode": "4319871",
         "home": "Hertha Zehlend",
         "away": "Hallescher",
@@ -62158,6 +63734,49 @@
         "matchCount": "14",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4319871",
         "status": "Won"
+=======
+        "matchCode": "4319868",
+        "home": "Greifswalder S",
+        "away": "Erfurt",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "73.78",
+        "odds": "1.11",
+        "matchCount": "164",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4319868",
+        "status": "Pending"
+    },
+    {
+        "date": "04.03.2026 18:00",
+        "league": "GER REG",
+        "matchCode": "4319868",
+        "home": "Greifswalder S",
+        "away": "Erfurt",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "78.66",
+        "odds": "1.11",
+        "matchCount": "164",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4319868",
+        "status": "Pending"
+    },
+    {
+        "date": "04.03.2026 18:00",
+        "league": "GER REG",
+        "matchCode": "4319868",
+        "home": "Greifswalder S",
+        "away": "Erfurt",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "73.78",
+        "odds": "1.11",
+        "matchCount": "164",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4319868",
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 18:00",
@@ -62165,6 +63784,7 @@
         "matchCode": "4319874",
         "home": "Luckenwalde",
         "away": "Magdeburg Ii",
+<<<<<<< HEAD
         "firstHalf": "0 - 0",
         "finalScore": "0 - 0",
         "prediction": "1st Half Double Chance X2",
@@ -62173,6 +63793,16 @@
         "matchCount": "77",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4319874",
         "status": "Won"
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "75.32",
+        "odds": "1.11",
+        "matchCount": "77",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4319874",
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 18:00",
@@ -62180,14 +63810,53 @@
         "matchCode": "4319874",
         "home": "Luckenwalde",
         "away": "Magdeburg Ii",
+<<<<<<< HEAD
         "firstHalf": "0 - 0",
         "finalScore": "0 - 0",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Double Chance X2",
         "ihtimal": "74.03",
         "odds": "1.13",
         "matchCount": "77",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4319874",
+<<<<<<< HEAD
         "status": "Won"
+=======
+        "status": "Pending"
+    },
+    {
+        "date": "04.03.2026 18:00",
+        "league": "GER REG",
+        "matchCode": "4319874",
+        "home": "Luckenwalde",
+        "away": "Magdeburg Ii",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "75.32",
+        "odds": "1.11",
+        "matchCount": "77",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4319874",
+        "status": "Pending"
+    },
+    {
+        "date": "04.03.2026 18:00",
+        "league": "GER REG",
+        "matchCode": "4319874",
+        "home": "Luckenwalde",
+        "away": "Magdeburg Ii",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "74.03",
+        "odds": "1.13",
+        "matchCount": "77",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4319874",
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 18:00",
@@ -62195,14 +63864,23 @@
         "matchCode": "4314885",
         "home": "Saarbrucken",
         "away": "Wehen",
+<<<<<<< HEAD
         "firstHalf": "1 - 0",
         "finalScore": "2 - 0",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Double Chance 12",
         "ihtimal": "87.5",
         "odds": "1.13",
         "matchCount": "16",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4314885",
+<<<<<<< HEAD
         "status": "Won"
+=======
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 18:00",
@@ -62210,6 +63888,7 @@
         "matchCode": "4314885",
         "home": "Saarbrucken",
         "away": "Wehen",
+<<<<<<< HEAD
         "firstHalf": "1 - 0",
         "finalScore": "2 - 0",
         "prediction": "1st Half Double Chance 1X",
@@ -62227,11 +63906,16 @@
         "away": "Wehen",
         "firstHalf": "1 - 0",
         "finalScore": "2 - 0",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Double Chance 12",
         "ihtimal": "87.5",
         "odds": "1.13",
         "matchCount": "16",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4314885",
+<<<<<<< HEAD
         "status": "Won"
     },
     {
@@ -62278,6 +63962,9 @@
         "matchCount": "26",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4320183",
         "status": "Won"
+=======
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 18:00",
@@ -62285,14 +63972,23 @@
         "matchCode": "4312479",
         "home": "Kifisias",
         "away": "Paok",
+<<<<<<< HEAD
         "firstHalf": "0 - 1",
         "finalScore": "1 - 4",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Over 1.5 Goals",
         "ihtimal": "100.0",
         "odds": "1.11",
         "matchCount": "4",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4312479",
+<<<<<<< HEAD
         "status": "Won"
+=======
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 18:00",
@@ -62300,6 +63996,7 @@
         "matchCode": "4312479",
         "home": "Kifisias",
         "away": "Paok",
+<<<<<<< HEAD
         "firstHalf": "0 - 1",
         "finalScore": "1 - 4",
         "prediction": "1st Half Over 0.5",
@@ -62317,11 +64014,16 @@
         "away": "Paok",
         "firstHalf": "0 - 1",
         "finalScore": "1 - 4",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Over 1.5 Goals",
         "ihtimal": "100.0",
         "odds": "1.11",
         "matchCount": "4",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4312479",
+<<<<<<< HEAD
         "status": "Won"
     },
     {
@@ -62338,6 +64040,9 @@
         "matchCount": "4",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4312479",
         "status": "Won"
+=======
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 18:00",
@@ -62345,14 +64050,23 @@
         "matchCode": "4314891",
         "home": "Aachen",
         "away": "Schweinfurt",
+<<<<<<< HEAD
         "firstHalf": "1 - 0",
         "finalScore": "1 - 0",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Over 0.5",
         "ihtimal": "70.0",
         "odds": "1.12",
         "matchCount": "10",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4314891",
+<<<<<<< HEAD
         "status": "Won"
+=======
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 18:00",
@@ -62360,6 +64074,7 @@
         "matchCode": "4314892",
         "home": "Essen",
         "away": "Waldhof Mannhei",
+<<<<<<< HEAD
         "firstHalf": "1 - 0",
         "finalScore": "1 - 0",
         "prediction": "Double Chance 1X",
@@ -62407,11 +64122,16 @@
         "away": "Waldhof Mannhei",
         "firstHalf": "1 - 0",
         "finalScore": "1 - 0",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Over 0.5",
         "ihtimal": "100.0",
         "odds": "1.11",
         "matchCount": "5",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4314892",
+<<<<<<< HEAD
         "status": "Won"
     },
     {
@@ -62428,6 +64148,24 @@
         "matchCount": "29",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4326557",
         "status": "Won"
+=======
+        "status": "Pending"
+    },
+    {
+        "date": "04.03.2026 18:30",
+        "league": "GER REG",
+        "matchCode": "4320480",
+        "home": "Velbert",
+        "away": "Bochum Ii",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "72.09",
+        "odds": "1.27",
+        "matchCount": "43",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4320480",
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 19:00",
@@ -62435,14 +64173,23 @@
         "matchCode": "4331493",
         "home": "Juve Stabia",
         "away": "Sampdoria",
+<<<<<<< HEAD
         "firstHalf": "0 - 0",
         "finalScore": "1 - 1",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Under 1.5",
         "ihtimal": "100.0",
         "odds": "1.12",
         "matchCount": "4",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4331493",
+<<<<<<< HEAD
         "status": "Won"
+=======
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 19:00",
@@ -62450,6 +64197,7 @@
         "matchCode": "4331489",
         "home": "Bari",
         "away": "Empoli",
+<<<<<<< HEAD
         "firstHalf": "1 - 1",
         "finalScore": "2 - 1",
         "prediction": "Double Chance 12",
@@ -62467,12 +64215,20 @@
         "away": "Empoli",
         "firstHalf": "1 - 1",
         "finalScore": "2 - 1",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Double Chance X2",
         "ihtimal": "80.0",
         "odds": "1.12",
         "matchCount": "25",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4331489",
+<<<<<<< HEAD
         "status": "Won"
+=======
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 19:00",
@@ -62480,13 +64236,19 @@
         "matchCode": "4331492",
         "home": "Frosinone",
         "away": "Pescara",
+<<<<<<< HEAD
         "firstHalf": "0 - 2",
         "finalScore": "2 - 2",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Under 4.5 Goals",
         "ihtimal": "85.71",
         "odds": "1.12",
         "matchCount": "7",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4331492",
+<<<<<<< HEAD
         "status": "Won"
     },
     {
@@ -62533,6 +64295,9 @@
         "matchCount": "100",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340408",
         "status": "Won"
+=======
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 19:30",
@@ -62540,14 +64305,53 @@
         "matchCode": "4441322",
         "home": "Lorient",
         "away": "Nice",
+<<<<<<< HEAD
         "firstHalf": "0 - 0",
         "finalScore": "0 - 0",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "79.06976744186046",
+        "odds": "1.05",
+        "matchCount": "43",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4441322",
+        "status": "Pending"
+    },
+    {
+        "date": "04.03.2026 19:30",
+        "league": "FRA CUP",
+        "matchCode": "4441322",
+        "home": "Lorient",
+        "away": "Nice",
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "74.42",
         "odds": "1.10",
         "matchCount": "43",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4441322",
+<<<<<<< HEAD
         "status": "Won"
+=======
+        "status": "Pending"
+    },
+    {
+        "date": "04.03.2026 19:30",
+        "league": "INT CUP",
+        "matchCode": "4449326",
+        "home": "Luton",
+        "away": "Northampton",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "84.62",
+        "odds": "1.25",
+        "matchCount": "13",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4449326",
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 19:30",
@@ -62555,14 +64359,23 @@
         "matchCode": "4315620",
         "home": "Trefelin",
         "away": "Cardiff Draconi",
+<<<<<<< HEAD
         "firstHalf": "2 - 1",
         "finalScore": "3 - 1",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Match Result 1",
         "ihtimal": "100.0",
         "odds": "1.10",
         "matchCount": "2",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4315620",
+<<<<<<< HEAD
         "status": "Won"
+=======
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 19:30",
@@ -62570,14 +64383,23 @@
         "matchCode": "4340406",
         "home": "Sassari Torres",
         "away": "Nuova Monterosi",
+<<<<<<< HEAD
         "firstHalf": "1 - 0",
         "finalScore": "2 - 1",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Double Chance 1X",
         "ihtimal": "75.9",
         "odds": "1.09",
         "matchCount": "83",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340406",
+<<<<<<< HEAD
         "status": "Won"
+=======
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 19:30",
@@ -62585,14 +64407,23 @@
         "matchCode": "4295681",
         "home": "Fulham",
         "away": "West Ham United",
+<<<<<<< HEAD
         "firstHalf": "0 - 0",
         "finalScore": "0 - 1",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Handicap (0:2) 2",
         "ihtimal": "87.5",
         "odds": "1.09",
         "matchCount": "16",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4295681",
+<<<<<<< HEAD
         "status": "Won"
+=======
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 19:30",
@@ -62600,6 +64431,7 @@
         "matchCode": "4295679",
         "home": "Brighton",
         "away": "Arsenal",
+<<<<<<< HEAD
         "firstHalf": "0 - 1",
         "finalScore": "0 - 1",
         "prediction": "Match Result 2",
@@ -62617,12 +64449,20 @@
         "away": "Arsenal",
         "firstHalf": "0 - 1",
         "finalScore": "0 - 1",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "1st Half Over 0.5",
         "ihtimal": "80.0",
         "odds": "1.21",
         "matchCount": "5",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4295679",
+<<<<<<< HEAD
         "status": "Won"
+=======
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 19:30",
@@ -62630,14 +64470,23 @@
         "matchCode": "4427467",
         "home": "Lugano",
         "away": "Sion",
+<<<<<<< HEAD
         "firstHalf": "1 - 1",
         "finalScore": "2 - 1",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Double Chance 1X",
         "ihtimal": "85.0",
         "odds": "1.15",
         "matchCount": "20",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4427467",
+<<<<<<< HEAD
         "status": "Won"
+=======
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 19:30",
@@ -62645,14 +64494,23 @@
         "matchCode": "4427467",
         "home": "Lugano",
         "away": "Sion",
+<<<<<<< HEAD
         "firstHalf": "1 - 1",
         "finalScore": "2 - 1",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Handicap (1:0) 1",
         "ihtimal": "85.0",
         "odds": "1.13",
         "matchCount": "20",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4427467",
+<<<<<<< HEAD
         "status": "Won"
+=======
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 19:30",
@@ -62660,14 +64518,38 @@
         "matchCode": "4427467",
         "home": "Lugano",
         "away": "Sion",
+<<<<<<< HEAD
         "firstHalf": "1 - 1",
         "finalScore": "2 - 1",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Over 1.5 Goals",
         "ihtimal": "80.0",
         "odds": "1.11",
         "matchCount": "20",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4427467",
+<<<<<<< HEAD
         "status": "Won"
+=======
+        "status": "Pending"
+    },
+    {
+        "date": "04.03.2026 19:30",
+        "league": "ITA3",
+        "matchCode": "4340410",
+        "home": "Arezzo",
+        "away": "Ternana",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "82.46",
+        "odds": "1.05",
+        "matchCount": "57",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340410",
+        "status": "Pending"
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
     },
     {
         "date": "04.03.2026 19:30",
@@ -62675,13 +64557,19 @@
         "matchCode": "4340405",
         "home": "Pineto",
         "away": "Forli",
+<<<<<<< HEAD
         "firstHalf": "1 - 0",
         "finalScore": "3 - 2",
+=======
+        "firstHalf": "-",
+        "finalScore": "-",
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "prediction": "Over 1.5 Goals",
         "ihtimal": "74.21",
         "odds": "1.16",
         "matchCount": "221",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340405",
+<<<<<<< HEAD
         "status": "Won"
     },
     {
@@ -63717,6 +65605,8 @@
         "odds": "1.10",
         "matchCount": "39",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4439754",
+=======
+>>>>>>> b5773a252158ebc1410b3193566c077bfc5957b4
         "status": "Pending"
     }
 ]
