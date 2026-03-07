@@ -66365,14 +66365,14 @@
         "matchCode": "4420723",
         "home": "Rockdale Cs",
         "away": "Sydney Olympic",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "4 - 1",
+        "finalScore": "4 - 1",
         "prediction": "Double Chance 12",
         "ihtimal": "89.29",
         "odds": "1.05",
         "matchCount": "28",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4420723",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "07.03.2026 08:35",
@@ -66395,14 +66395,14 @@
         "matchCode": "4421100",
         "home": "Croydon Kings",
         "away": "Adelaide City",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 2",
+        "finalScore": "0 - 4",
         "prediction": "Double Chance 12",
         "ihtimal": "71.43",
         "odds": "1.09",
         "matchCount": "42",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4421100",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "07.03.2026 10:00",
@@ -66642,6 +66642,36 @@
         "odds": "1.33",
         "matchCount": "1",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4449405",
+        "status": "Pending"
+    },
+    {
+        "date": "07.03.2026 12:00",
+        "league": "GER2",
+        "matchCode": "4306784",
+        "home": "Darmstadt",
+        "away": "Holstein Kiel",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (1:0) 1",
+        "ihtimal": "85.0",
+        "odds": "1.09",
+        "matchCount": "20",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4306784",
+        "status": "Pending"
+    },
+    {
+        "date": "07.03.2026 12:00",
+        "league": "GER2",
+        "matchCode": "4306784",
+        "home": "Darmstadt",
+        "away": "Holstein Kiel",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "80.0",
+        "odds": "1.15",
+        "matchCount": "20",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4306784",
         "status": "Pending"
     }
 ]
