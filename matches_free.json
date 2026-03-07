@@ -66380,14 +66380,14 @@
         "matchCode": "4378487",
         "home": "Sydney",
         "away": "Melbourne Victo",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "2 - 2",
         "prediction": "1st Half Over 0.5",
         "ihtimal": "93.75",
         "odds": "1.14",
         "matchCount": "16",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4378487",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "07.03.2026 09:00",
@@ -66627,6 +66627,21 @@
         "odds": "1.28",
         "matchCount": "20",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4446818",
+        "status": "Pending"
+    },
+    {
+        "date": "07.03.2026 12:00",
+        "league": "TUN",
+        "matchCode": "4449405",
+        "home": "Monastir",
+        "away": "Cs Sfaxien",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:1) 2",
+        "ihtimal": "100.0",
+        "odds": "1.33",
+        "matchCount": "1",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4449405",
         "status": "Pending"
     }
 ]
