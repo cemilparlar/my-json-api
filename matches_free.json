@@ -8857,6 +8857,21 @@
         "away": "Lee Man",
         "firstHalf": "0 - 2",
         "finalScore": "3 - 5",
+        "prediction": "Double Chance 12",
+        "ihtimal": "72.92",
+        "odds": "1.12",
+        "matchCount": "48",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4356539",
+        "status": "Won"
+    },
+    {
+        "date": "17.01.2026 07:00",
+        "league": "HKG1",
+        "matchCode": "4356539",
+        "home": "Wofoo Tai Po",
+        "away": "Lee Man",
+        "firstHalf": "0 - 2",
+        "finalScore": "3 - 5",
         "prediction": "Both Teams to Score - Yes",
         "ihtimal": "72.92",
         "odds": "1.31",
@@ -59130,6 +59145,21 @@
         "status": "Won"
     },
     {
+        "date": "28.02.2026 07:30",
+        "league": "KOR2",
+        "matchCode": "4442628",
+        "home": "Suwon Sb",
+        "away": "Seoul E-Land",
+        "firstHalf": "1 - 1",
+        "finalScore": "2 - 1",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "78.69",
+        "odds": "1.12",
+        "matchCount": "122",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4442628",
+        "status": "Won"
+    },
+    {
         "date": "28.02.2026 08:00",
         "league": " AVNPL",
         "matchCode": "4421653",
@@ -66106,6 +66136,21 @@
     },
     {
         "date": "07.03.2026 07:00",
+        "league": " HONFK",
+        "matchCode": "4385051",
+        "home": "Eastern",
+        "away": "Eastern Distric",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "74.85",
+        "odds": "1.12",
+        "matchCount": "163",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4385051",
+        "status": "Won"
+    },
+    {
+        "date": "07.03.2026 07:00",
         "league": "JPN1",
         "matchCode": "4437580",
         "home": "Kashima",
@@ -66117,6 +66162,21 @@
         "odds": "1.11",
         "matchCount": "50",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4437580",
+        "status": "Pending"
+    },
+    {
+        "date": "07.03.2026 07:00",
+        "league": " AVNPL",
+        "matchCode": "4447923",
+        "home": "Perth Redstar",
+        "away": "Olympic Kingswa",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance X2",
+        "ihtimal": "76.92",
+        "odds": "1.12",
+        "matchCount": "52",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4447923",
         "status": "Pending"
     },
     {
@@ -66192,6 +66252,21 @@
         "odds": "1.08",
         "matchCount": "139",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4442637",
+        "status": "Pending"
+    },
+    {
+        "date": "07.03.2026 07:30",
+        "league": "KOR1",
+        "matchCode": "4435120",
+        "home": "Gwangju",
+        "away": "Incheon Utd",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "91.67",
+        "odds": "1.12",
+        "matchCount": "12",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4435120",
         "status": "Pending"
     },
     {
@@ -66402,6 +66477,36 @@
         "odds": "1.18",
         "matchCount": "2",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4311399",
+        "status": "Pending"
+    },
+    {
+        "date": "07.03.2026 10:30",
+        "league": "TUR3-2",
+        "matchCode": "4311395",
+        "home": "12 Bingolspor",
+        "away": "Erciyes 38 Fsk",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 1",
+        "ihtimal": "70.59",
+        "odds": "1.35",
+        "matchCount": "17",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4311395",
+        "status": "Pending"
+    },
+    {
+        "date": "07.03.2026 11:00",
+        "league": "VIE",
+        "matchCode": "4448082",
+        "home": "Slna",
+        "away": "Van Hoa Hai Pho",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance X2",
+        "ihtimal": "70.59",
+        "odds": "1.12",
+        "matchCount": "68",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4448082",
         "status": "Pending"
     }
 ]
