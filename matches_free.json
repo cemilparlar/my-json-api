@@ -59146,6 +59146,21 @@
     },
     {
         "date": "28.02.2026 07:00",
+        "league": " AVNPL",
+        "matchCode": "4447916",
+        "home": "Armadale",
+        "away": "Western Knights",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 4",
+        "prediction": "Double Chance 12",
+        "ihtimal": "77.14",
+        "odds": "1.09",
+        "matchCount": "35",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4447916",
+        "status": "Won"
+    },
+    {
+        "date": "28.02.2026 07:00",
         "league": "AUS",
         "matchCode": "4378480",
         "home": "Brisbane Roar",
@@ -59182,11 +59197,41 @@
         "away": "South Melbourne",
         "firstHalf": "0 - 0",
         "finalScore": "1 - 2",
+        "prediction": "Double Chance 12",
+        "ihtimal": "73.96",
+        "odds": "1.09",
+        "matchCount": "96",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4421330",
+        "status": "Won"
+    },
+    {
+        "date": "28.02.2026 07:15",
+        "league": " AVNPL",
+        "matchCode": "4421330",
+        "home": "Altona Magic",
+        "away": "South Melbourne",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 2",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "70.83",
         "odds": "1.08",
         "matchCount": "96",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4421330",
+        "status": "Won"
+    },
+    {
+        "date": "28.02.2026 08:00",
+        "league": " AVNPL",
+        "matchCode": "4421653",
+        "home": "Maitland",
+        "away": "Weston Bears",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 2",
+        "prediction": "Double Chance 12",
+        "ihtimal": "92.31",
+        "odds": "1.09",
+        "matchCount": "26",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4421653",
         "status": "Won"
     },
     {
@@ -66065,14 +66110,14 @@
         "matchCode": "4421098",
         "home": "Sturt Lions",
         "away": "West Adelaide",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "3 - 0",
+        "finalScore": "4 - 3",
         "prediction": "Double Chance 12",
         "ihtimal": "74.74",
         "odds": "1.09",
         "matchCount": "95",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4421098",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "07.03.2026 05:45",
@@ -66272,6 +66317,21 @@
     {
         "date": "07.03.2026 08:00",
         "league": " AVNPL",
+        "matchCode": "4421335",
+        "home": "Dandenong Thun",
+        "away": "Avondale Height",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "80.33",
+        "odds": "1.09",
+        "matchCount": "61",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4421335",
+        "status": "Pending"
+    },
+    {
+        "date": "07.03.2026 08:00",
+        "league": " AVNPL",
         "matchCode": "4421336",
         "home": "South Melbourn",
         "away": "Bentleigh Green",
@@ -66297,6 +66357,21 @@
         "odds": "1.06",
         "matchCount": "70",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4421658",
+        "status": "Pending"
+    },
+    {
+        "date": "07.03.2026 08:00",
+        "league": " AVNPL",
+        "matchCode": "4420942",
+        "home": "Brisbane City",
+        "away": "Eastern Suburbs",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "74.75",
+        "odds": "1.09",
+        "matchCount": "99",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4420942",
         "status": "Pending"
     },
     {
@@ -66327,6 +66402,21 @@
         "odds": "1.14",
         "matchCount": "16",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4378487",
+        "status": "Pending"
+    },
+    {
+        "date": "07.03.2026 09:00",
+        "league": " AVNPL",
+        "matchCode": "4421100",
+        "home": "Croydon Kings",
+        "away": "Adelaide City",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "71.43",
+        "odds": "1.09",
+        "matchCount": "42",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4421100",
         "status": "Pending"
     }
 ]
