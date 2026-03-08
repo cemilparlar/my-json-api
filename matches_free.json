@@ -24060,6 +24060,21 @@
         "status": "Won"
     },
     {
+        "date": "29.01.2026 03:00",
+        "league": "GUA",
+        "matchCode": "4425776",
+        "home": "Antigua Guatem",
+        "away": "Comunicaciones",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 1",
+        "prediction": "Double Chance 12",
+        "ihtimal": "75.0",
+        "odds": "1.10",
+        "matchCount": "52",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4425776",
+        "status": "Won"
+    },
+    {
         "date": "29.01.2026 12:30",
         "league": " AFCAKŞ",
         "matchCode": "4332672",
@@ -28167,6 +28182,21 @@
         "odds": "1.13",
         "matchCount": "40",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432094",
+        "status": "Won"
+    },
+    {
+        "date": "01.02.2026 03:00",
+        "league": "AUSW",
+        "matchCode": "4378598",
+        "home": "Canberra Unite",
+        "away": "Melbourne Victo",
+        "firstHalf": "0 - 0",
+        "finalScore": "3 - 1",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "79.17",
+        "odds": "1.10",
+        "matchCount": "48",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4378598",
         "status": "Won"
     },
     {
@@ -67921,18 +67951,63 @@
     },
     {
         "date": "08.03.2026 03:00",
+        "league": "USL",
+        "matchCode": "4449626",
+        "home": "Orange County",
+        "away": "Las Vegas Light",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 1",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "71.43",
+        "odds": "1.10",
+        "matchCount": "84",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4449626",
+        "status": "Won"
+    },
+    {
+        "date": "08.03.2026 03:00",
+        "league": "MEX2",
+        "matchCode": "4418174",
+        "home": "Ca La Paz",
+        "away": "Tlaxcala",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "Double Chance 12",
+        "ihtimal": "78.5",
+        "odds": "1.10",
+        "matchCount": "107",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4418174",
+        "status": "Won"
+    },
+    {
+        "date": "08.03.2026 03:00",
         "league": "MEX",
         "matchCode": "4418305",
         "home": "Tigres Uanl",
         "away": "Monterrey",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "Double Chance 12",
+        "ihtimal": "74.42",
+        "odds": "1.10",
+        "matchCount": "86",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4418305",
+        "status": "Won"
+    },
+    {
+        "date": "08.03.2026 03:00",
+        "league": "MEX",
+        "matchCode": "4418305",
+        "home": "Tigres Uanl",
+        "away": "Monterrey",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
         "prediction": "Under 3.5 Goals",
         "ihtimal": "76.74",
         "odds": "1.20",
         "matchCount": "86",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4418305",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "08.03.2026 03:00",
@@ -67940,14 +68015,14 @@
         "matchCode": "4421225",
         "home": "South East Uni",
         "away": "Clarence Zebras",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "1 - 2",
         "prediction": "1st Half Double Chance 12",
         "ihtimal": "100.0",
         "odds": "1.17",
         "matchCount": "2",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4421225",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "08.03.2026 07:30",
@@ -67962,6 +68037,21 @@
         "odds": "1.05",
         "matchCount": "34",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4442641",
+        "status": "Pending"
+    },
+    {
+        "date": "08.03.2026 07:30",
+        "league": "KOR1",
+        "matchCode": "4435123",
+        "home": "Anyang",
+        "away": "Jeju Utd",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "73.91",
+        "odds": "1.05",
+        "matchCount": "23",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4435123",
         "status": "Pending"
     }
 ]
