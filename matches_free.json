@@ -17445,6 +17445,21 @@
         "status": "Won"
     },
     {
+        "date": "23.01.2026 20:15",
+        "league": "POR1",
+        "matchCode": "4309392",
+        "home": "Casa Pia",
+        "away": "Avs",
+        "firstHalf": "1 - 0",
+        "finalScore": "3 - 3",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "100.0",
+        "odds": "1.35",
+        "matchCount": "2",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4309392",
+        "status": "Won"
+    },
+    {
         "date": "23.01.2026 19:45",
         "league": "ITA1",
         "matchCode": "4291640",
@@ -36247,6 +36262,21 @@
         "away": "Guimaraes",
         "firstHalf": "1 - 2",
         "finalScore": "3 - 2",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "100.0",
+        "odds": "1.35",
+        "matchCount": "1",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4309416",
+        "status": "Won"
+    },
+    {
+        "date": "07.02.2026 20:30",
+        "league": "POR1",
+        "matchCode": "4309416",
+        "home": "Arouca",
+        "away": "Guimaraes",
+        "firstHalf": "1 - 2",
+        "finalScore": "3 - 2",
         "prediction": "Handicap (1:0) 1",
         "ihtimal": "100.0",
         "odds": "1.33",
@@ -38382,6 +38412,21 @@
         "odds": "1.09",
         "matchCount": "65",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4437131",
+        "status": "Won"
+    },
+    {
+        "date": "09.02.2026 20:45",
+        "league": "POR1",
+        "matchCode": "4309417",
+        "home": "Porto",
+        "away": "Sporting CP",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 1",
+        "prediction": "Double Chance X2",
+        "ihtimal": "75.0",
+        "odds": "1.35",
+        "matchCount": "4",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4309417",
         "status": "Won"
     },
     {
@@ -58545,6 +58590,21 @@
         "status": "Won"
     },
     {
+        "date": "27.02.2026 18:45",
+        "league": "POR1",
+        "matchCode": "4309439",
+        "home": "Porto",
+        "away": "Arouca",
+        "firstHalf": "1 - 0",
+        "finalScore": "3 - 1",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "100.0",
+        "odds": "1.35",
+        "matchCount": "1",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4309439",
+        "status": "Won"
+    },
+    {
         "date": "27.02.2026 19:30",
         "league": "POL",
         "matchCode": "4290694",
@@ -69781,6 +69841,21 @@
     },
     {
         "date": "08.03.2026 18:00",
+        "league": "POR1",
+        "matchCode": "4309454",
+        "home": "Benfica",
+        "away": "Porto",
+        "firstHalf": "0 - 2",
+        "finalScore": "2 - 2",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "75.0",
+        "odds": "1.35",
+        "matchCount": "8",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4309454",
+        "status": "Won"
+    },
+    {
+        "date": "08.03.2026 18:00",
         "league": "POR2",
         "matchCode": "4316865",
         "home": "Lusitania De L",
@@ -69815,14 +69890,14 @@
         "matchCode": "4299827",
         "home": "St. Truidense",
         "away": "Cercle Brugge",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 1",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "85.71",
         "odds": "1.06",
         "matchCount": "7",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4299827",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "08.03.2026 18:30",
@@ -70212,6 +70287,36 @@
         "odds": "1.15",
         "matchCount": "190",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432135",
+        "status": "Pending"
+    },
+    {
+        "date": "08.03.2026 22:00",
+        "league": "MAR",
+        "matchCode": "4445069",
+        "home": "Rsb Berkane",
+        "away": "Difaa",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "100.0",
+        "odds": "1.06",
+        "matchCount": "8",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4445069",
+        "status": "Pending"
+    },
+    {
+        "date": "08.03.2026 22:00",
+        "league": " LIBER20",
+        "matchCode": "4450880",
+        "home": "Sporting Crist",
+        "away": "Olimpia Asuncio",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "77.27",
+        "odds": "1.08",
+        "matchCount": "44",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4450880",
         "status": "Pending"
     }
 ]
