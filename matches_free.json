@@ -69335,14 +69335,14 @@
         "matchCode": "4305867",
         "home": "Fc Andorra",
         "away": "Sporting Gijon",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
         "prediction": "Under 3.5 Goals",
         "ihtimal": "71.43",
         "odds": "1.12",
         "matchCount": "42",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4305867",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "08.03.2026 15:15",
@@ -69350,14 +69350,14 @@
         "matchCode": "4305442",
         "home": "Getafe",
         "away": "Real Betis",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "2 - 0",
+        "finalScore": "2 - 0",
         "prediction": "Over 1.5 Goals",
         "ihtimal": "100.0",
         "odds": "1.37",
         "matchCount": "1",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4305442",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "08.03.2026 15:30",
@@ -69702,6 +69702,36 @@
         "odds": "1.06",
         "matchCount": "54",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4362731",
+        "status": "Pending"
+    },
+    {
+        "date": "08.03.2026 17:15",
+        "league": "ESP3",
+        "matchCode": "4357218",
+        "home": "Atl Madrid Ii",
+        "away": "Hercules",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "80.61",
+        "odds": "1.05",
+        "matchCount": "98",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4357218",
+        "status": "Pending"
+    },
+    {
+        "date": "08.03.2026 17:30",
+        "league": "ESP3",
+        "matchCode": "4356840",
+        "home": "Barakaldo",
+        "away": "Ourense Cf",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "89.87",
+        "odds": "1.05",
+        "matchCount": "79",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4356840",
         "status": "Pending"
     }
 ]
