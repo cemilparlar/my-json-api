@@ -68240,14 +68240,14 @@
         "matchCode": "4322779",
         "home": "Mosonmagyarova",
         "away": "Veszprem",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
         "prediction": "Double Chance 1X",
         "ihtimal": "80.22",
         "odds": "1.05",
         "matchCount": "91",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4322779",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "08.03.2026 10:00",
@@ -68622,6 +68622,51 @@
         "odds": "1.06",
         "matchCount": "109",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4297416",
+        "status": "Pending"
+    },
+    {
+        "date": "08.03.2026 12:00",
+        "league": " İSÇK",
+        "matchCode": "4416395",
+        "home": "Elfsborg",
+        "away": "Sirius",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "72.73",
+        "odds": "1.10",
+        "matchCount": "33",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4416395",
+        "status": "Pending"
+    },
+    {
+        "date": "08.03.2026 12:00",
+        "league": " MAC3",
+        "matchCode": "4323019",
+        "home": "Bekescsaba Ii",
+        "away": "Szegedi Vse",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "79.13",
+        "odds": "1.10",
+        "matchCount": "115",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4323019",
+        "status": "Pending"
+    },
+    {
+        "date": "08.03.2026 12:00",
+        "league": "POL2",
+        "matchCode": "4321492",
+        "home": "Slask Wroclaw",
+        "away": "Olimpia Grudzia",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "70.0",
+        "odds": "1.09",
+        "matchCount": "140",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4321492",
         "status": "Pending"
     }
 ]
