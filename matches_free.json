@@ -37192,6 +37192,21 @@
         "away": "Pardubice",
         "firstHalf": "0 - 0",
         "finalScore": "1 - 2",
+        "prediction": "Double Chance 12",
+        "ihtimal": "78.9",
+        "odds": "1.15",
+        "matchCount": "109",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4297386",
+        "status": "Won"
+    },
+    {
+        "date": "08.02.2026 14:30",
+        "league": "CZE",
+        "matchCode": "4297386",
+        "home": "Bohemians 1905",
+        "away": "Pardubice",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 2",
         "prediction": "Over 1.5 Goals",
         "ihtimal": "75.23",
         "odds": "1.13",
@@ -52275,21 +52290,6 @@
         "status": "Won"
     },
     {
-        "date": "22.02.2026 12:00",
-        "league": " İSÇK",
-        "matchCode": "4416384",
-        "home": "Aik Stockholm",
-        "away": "Vasteras",
-        "firstHalf": "0 - 2",
-        "finalScore": "0 - 2",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "80.28",
-        "odds": "1.09",
-        "matchCount": "71",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4416384",
-        "status": "Won"
-    },
-    {
         "date": "22.02.2026 12:15",
         "league": "BUL1",
         "matchCode": "4379720",
@@ -52330,21 +52330,6 @@
         "prediction": "Double Chance 12",
         "ihtimal": "90.0",
         "odds": "1.05",
-        "matchCount": "10",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4299807",
-        "status": "Won"
-    },
-    {
-        "date": "22.02.2026 12:30",
-        "league": "BEL",
-        "matchCode": "4299807",
-        "home": "Genk",
-        "away": "Standard Liege",
-        "firstHalf": "0 - 2",
-        "finalScore": "0 - 3",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "70.0",
-        "odds": "1.09",
         "matchCount": "10",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4299807",
         "status": "Won"
@@ -53257,9 +53242,39 @@
         "away": "Sparta Prag",
         "firstHalf": "0 - 0",
         "finalScore": "0 - 0",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "82.28",
+        "odds": "1.15",
+        "matchCount": "79",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4297396",
+        "status": "Won"
+    },
+    {
+        "date": "22.02.2026 17:30",
+        "league": "CZE",
+        "matchCode": "4297396",
+        "home": "Viktoria Plzen",
+        "away": "Sparta Prag",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
         "prediction": "1st Half Under 1.5",
         "ihtimal": "72.15",
         "odds": "1.23",
+        "matchCount": "79",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4297396",
+        "status": "Won"
+    },
+    {
+        "date": "22.02.2026 17:30",
+        "league": "CZE",
+        "matchCode": "4297396",
+        "home": "Viktoria Plzen",
+        "away": "Sparta Prag",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "75.95",
+        "odds": "1.15",
         "matchCount": "79",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4297396",
         "status": "Won"
@@ -68555,14 +68570,14 @@
         "matchCode": "4416394",
         "home": "Helsingborg",
         "away": "Sundsvall",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 1",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "90.48",
         "odds": "1.05",
         "matchCount": "42",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4416394",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "08.03.2026 12:00",
@@ -68570,14 +68585,29 @@
         "matchCode": "4297416",
         "home": "Banik Ostrava",
         "away": "Zlin",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "3 - 0",
+        "finalScore": "6 - 2",
         "prediction": "Double Chance 1X",
         "ihtimal": "82.57",
         "odds": "1.06",
         "matchCount": "109",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4297416",
-        "status": "Pending"
+        "status": "Won"
+    },
+    {
+        "date": "08.03.2026 12:00",
+        "league": "CZE",
+        "matchCode": "4297416",
+        "home": "Banik Ostrava",
+        "away": "Zlin",
+        "firstHalf": "3 - 0",
+        "finalScore": "6 - 2",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "73.39",
+        "odds": "1.15",
+        "matchCount": "109",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4297416",
+        "status": "Won"
     },
     {
         "date": "08.03.2026 12:00",
@@ -68585,14 +68615,14 @@
         "matchCode": "4416395",
         "home": "Elfsborg",
         "away": "Sirius",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "1 - 2",
         "prediction": "Double Chance 12",
         "ihtimal": "72.73",
         "odds": "1.10",
         "matchCount": "33",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4416395",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "08.03.2026 12:00",
@@ -68607,21 +68637,6 @@
         "odds": "1.10",
         "matchCount": "115",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4323019",
-        "status": "Pending"
-    },
-    {
-        "date": "08.03.2026 12:00",
-        "league": "POL2",
-        "matchCode": "4321492",
-        "home": "Slask Wroclaw",
-        "away": "Olimpia Grudzia",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "70.0",
-        "odds": "1.09",
-        "matchCount": "140",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4321492",
         "status": "Pending"
     },
     {
@@ -68832,6 +68847,21 @@
         "odds": "1.06",
         "matchCount": "16",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4319610",
+        "status": "Pending"
+    },
+    {
+        "date": "08.03.2026 14:00",
+        "league": "IND SL",
+        "matchCode": "4443148",
+        "home": "Mumbai City",
+        "away": "Sporting Delhi",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "77.78",
+        "odds": "1.14",
+        "matchCount": "9",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4443148",
         "status": "Pending"
     }
 ]
