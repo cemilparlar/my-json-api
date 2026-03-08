@@ -37171,6 +37171,21 @@
     },
     {
         "date": "08.02.2026 14:00",
+        "league": "ITAC",
+        "matchCode": "4343038",
+        "home": "Juventus U20",
+        "away": "Hellas Verona U",
+        "firstHalf": "1 - 0",
+        "finalScore": "3 - 1",
+        "prediction": "Double Chance 12",
+        "ihtimal": "77.78",
+        "odds": "1.11",
+        "matchCount": "27",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4343038",
+        "status": "Won"
+    },
+    {
+        "date": "08.02.2026 14:00",
         "league": "ENG1",
         "matchCode": "4295639",
         "home": "Brighton",
@@ -68255,14 +68270,14 @@
         "matchCode": "4343091",
         "home": "Roma U20",
         "away": "Parma U20",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 1",
         "prediction": "Double Chance 12",
         "ihtimal": "71.13",
         "odds": "1.11",
         "matchCount": "97",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4343091",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "08.03.2026 10:00",
@@ -68270,14 +68285,14 @@
         "matchCode": "4322782",
         "home": "Gyor Ii",
         "away": "Haladas Vse",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 2",
+        "finalScore": "2 - 4",
         "prediction": "Double Chance 12",
         "ihtimal": "74.42",
         "odds": "1.11",
         "matchCount": "172",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4322782",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "08.03.2026 10:30",
@@ -68667,6 +68682,51 @@
         "odds": "1.09",
         "matchCount": "140",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4321492",
+        "status": "Pending"
+    },
+    {
+        "date": "08.03.2026 12:15",
+        "league": "VIE",
+        "matchCode": "4448085",
+        "home": "Ha Noi T&T",
+        "away": "Cand",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "72.84",
+        "odds": "1.11",
+        "matchCount": "81",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4448085",
+        "status": "Pending"
+    },
+    {
+        "date": "08.03.2026 12:30",
+        "league": "HUN",
+        "matchCode": "4296793",
+        "home": "Mtk",
+        "away": "Diosgyor",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 4.5 Goals",
+        "ihtimal": "86.11",
+        "odds": "1.05",
+        "matchCount": "108",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4296793",
+        "status": "Pending"
+    },
+    {
+        "date": "08.03.2026 12:30",
+        "league": "EST",
+        "matchCode": "4449442",
+        "home": "Tammeka Tartu",
+        "away": "Nomme Kalju",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 2",
+        "ihtimal": "83.33",
+        "odds": "1.22",
+        "matchCount": "6",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4449442",
         "status": "Pending"
     }
 ]
