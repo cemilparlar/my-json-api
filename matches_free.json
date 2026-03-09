@@ -2700,6 +2700,21 @@
         "status": "Won"
     },
     {
+        "date": "05.01.2026 18:00",
+        "league": "POR2",
+        "matchCode": "4316793",
+        "home": "Benfica B",
+        "away": "Porto B",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 1",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "78.38",
+        "odds": "1.06",
+        "matchCount": "74",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4316793",
+        "status": "Won"
+    },
+    {
         "date": "05.01.2026 19:30",
         "league": "ITA3",
         "matchCode": "4339922",
@@ -6342,6 +6357,21 @@
         "odds": "1.20",
         "matchCount": "40",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4354270",
+        "status": "Won"
+    },
+    {
+        "date": "12.01.2026 18:00",
+        "league": "EGY LC",
+        "matchCode": "4409620",
+        "home": "National Bank of Egypt",
+        "away": "Ismaily",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "72.73",
+        "odds": "1.06",
+        "matchCount": "11",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4409620",
         "status": "Won"
     },
     {
@@ -46141,6 +46171,21 @@
     },
     {
         "date": "16.02.2026 18:00",
+        "league": "EGY",
+        "matchCode": "4338307",
+        "home": "Enppi",
+        "away": "National Bank of Egypt",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "85.71",
+        "odds": "1.06",
+        "matchCount": "21",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338307",
+        "status": "Won"
+    },
+    {
+        "date": "16.02.2026 18:00",
         "league": "POL",
         "matchCode": "4290677",
         "home": "Nieciecza",
@@ -46197,6 +46242,21 @@
         "odds": "1.08",
         "matchCount": "237",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4316833",
+        "status": "Won"
+    },
+    {
+        "date": "16.02.2026 18:00",
+        "league": "DEN",
+        "matchCode": "4291413",
+        "home": "Sonderjyske",
+        "away": "Silkeborg",
+        "firstHalf": "0 - 1",
+        "finalScore": "2 - 1",
+        "prediction": "Under 4.5 Goals",
+        "ihtimal": "83.33",
+        "odds": "1.06",
+        "matchCount": "6",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4291413",
         "status": "Won"
     },
     {
@@ -70100,14 +70160,29 @@
         "matchCode": "4450105",
         "home": "Egersunds",
         "away": "Aalesund",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 1",
+        "finalScore": "2 - 3",
         "prediction": "Double Chance X2",
         "ihtimal": "71.88",
         "odds": "1.15",
         "matchCount": "32",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4450105",
-        "status": "Pending"
+        "status": "Won"
+    },
+    {
+        "date": "09.03.2026 18:00",
+        "league": " NOK",
+        "matchCode": "4450105",
+        "home": "Egersunds",
+        "away": "Aalesund",
+        "firstHalf": "1 - 1",
+        "finalScore": "2 - 3",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "84.38",
+        "odds": "1.06",
+        "matchCount": "32",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4450105",
+        "status": "Won"
     },
     {
         "date": "09.03.2026 19:00",
