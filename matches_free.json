@@ -4201,6 +4201,21 @@
     },
     {
         "date": "10.01.2026 10:00",
+        "league": "ITAC",
+        "matchCode": "4342989",
+        "home": "Napoli U20",
+        "away": "Lazio U20",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "72.73",
+        "odds": "1.15",
+        "matchCount": "66",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4342989",
+        "status": "Won"
+    },
+    {
+        "date": "10.01.2026 10:00",
         "league": "FR",
         "matchCode": "4417853",
         "home": "Sigma Olomouc",
@@ -9225,36 +9240,6 @@
         "status": "Won"
     },
     {
-        "date": "17.01.2026 10:00",
-        "league": "ITAC",
-        "matchCode": "4342994",
-        "home": "Cesena U20",
-        "away": "Frosinone U20",
-        "firstHalf": "0 - 0",
-        "finalScore": "2 - 1",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "82.61",
-        "odds": "1.11",
-        "matchCount": "46",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4342994",
-        "status": "Won"
-    },
-    {
-        "date": "17.01.2026 10:00",
-        "league": "ITAC",
-        "matchCode": "4342994",
-        "home": "Cesena U20",
-        "away": "Frosinone U20",
-        "firstHalf": "0 - 0",
-        "finalScore": "2 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "71.74",
-        "odds": "1.11",
-        "matchCount": "46",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4342994",
-        "status": "Won"
-    },
-    {
         "date": "17.01.2026 11:00",
         "league": "THA",
         "matchCode": "4414953",
@@ -12535,6 +12520,21 @@
         "prediction": "Double Chance 12",
         "ihtimal": "84.21",
         "odds": "1.13",
+        "matchCount": "19",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4342999",
+        "status": "Won"
+    },
+    {
+        "date": "18.01.2026 10:00",
+        "league": "ITAC",
+        "matchCode": "4342999",
+        "home": "Lecce U20",
+        "away": "Bologna U20",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "78.95",
+        "odds": "1.15",
         "matchCount": "19",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4342999",
         "status": "Won"
@@ -44250,6 +44250,21 @@
         "status": "Won"
     },
     {
+        "date": "15.02.2026 10:00",
+        "league": "ITAC",
+        "matchCode": "4343050",
+        "home": "Napoli U20",
+        "away": "Parma U20",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 1",
+        "prediction": "Double Chance X2",
+        "ihtimal": "74.36",
+        "odds": "1.15",
+        "matchCount": "39",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4343050",
+        "status": "Won"
+    },
+    {
         "date": "15.02.2026 10:30",
         "league": "AZE",
         "matchCode": "4375363",
@@ -50022,21 +50037,6 @@
         "odds": "1.07",
         "matchCount": "32",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4421647",
-        "status": "Won"
-    },
-    {
-        "date": "21.02.2026 10:30",
-        "league": "TUR1",
-        "matchCode": "4309073",
-        "home": "Igdir FK",
-        "away": "Esenler Erokspo",
-        "firstHalf": "0 - 1",
-        "finalScore": "0 - 3",
-        "prediction": "Double Chance 12",
-        "ihtimal": "75.71",
-        "odds": "1.11",
-        "matchCount": "70",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4309073",
         "status": "Won"
     },
     {
@@ -70130,14 +70130,14 @@
         "matchCode": "4343089",
         "home": "Lecce U20",
         "away": "Torino U20",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "76.26",
-        "odds": "1.11",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 1",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "77.7",
+        "odds": "1.15",
         "matchCount": "139",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4343089",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "09.03.2026 12:00",
