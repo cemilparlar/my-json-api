@@ -15060,6 +15060,21 @@
         "status": "Won"
     },
     {
+        "date": "19.01.2026 20:15",
+        "league": "POR1",
+        "matchCode": "4309387",
+        "home": "Estrela",
+        "away": "Estoril",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 5",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "85.71",
+        "odds": "1.21",
+        "matchCount": "7",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4309387",
+        "status": "Won"
+    },
+    {
         "date": "20.01.2026 11:00",
         "league": "POR U23",
         "matchCode": "4418518",
@@ -15790,21 +15805,6 @@
         "prediction": "Double Chance 12",
         "ihtimal": "100.0",
         "odds": "1.11",
-        "matchCount": "1",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4360251",
-        "status": "Won"
-    },
-    {
-        "date": "20.01.2026 20:00",
-        "league": "CL",
-        "matchCode": "4360251",
-        "home": "Sporting CP",
-        "away": "Paris Saint-Germain",
-        "firstHalf": "0 - 0",
-        "finalScore": "2 - 1",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "100.0",
-        "odds": "1.13",
         "matchCount": "1",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4360251",
         "status": "Won"
@@ -41370,21 +41370,6 @@
         "status": "Won"
     },
     {
-        "date": "13.02.2026 20:05",
-        "league": "FRA1",
-        "matchCode": "4303230",
-        "home": "Monaco",
-        "away": "Nantes",
-        "firstHalf": "3 - 1",
-        "finalScore": "3 - 1",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "100.0",
-        "odds": "1.13",
-        "matchCount": "1",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4303230",
-        "status": "Won"
-    },
-    {
         "date": "13.02.2026 20:15",
         "league": "ESP3",
         "matchCode": "4356813",
@@ -51595,6 +51580,21 @@
         "prediction": "Over 1.5 Goals",
         "ihtimal": "78.57",
         "odds": "1.15",
+        "matchCount": "14",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4309436",
+        "status": "Won"
+    },
+    {
+        "date": "21.02.2026 20:30",
+        "league": "POR1",
+        "matchCode": "4309436",
+        "home": "Braga",
+        "away": "Guimaraes",
+        "firstHalf": "2 - 1",
+        "finalScore": "3 - 2",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "85.71",
+        "odds": "1.21",
         "matchCount": "14",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4309436",
         "status": "Won"
@@ -63226,6 +63226,21 @@
     },
     {
         "date": "04.03.2026 20:00",
+        "league": "FRA CUP",
+        "matchCode": "4441323",
+        "home": "Marseille",
+        "away": "Toulouse",
+        "firstHalf": "1 - 1",
+        "finalScore": null,
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "72.73",
+        "odds": "1.21",
+        "matchCount": "22",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4441323",
+        "status": "Won"
+    },
+    {
+        "date": "04.03.2026 20:00",
         "league": "ESP CUP",
         "matchCode": "4439553",
         "home": "Real Sociedad",
@@ -71630,14 +71645,14 @@
         "matchCode": "4448057",
         "home": "Atletico Madrid",
         "away": "Tottenham",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "4 - 1",
+        "finalScore": "5 - 2",
         "prediction": "1st Half Over 0.5",
         "ihtimal": "73.91",
         "odds": "1.21",
         "matchCount": "23",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4448057",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "10.03.2026 20:00",
@@ -71645,14 +71660,14 @@
         "matchCode": "4448055",
         "home": "Atalanta",
         "away": "B.Munih",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 3",
+        "finalScore": "1 - 6",
         "prediction": "Double Chance 12",
         "ihtimal": "100.0",
         "odds": "1.06",
         "matchCount": "8",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4448055",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "10.03.2026 20:00",
@@ -71660,29 +71675,14 @@
         "matchCode": "4448055",
         "home": "Atalanta",
         "away": "B.Munih",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "87.5",
-        "odds": "1.13",
-        "matchCount": "8",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4448055",
-        "status": "Pending"
-    },
-    {
-        "date": "10.03.2026 20:00",
-        "league": "CL",
-        "matchCode": "4448055",
-        "home": "Atalanta",
-        "away": "B.Munih",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 3",
+        "finalScore": "1 - 6",
         "prediction": "1st Half Over 0.5",
         "ihtimal": "75.0",
         "odds": "1.08",
         "matchCount": "8",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4448055",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "10.03.2026 22:45",
