@@ -1636,6 +1636,21 @@
     },
     {
         "date": "04.01.2026 12:00",
+        "league": "IDN1",
+        "matchCode": "4337970",
+        "home": "Bali United",
+        "away": "Arema",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "71.67",
+        "odds": "1.06",
+        "matchCount": "60",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4337970",
+        "status": "Won"
+    },
+    {
+        "date": "04.01.2026 12:00",
         "league": "ENG2",
         "matchCode": "4303973",
         "home": "Lincoln",
@@ -43920,6 +43935,21 @@
         "status": "Won"
     },
     {
+        "date": "15.02.2026 08:30",
+        "league": "IDN1",
+        "matchCode": "4338014",
+        "home": "Arema",
+        "away": "Semen Padang",
+        "firstHalf": "1 - 0",
+        "finalScore": "3 - 0",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "78.64",
+        "odds": "1.06",
+        "matchCount": "103",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338014",
+        "status": "Won"
+    },
+    {
         "date": "15.02.2026 10:00",
         "league": "BUL1",
         "matchCode": "4379715",
@@ -56860,6 +56890,21 @@
         "prediction": "Double Chance 12",
         "ihtimal": "78.12",
         "odds": "1.09",
+        "matchCount": "128",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338032",
+        "status": "Won"
+    },
+    {
+        "date": "26.02.2026 13:30",
+        "league": "IDN1",
+        "matchCode": "4338032",
+        "home": "Borneo Fc",
+        "away": "Arema",
+        "firstHalf": "3 - 0",
+        "finalScore": "3 - 1",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "81.25",
+        "odds": "1.06",
         "matchCount": "128",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338032",
         "status": "Won"
@@ -71750,14 +71795,14 @@
         "matchCode": "4338052",
         "home": "Psim Yogyakart",
         "away": "Persijap",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "2 - 1",
+        "finalScore": "2 - 2",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "77.27",
         "odds": "1.06",
         "matchCount": "132",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338052",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "11.03.2026 15:30",
@@ -71907,6 +71952,51 @@
         "odds": "1.15",
         "matchCount": "10",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4448059",
+        "status": "Pending"
+    },
+    {
+        "date": "11.03.2026 18:00",
+        "league": "ESP3",
+        "matchCode": "4357186",
+        "home": "Antequera",
+        "away": "Algeciras",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "72.73",
+        "odds": "1.15",
+        "matchCount": "88",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4357186",
+        "status": "Pending"
+    },
+    {
+        "date": "11.03.2026 18:00",
+        "league": "ESP3",
+        "matchCode": "4357186",
+        "home": "Antequera",
+        "away": "Algeciras",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "79.55",
+        "odds": "1.06",
+        "matchCount": "88",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4357186",
+        "status": "Pending"
+    },
+    {
+        "date": "11.03.2026 18:00",
+        "league": "FRA CUP",
+        "matchCode": "4363343",
+        "home": "Dijon Women",
+        "away": "Saint-Etienne (",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "75.56",
+        "odds": "1.22",
+        "matchCount": "45",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4363343",
         "status": "Pending"
     }
 ]
