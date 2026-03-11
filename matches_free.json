@@ -62881,6 +62881,21 @@
     },
     {
         "date": "04.03.2026 18:30",
+        "league": "GER REG",
+        "matchCode": "4320480",
+        "home": "Velbert",
+        "away": "Bochum Ii",
+        "firstHalf": "1 - 3",
+        "finalScore": "2 - 3",
+        "prediction": "Double Chance 12",
+        "ihtimal": "76.74",
+        "odds": "1.09",
+        "matchCount": "43",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4320480",
+        "status": "Won"
+    },
+    {
+        "date": "04.03.2026 18:30",
         "league": "SWE1",
         "matchCode": "4326557",
         "home": "Bruhl",
@@ -72007,6 +72022,21 @@
         "away": "Saint-Etienne (",
         "firstHalf": "1 - 0",
         "finalScore": "2 - 0",
+        "prediction": "Double Chance 12",
+        "ihtimal": "75.56",
+        "odds": "1.09",
+        "matchCount": "45",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4363343",
+        "status": "Won"
+    },
+    {
+        "date": "11.03.2026 18:00",
+        "league": "FRA CUP",
+        "matchCode": "4363343",
+        "home": "Dijon Women",
+        "away": "Saint-Etienne (",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 0",
         "prediction": "1st Half Over 0.5",
         "ihtimal": "75.56",
         "odds": "1.22",
@@ -72027,6 +72057,36 @@
         "odds": "1.14",
         "matchCount": "139",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4445331",
+        "status": "Won"
+    },
+    {
+        "date": "11.03.2026 18:00",
+        "league": "GER REG",
+        "matchCode": "4319897",
+        "home": "Altglienicke",
+        "away": "Luckenwalde",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 2",
+        "prediction": "Double Chance 12",
+        "ihtimal": "74.14",
+        "odds": "1.09",
+        "matchCount": "58",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4319897",
+        "status": "Won"
+    },
+    {
+        "date": "11.03.2026 18:30",
+        "league": "SWE1",
+        "matchCode": "4326539",
+        "home": "Bavois",
+        "away": "Sc Kriens",
+        "firstHalf": "0 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "Double Chance 12",
+        "ihtimal": "75.0",
+        "odds": "1.09",
+        "matchCount": "44",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4326539",
         "status": "Won"
     },
     {
@@ -72387,6 +72447,21 @@
         "odds": "1.09",
         "matchCount": "2",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4450881",
+        "status": "Pending"
+    },
+    {
+        "date": "11.03.2026 22:45",
+        "league": "ARG",
+        "matchCode": "4432800",
+        "home": "Boca Juniors",
+        "away": "San Lorenzo",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 1",
+        "ihtimal": "100.0",
+        "odds": "1.49",
+        "matchCount": "1",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432800",
         "status": "Pending"
     }
 ]
