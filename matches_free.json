@@ -56537,6 +56537,21 @@
     {
         "date": "25.02.2026 22:00",
         "league": "BRA1",
+        "matchCode": "4423068",
+        "home": "Remo",
+        "away": "Internacional",
+        "firstHalf": "1 - 1",
+        "finalScore": "1 - 1",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "89.66",
+        "odds": "1.10",
+        "matchCount": "29",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4423068",
+        "status": "Won"
+    },
+    {
+        "date": "25.02.2026 22:00",
+        "league": "BRA1",
         "matchCode": "4423064",
         "home": "Bragantino",
         "away": "Atletico Pr",
@@ -56577,6 +56592,21 @@
         "odds": "1.06",
         "matchCount": "4",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4425556",
+        "status": "Won"
+    },
+    {
+        "date": "25.02.2026 22:30",
+        "league": "ARG",
+        "matchCode": "4432757",
+        "home": "Newells Old Bo",
+        "away": "Estudiantes Lp",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 2",
+        "prediction": "Handicap (0:1) 2",
+        "ihtimal": "100.0",
+        "odds": "1.10",
+        "matchCount": "1",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432757",
         "status": "Won"
     },
     {
@@ -63252,6 +63282,21 @@
         "odds": "1.10",
         "matchCount": "168",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4447782",
+        "status": "Won"
+    },
+    {
+        "date": "04.03.2026 22:00",
+        "league": " LKU",
+        "matchCode": "4449319",
+        "home": "Carabobo",
+        "away": "Sporting Crista",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 1",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "75.0",
+        "odds": "1.10",
+        "matchCount": "104",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4449319",
         "status": "Won"
     },
     {
@@ -72016,18 +72061,33 @@
     },
     {
         "date": "11.03.2026 22:00",
+        "league": "BRA1",
+        "matchCode": "4423071",
+        "home": "Atletico Mg",
+        "away": "Internacional",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "76.47",
+        "odds": "1.10",
+        "matchCount": "34",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4423071",
+        "status": "Won"
+    },
+    {
+        "date": "11.03.2026 22:00",
         "league": " LIBER20",
         "matchCode": "4450881",
         "home": "Olimpia Asunci",
         "away": "",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 1",
         "prediction": "Match Result 2",
         "ihtimal": "100.0",
         "odds": "1.09",
         "matchCount": "2",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4450881",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "11.03.2026 22:45",
