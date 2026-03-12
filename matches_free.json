@@ -15901,6 +15901,21 @@
     },
     {
         "date": "22.01.2026 12:30",
+        "league": "IRN",
+        "matchCode": "4414104",
+        "home": "Malavan Fc",
+        "away": "Foolad Khuzesta",
+        "firstHalf": "0 - 0",
+        "finalScore": "2 - 2",
+        "prediction": "Over 0.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.08",
+        "matchCount": "1",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4414104",
+        "status": "Won"
+    },
+    {
+        "date": "22.01.2026 12:30",
         "league": "EGY2",
         "matchCode": "4351990",
         "home": "La Viena Fc",
@@ -16107,21 +16122,6 @@
         "odds": "1.13",
         "matchCount": "5",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4360411",
-        "status": "Won"
-    },
-    {
-        "date": "22.01.2026 17:45",
-        "league": "UEL",
-        "matchCode": "4360405",
-        "home": "Young Boys",
-        "away": "Lyon",
-        "firstHalf": "0 - 1",
-        "finalScore": "0 - 1",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "100.0",
-        "odds": "1.06",
-        "matchCount": "3",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4360405",
         "status": "Won"
     },
     {
@@ -32250,21 +32250,6 @@
         "status": "Won"
     },
     {
-        "date": "05.02.2026 14:00",
-        "league": "SVN",
-        "matchCode": "4301314",
-        "home": "Aluminij",
-        "away": "Olimpija Ljubli",
-        "firstHalf": "1 - 2",
-        "finalScore": "1 - 2",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "80.0",
-        "odds": "1.06",
-        "matchCount": "25",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4301314",
-        "status": "Won"
-    },
-    {
         "date": "05.02.2026 14:30",
         "league": "IRQ",
         "matchCode": "4438166",
@@ -39655,21 +39640,6 @@
         "prediction": "Under 3.5 Goals",
         "ihtimal": "80.0",
         "odds": "1.13",
-        "matchCount": "40",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4354332",
-        "status": "Won"
-    },
-    {
-        "date": "12.02.2026 15:45",
-        "league": "KSA",
-        "matchCode": "4354332",
-        "home": "Damak",
-        "away": "Al Taawon",
-        "firstHalf": "1 - 1",
-        "finalScore": "2 - 1",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "85.0",
-        "odds": "1.06",
         "matchCount": "40",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4354332",
         "status": "Won"
@@ -47520,21 +47490,6 @@
         "status": "Won"
     },
     {
-        "date": "18.02.2026 22:00",
-        "league": "SLV",
-        "matchCode": "4432117",
-        "home": "Hercules",
-        "away": "Cacahuatique",
-        "firstHalf": "0 - 2",
-        "finalScore": "1 - 3",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "84.51",
-        "odds": "1.06",
-        "matchCount": "71",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432117",
-        "status": "Won"
-    },
-    {
         "date": "19.02.2026 08:30",
         "league": " AVNPL",
         "matchCode": "4421318",
@@ -47937,21 +47892,6 @@
         "odds": "1.14",
         "matchCount": "119",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4354343",
-        "status": "Won"
-    },
-    {
-        "date": "19.02.2026 19:30",
-        "league": "EGY",
-        "matchCode": "4338310",
-        "home": "Al Mokawloon A",
-        "away": "Masryal Masry P",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "78.57",
-        "odds": "1.06",
-        "matchCount": "14",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338310",
         "status": "Won"
     },
     {
@@ -52062,21 +52002,6 @@
         "odds": "1.16",
         "matchCount": "10",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4299807",
-        "status": "Won"
-    },
-    {
-        "date": "22.02.2026 12:45",
-        "league": "POL2",
-        "matchCode": "4321473",
-        "home": "Nkp Podhale",
-        "away": "Olimpia Grudzia",
-        "firstHalf": "0 - 1",
-        "finalScore": "1 - 2",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "77.42",
-        "odds": "1.06",
-        "matchCount": "93",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4321473",
         "status": "Won"
     },
     {
@@ -63105,6 +63030,36 @@
         "status": "Won"
     },
     {
+        "date": "05.03.2026 12:15",
+        "league": " AFCŞL2",
+        "matchCode": "4446236",
+        "home": "Bangkok United",
+        "away": "Tampines Rovers",
+        "firstHalf": "2 - 0",
+        "finalScore": "2 - 1",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "82.76",
+        "odds": "1.08",
+        "matchCount": "29",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4446236",
+        "status": "Won"
+    },
+    {
+        "date": "05.03.2026 12:15",
+        "league": " AFCŞL2",
+        "matchCode": "4446236",
+        "home": "Bangkok United",
+        "away": "Tampines Rovers",
+        "firstHalf": "2 - 0",
+        "finalScore": "2 - 1",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "82.76",
+        "odds": "1.08",
+        "matchCount": "29",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4446236",
+        "status": "Won"
+    },
+    {
         "date": "05.03.2026 13:00",
         "league": "ITAC",
         "matchCode": "4343073",
@@ -65887,21 +65842,6 @@
         "away": "Swit Skolwin",
         "firstHalf": "0 - 1",
         "finalScore": "0 - 1",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "78.57",
-        "odds": "1.06",
-        "matchCount": "14",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4321498",
-        "status": "Won"
-    },
-    {
-        "date": "07.03.2026 13:00",
-        "league": "POL2",
-        "matchCode": "4321498",
-        "home": "Gks Jastrzebie",
-        "away": "Swit Skolwin",
-        "firstHalf": "0 - 1",
-        "finalScore": "0 - 1",
         "prediction": "1st Half Double Chance 12",
         "ihtimal": "78.57",
         "odds": "1.28",
@@ -68026,21 +67966,6 @@
     },
     {
         "date": "08.03.2026 11:00",
-        "league": "POL2",
-        "matchCode": "4321490",
-        "home": "Kalisz",
-        "away": "Chojniczanka",
-        "firstHalf": "0 - 1",
-        "finalScore": "0 - 1",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "78.26",
-        "odds": "1.06",
-        "matchCount": "69",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4321490",
-        "status": "Won"
-    },
-    {
-        "date": "08.03.2026 11:00",
         "league": "ESP4",
         "matchCode": "4362121",
         "home": "Zaragoza B",
@@ -69310,21 +69235,6 @@
         "prediction": "Double Chance 1X",
         "ihtimal": "75.7",
         "odds": "1.10",
-        "matchCount": "107",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4321496",
-        "status": "Won"
-    },
-    {
-        "date": "08.03.2026 18:30",
-        "league": "POL2",
-        "matchCode": "4321496",
-        "home": "Unia Skierniew",
-        "away": "Stal S Wola",
-        "firstHalf": "2 - 1",
-        "finalScore": "3 - 2",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "82.24",
-        "odds": "1.06",
         "matchCount": "107",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4321496",
         "status": "Won"
@@ -71870,14 +71780,14 @@
         "matchCode": "4321500",
         "home": "Lks Lodz Ii",
         "away": "Kalisz",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 0",
         "prediction": "Double Chance 12",
         "ihtimal": "85.0",
         "odds": "1.10",
         "matchCount": "60",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4321500",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "12.03.2026 12:00",
@@ -71885,14 +71795,14 @@
         "matchCode": "4321500",
         "home": "Lks Lodz Ii",
         "away": "Kalisz",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "86.67",
-        "odds": "1.06",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "75.0",
+        "odds": "1.08",
         "matchCount": "60",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4321500",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "12.03.2026 13:00",
@@ -71937,6 +71847,21 @@
         "odds": "1.08",
         "matchCount": "95",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4435321",
+        "status": "Pending"
+    },
+    {
+        "date": "12.03.2026 16:00",
+        "league": "GEO",
+        "matchCode": "4435323",
+        "home": "Dila Gori",
+        "away": "Meshakhte",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "79.73",
+        "odds": "1.06",
+        "matchCount": "74",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4435323",
         "status": "Pending"
     }
 ]
