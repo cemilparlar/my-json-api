@@ -3405,21 +3405,6 @@
         "status": "Won"
     },
     {
-        "date": "07.01.2026 14:35",
-        "league": "OMA",
-        "matchCode": "4414913",
-        "home": "Dhofar Scsc",
-        "away": "Al Nahda",
-        "firstHalf": "0 - 1",
-        "finalScore": "0 - 2",
-        "prediction": "Double Chance X2",
-        "ihtimal": "72.73",
-        "odds": "1.06",
-        "matchCount": "11",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4414913",
-        "status": "Won"
-    },
-    {
         "date": "07.01.2026 15:00",
         "league": "GRE",
         "matchCode": "4415984",
@@ -20167,21 +20152,6 @@
         "away": "Dhofar Scsc",
         "firstHalf": "1 - 0",
         "finalScore": "2 - 0",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "91.89",
-        "odds": "1.06",
-        "matchCount": "37",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4414926",
-        "status": "Won"
-    },
-    {
-        "date": "25.01.2026 13:05",
-        "league": "OMA",
-        "matchCode": "4414926",
-        "home": "Al Shabab",
-        "away": "Dhofar Scsc",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 0",
         "prediction": "Double Chance 12",
         "ihtimal": "75.68",
         "odds": "1.13",
@@ -34890,21 +34860,6 @@
         "status": "Won"
     },
     {
-        "date": "07.02.2026 15:45",
-        "league": "OMA",
-        "matchCode": "4414941",
-        "home": "Oman Fc",
-        "away": "Al Rustaq",
-        "firstHalf": "0 - 0",
-        "finalScore": "3 - 1",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "83.87",
-        "odds": "1.06",
-        "matchCount": "31",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4414941",
-        "status": "Won"
-    },
-    {
         "date": "07.02.2026 16:00",
         "league": "ESP4",
         "matchCode": "4361774",
@@ -44697,21 +44652,6 @@
         "odds": "1.28",
         "matchCount": "26",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4306451",
-        "status": "Won"
-    },
-    {
-        "date": "15.02.2026 14:50",
-        "league": "OMA",
-        "matchCode": "4445320",
-        "home": "Al Nasr",
-        "away": "Sur",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "84.21",
-        "odds": "1.06",
-        "matchCount": "38",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4445320",
         "status": "Won"
     },
     {
@@ -66541,21 +66481,6 @@
     },
     {
         "date": "07.03.2026 18:00",
-        "league": "OMA",
-        "matchCode": "4450429",
-        "home": "Bahla Club",
-        "away": "Al Rustaq",
-        "firstHalf": "1 - 1",
-        "finalScore": "3 - 1",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "73.68",
-        "odds": "1.06",
-        "matchCount": "38",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4450429",
-        "status": "Won"
-    },
-    {
-        "date": "07.03.2026 18:00",
         "league": "IRQ",
         "matchCode": "4449230",
         "home": "Newroz",
@@ -71911,21 +71836,6 @@
     },
     {
         "date": "12.03.2026 18:00",
-        "league": "OMA",
-        "matchCode": "4445334",
-        "home": "Al Seeb",
-        "away": "Al Nasr",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "89.47",
-        "odds": "1.06",
-        "matchCount": "19",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4445334",
-        "status": "Pending"
-    },
-    {
-        "date": "12.03.2026 18:00",
         "league": "IRQ",
         "matchCode": "4449234",
         "home": "Baghdad",
@@ -72177,6 +72087,36 @@
         "odds": "1.09",
         "matchCount": "1",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432798",
+        "status": "Pending"
+    },
+    {
+        "date": "12.03.2026 22:15",
+        "league": "ARG",
+        "matchCode": "4432802",
+        "home": "Talleres",
+        "away": "Instituto Cordo",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "80.0",
+        "odds": "1.15",
+        "matchCount": "5",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432802",
+        "status": "Pending"
+    },
+    {
+        "date": "12.03.2026 22:15",
+        "league": "ARG",
+        "matchCode": "4432809",
+        "home": "Rio Cuarto",
+        "away": "Belgrano",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "75.0",
+        "odds": "1.43",
+        "matchCount": "4",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432809",
         "status": "Pending"
     }
 ]
