@@ -9195,6 +9195,21 @@
         "status": "Won"
     },
     {
+        "date": "17.01.2026 08:35",
+        "league": "AUT",
+        "matchCode": "4378445",
+        "home": "Adelaide United",
+        "away": "Melbourne Victory",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 1",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "80.0",
+        "odds": "1.15",
+        "matchCount": "5",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4378445",
+        "status": "Won"
+    },
+    {
         "date": "17.01.2026 09:00",
         "league": "MYS CUP",
         "matchCode": "4427919",
@@ -33660,6 +33675,21 @@
         "status": "Won"
     },
     {
+        "date": "07.02.2026 08:30",
+        "league": "IDN1",
+        "matchCode": "4338002",
+        "home": "Bhayangkara Presisi Indonesia FC",
+        "away": "Borneo FC",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 2",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "81.48",
+        "odds": "1.15",
+        "matchCount": "27",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338002",
+        "status": "Won"
+    },
+    {
         "date": "07.02.2026 08:35",
         "league": "AUT",
         "matchCode": "4378463",
@@ -49335,6 +49365,21 @@
         "status": "Won"
     },
     {
+        "date": "21.02.2026 08:35",
+        "league": "AUT",
+        "matchCode": "4378474",
+        "home": "Melbourne City FC",
+        "away": "Melbourne Victory",
+        "firstHalf": "1 - 1",
+        "finalScore": "1 - 3",
+        "prediction": "Double Chance 12",
+        "ihtimal": "82.35",
+        "odds": "1.15",
+        "matchCount": "34",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4378474",
+        "status": "Won"
+    },
+    {
         "date": "21.02.2026 10:30",
         "league": "BUL1",
         "matchCode": "4379722",
@@ -58527,6 +58572,21 @@
         "odds": "1.09",
         "matchCount": "26",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4421653",
+        "status": "Won"
+    },
+    {
+        "date": "28.02.2026 08:00",
+        "league": "JPN1",
+        "matchCode": "4437664",
+        "home": "V-Varen Nagasaki",
+        "away": "Cerezo Osaka",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "80.77",
+        "odds": "1.15",
+        "matchCount": "52",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4437664",
         "status": "Won"
     },
     {
@@ -74596,36 +74656,6 @@
     },
     {
         "date": "14.03.2026 07:00",
-        "league": "AUS NPL",
-        "matchCode": "4447928",
-        "home": "Western Knight",
-        "away": "Fremantle City",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "83.78",
-        "odds": "1.09",
-        "matchCount": "37",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4447928",
-        "status": "Pending"
-    },
-    {
-        "date": "14.03.2026 07:00",
-        "league": "AUS NPL",
-        "matchCode": "4447928",
-        "home": "Western Knight",
-        "away": "Fremantle City",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "70.27",
-        "odds": "1.22",
-        "matchCount": "37",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4447928",
-        "status": "Pending"
-    },
-    {
-        "date": "14.03.2026 07:00",
         "league": "JPN1",
         "matchCode": "4437585",
         "home": "Tokyo Verdy",
@@ -74645,14 +74675,29 @@
         "matchCode": "4420729",
         "home": "Rockdale City Suns",
         "away": "Apia",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 1",
         "prediction": "Double Chance 12",
         "ihtimal": "72.22",
         "odds": "1.09",
         "matchCount": "72",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4420729",
-        "status": "Pending"
+        "status": "Won"
+    },
+    {
+        "date": "14.03.2026 08:00",
+        "league": "AUS NPL",
+        "matchCode": "4420729",
+        "home": "Rockdale City Suns",
+        "away": "Apia",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 1",
+        "prediction": "Double Chance X2",
+        "ihtimal": "70.83",
+        "odds": "1.15",
+        "matchCount": "72",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4420729",
+        "status": "Won"
     },
     {
         "date": "14.03.2026 08:00",
@@ -74660,14 +74705,14 @@
         "matchCode": "4420947",
         "home": "Brisbane City FC",
         "away": "Gold Coast Knights",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "2 - 4",
         "prediction": "Double Chance 12",
         "ihtimal": "75.0",
         "odds": "1.07",
         "matchCount": "16",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4420947",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "14.03.2026 08:00",
@@ -74675,14 +74720,14 @@
         "matchCode": "4420946",
         "home": "Eastern Suburb",
         "away": "Queensland Lions",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 3",
         "prediction": "Double Chance 12",
         "ihtimal": "77.78",
         "odds": "1.06",
         "matchCount": "9",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4420946",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "14.03.2026 08:00",
@@ -74690,14 +74735,14 @@
         "matchCode": "4420946",
         "home": "Eastern Suburb",
         "away": "Queensland Lions",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 3",
         "prediction": "Double Chance X2",
         "ihtimal": "77.78",
         "odds": "1.10",
         "matchCount": "9",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4420946",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "14.03.2026 08:00",
@@ -74705,14 +74750,14 @@
         "matchCode": "4420946",
         "home": "Eastern Suburb",
         "away": "Queensland Lions",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 3",
         "prediction": "1st Half Double Chance X2",
         "ihtimal": "77.78",
         "odds": "1.08",
         "matchCount": "9",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4420946",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "14.03.2026 08:15",
@@ -75972,6 +76017,36 @@
         "odds": "1.28",
         "matchCount": "18",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4339021",
+        "status": "Pending"
+    },
+    {
+        "date": "14.03.2026 14:00",
+        "league": "ITA2",
+        "matchCode": "4331512",
+        "home": "SS Juve Stabia",
+        "away": "Carrarese Calcio",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "81.25",
+        "odds": "1.06",
+        "matchCount": "16",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4331512",
+        "status": "Pending"
+    },
+    {
+        "date": "14.03.2026 14:00",
+        "league": "ALG2",
+        "matchCode": "4452258",
+        "home": "Bechar Djedid",
+        "away": "CRB Adrar",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "74.68",
+        "odds": "1.10",
+        "matchCount": "79",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4452258",
         "status": "Pending"
     }
 ]
