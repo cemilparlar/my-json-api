@@ -41116,6 +41116,21 @@
     },
     {
         "date": "14.02.2026 06:00",
+        "league": "JPN1",
+        "matchCode": "4437562",
+        "home": "Kashima Antlers",
+        "away": "Yokohama F. Marinos",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "Double Chance 12",
+        "ihtimal": "77.78",
+        "odds": "1.09",
+        "matchCount": "63",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4437562",
+        "status": "Won"
+    },
+    {
+        "date": "14.02.2026 06:00",
         "league": "AUT",
         "matchCode": "4378469",
         "home": "Melbourne Victory",
@@ -49157,21 +49172,6 @@
     {
         "date": "21.02.2026 05:00",
         "league": "JPN1",
-        "matchCode": "4437567",
-        "home": "Yokohama F. Marinos",
-        "away": "Urawa Red Diamonds",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 2",
-        "prediction": "Double Chance 12",
-        "ihtimal": "76.62",
-        "odds": "1.12",
-        "matchCount": "77",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4437567",
-        "status": "Won"
-    },
-    {
-        "date": "21.02.2026 05:00",
-        "league": "JPN1",
         "matchCode": "4437566",
         "home": "Tokyo Verdy",
         "away": "FC Machida Zelvia",
@@ -49197,6 +49197,21 @@
         "odds": "1.09",
         "matchCount": "60",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4437656",
+        "status": "Won"
+    },
+    {
+        "date": "21.02.2026 06:00",
+        "league": "AUT2",
+        "matchCode": "4378612",
+        "home": "Newcastle Jets",
+        "away": "Perth Glory Women",
+        "firstHalf": "1 - 1",
+        "finalScore": "2 - 3",
+        "prediction": "Double Chance 12",
+        "ihtimal": "75.4",
+        "odds": "1.09",
+        "matchCount": "126",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4378612",
         "status": "Won"
     },
     {
@@ -58365,21 +58380,6 @@
         "status": "Won"
     },
     {
-        "date": "28.02.2026 06:00",
-        "league": "JPN1",
-        "matchCode": "4437574",
-        "home": "FC Tokyo",
-        "away": "Kashiwa Reysol",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 2",
-        "prediction": "Double Chance 12",
-        "ihtimal": "78.12",
-        "odds": "1.12",
-        "matchCount": "64",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4437574",
-        "status": "Won"
-    },
-    {
         "date": "28.02.2026 07:00",
         "league": "JPN3",
         "matchCode": "4439750",
@@ -58587,21 +58587,6 @@
         "odds": "1.09",
         "matchCount": "26",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4421653",
-        "status": "Won"
-    },
-    {
-        "date": "28.02.2026 08:00",
-        "league": "JPN1",
-        "matchCode": "4437664",
-        "home": "V-Varen Nagasaki",
-        "away": "Cerezo Osaka",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "76.92",
-        "odds": "1.12",
-        "matchCount": "52",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4437664",
         "status": "Won"
     },
     {
@@ -74585,14 +74570,14 @@
         "matchCode": "4437584",
         "home": "Kashima Antlers",
         "away": "Kawasaki Frontale",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "72.58",
-        "odds": "1.12",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "Double Chance 12",
+        "ihtimal": "79.03",
+        "odds": "1.09",
         "matchCount": "62",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4437584",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "14.03.2026 06:00",
@@ -74600,14 +74585,14 @@
         "matchCode": "4420727",
         "home": "Sydney Olympic FC",
         "away": "St. George Sain",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 2",
+        "finalScore": "0 - 2",
         "prediction": "Double Chance 12",
         "ihtimal": "87.88",
         "odds": "1.09",
         "matchCount": "33",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4420727",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "14.03.2026 06:00",
@@ -74892,6 +74877,36 @@
         "odds": "1.08",
         "matchCount": "65",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4420730",
+        "status": "Pending"
+    },
+    {
+        "date": "14.03.2026 10:00",
+        "league": "HUN3",
+        "matchCode": "4323274",
+        "home": "Paksi Fc Ii",
+        "away": "Mtk Ii",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance X2",
+        "ihtimal": "70.73",
+        "odds": "1.10",
+        "matchCount": "41",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4323274",
+        "status": "Pending"
+    },
+    {
+        "date": "14.03.2026 10:00",
+        "league": "HUN3",
+        "matchCode": "4323514",
+        "home": "",
+        "away": "Egri",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "75.0",
+        "odds": "1.10",
+        "matchCount": "116",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4323514",
         "status": "Pending"
     }
 ]
