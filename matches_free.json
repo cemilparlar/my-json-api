@@ -58126,6 +58126,21 @@
     },
     {
         "date": "01.03.2026 13:00",
+        "league": "MAC3",
+        "matchCode": "4322778",
+        "home": "Komarom",
+        "away": "Mosonmagyarovar",
+        "firstHalf": "0 - 0",
+        "finalScore": "2 - 2",
+        "prediction": "Double Chance X2",
+        "ihtimal": "73.58",
+        "odds": "1.15",
+        "matchCount": "106",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4322778",
+        "status": "Won"
+    },
+    {
+        "date": "01.03.2026 13:00",
         "league": "RUS1",
         "matchCode": "4436921",
         "home": "Chayka",
@@ -93542,6 +93557,21 @@
     {
         "date": "22.03.2026 13:00",
         "league": "MAC3",
+        "matchCode": "4322801",
+        "home": "Komarom",
+        "away": "Budaors",
+        "firstHalf": "0 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "72.0",
+        "odds": "1.15",
+        "matchCount": "100",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4322801",
+        "status": "Won"
+    },
+    {
+        "date": "22.03.2026 13:00",
+        "league": "MAC3",
         "matchCode": "4323519",
         "home": "Tiszafuredi",
         "away": "Fc Hatvan",
@@ -94347,6 +94377,21 @@
         "odds": "1.10",
         "matchCount": "27",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4361237",
+        "status": "Won"
+    },
+    {
+        "date": "22.03.2026 15:00",
+        "league": "MAC3",
+        "matchCode": "4323279",
+        "home": "Dunaujvaros Pa",
+        "away": "Kse Ivancsa",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "Match Result 1",
+        "ihtimal": "77.78",
+        "odds": "1.15",
+        "matchCount": "9",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4323279",
         "status": "Won"
     },
     {
@@ -98165,14 +98210,14 @@
         "matchCode": "4456239",
         "home": "Volga Ulyanovs",
         "away": "Spartak Kostroma",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 0",
         "prediction": "Double Chance 12",
         "ihtimal": "77.62",
         "odds": "1.15",
         "matchCount": "143",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4456239",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "28.03.2026 12:00",
@@ -98180,14 +98225,29 @@
         "matchCode": "4322808",
         "home": "Budaors",
         "away": "Sc Sopron",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 1",
+        "finalScore": "3 - 3",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "73.73",
+        "odds": "1.15",
+        "matchCount": "118",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4322808",
+        "status": "Won"
+    },
+    {
+        "date": "28.03.2026 12:00",
+        "league": "MAC3",
+        "matchCode": "4322808",
+        "home": "Budaors",
+        "away": "Sc Sopron",
+        "firstHalf": "1 - 1",
+        "finalScore": "3 - 3",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "77.12",
         "odds": "1.09",
         "matchCount": "118",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4322808",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "28.03.2026 12:30",
@@ -99672,6 +99732,51 @@
         "odds": "1.20",
         "matchCount": "16",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4305903",
+        "status": "Pending"
+    },
+    {
+        "date": "28.03.2026 16:00",
+        "league": "FRK1",
+        "matchCode": "4363357",
+        "home": "AS Saint-Etienne",
+        "away": "RC Lens Women",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "80.87",
+        "odds": "1.10",
+        "matchCount": "115",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4363357",
+        "status": "Pending"
+    },
+    {
+        "date": "28.03.2026 16:00",
+        "league": "İS4",
+        "matchCode": "4361843",
+        "home": "Samano",
+        "away": "Real Avila",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 2",
+        "ihtimal": "100.0",
+        "odds": "1.23",
+        "matchCount": "3",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4361843",
+        "status": "Pending"
+    },
+    {
+        "date": "28.03.2026 16:00",
+        "league": "ARJPBN",
+        "matchCode": "4440764",
+        "home": "Atlanta",
+        "away": "Ferro Carril Oe",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "81.82",
+        "odds": "1.43",
+        "matchCount": "11",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4440764",
         "status": "Pending"
     }
 ]
