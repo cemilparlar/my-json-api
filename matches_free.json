@@ -44190,6 +44190,21 @@
         "status": "Won"
     },
     {
+        "date": "15.02.2026 18:00",
+        "league": "POR2",
+        "matchCode": "4316840",
+        "home": "Leiria",
+        "away": "FC Porto B",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 2",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "71.43",
+        "odds": "1.22",
+        "matchCount": "126",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4316840",
+        "status": "Won"
+    },
+    {
         "date": "15.02.2026 18:15",
         "league": "BEL",
         "matchCode": "4299803",
@@ -51807,6 +51822,21 @@
         "odds": "1.05",
         "matchCount": "150",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4357200",
+        "status": "Won"
+    },
+    {
+        "date": "22.02.2026 18:30",
+        "league": "KUV",
+        "matchCode": "4417812",
+        "home": "Al Nasar",
+        "away": "Al Fahaheel",
+        "firstHalf": "1 - 0",
+        "finalScore": "4 - 2",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "72.62",
+        "odds": "1.22",
+        "matchCount": "84",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4417812",
         "status": "Won"
     },
     {
@@ -100395,6 +100425,21 @@
         "status": "Won"
     },
     {
+        "date": "29.03.2026 18:00",
+        "league": "ARJPBN",
+        "matchCode": "4440770",
+        "home": "Los Andes",
+        "away": "Atl Temperley",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 1",
+        "prediction": "Both Teams to Score - No",
+        "ihtimal": "100.0",
+        "odds": "1.22",
+        "matchCount": "1",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4440770",
+        "status": "Won"
+    },
+    {
         "date": "29.03.2026 18:30",
         "league": "İTC",
         "matchCode": "4340826",
@@ -100572,6 +100617,36 @@
         "odds": "1.20",
         "matchCount": "146",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4431353",
+        "status": "Pending"
+    },
+    {
+        "date": "29.03.2026 22:00",
+        "league": "PAR",
+        "matchCode": "4430427",
+        "home": "Club Guarani",
+        "away": "Sportivo Trinid",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "79.58",
+        "odds": "1.06",
+        "matchCount": "142",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4430427",
+        "status": "Pending"
+    },
+    {
+        "date": "29.03.2026 22:00",
+        "league": "KOSTK",
+        "matchCode": "4455900",
+        "home": "Deportivo Saprissa",
+        "away": "Liberia",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "78.0",
+        "odds": "1.08",
+        "matchCount": "100",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4455900",
         "status": "Pending"
     }
 ]
