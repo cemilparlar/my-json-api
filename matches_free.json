@@ -100445,14 +100445,14 @@
         "matchCode": "4340826",
         "home": "AZ Picerno",
         "away": "Monopoli",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "74.58",
         "odds": "1.10",
         "matchCount": "59",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340826",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "29.03.2026 18:30",
@@ -100460,14 +100460,14 @@
         "matchCode": "4340448",
         "home": "AS Gubbio",
         "away": "Ravenna FC",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 2",
         "prediction": "Double Chance 12",
         "ihtimal": "76.32",
         "odds": "1.17",
         "matchCount": "76",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340448",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "29.03.2026 18:30",
@@ -100475,14 +100475,14 @@
         "matchCode": "4340448",
         "home": "AS Gubbio",
         "away": "Ravenna FC",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 2",
         "prediction": "1st Half Double Chance X2",
         "ihtimal": "75.0",
         "odds": "1.08",
         "matchCount": "76",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340448",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "29.03.2026 18:30",
@@ -100490,14 +100490,14 @@
         "matchCode": "4340449",
         "home": "Pineto Calcio",
         "away": "SS Sambenedettese",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "78.7",
         "odds": "1.07",
         "matchCount": "108",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340449",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "29.03.2026 19:00",
@@ -100647,6 +100647,66 @@
         "odds": "1.08",
         "matchCount": "100",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4455900",
+        "status": "Pending"
+    },
+    {
+        "date": "29.03.2026 22:30",
+        "league": "BR1",
+        "matchCode": "4423073",
+        "home": "Atletico Paranaense",
+        "away": "Botafogo de Futebol e Regatas",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "80.77",
+        "odds": "1.17",
+        "matchCount": "26",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4423073",
+        "status": "Pending"
+    },
+    {
+        "date": "29.03.2026 22:30",
+        "league": "BR1",
+        "matchCode": "4423073",
+        "home": "Atletico Paranaense",
+        "away": "Botafogo de Futebol e Regatas",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "84.61538461538461",
+        "odds": "1.07",
+        "matchCount": "26",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4423073",
+        "status": "Pending"
+    },
+    {
+        "date": "29.03.2026 22:30",
+        "league": "BR1",
+        "matchCode": "4423073",
+        "home": "Atletico Paranaense",
+        "away": "Botafogo de Futebol e Regatas",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "76.92",
+        "odds": "1.19",
+        "matchCount": "26",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4423073",
+        "status": "Pending"
+    },
+    {
+        "date": "29.03.2026 22:30",
+        "league": "BR1",
+        "matchCode": "4423073",
+        "home": "Atletico Paranaense",
+        "away": "Botafogo de Futebol e Regatas",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "76.92",
+        "odds": "1.06",
+        "matchCount": "26",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4423073",
         "status": "Pending"
     }
 ]
