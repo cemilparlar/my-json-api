@@ -5670,6 +5670,21 @@
         "status": "Won"
     },
     {
+        "date": "10.01.2026 18:30",
+        "league": "İTB",
+        "matchCode": "4331401",
+        "home": "Cesena FC",
+        "away": "Empoli",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 1",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "100.0",
+        "odds": "1.22",
+        "matchCount": "3",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4331401",
+        "status": "Won"
+    },
+    {
         "date": "10.01.2026 20:00",
         "league": "İS2",
         "matchCode": "4305784",
@@ -68107,6 +68122,21 @@
         "away": "Kocaelispor",
         "firstHalf": "0 - 1",
         "finalScore": "0 - 1",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "80.0",
+        "odds": "1.05",
+        "matchCount": "10",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4308544",
+        "status": "Won"
+    },
+    {
+        "date": "09.03.2026 13:00",
+        "league": "TSL",
+        "matchCode": "4308544",
+        "home": "Eyupspor",
+        "away": "Kocaelispor",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 1",
         "prediction": "1st Half Over 0.5",
         "ihtimal": "80.0",
         "odds": "1.33",
@@ -68307,6 +68337,21 @@
         "odds": "1.19",
         "matchCount": "57",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4416389",
+        "status": "Won"
+    },
+    {
+        "date": "09.03.2026 18:00",
+        "league": "POL",
+        "matchCode": "4290703",
+        "home": "Wisla Plock",
+        "away": "Arka Gdynia",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 3",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "79.25",
+        "odds": "1.05",
+        "matchCount": "53",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4290703",
         "status": "Won"
     },
     {
@@ -81931,6 +81976,21 @@
     },
     {
         "date": "16.03.2026 18:30",
+        "league": "ROM",
+        "matchCode": "4452169",
+        "home": "Universitatea Craiova",
+        "away": "CFR Cluj",
+        "firstHalf": "1 - 1",
+        "finalScore": "2 - 1",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "80.67",
+        "odds": "1.05",
+        "matchCount": "119",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4452169",
+        "status": "Won"
+    },
+    {
+        "date": "16.03.2026 18:30",
         "league": "ARJ",
         "matchCode": "4432820",
         "home": "Club Atletico Aldosivi",
@@ -82107,6 +82167,21 @@
         "odds": "1.07",
         "matchCount": "26",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4335089",
+        "status": "Won"
+    },
+    {
+        "date": "16.03.2026 19:45",
+        "league": "İRL",
+        "matchCode": "4426241",
+        "home": "St Patrick's Athletic",
+        "away": "Derry City",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "78.88",
+        "odds": "1.05",
+        "matchCount": "161",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4426241",
         "status": "Won"
     },
     {
@@ -95025,6 +95100,21 @@
         "status": "Won"
     },
     {
+        "date": "23.03.2026 18:30",
+        "league": "İSKPR",
+        "matchCode": "4358029",
+        "home": "Granada Women",
+        "away": "Deportivo La Coruna",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "74.71",
+        "odds": "1.22",
+        "matchCount": "170",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4358029",
+        "status": "Won"
+    },
+    {
         "date": "23.03.2026 19:30",
         "league": "İTC",
         "matchCode": "4340812",
@@ -100505,14 +100595,29 @@
         "matchCode": "4340829",
         "home": "Casertana FC",
         "away": "Sorrento Calcio",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 0",
         "prediction": "Double Chance 12",
         "ihtimal": "78.57",
         "odds": "1.09",
         "matchCount": "126",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340829",
-        "status": "Pending"
+        "status": "Won"
+    },
+    {
+        "date": "30.03.2026 18:30",
+        "league": "İTC",
+        "matchCode": "4340829",
+        "home": "Casertana FC",
+        "away": "Sorrento Calcio",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "72.22",
+        "odds": "1.22",
+        "matchCount": "126",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340829",
+        "status": "Won"
     },
     {
         "date": "30.03.2026 18:30",
@@ -100520,13 +100625,13 @@
         "matchCode": "4340441",
         "home": "SS Arezzo",
         "away": "Ascoli Calcio",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 1",
+        "finalScore": "1 - 2",
         "prediction": "Under 3.5 Goals",
         "ihtimal": "83.56",
         "odds": "1.05",
         "matchCount": "146",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340441",
-        "status": "Pending"
+        "status": "Won"
     }
 ]
