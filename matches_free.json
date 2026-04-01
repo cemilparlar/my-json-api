@@ -7380,21 +7380,6 @@
         "status": "Won"
     },
     {
-        "date": "15.01.2026 13:00",
-        "league": "ETH",
-        "matchCode": "4403957",
-        "home": "Bahardar",
-        "away": "Mekelle 70 Enderta",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "100.0",
-        "odds": "1.10",
-        "matchCount": "4",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4403957",
-        "status": "Won"
-    },
-    {
         "date": "15.01.2026 14:00",
         "league": "HAZ",
         "matchCode": "4418392",
@@ -15342,21 +15327,6 @@
         "odds": "1.08",
         "matchCount": "14",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338283",
-        "status": "Won"
-    },
-    {
-        "date": "22.01.2026 15:00",
-        "league": "MSR",
-        "matchCode": "4338282",
-        "home": "Wadi Degla",
-        "away": "Ghazl El Mahalla",
-        "firstHalf": "3 - 2",
-        "finalScore": "3 - 2",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "100.0",
-        "odds": "1.10",
-        "matchCount": "2",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338282",
         "status": "Won"
     },
     {
@@ -31222,6 +31192,21 @@
         "away": "Club Deportivo Aguila",
         "firstHalf": "0 - 2",
         "finalScore": "2 - 3",
+        "prediction": "Double Chance 12",
+        "ihtimal": "90.0",
+        "odds": "1.13",
+        "matchCount": "20",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432102",
+        "status": "Won"
+    },
+    {
+        "date": "04.02.2026 21:00",
+        "league": "ELSAL",
+        "matchCode": "4432102",
+        "home": "Fuerte San Fra",
+        "away": "Club Deportivo Aguila",
+        "firstHalf": "0 - 2",
+        "finalScore": "2 - 3",
         "prediction": "Double Chance X2",
         "ihtimal": "85.0",
         "odds": "1.07",
@@ -46335,6 +46320,21 @@
         "status": "Won"
     },
     {
+        "date": "18.02.2026 22:00",
+        "league": "ELSAL",
+        "matchCode": "4432117",
+        "home": "Hercules CF",
+        "away": "Cacahuatique FC",
+        "firstHalf": "0 - 2",
+        "finalScore": "1 - 3",
+        "prediction": "Double Chance 12",
+        "ihtimal": "77.46",
+        "odds": "1.13",
+        "matchCount": "71",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432117",
+        "status": "Won"
+    },
+    {
         "date": "19.02.2026 08:30",
         "league": "AVNPL",
         "matchCode": "4421318",
@@ -46377,21 +46377,6 @@
         "odds": "1.09",
         "matchCount": "73",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4418537",
-        "status": "Won"
-    },
-    {
-        "date": "19.02.2026 14:00",
-        "league": "HİNSL",
-        "matchCode": "4443128",
-        "home": "Mumbai City FC",
-        "away": "Chennaiyin FC",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "77.91",
-        "odds": "1.10",
-        "matchCount": "86",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4443128",
         "status": "Won"
     },
     {
@@ -61542,21 +61527,6 @@
         "odds": "1.06",
         "matchCount": "40",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4425522",
-        "status": "Won"
-    },
-    {
-        "date": "05.03.2026 16:30",
-        "league": "BUL1",
-        "matchCode": "4379741",
-        "home": "PFC Ludogorets Razgrad",
-        "away": "PFC Levski Sofia",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "77.5",
-        "odds": "1.10",
-        "matchCount": "80",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4379741",
         "status": "Won"
     },
     {
@@ -102275,14 +102245,14 @@
         "matchCode": "4305912",
         "home": "Racing Santander",
         "away": "Sporting Gijon",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "3 - 1",
         "prediction": "Double Chance 12",
         "ihtimal": "84.21",
         "odds": "1.11",
         "matchCount": "19",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4305912",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "01.04.2026 19:30",
@@ -102290,14 +102260,14 @@
         "matchCode": "4305912",
         "home": "Racing Santander",
         "away": "Sporting Gijon",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "3 - 1",
         "prediction": "1st Half Over 0.5",
         "ihtimal": "78.95",
         "odds": "1.15",
         "matchCount": "19",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4305912",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "01.04.2026 21:00",
@@ -102305,14 +102275,29 @@
         "matchCode": "4432166",
         "home": "Hercules CF",
         "away": "Zacatecoluca",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "2 - 0",
         "prediction": "Double Chance 12",
         "ihtimal": "74.79",
         "odds": "1.15",
         "matchCount": "119",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432166",
-        "status": "Pending"
+        "status": "Won"
+    },
+    {
+        "date": "01.04.2026 21:00",
+        "league": "ELSAL",
+        "matchCode": "4432164",
+        "home": "Club Deportivo Platense",
+        "away": "Inter Fa",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "80.43",
+        "odds": "1.13",
+        "matchCount": "92",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432164",
+        "status": "Won"
     },
     {
         "date": "01.04.2026 21:00",
@@ -102320,29 +102305,14 @@
         "matchCode": "4453699",
         "home": "America Mineir",
         "away": "Botafogo Ribeir",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "73.68",
-        "odds": "1.10",
-        "matchCount": "95",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4453699",
-        "status": "Pending"
-    },
-    {
-        "date": "01.04.2026 21:00",
-        "league": " BR2",
-        "matchCode": "4453699",
-        "home": "America Mineir",
-        "away": "Botafogo Ribeir",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 1",
+        "finalScore": "1 - 2",
         "prediction": "Under 3.5 Goals",
         "ihtimal": "72.63",
         "odds": "1.07",
         "matchCount": "95",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4453699",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "01.04.2026 22:30",
