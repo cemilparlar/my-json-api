@@ -70127,21 +70127,6 @@
     {
         "date": "12.03.2026 17:45",
         "league": "AVKL",
-        "matchCode": "4448247",
-        "home": "AZ Alkmaar",
-        "away": "AC Sparta Prague",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 1",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "82.76",
-        "odds": "1.06",
-        "matchCount": "29",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4448247",
-        "status": "Won"
-    },
-    {
-        "date": "12.03.2026 17:45",
-        "league": "AVKL",
         "matchCode": "4448250",
         "home": "Samsunspor",
         "away": "Rayo Vallecano",
@@ -84312,21 +84297,6 @@
         "odds": "1.15",
         "matchCount": "23",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4443156",
-        "status": "Won"
-    },
-    {
-        "date": "19.03.2026 17:00",
-        "league": "NOK",
-        "matchCode": "4451647",
-        "home": "Kfum Oslo",
-        "away": "Fredrikstad FK",
-        "firstHalf": "2 - 1",
-        "finalScore": "3 - 2",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "79.58",
-        "odds": "1.06",
-        "matchCount": "142",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4451647",
         "status": "Won"
     },
     {
@@ -102661,21 +102631,6 @@
     },
     {
         "date": "02.04.2026 17:00",
-        "league": "ALMBÖL",
-        "matchCode": "4320237",
-        "home": "Fsv Frankfurt",
-        "away": "Astoria Walldor",
-        "firstHalf": "2 - 1",
-        "finalScore": "2 - 2",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "79.63",
-        "odds": "1.06",
-        "matchCount": "54",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4320237",
-        "status": "Won"
-    },
-    {
-        "date": "02.04.2026 17:00",
         "league": "İS2",
         "matchCode": "4305907",
         "home": "UD Las Palmas",
@@ -102691,33 +102646,18 @@
     },
     {
         "date": "02.04.2026 17:30",
-        "league": "POL2",
-        "matchCode": "4321531",
-        "home": "Sandecja Nowy Sacz",
-        "away": "Resovia Rzeszow",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "81.77",
-        "odds": "1.06",
-        "matchCount": "181",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4321531",
-        "status": "Pending"
-    },
-    {
-        "date": "02.04.2026 17:30",
         "league": "İSV1Y",
         "matchCode": "4326613",
         "home": "FC Biel-Bienne",
         "away": "FC Basel II",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 1",
+        "finalScore": "1 - 2",
         "prediction": "Both Teams to Score - Yes",
         "ihtimal": "91.67",
         "odds": "1.20",
         "matchCount": "12",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4326613",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "02.04.2026 17:35",
