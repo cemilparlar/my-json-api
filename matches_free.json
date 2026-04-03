@@ -102980,14 +102980,14 @@
         "matchCode": "4378631",
         "home": "Perth Glory Women",
         "away": "Melbourne Victory",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 1",
         "prediction": "Double Chance X2",
         "ihtimal": "80.95",
         "odds": "1.07",
         "matchCount": "42",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4378631",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "03.04.2026 08:35",
@@ -103092,6 +103092,36 @@
         "odds": "1.06",
         "matchCount": "5",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4446837",
+        "status": "Pending"
+    },
+    {
+        "date": "03.04.2026 12:00",
+        "league": "MAC3",
+        "matchCode": "4322812",
+        "home": "Gyor Ii",
+        "away": "Bicskei",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "72.13",
+        "odds": "1.10",
+        "matchCount": "61",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4322812",
+        "status": "Pending"
+    },
+    {
+        "date": "03.04.2026 12:00",
+        "league": "MAC3",
+        "matchCode": "4322812",
+        "home": "Gyor Ii",
+        "away": "Bicskei",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "85.25",
+        "odds": "1.15",
+        "matchCount": "61",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4322812",
         "status": "Pending"
     }
 ]
