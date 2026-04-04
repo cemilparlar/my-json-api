@@ -106595,14 +106595,14 @@
         "matchCode": "4451913",
         "home": "Shenzhen Junio",
         "away": "Yanbian Longdin",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "70.77",
         "odds": "1.15",
         "matchCount": "65",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4451913",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "04.04.2026 08:30",
@@ -107127,6 +107127,21 @@
         "odds": "1.08",
         "matchCount": "5",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4451702",
+        "status": "Pending"
+    },
+    {
+        "date": "04.04.2026 12:00",
+        "league": "ALMBÖL",
+        "matchCode": "4339128",
+        "home": "FC Schalke 04 Amat.",
+        "away": "Bonner Sc",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "75.0",
+        "odds": "1.06",
+        "matchCount": "52",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4339128",
         "status": "Pending"
     }
 ]
