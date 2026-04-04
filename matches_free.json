@@ -23160,6 +23160,21 @@
         "status": "Won"
     },
     {
+        "date": "30.01.2026 08:30",
+        "league": "ENDL1",
+        "matchCode": "4337992",
+        "home": "Persita Tangerang",
+        "away": "Persija Jakarta",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 2",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "89.13",
+        "odds": "1.06",
+        "matchCount": "46",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4337992",
+        "status": "Won"
+    },
+    {
         "date": "30.01.2026 09:00",
         "league": "AVUSTW",
         "matchCode": "4378596",
@@ -106610,14 +106625,14 @@
         "matchCode": "4338056",
         "home": "PSM Makassar",
         "away": "Persis Solo",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 1",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "76.84",
         "odds": "1.06",
         "matchCount": "95",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338056",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "04.04.2026 08:35",
@@ -106625,14 +106640,14 @@
         "matchCode": "4378505",
         "home": "Melbourne City FC",
         "away": "Western Sydney Wanderers",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "2 - 0",
+        "finalScore": "3 - 0",
         "prediction": "1st Half Over 0.5",
         "ihtimal": "90.91",
         "odds": "1.15",
         "matchCount": "11",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4378505",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "04.04.2026 10:00",
@@ -107502,6 +107517,21 @@
         "odds": "1.27",
         "matchCount": "143",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4340831",
+        "status": "Pending"
+    },
+    {
+        "date": "04.04.2026 12:30",
+        "league": "MAC",
+        "matchCode": "4296809",
+        "home": "Zalaegerszeg",
+        "away": "Kisvarda",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "80.36",
+        "odds": "1.10",
+        "matchCount": "168",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4296809",
         "status": "Pending"
     }
 ]
