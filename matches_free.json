@@ -112370,14 +112370,14 @@
         "matchCode": "4429080",
         "home": "Rana",
         "away": "Trygg/Lade",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 0",
         "prediction": "Under 4.5 Goals",
         "ihtimal": "75.0",
         "odds": "1.13",
         "matchCount": "16",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4429080",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "06.04.2026 11:00",
@@ -112385,14 +112385,14 @@
         "matchCode": "4380233",
         "home": "Transmara Suga",
         "away": "Posta Rangers",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
         "prediction": "Double Chance 1X",
         "ihtimal": "80.0",
         "odds": "1.05",
         "matchCount": "30",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4380233",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "06.04.2026 11:30",
@@ -114732,6 +114732,21 @@
         "odds": "1.15",
         "matchCount": "106",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4313921",
+        "status": "Pending"
+    },
+    {
+        "date": "06.04.2026 15:15",
+        "league": "İTB",
+        "matchCode": "4331547",
+        "home": "UC Sampdoria",
+        "away": "Empoli",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "80.95",
+        "odds": "1.20",
+        "matchCount": "21",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4331547",
         "status": "Pending"
     }
 ]
