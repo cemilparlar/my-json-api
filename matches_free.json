@@ -22381,21 +22381,6 @@
     },
     {
         "date": "27.01.2026 21:00",
-        "league": "GUAT",
-        "matchCode": "4425779",
-        "home": "Coban Imperial",
-        "away": "Deportivo Marquense",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "75.86",
-        "odds": "1.23",
-        "matchCount": "58",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4425779",
-        "status": "Won"
-    },
-    {
-        "date": "27.01.2026 21:00",
         "league": "KOL",
         "matchCode": "4431248",
         "home": "Cucuta Deportivo",
@@ -24267,6 +24252,21 @@
         "odds": "1.09",
         "matchCount": "45",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4435689",
+        "status": "Won"
+    },
+    {
+        "date": "30.01.2026 23:00",
+        "league": "MEK2",
+        "matchCode": "4418136",
+        "home": "CD Tapatio",
+        "away": "Leones Negros",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "75.71",
+        "odds": "1.11",
+        "matchCount": "70",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4418136",
         "status": "Won"
     },
     {
@@ -49960,6 +49960,21 @@
         "prediction": "Double Chance 1X",
         "ihtimal": "80.0",
         "odds": "1.17",
+        "matchCount": "10",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432749",
+        "status": "Won"
+    },
+    {
+        "date": "21.02.2026 22:15",
+        "league": "ARJ",
+        "matchCode": "4432749",
+        "home": "Club Atletico Banfield",
+        "away": "Newells Old Boys",
+        "firstHalf": "0 - 0",
+        "finalScore": "3 - 0",
+        "prediction": "Handicap (1:0) 1",
+        "ihtimal": "80.0",
+        "odds": "1.15",
         "matchCount": "10",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432749",
         "status": "Won"
@@ -92401,6 +92416,21 @@
     },
     {
         "date": "21.03.2026 23:00",
+        "league": "MEK2",
+        "matchCode": "4418189",
+        "home": "Club Deportivo Irapuato",
+        "away": "Cancun FC",
+        "firstHalf": "0 - 1",
+        "finalScore": "2 - 2",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "75.29",
+        "odds": "1.11",
+        "matchCount": "263",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4418189",
+        "status": "Won"
+    },
+    {
+        "date": "21.03.2026 23:00",
         "league": "USLP",
         "matchCode": "4449642",
         "home": "Indy Eleven",
@@ -95847,6 +95877,21 @@
         "odds": "1.06",
         "matchCount": "18",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4418322",
+        "status": "Won"
+    },
+    {
+        "date": "22.03.2026 23:00",
+        "league": "MEK2",
+        "matchCode": "4418185",
+        "home": "CD Tapatio",
+        "away": "Monarcas Morelia",
+        "firstHalf": "1 - 1",
+        "finalScore": "2 - 1",
+        "prediction": "Double Chance 12",
+        "ihtimal": "87.64",
+        "odds": "1.11",
+        "matchCount": "89",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4418185",
         "status": "Won"
     },
     {
@@ -118935,34 +118980,19 @@
         "status": "Won"
     },
     {
-        "date": "07.04.2026 21:00",
-        "league": "GUAT",
-        "matchCode": "4425868",
-        "home": "Mixco",
-        "away": "Deportivo Marquense",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "88.89",
-        "odds": "1.23",
-        "matchCount": "9",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4425868",
-        "status": "Pending"
-    },
-    {
         "date": "07.04.2026 22:00",
         "league": "CSA",
         "matchCode": "4460409",
         "home": "Barracas Central",
         "away": "Club de Regatas Vasco da Gama",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
         "prediction": "Double Chance 1X",
         "ihtimal": "73.11",
         "odds": "1.15",
         "matchCount": "119",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4460409",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "07.04.2026 22:00",
@@ -118970,14 +119000,29 @@
         "matchCode": "4460409",
         "home": "Barracas Central",
         "away": "Club de Regatas Vasco da Gama",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "Handicap (1:0) 1",
+        "ihtimal": "73.10924369747899",
+        "odds": "1.15",
+        "matchCount": "119",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4460409",
+        "status": "Won"
+    },
+    {
+        "date": "07.04.2026 22:00",
+        "league": "CSA",
+        "matchCode": "4460409",
+        "home": "Barracas Central",
+        "away": "Club de Regatas Vasco da Gama",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "78.99",
         "odds": "1.06",
         "matchCount": "119",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4460409",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "07.04.2026 22:00",
@@ -118985,13 +119030,28 @@
         "matchCode": "4460457",
         "home": "Rivadavia",
         "away": "Bolivar",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 0",
         "prediction": "1st Half Under 1.5",
         "ihtimal": "73.68",
         "odds": "1.29",
         "matchCount": "38",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4460457",
-        "status": "Pending"
+        "status": "Won"
+    },
+    {
+        "date": "07.04.2026 23:00",
+        "league": "MEK2",
+        "matchCode": "4418158",
+        "home": "CD Tapatio",
+        "away": "Tlaxcala FC",
+        "firstHalf": "2 - 0",
+        "finalScore": "3 - 0",
+        "prediction": "Double Chance 12",
+        "ihtimal": "71.79",
+        "odds": "1.11",
+        "matchCount": "117",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4418158",
+        "status": "Won"
     }
 ]
