@@ -31486,6 +31486,21 @@
     },
     {
         "date": "05.02.2026 12:30",
+        "league": "MSR2",
+        "matchCode": "4352007",
+        "home": "Ghazl Kafr El Dawar",
+        "away": "Al Daklyeh",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 1",
+        "prediction": "Handicap (0:1) 2",
+        "ihtimal": "100.0",
+        "odds": "1.21",
+        "matchCount": "6",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4352007",
+        "status": "Won"
+    },
+    {
+        "date": "05.02.2026 12:30",
         "league": "AFCAKŞ",
         "matchCode": "4332673",
         "home": "Nam Dinh FC",
@@ -38740,6 +38755,21 @@
         "prediction": "Double Chance 1X",
         "ihtimal": "100.0",
         "odds": "1.20",
+        "matchCount": "1",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4352017",
+        "status": "Won"
+    },
+    {
+        "date": "12.02.2026 12:30",
+        "league": "MSR2",
+        "matchCode": "4352017",
+        "home": "Aswan FC",
+        "away": "Tersana SC",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 1",
+        "prediction": "Double Chance X2",
+        "ihtimal": "100.0",
+        "odds": "1.21",
         "matchCount": "1",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4352017",
         "status": "Won"
@@ -55197,6 +55227,21 @@
         "odds": "1.20",
         "matchCount": "1",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4445827",
+        "status": "Won"
+    },
+    {
+        "date": "26.02.2026 12:00",
+        "league": "ETH",
+        "matchCode": "4445828",
+        "home": "Dire Dawa Kenema",
+        "away": "Welayta Dicha",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 2",
+        "prediction": "Handicap (0:1) 2",
+        "ihtimal": "100.0",
+        "odds": "1.21",
+        "matchCount": "12",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4445828",
         "status": "Won"
     },
     {
@@ -120405,19 +120450,34 @@
         "status": "Won"
     },
     {
+        "date": "09.04.2026 12:30",
+        "league": "BUL1",
+        "matchCode": "4379777",
+        "home": "Lokomotiv Sofia",
+        "away": "Beroe Stara Zagora",
+        "firstHalf": "0 - 1",
+        "finalScore": "2 - 1",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "83.33",
+        "odds": "1.21",
+        "matchCount": "60",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4379777",
+        "status": "Won"
+    },
+    {
         "date": "09.04.2026 12:00",
         "league": "ETH",
         "matchCode": "4460226",
         "home": "Moroccoil Kenema",
         "away": "Hawassa City FC",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
         "prediction": "Double Chance 12",
         "ihtimal": "79.17",
         "odds": "1.21",
         "matchCount": "24",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4460226",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "09.04.2026 13:00",
