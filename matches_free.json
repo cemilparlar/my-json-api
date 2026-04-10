@@ -8087,6 +8087,21 @@
     {
         "date": "16.01.2026 18:30",
         "league": "FR3",
+        "matchCode": "4338494",
+        "home": "FC Sochaux",
+        "away": "Chateauroux",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "82.85714285714286",
+        "odds": "1.17",
+        "matchCount": "35",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4338494",
+        "status": "Won"
+    },
+    {
+        "date": "16.01.2026 18:30",
+        "league": "FR3",
         "matchCode": "4338496",
         "home": "Valenciennes FC",
         "away": "Bourg-en-Bresse Peronnas",
@@ -32266,6 +32281,21 @@
     },
     {
         "date": "06.02.2026 17:00",
+        "league": "POL",
+        "matchCode": "4290670",
+        "home": "Korona Kielce",
+        "away": "Zaglebie Lubin",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 2",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "70.58823529411765",
+        "odds": "1.17",
+        "matchCount": "34",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4290670",
+        "status": "Won"
+    },
+    {
+        "date": "06.02.2026 17:00",
         "league": "HIR",
         "matchCode": "4296570",
         "home": "NK Lokomotiva Zagreb",
@@ -35052,21 +35082,6 @@
         "odds": "1.11",
         "matchCount": "48",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4430373",
-        "status": "Won"
-    },
-    {
-        "date": "07.02.2026 22:00",
-        "league": "ŞİLİK",
-        "matchCode": "4437494",
-        "home": "Sant. Wanderer",
-        "away": "Union San Felip",
-        "firstHalf": "2 - 0",
-        "finalScore": "3 - 1",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "70.59",
-        "odds": "1.08",
-        "matchCount": "85",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4437494",
         "status": "Won"
     },
     {
@@ -50205,21 +50220,6 @@
         "status": "Won"
     },
     {
-        "date": "21.02.2026 22:15",
-        "league": "ARJ",
-        "matchCode": "4432749",
-        "home": "Club Atletico Banfield",
-        "away": "Newells Old Boys",
-        "firstHalf": "0 - 0",
-        "finalScore": "3 - 0",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "80.0",
-        "odds": "1.08",
-        "matchCount": "10",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432749",
-        "status": "Won"
-    },
-    {
         "date": "22.02.2026 05:00",
         "league": "JAP",
         "matchCode": "4437570",
@@ -61891,6 +61891,21 @@
     },
     {
         "date": "04.03.2026 22:00",
+        "league": "CSA",
+        "matchCode": "4425565",
+        "home": "Caracas FC",
+        "away": "Metropolitanos FC",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "78.57",
+        "odds": "1.07",
+        "matchCount": "112",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4425565",
+        "status": "Won"
+    },
+    {
+        "date": "04.03.2026 22:00",
         "league": "FAS",
         "matchCode": "4433738",
         "home": "RSB Berkane",
@@ -62350,21 +62365,6 @@
         "prediction": "Over 1.5 Goals",
         "ihtimal": "75.93",
         "odds": "1.17",
-        "matchCount": "54",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4425570",
-        "status": "Won"
-    },
-    {
-        "date": "05.03.2026 22:00",
-        "league": "CSA",
-        "matchCode": "4425570",
-        "home": "Club Nacional",
-        "away": "Deportivo Recol",
-        "firstHalf": "0 - 1",
-        "finalScore": "1 - 1",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "74.07",
-        "odds": "1.08",
         "matchCount": "54",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4425570",
         "status": "Won"
@@ -70557,21 +70557,6 @@
         "odds": "1.08",
         "matchCount": "8",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4448055",
-        "status": "Won"
-    },
-    {
-        "date": "10.03.2026 22:45",
-        "league": "ARJ",
-        "matchCode": "4432795",
-        "home": "Club Atletico Tigre",
-        "away": "Velez Sarsfield",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "100.0",
-        "odds": "1.08",
-        "matchCount": "5",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432795",
         "status": "Won"
     },
     {
@@ -119536,6 +119521,36 @@
     },
     {
         "date": "07.04.2026 22:00",
+        "league": "CSA",
+        "matchCode": "4460385",
+        "home": "Independiente del Valle",
+        "away": "Racing Club",
+        "firstHalf": "1 - 2",
+        "finalScore": "1 - 3",
+        "prediction": "Double Chance 12",
+        "ihtimal": "82.76",
+        "odds": "1.07",
+        "matchCount": "29",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4460385",
+        "status": "Won"
+    },
+    {
+        "date": "07.04.2026 22:00",
+        "league": "CSA",
+        "matchCode": "4460385",
+        "home": "Independiente del Valle",
+        "away": "Racing Club",
+        "firstHalf": "1 - 2",
+        "finalScore": "1 - 3",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "82.76",
+        "odds": "1.07",
+        "matchCount": "29",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4460385",
+        "status": "Won"
+    },
+    {
+        "date": "07.04.2026 22:00",
         "league": "LKU",
         "matchCode": "4460457",
         "home": "Rivadavia",
@@ -120286,6 +120301,21 @@
     },
     {
         "date": "08.04.2026 22:00",
+        "league": "CSA",
+        "matchCode": "4460397",
+        "home": "Deportivo Riestra",
+        "away": "Club Deportivo Palestino",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "86.67",
+        "odds": "1.07",
+        "matchCount": "15",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4460397",
+        "status": "Won"
+    },
+    {
+        "date": "08.04.2026 22:00",
         "league": "NİK",
         "matchCode": "4462048",
         "home": "UNAN Managua",
@@ -120620,14 +120650,14 @@
         "matchCode": "4460518",
         "home": "Rosario Central",
         "away": "Indep. Jose Ter",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
         "prediction": "Handicap (0:2) 2",
         "ihtimal": "83.33333333333334",
         "odds": "1.17",
         "matchCount": "6",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4460518",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "09.04.2026 22:00",
@@ -120635,14 +120665,14 @@
         "matchCode": "4460350",
         "home": "Juventud Dl Pi",
         "away": "Cienciano",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "73.98",
-        "odds": "1.08",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 1",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "79.67479674796748",
+        "odds": "1.07",
         "matchCount": "123",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4460350",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "09.04.2026 22:00",
@@ -120650,28 +120680,13 @@
         "matchCode": "4460517",
         "home": "Universidad Central de Venezuela",
         "away": "Club Libertad",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "3 - 1",
         "prediction": "1st Half Under 1.5",
         "ihtimal": "71.08",
         "odds": "1.12",
         "matchCount": "83",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4460517",
-        "status": "Pending"
-    },
-    {
-        "date": "09.04.2026 22:00",
-        "league": "LKU",
-        "matchCode": "4460517",
-        "home": "Universidad Central de Venezuela",
-        "away": "Club Libertad",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "74.7",
-        "odds": "1.08",
-        "matchCount": "83",
-        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4460517",
-        "status": "Pending"
+        "status": "Won"
     }
 ]
