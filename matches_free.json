@@ -3990,6 +3990,21 @@
         "status": "Won"
     },
     {
+        "date": "10.01.2026 06:00",
+        "league": "AVUS",
+        "matchCode": "4378436",
+        "home": "Melbourne Victory",
+        "away": "Western Sydney Wanderers",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 1",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "83.33",
+        "odds": "1.15",
+        "matchCount": "6",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4378436",
+        "status": "Won"
+    },
+    {
         "date": "10.01.2026 08:00",
         "league": "AVUSTW",
         "matchCode": "4378580",
@@ -46935,6 +46950,21 @@
         "status": "Won"
     },
     {
+        "date": "20.02.2026 09:30",
+        "league": "AVNPL",
+        "matchCode": "4420926",
+        "home": "Moreton City Excelsior",
+        "away": "Gold Coast Knights",
+        "firstHalf": "2 - 0",
+        "finalScore": "4 - 1",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "78.95",
+        "odds": "1.05",
+        "matchCount": "38",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4420926",
+        "status": "Won"
+    },
+    {
         "date": "20.02.2026 12:30",
         "league": "SİNP",
         "matchCode": "4334262",
@@ -50290,6 +50320,21 @@
         "prediction": "Double Chance 12",
         "ihtimal": "100.0",
         "odds": "1.09",
+        "matchCount": "6",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4378475",
+        "status": "Won"
+    },
+    {
+        "date": "22.02.2026 06:00",
+        "league": "AVUS",
+        "matchCode": "4378475",
+        "home": "Central Coast Mariners",
+        "away": "Western Sydney Wanderers",
+        "firstHalf": "0 - 1",
+        "finalScore": "3 - 2",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "83.33",
+        "odds": "1.15",
         "matchCount": "6",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4378475",
         "status": "Won"
@@ -120695,14 +120740,29 @@
         "matchCode": "4421360",
         "home": "St. Albans Sai",
         "away": "Avondale FC",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 2",
+        "finalScore": "2 - 3",
         "prediction": "Double Chance 12",
         "ihtimal": "78.26",
         "odds": "1.05",
         "matchCount": "23",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4421360",
-        "status": "Pending"
+        "status": "Won"
+    },
+    {
+        "date": "10.04.2026 09:30",
+        "league": "AVNPL",
+        "matchCode": "4421360",
+        "home": "St. Albans Sai",
+        "away": "Avondale FC",
+        "firstHalf": "0 - 2",
+        "finalScore": "2 - 3",
+        "prediction": "Double Chance X2",
+        "ihtimal": "82.61",
+        "odds": "1.05",
+        "matchCount": "23",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4421360",
+        "status": "Won"
     },
     {
         "date": "10.04.2026 09:30",
@@ -120710,14 +120770,14 @@
         "matchCode": "4420962",
         "home": "Brisbane Wolves",
         "away": "Queensland Lions",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 5",
         "prediction": "Double Chance 12",
         "ihtimal": "80.0",
         "odds": "1.07",
         "matchCount": "10",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4420962",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "10.04.2026 09:30",
@@ -120725,14 +120785,29 @@
         "matchCode": "4420962",
         "home": "Brisbane Wolves",
         "away": "Queensland Lions",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 5",
         "prediction": "Double Chance X2",
         "ihtimal": "70.0",
         "odds": "1.13",
         "matchCount": "10",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4420962",
-        "status": "Pending"
+        "status": "Won"
+    },
+    {
+        "date": "10.04.2026 09:35",
+        "league": "AVUS",
+        "matchCode": "4378507",
+        "home": "Central Coast Mariners",
+        "away": "Brisbane Roar",
+        "firstHalf": "0 - 1",
+        "finalScore": "2 - 2",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "84.62",
+        "odds": "1.15",
+        "matchCount": "13",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4378507",
+        "status": "Won"
     },
     {
         "date": "10.04.2026 11:00",
