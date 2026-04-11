@@ -126245,14 +126245,14 @@
         "matchCode": "4457406",
         "home": "Standard Liege",
         "away": "KVC Westerlo",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "1 - 2",
         "prediction": "Under 3.5 Goals",
         "ihtimal": "82.5",
         "odds": "1.16",
         "matchCount": "40",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4457406",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "11.04.2026 16:30",
@@ -126747,6 +126747,36 @@
         "odds": "1.17",
         "matchCount": "23",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4423138",
+        "status": "Pending"
+    },
+    {
+        "date": "11.04.2026 20:15",
+        "league": "ARJ",
+        "matchCode": "4432859",
+        "home": "Estudiantes de La Plata",
+        "away": "Union Santa Fe",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "100.0",
+        "odds": "1.27",
+        "matchCount": "2",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432859",
+        "status": "Pending"
+    },
+    {
+        "date": "11.04.2026 20:15",
+        "league": "ARJ",
+        "matchCode": "4432859",
+        "home": "Estudiantes de La Plata",
+        "away": "Union Santa Fe",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:1) 2",
+        "ihtimal": "100.0",
+        "odds": "1.27",
+        "matchCount": "2",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432859",
         "status": "Pending"
     }
 ]
