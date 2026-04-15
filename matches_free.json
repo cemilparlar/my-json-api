@@ -131953,5 +131953,35 @@
         "matchCount": "101",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4405977",
         "status": "Won"
+    },
+    {
+        "date": "15.04.2026 09:30",
+        "league": "AVNPL",
+        "matchCode": "4456057",
+        "home": "Cooma Tigers",
+        "away": "Gungahlin Juven",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 1",
+        "ihtimal": "80.0",
+        "odds": "1.13",
+        "matchCount": "10",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4456057",
+        "status": "Pending"
+    },
+    {
+        "date": "15.04.2026 10:30",
+        "league": "GKOR",
+        "matchCode": "4435119",
+        "home": "Ulsan Hyundai",
+        "away": "Not FC Seoul - check data",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "81.25",
+        "odds": "1.13",
+        "matchCount": "32",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4435119",
+        "status": "Pending"
     }
 ]
