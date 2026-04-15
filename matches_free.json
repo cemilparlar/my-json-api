@@ -46050,6 +46050,21 @@
         "status": "Won"
     },
     {
+        "date": "18.02.2026 18:00",
+        "league": "İSV",
+        "matchCode": "4299964",
+        "home": "FC Winterthur",
+        "away": "FC St Gallen",
+        "firstHalf": "0 - 2",
+        "finalScore": "1 - 5",
+        "prediction": "1st Half Double Chance 12",
+        "ihtimal": "100.0",
+        "odds": "1.31",
+        "matchCount": "7",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4299964",
+        "status": "Won"
+    },
+    {
         "date": "18.02.2026 19:45",
         "league": "İN2",
         "matchCode": "4304622",
@@ -54462,6 +54477,21 @@
         "odds": "1.23",
         "matchCount": "5",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4427455",
+        "status": "Won"
+    },
+    {
+        "date": "25.02.2026 18:00",
+        "league": "ALMBÖL",
+        "matchCode": "4320189",
+        "home": "Sonnenhof Gros",
+        "away": "SC Freiburg II",
+        "firstHalf": "2 - 1",
+        "finalScore": "2 - 1",
+        "prediction": "Match Result 1",
+        "ihtimal": "93.33",
+        "odds": "1.31",
+        "matchCount": "15",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4320189",
         "status": "Won"
     },
     {
@@ -70662,6 +70692,21 @@
         "odds": "1.14",
         "matchCount": "139",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4445331",
+        "status": "Won"
+    },
+    {
+        "date": "11.03.2026 18:30",
+        "league": "İSV1Y",
+        "matchCode": "4326539",
+        "home": "FC Bavois",
+        "away": "SC Kriens",
+        "firstHalf": "0 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "Handicap (1:0) 1",
+        "ihtimal": "70.45454545454545",
+        "odds": "1.31",
+        "matchCount": "44",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4326539",
         "status": "Won"
     },
     {
@@ -131820,6 +131865,36 @@
         "status": "Won"
     },
     {
+        "date": "15.04.2026 18:00",
+        "league": "İSV1Y",
+        "matchCode": "4326630",
+        "home": "FC Luzern II",
+        "away": "Cham",
+        "firstHalf": "2 - 1",
+        "finalScore": "3 - 3",
+        "prediction": "Double Chance X2",
+        "ihtimal": "87.5",
+        "odds": "1.31",
+        "matchCount": "8",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4326630",
+        "status": "Won"
+    },
+    {
+        "date": "15.04.2026 18:00",
+        "league": "İSV1Y",
+        "matchCode": "4326630",
+        "home": "FC Luzern II",
+        "away": "Cham",
+        "firstHalf": "2 - 1",
+        "finalScore": "3 - 3",
+        "prediction": "Handicap (0:1) 2",
+        "ihtimal": "87.5",
+        "odds": "1.31",
+        "matchCount": "8",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4326630",
+        "status": "Won"
+    },
+    {
         "date": "15.04.2026 18:30",
         "league": "MALTP",
         "matchCode": "4462797",
@@ -131922,6 +131997,36 @@
         "odds": "1.13",
         "matchCount": "104",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4432181",
+        "status": "Pending"
+    },
+    {
+        "date": "15.04.2026 22:00",
+        "league": "CSA",
+        "matchCode": "4460388",
+        "home": "Racing Club",
+        "away": "Botafogo de Futebol e Regatas",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "74.28571428571429",
+        "odds": "1.08",
+        "matchCount": "70",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4460388",
+        "status": "Pending"
+    },
+    {
+        "date": "15.04.2026 22:00",
+        "league": "LKU",
+        "matchCode": "4460519",
+        "home": "Club Libertad",
+        "away": "Rosario Central",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance X2",
+        "ihtimal": "75.0",
+        "odds": "1.10",
+        "matchCount": "8",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4460519",
         "status": "Pending"
     }
 ]
