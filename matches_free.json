@@ -132440,14 +132440,14 @@
         "matchCode": "4446857",
         "home": "Wuhan Three Towns",
         "away": "Chengdu Rongcheng",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 1",
         "prediction": "Match Result 2",
         "ihtimal": "75.0",
         "odds": "1.25",
         "matchCount": "8",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4446857",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "17.04.2026 12:00",
@@ -132747,6 +132747,51 @@
         "odds": "1.10",
         "matchCount": "43",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4457463",
+        "status": "Pending"
+    },
+    {
+        "date": "17.04.2026 16:30",
+        "league": "İTA",
+        "matchCode": "4291753",
+        "home": "US Sassuolo",
+        "away": "Como 1907",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "100.0",
+        "odds": "1.14",
+        "matchCount": "2",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4291753",
+        "status": "Pending"
+    },
+    {
+        "date": "17.04.2026 16:30",
+        "league": "RUS",
+        "matchCode": "4314578",
+        "home": "FC Rostov",
+        "away": "Pfc Sochi",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "80.0",
+        "odds": "1.16",
+        "matchCount": "5",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4314578",
+        "status": "Pending"
+    },
+    {
+        "date": "17.04.2026 16:30",
+        "league": "AL2",
+        "matchCode": "4306824",
+        "home": "SV Elversberg",
+        "away": "Karlsruher SC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 2.5",
+        "ihtimal": "100.0",
+        "odds": "1.07",
+        "matchCount": "3",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4306824",
         "status": "Pending"
     }
 ]
