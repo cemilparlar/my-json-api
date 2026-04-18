@@ -133835,14 +133835,14 @@
         "matchCode": "4435157",
         "home": "Bucheon FC",
         "away": "Incheon United",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 2",
+        "finalScore": "2 - 2",
         "prediction": "1st Half Double Chance X2",
         "ihtimal": "80.0",
         "odds": "1.08",
         "matchCount": "10",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4435157",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "18.04.2026 07:30",
@@ -134502,6 +134502,36 @@
         "odds": "1.09",
         "matchCount": "38",
         "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4315648",
+        "status": "Pending"
+    },
+    {
+        "date": "18.04.2026 11:30",
+        "league": "İNCL",
+        "matchCode": "4302304",
+        "home": "Portsmouth",
+        "away": "Leicester City",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "71.43",
+        "odds": "1.17",
+        "matchCount": "35",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4302304",
+        "status": "Pending"
+    },
+    {
+        "date": "18.04.2026 11:30",
+        "league": "İNCL",
+        "matchCode": "4302300",
+        "home": "Derby County",
+        "away": "Oxford United",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "70.0",
+        "odds": "1.10",
+        "matchCount": "20",
+        "matchLink": "https://arsiv.mackolik.com/Match/Default.aspx?id=4302300",
         "status": "Pending"
     }
 ]
