@@ -4,6 +4,7 @@
   "description": "Football leagues - 11 languages (tr, en, de, es, pt, fr, it, id, nl, pl, ro)",
   "leagues": {
     "ABD": {
+      "ulke": "US",
       "tr": "Amerika Birleşik Devletleri - MLS",
       "en": "USA - MLS",
       "de": "USA - MLS",
@@ -17,6 +18,7 @@
       "ro": "SUA - MLS"
     },
     "ABDK": {
+      "ulke": "US",
       "tr": "Amerika Birleşik Devletleri - Kadınlar Ligi",
       "en": "USA - Women's League",
       "de": "USA - Frauenliga",
@@ -30,6 +32,7 @@
       "ro": "SUA - Liga Feminină"
     },
     "AFCAKŞ": {
+      "ulke": "AS",
       "tr": "AFC - Asya Kupası Şampiyonlar Ligi (Batı)",
       "en": "AFC - Asian Cup Champions League (West)",
       "de": "AFC - Asien-Pokal Champions League (West)",
@@ -43,6 +46,7 @@
       "ro": "AFC - Liga Campionilor Cupei Asiei (Vest)"
     },
     "AFCSŞ": {
+      "ulke": "AS",
       "tr": "AFC - Şampiyonlar Ligi (Batı Grubu)",
       "en": "AFC - Champions League (West Group)",
       "de": "AFC - Champions League (Westgruppe)",
@@ -56,6 +60,7 @@
       "ro": "AFC - Liga Campionilor (Grupul de Vest)"
     },
     "AFCU23": {
+      "ulke": "AF",
       "tr": "AFC - U23 Şampiyonası",
       "en": "AFC - U23 Championship",
       "de": "AFC - U23-Meisterschaft",
@@ -69,6 +74,7 @@
       "ro": "AFC - Campionatul U23"
     },
     "AFCŞL2": {
+      "ulke": "AS",
       "tr": "AFC - Şampiyonlar Ligi 2 (Elit)",
       "en": "AFC - Champions League 2 (Elite)",
       "de": "AFC - Champions League 2 (Elite)",
@@ -82,6 +88,7 @@
       "ro": "AFC - Liga Campionilor 2 (Elită)"
     },
     "AFCŞLK": {
+      "ulke": "AS",
       "tr": "AFC - Şampiyonlar Ligi (Klasik)",
       "en": "AFC - Champions League (Classic)",
       "de": "AFC - Champions League (Klassisch)",
@@ -95,6 +102,7 @@
       "ro": "AFC - Liga Campionilor (Clasic)"
     },
     "AFK": {
+      "ulke": "AF",
       "tr": "Avrupa - FIFA Kulüpler Dünya Kupası",
       "en": "Europe - FIFA Club World Cup",
       "de": "Europa - FIFA-Klub-Weltmeisterschaft",
@@ -108,6 +116,7 @@
       "ro": "Europa - Campionatul Mondial al Cluburilor FIFA"
     },
     "AFUK": {
+      "ulke": "AF",
       "tr": "Afrika Uluslar Kupası",
       "en": "Africa Cup of Nations",
       "de": "Afrika-Cup",
@@ -121,6 +130,7 @@
       "ro": "Cupa Africii pe Națiuni"
     },
     "AL1": {
+      "ulke": "DE",
       "tr": "Almanya - Bundesliga 1",
       "en": "Germany - Bundesliga 1",
       "de": "Deutschland - 1. Bundesliga",
@@ -134,6 +144,7 @@
       "ro": "Germania - Bundesliga 1"
     },
     "AL1P": {
+      "ulke": "DE",
       "tr": "Almanya - Bundesliga 1 Playoff",
       "en": "Germany - Bundesliga 1 Playoff",
       "de": "Deutschland - Bundesliga 1 Playoff",
@@ -147,6 +158,7 @@
       "ro": "Germania - Play-off Bundesliga 1"
     },
     "AL2": {
+      "ulke": "DE",
       "tr": "Almanya - Bundesliga 2",
       "en": "Germany - Bundesliga 2",
       "de": "Deutschland - 2. Bundesliga",
@@ -160,6 +172,7 @@
       "ro": "Germania - Bundesliga 2"
     },
     "AL2P": {
+      "ulke": "DE",
       "tr": "Almanya - Bundesliga 2 Playoff",
       "en": "Germany - Bundesliga 2 Playoff",
       "de": "Deutschland - Bundesliga 2 Playoff",
@@ -173,6 +186,7 @@
       "ro": "Germania - Play-off Bundesliga 2"
     },
     "AL3": {
+      "ulke": "DE",
       "tr": "Almanya - 3. Liga",
       "en": "Germany - 3. Liga",
       "de": "Deutschland - 3. Liga",
@@ -186,6 +200,7 @@
       "ro": "Germania - 3. Liga"
     },
     "ALKB": {
+      "ulke": "DE",
       "tr": "Almanya - Kadınlar Bundesliga",
       "en": "Germany - Women's Bundesliga",
       "de": "Deutschland - Frauen-Bundesliga",
@@ -199,6 +214,7 @@
       "ro": "Germania - Bundesliga Feminină"
     },
     "ALMBÖL": {
+      "ulke": "DE",
       "tr": "Almanya - Bölgesel Lig",
       "en": "Germany - Regionalliga",
       "de": "Deutschland - Regionalliga",
@@ -212,6 +228,7 @@
       "ro": "Germania - Regionalliga"
     },
     "ALU19": {
+      "ulke": "DE",
       "tr": "Almanya - U19 Ligi",
       "en": "Germany - U19 League",
       "de": "Deutschland - U19-Liga",
@@ -225,6 +242,7 @@
       "ro": "Germania - Liga U19"
     },
     "AND": {
+      "ulke": "AD",
       "tr": "Andorra - 1. Lig",
       "en": "Andorra - 1st League",
       "de": "Andorra - 1. Liga",
@@ -238,6 +256,7 @@
       "ro": "Andorra - Prima Ligă"
     },
     "ANDK": {
+      "ulke": "AD",
       "tr": "Andorra - Kupa",
       "en": "Andorra - Cup",
       "de": "Andorra - Pokal",
@@ -251,6 +270,7 @@
       "ro": "Andorra - Cupa"
     },
     "ANG": {
+      "ulke": "AO",
       "tr": "Angola - Girabola",
       "en": "Angola - Girabola",
       "de": "Angola - Girabola",
@@ -264,6 +284,7 @@
       "ro": "Angola - Girabola"
     },
     "ARJ": {
+      "ulke": "AR",
       "tr": "Arjantin - Primera Division",
       "en": "Argentina - Primera Division",
       "de": "Argentinien - Primera Division",
@@ -277,6 +298,7 @@
       "ro": "Argentina - Primera Division"
     },
     "ARJK": {
+      "ulke": "AR",
       "tr": "Arjantin - Kupa",
       "en": "Argentina - Cup",
       "de": "Argentinien - Pokal",
@@ -290,6 +312,7 @@
       "ro": "Argentina - Cupa"
     },
     "ARJPBN": {
+      "ulke": "AR",
       "tr": "Arjantin - Primera B Nacional",
       "en": "Argentina - Primera B Nacional",
       "de": "Argentinien - Primera B Nacional",
@@ -303,6 +326,7 @@
       "ro": "Argentina - Primera B Nacional"
     },
     "ASKE": {
+      "ulke": "AS",
       "tr": "Asya - Güneydoğu Asya Şampiyonası",
       "en": "Asia - Southeast Asian Championship",
       "de": "Asien - Südostasienmeisterschaft",
@@ -316,6 +340,7 @@
       "ro": "Asia - Campionatul Africii de Sud-Est"
     },
     "AU2": {
+      "ulke": "AU",
       "tr": "Avusturya - 2. Liga",
       "en": "Austria - 2. Liga",
       "de": "Österreich - 2. Liga",
@@ -329,6 +354,7 @@
       "ro": "Austria - Liga 2"
     },
     "AVK": {
+      "ulke": "AU",
       "tr": "Avusturya - Kupa",
       "en": "Austria - Cup",
       "de": "Österreich - Pokal",
@@ -342,6 +368,7 @@
       "ro": "Austria - Cupa"
     },
     "AVKL": {
+      "ulke": "AT",
       "tr": "Avrupa Konferans Ligi",
       "en": "UEFA Conference League",
       "de": "UEFA Conference League",
@@ -355,6 +382,7 @@
       "ro": "UEFA Conference League"
     },
     "AVL": {
+      "ulke": "AU",
       "tr": "Avrupa Ligi",
       "en": "UEFA Europa League",
       "de": "UEFA Europa League",
@@ -368,6 +396,7 @@
       "ro": "UEFA Europa League"
     },
     "AVNPL": {
+      "ulke": "AU",
       "tr": "Avustralya - NPL (Ulusal Premier Lig)",
       "en": "Australia - NPL (National Premier Leagues)",
       "de": "Australien - NPL",
@@ -381,6 +410,7 @@
       "ro": "Australia - NPL"
     },
     "AVNPLK": {
+      "ulke": "AU",
       "tr": "Avustralya - NPL Kadınlar",
       "en": "Australia - NPL Women",
       "de": "Australien - NPL Frauen",
@@ -394,6 +424,7 @@
       "ro": "Australia - NPL Feminin"
     },
     "AVPL1": {
+      "ulke": "AU",
       "tr": "Avustralya - Premier Lig 1",
       "en": "Australia - Premier League 1",
       "de": "Australien - Premier League 1",
@@ -407,6 +438,7 @@
       "ro": "Australia - Premier League 1"
     },
     "AVRK-K": {
+      "ulke": "EU",
       "tr": "Avrupa - Kadınlar Şampiyonlar Ligi",
       "en": "Europe - Women's Champions League",
       "de": "Europa - Champions League der Frauen",
@@ -420,6 +452,7 @@
       "ro": "Europa - Liga Campionilor Feminin"
     },
     "AVU": {
+      "ulke": "AT",
       "tr": "Avusturya - Bundesliga",
       "en": "Austria - Bundesliga",
       "de": "Österreich - Bundesliga",
@@ -433,6 +466,7 @@
       "ro": "Austria - Bundesliga"
     },
     "AVUL": {
+      "ulke": "EU",
       "tr": "Avrupa - UEFA Uluslar Ligi",
       "en": "Europe - UEFA Nations League",
       "de": "Europa - UEFA Nations League",
@@ -446,6 +480,7 @@
       "ro": "Europa - Liga Națiunilor UEFA"
     },
     "AVUS": {
+      "ulke": "AT",
       "tr": "Avustralya - A-Ligi",
       "en": "Australia - A-League",
       "de": "Australien - A-League",
@@ -459,6 +494,7 @@
       "ro": "Australia - A-League"
     },
     "AVUSTW": {
+      "ulke": "AT",
       "tr": "Avustralya - A-Ligi (Batı Konferansı)",
       "en": "Australia - A-League (Western Conference)",
       "de": "Australien - A-League (Western Conference)",
@@ -472,6 +508,7 @@
       "ro": "Australia - A-League (Conferința de Vest)"
     },
     "AVŞU19": {
+      "ulke": "AT",
       "tr": "Avusturya - U19 Şampiyonası",
       "en": "Austria - U19 Championship",
       "de": "Österreich - U19-Meisterschaft",
@@ -485,6 +522,7 @@
       "ro": "Austria - Campionatul U19"
     },
     "AZERK": {
+      "ulke": "AZ",
       "tr": "Azerbaycan - Kupa",
       "en": "Azerbaijan - Cup",
       "de": "Aserbaidschan - Pokal",
@@ -498,6 +536,7 @@
       "ro": "Azerbaidjan - Cupa"
     },
     "AZERS": {
+      "ulke": "AZ",
       "tr": "Azerbaycan - Premier Ligi",
       "en": "Azerbaijan - Premier League",
       "de": "Aserbaidschan - Premier Liga",
@@ -511,6 +550,7 @@
       "ro": "Azerbaidjan - Premier League"
     },
     "AŞMP": {
+      "ulke": "EU",
       "tr": "Asya - Şampiyonlar Ligi",
       "en": "Asia - Champions League",
       "de": "Asien - Champions League",
@@ -524,6 +564,7 @@
       "ro": "Asia - Liga Campionilor"
     },
     "BAE": {
+      "ulke": "AE",
       "tr": "Birleşik Arap Emirlikleri - Ligi",
       "en": "UAE - Pro League",
       "de": "VAE - Pro League",
@@ -537,6 +578,7 @@
       "ro": "EAU - Pro League"
     },
     "BAE2": {
+      "ulke": "AE",
       "tr": "Birleşik Arap Emirlikleri - 2. Lig",
       "en": "UAE - Division 1 (2nd League)",
       "de": "VAE - Division 1",
@@ -550,6 +592,7 @@
       "ro": "EAU - Divizia 1"
     },
     "BAECK": {
+      "ulke": "BY",
       "tr": "Birleşik Arap Emirlikleri - Cumhurbaşkanı Kupası",
       "en": "UAE - President's Cup",
       "de": "VAE - President's Cup",
@@ -563,6 +606,7 @@
       "ro": "EAU - Cupa Președintelui"
     },
     "BAELK": {
+      "ulke": "AE",
       "tr": "Birleşik Arap Emirlikleri - Ligi Kupası",
       "en": "UAE - League Cup",
       "de": "VAE - Ligapokal",
@@ -576,6 +620,7 @@
       "ro": "EAU - Cupa Ligii"
     },
     "BAH": {
+      "ulke": "BH",
       "tr": "Bahreyn - Premier Ligi",
       "en": "Bahrain - Premier League",
       "de": "Bahrain - Premier League",
@@ -589,6 +634,7 @@
       "ro": "Bahrain - Premier League"
     },
     "BAHKK": {
+      "ulke": "BH",
       "tr": "Bahreyn - Kral Kupası",
       "en": "Bahrain - King's Cup",
       "de": "Bahrain - King's Cup",
@@ -602,6 +648,7 @@
       "ro": "Bahrain - Cupa Regelui"
     },
     "BAHSK": {
+      "ulke": "BH",
       "tr": "Bahreyn - Süper Kupa",
       "en": "Bahrain - Super Cup",
       "de": "Bahrain - Supercup",
@@ -615,6 +662,7 @@
       "ro": "Bahrain - Supercupa"
     },
     "BALTIK": {
+      "ulke": "-",
       "tr": "Baltık - Uluslar Ligi",
       "en": "Baltic - Nations League",
       "de": "Baltikum - Nations League",
@@ -628,6 +676,7 @@
       "ro": "Baltica - Liga Națiunilor"
     },
     "BEK": {
+      "ulke": "BE",
       "tr": "Belçika - Kupa",
       "en": "Belgium - Cup",
       "de": "Belgien - Pokal",
@@ -641,6 +690,7 @@
       "ro": "Belgia - Cupa"
     },
     "BEL": {
+      "ulke": "BE",
       "tr": "Belçika - Pro Ligi",
       "en": "Belgium - Pro League",
       "de": "Belgien - Pro League",
@@ -654,6 +704,7 @@
       "ro": "Belgia - Pro League"
     },
     "BEL2": {
+      "ulke": "BE",
       "tr": "Belçika - 1B Ligi",
       "en": "Belgium - Challenger Pro League (1B)",
       "de": "Belgien - Challenger Pro League (1B)",
@@ -667,6 +718,7 @@
       "ro": "Belgia - Challenger Pro League (1B)"
     },
     "BELP": {
+      "ulke": "BE",
       "tr": "Belçika - Playoff",
       "en": "Belgium - Playoff",
       "de": "Belgien - Playoff",
@@ -680,6 +732,7 @@
       "ro": "Belgia - Play-off"
     },
     "BLR": {
+      "ulke": "BY",
       "tr": "Belarus - Yüksek Lig",
       "en": "Belarus - Vysshaya Liga",
       "de": "Belarus - Wyschejschaja Liha",
@@ -693,6 +746,7 @@
       "ro": "Belarus - Vysshaya Liga"
     },
     "BLR1": {
+      "ulke": "BY",
       "tr": "Belarus - 1. Lig",
       "en": "Belarus - 1st League",
       "de": "Belarus - 1. Liga",
@@ -706,6 +760,7 @@
       "ro": "Belarus - Liga 1"
     },
     "BLRK": {
+      "ulke": "BY",
       "tr": "Belarus - Kupa",
       "en": "Belarus - Cup",
       "de": "Belarus - Pokal",
@@ -719,6 +774,7 @@
       "ro": "Belarus - Cupa"
     },
     "BOLİ": {
+      "ulke": "BO",
       "tr": "Bolivya - División Profesional",
       "en": "Bolivia - División Profesional",
       "de": "Bolivien - División Profesional",
@@ -732,6 +788,7 @@
       "ro": "Bolivia - División Profesional"
     },
     "BOSK": {
+      "ulke": "BA",
       "tr": "Bosna Hersek - Kupa",
       "en": "Bosnia and Herzegovina - Cup",
       "de": "Bosnien und Herzegowina - Pokal",
@@ -745,6 +802,7 @@
       "ro": "Bosnia și Herțegovina - Cupa"
     },
     "BOSN": {
+      "ulke": "BA",
       "tr": "Bosna Hersek - Premier Ligi",
       "en": "Bosnia and Herzegovina - Premier League",
       "de": "Bosnien und Herzegowina - Premijer Liga",
@@ -758,6 +816,7 @@
       "ro": "Bosnia și Herțegovina - Premier Liga"
     },
     "BR1": {
+      "ulke": "BR",
       "tr": "Brezilya - Série A",
       "en": "Brazil - Série A",
       "de": "Brasilien - Série A",
@@ -771,6 +830,7 @@
       "ro": "Brazilia - Série A"
     },
     "BR2": {
+      "ulke": "BR",
       "tr": "Brezilya - Série B",
       "en": "Brazil - Série B",
       "de": "Brasilien - Série B",
@@ -784,6 +844,7 @@
       "ro": "Brazilia - Série B"
     },
     "BRBK": {
+      "ulke": "BR",
       "tr": "Brezilya - Kupa",
       "en": "Brazil - Cup",
       "de": "Brasilien - Pokal",
@@ -797,6 +858,7 @@
       "ro": "Brazilia - Cupa"
     },
     "BRK": {
+      "ulke": "BR",
       "tr": "Brezilya - Kupa",
       "en": "Brazil - Cup",
       "de": "Brasilien - Pokal",
@@ -810,6 +872,7 @@
       "ro": "Brazilia - Cupa"
     },
     "BRU20": {
+      "ulke": "BR",
       "tr": "Brezilya - U20 Ligi",
       "en": "Brazil - U20 League",
       "de": "Brasilien - U20-Liga",
@@ -823,6 +886,7 @@
       "ro": "Brazilia - Liga U20"
     },
     "BRUSK": {
+      "ulke": "BR",
       "tr": "Brezilya - Eyalet Şampiyonası Kupası",
       "en": "Brazil - State Championship Cup",
       "de": "Brasilien - Staatsmeisterschafts-Pokal",
@@ -836,6 +900,7 @@
       "ro": "Brazilia - Cupa Campionatelor Statale"
     },
     "BUL1": {
+      "ulke": "BG",
       "tr": "Bulgaristan - 1. Lig",
       "en": "Bulgaria - First League",
       "de": "Bulgarien - Parva Liga",
@@ -849,6 +914,7 @@
       "ro": "Bulgaria - Parva Liga"
     },
     "BULK": {
+      "ulke": "BG",
       "tr": "Bulgaristan - Kupa",
       "en": "Bulgaria - Cup",
       "de": "Bulgarien - Pokal",
@@ -862,6 +928,7 @@
       "ro": "Bulgaria - Cupa"
     },
     "BULSK": {
+      "ulke": "BG",
       "tr": "Bulgaristan - Süper Kupa",
       "en": "Bulgaria - Super Cup",
       "de": "Bulgarien - Supercup",
@@ -875,6 +942,7 @@
       "ro": "Bulgaria - Supercupa"
     },
     "CAFKK": {
+      "ulke": "AF",
       "tr": "CAF - Şampiyonlar Ligi",
       "en": "CAF - Champions League",
       "de": "CAF - Champions League",
@@ -888,6 +956,7 @@
       "ro": "CAF - Liga Campionilor"
     },
     "CAFŞL": {
+      "ulke": "AF",
       "tr": "CAF - Konfederasyon Kupası",
       "en": "CAF - Confederation Cup",
       "de": "CAF - Confederation Cup",
@@ -901,6 +970,7 @@
       "ro": "CAF - Cupa Confederației"
     },
     "CON": {
+      "ulke": "NA",
       "tr": "CONCACAF - Şampiyonlar Kupası",
       "en": "CONCACAF - Champions Cup",
       "de": "CONCACAF - Champions Cup",
@@ -914,6 +984,7 @@
       "ro": "CONCACAF - Cupa Campionilor"
     },
     "CONK": {
+      "ulke": "NA",
       "tr": "CONCACAF - Kadınlar Şampiyonası",
       "en": "CONCACAF - W Championship",
       "de": "CONCACAF - W Championship",
@@ -927,6 +998,7 @@
       "ro": "CONCACAF - Campionatul Feminin"
     },
     "CONUK": {
+      "ulke": "NA",
       "tr": "CONCACAF - U-Ligi Kadın",
       "en": "CONCACAF - Women's U-League",
       "de": "CONCACAF - Frauen-U-Liga",
@@ -940,6 +1012,7 @@
       "ro": "CONCACAF - Liga Feminină U-"
     },
     "CSA": {
+      "ulke": "-",
       "tr": "Copa Sudamericana",
       "en": "Copa Sudamericana",
       "de": "Copa Sudamericana",
@@ -953,6 +1026,7 @@
       "ro": "Copa Sudamericana"
     },
     "CZYR": {
+      "ulke": "DZ",
       "tr": "Cezayir - 1. Lig (Ligue Professionnelle 1)",
       "en": "Algeria - Ligue Professionnelle 1",
       "de": "Algerien - Ligue Professionnelle 1",
@@ -966,6 +1040,7 @@
       "ro": "Algeria - Ligue Professionnelle 1"
     },
     "CZYR2": {
+      "ulke": "DZ",
       "tr": "Cezayir - 2. Lig",
       "en": "Algeria - Ligue 2",
       "de": "Algerien - 2. Liga",
@@ -979,6 +1054,7 @@
       "ro": "Algeria - Ligue 2"
     },
     "CZYRK": {
+      "ulke": "DZ",
       "tr": "Cezayir - Kupa",
       "en": "Algeria - Cup",
       "de": "Algerien - Pokal",
@@ -992,6 +1068,7 @@
       "ro": "Algeria - Cupa"
     },
     "CZYRSK": {
+      "ulke": "DZ",
       "tr": "Cezayir - Süper Kupa",
       "en": "Algeria - Super Cup",
       "de": "Algerien - Supercup",
@@ -1005,6 +1082,7 @@
       "ro": "Algeria - Supercupa"
     },
     "DAK": {
+      "ulke": "DK",
       "tr": "Danimarka - Kupa",
       "en": "Denmark - Cup",
       "de": "Dänemark - Pokal",
@@ -1018,6 +1096,7 @@
       "ro": "Danemarca - Cupa"
     },
     "DAN": {
+      "ulke": "DK",
       "tr": "Danimarka - Superliga",
       "en": "Denmark - Superliga",
       "de": "Dänemark - Superliga",
@@ -1031,6 +1110,7 @@
       "ro": "Danemarca - Superliga"
     },
     "DAN1": {
+      "ulke": "DK",
       "tr": "Danimarka - 1. Lig",
       "en": "Denmark - 1st Division",
       "de": "Dänemark - 1. Division",
@@ -1044,6 +1124,7 @@
       "ro": "Danemarca - Liga 1"
     },
     "DAN2": {
+      "ulke": "DK",
       "tr": "Danimarka - 2. Lig",
       "en": "Denmark - 2nd Division",
       "de": "Dänemark - 2. Division",
@@ -1057,6 +1138,7 @@
       "ro": "Danemarca - Liga 2"
     },
     "DAN3": {
+      "ulke": "DK",
       "tr": "Danimarka - 3. Lig",
       "en": "Denmark - 3rd Division",
       "de": "Dänemark - 3. Division",
@@ -1070,6 +1152,7 @@
       "ro": "Danemarca - Liga 3"
     },
     "DK": {
+      "ulke": "DK",
       "tr": "Dünya Kupası",
       "en": "World Cup",
       "de": "Weltmeisterschaft",
@@ -1083,6 +1166,7 @@
       "ro": "Campionatul Mondial"
     },
     "DKE": {
+      "ulke": "DK",
       "tr": "Dünya Kupası Elemeleri",
       "en": "World Cup Qualifiers",
       "de": "WM-Qualifikation",
@@ -1096,6 +1180,7 @@
       "ro": "Calificări la Campionatul Mondial"
     },
     "EKV1": {
+      "ulke": "EC",
       "tr": "Ekvador - Liga Pro Serie A",
       "en": "Ecuador - Liga Pro Serie A",
       "de": "Ecuador - Liga Pro Serie A",
@@ -1109,6 +1194,7 @@
       "ro": "Ecuador - Liga Pro Serie A"
     },
     "EKVK": {
+      "ulke": "EC",
       "tr": "Ekvador - Kupa",
       "en": "Ecuador - Cup",
       "de": "Ecuador - Pokal",
@@ -1122,6 +1208,7 @@
       "ro": "Ecuador - Cupa"
     },
     "EKVSK": {
+      "ulke": "EC",
       "tr": "Ekvador - Süper Kupa",
       "en": "Ecuador - Super Cup",
       "de": "Ecuador - Supercup",
@@ -1135,6 +1222,7 @@
       "ro": "Ecuador - Supercupa"
     },
     "ELSAL": {
+      "ulke": "SV",
       "tr": "El Salvador - Primera Division",
       "en": "El Salvador - Primera Division",
       "de": "El Salvador - Primera Division",
@@ -1148,6 +1236,7 @@
       "ro": "El Salvador - Primera Division"
     },
     "ENDL1": {
+      "ulke": "EN",
       "tr": "Endonezya - Liga 1",
       "en": "Indonesia - Liga 1",
       "de": "Indonesien - Liga 1",
@@ -1161,6 +1250,7 @@
       "ro": "Indonezia - Liga 1"
     },
     "EST1": {
+      "ulke": "EE",
       "tr": "Estonya - Meistriliiga",
       "en": "Estonia - Meistriliiga",
       "de": "Estland - Meistriliiga",
@@ -1174,6 +1264,7 @@
       "ro": "Estonia - Meistriliiga"
     },
     "ESTK": {
+      "ulke": "EE",
       "tr": "Estonya - Kupa",
       "en": "Estonia - Cup",
       "de": "Estland - Pokal",
@@ -1187,6 +1278,7 @@
       "ro": "Estonia - Cupa"
     },
     "ETH": {
+      "ulke": "ET",
       "tr": "Etiyopya - Premier Ligi",
       "en": "Ethiopia - Premier League",
       "de": "Äthiopien - Premier League",
@@ -1200,6 +1292,7 @@
       "ro": "Etiopia - Premier League"
     },
     "FAK": {
+      "ulke": "FO",
       "tr": "FA - İngiltere FA Kupası (Kademe)",
       "en": "England - FA Cup",
       "de": "England - FA Cup",
@@ -1213,6 +1306,7 @@
       "ro": "Anglia - Cupa FA"
     },
     "FAROEK": {
+      "ulke": "FO",
       "tr": "Faroe Adaları - Kupa",
       "en": "Faroe Islands - Cup",
       "de": "Färöer - Pokal",
@@ -1226,6 +1320,7 @@
       "ro": "Insulele Feroe - Cupa"
     },
     "FAROEM": {
+      "ulke": "FO",
       "tr": "Faroe Adaları - Premier Ligi",
       "en": "Faroe Islands - Premier League",
       "de": "Färöer - Premier League",
@@ -1239,6 +1334,7 @@
       "ro": "Insulele Feroe - Premier League"
     },
     "FAS": {
+      "ulke": "MA",
       "tr": "Fas - Botola Pro",
       "en": "Morocco - Botola Pro",
       "de": "Marokko - Botola Pro",
@@ -1252,6 +1348,7 @@
       "ro": "Maroc - Botola Pro"
     },
     "FAS2": {
+      "ulke": "MA",
       "tr": "Fas - Botola 2",
       "en": "Morocco - Botola 2",
       "de": "Marokko - Botola 2",
@@ -1265,6 +1362,7 @@
       "ro": "Maroc - Botola 2"
     },
     "FASK": {
+      "ulke": "MA",
       "tr": "Fas - Kupa",
       "en": "Morocco - Cup",
       "de": "Marokko - Pokal",
@@ -1278,6 +1376,7 @@
       "ro": "Maroc - Cupa"
     },
     "FINYK": {
+      "ulke": "FI",
       "tr": "Finlandiya - Yakkösliiga (2. Lig)",
       "en": "Finland - Ykkösliiga (2nd League)",
       "de": "Finnland - Ykkösliiga",
@@ -1291,6 +1390,7 @@
       "ro": "Finlanda - Ykkösliiga"
     },
     "FLK": {
+      "ulke": "BE",
       "tr": "Finlandiya - Liiga Kupası",
       "en": "Finland - League Cup",
       "de": "Finnland - Ligapokal",
@@ -1304,6 +1404,7 @@
       "ro": "Finlanda - Cupa Ligii"
     },
     "FR1": {
+      "ulke": "FR",
       "tr": "Fransa - Ligue 1",
       "en": "France - Ligue 1",
       "de": "Frankreich - Ligue 1",
@@ -1317,6 +1418,7 @@
       "ro": "Franța - Ligue 1"
     },
     "FR2": {
+      "ulke": "FR",
       "tr": "Fransa - Ligue 2",
       "en": "France - Ligue 2",
       "de": "Frankreich - Ligue 2",
@@ -1330,6 +1432,7 @@
       "ro": "Franța - Ligue 2"
     },
     "FR3": {
+      "ulke": "FR",
       "tr": "Fransa - National",
       "en": "France - National",
       "de": "Frankreich - National",
@@ -1343,6 +1446,7 @@
       "ro": "Franța - National"
     },
     "FRK": {
+      "ulke": "FR",
       "tr": "Fransa - Kupa",
       "en": "France - Cup",
       "de": "Frankreich - Pokal",
@@ -1356,6 +1460,7 @@
       "ro": "Franța - Cupa"
     },
     "FRK1": {
+      "ulke": "FR",
       "tr": "Fransa - Kadınlar D1 Kupası",
       "en": "France - Women's D1 Cup",
       "de": "Frankreich - D1-Pokal der Frauen",
@@ -1369,6 +1474,7 @@
       "ro": "Franța - Cupa Feminină D1"
     },
     "FİK": {
+      "ulke": "FI",
       "tr": "Finlandiya - Kupa",
       "en": "Finland - Cup",
       "de": "Finnland - Pokal",
@@ -1382,6 +1488,7 @@
       "ro": "Finlanda - Cupa"
     },
     "FİN": {
+      "ulke": "FI",
       "tr": "Finlandiya - Veikkausliiga",
       "en": "Finland - Veikkausliiga",
       "de": "Finnland - Veikkausliiga",
@@ -1395,6 +1502,7 @@
       "ro": "Finlanda - Veikkausliiga"
     },
     "FİN2": {
+      "ulke": "FI",
       "tr": "Finlandiya - Ykkösliiga",
       "en": "Finland - Ykkösliiga",
       "de": "Finnland - Ykkösliiga",
@@ -1408,6 +1516,7 @@
       "ro": "Finlanda - Ykkösliiga"
     },
     "FİN3": {
+      "ulke": "FI",
       "tr": "Finlandiya - Kakkonen",
       "en": "Finland - Kakkonen",
       "de": "Finnland - Kakkonen",
@@ -1421,6 +1530,7 @@
       "ro": "Finlanda - Kakkonen"
     },
     "GAF1": {
+      "ulke": "AF",
       "tr": "Güney Afrika - NFD (National First Division)",
       "en": "South Africa - NFD",
       "de": "Südafrika - NFD",
@@ -1434,6 +1544,7 @@
       "ro": "Africa de Sud - NFD"
     },
     "GAFK": {
+      "ulke": "AF",
       "tr": "Güney Afrika - Kupa",
       "en": "South Africa - Cup",
       "de": "Südafrika - Pokal",
@@ -1447,6 +1558,7 @@
       "ro": "Africa de Sud - Cupa"
     },
     "GAFPSL": {
+      "ulke": "AF",
       "tr": "Güney Afrika - Premier Soccer Ligi",
       "en": "South Africa - Premier Soccer League",
       "de": "Südafrika - Premier Soccer League",
@@ -1460,6 +1572,7 @@
       "ro": "Africa de Sud - Premier Soccer League"
     },
     "GAL": {
+      "ulke": "WL",
       "tr": "Galler - Premier Ligi",
       "en": "Wales - Premier League",
       "de": "Wales - Premier League",
@@ -1473,6 +1586,7 @@
       "ro": "Țara Galilor - Premier League"
     },
     "GALFAW": {
+      "ulke": "WL",
       "tr": "Galler - FAW Trophy",
       "en": "Wales - FAW Trophy",
       "de": "Wales - FAW Trophy",
@@ -1486,6 +1600,7 @@
       "ro": "Țara Galilor - Trofeul FAW"
     },
     "GALWK": {
+      "ulke": "WL",
       "tr": "Galler - Kupa",
       "en": "Wales - Cup",
       "de": "Wales - Pokal",
@@ -1499,6 +1614,7 @@
       "ro": "Țara Galilor - Cupa"
     },
     "GANA": {
+      "ulke": "GH",
       "tr": "Gana - Premier Ligi",
       "en": "Ghana - Premier League",
       "de": "Ghana - Premier League",
@@ -1512,6 +1628,7 @@
       "ro": "Ghana - Premier League"
     },
     "GK3L": {
+      "ulke": "KR",
       "tr": "Güney Kore - 3. Lig (K3 Ligi)",
       "en": "South Korea - K3 League",
       "de": "Südkorea - K3 League",
@@ -1525,6 +1642,7 @@
       "ro": "Coreea de Sud - Liga K3"
     },
     "GKOR": {
+      "ulke": "KR",
       "tr": "Güney Kore - K-Ligi 1",
       "en": "South Korea - K League 1",
       "de": "Südkorea - K League 1",
@@ -1538,6 +1656,7 @@
       "ro": "Coreea de Sud - K League 1"
     },
     "GKOR2": {
+      "ulke": "KR",
       "tr": "Güney Kore - K-Ligi 2",
       "en": "South Korea - K League 2",
       "de": "Südkorea - K League 2",
@@ -1551,6 +1670,7 @@
       "ro": "Coreea de Sud - K League 2"
     },
     "GUAP": {
+      "ulke": "GT",
       "tr": "Guatemala - Apertura Playoff",
       "en": "Guatemala - Apertura Playoff",
       "de": "Guatemala - Apertura Playoff",
@@ -1564,6 +1684,7 @@
       "ro": "Guatemala - Play-off Apertura"
     },
     "GUAT": {
+      "ulke": "GT",
       "tr": "Guatemala - Liga Nacional",
       "en": "Guatemala - Liga Nacional",
       "de": "Guatemala - Liga Nacional",
@@ -1577,6 +1698,7 @@
       "ro": "Guatemala - Liga Nacional"
     },
     "GUR": {
+      "ulke": "GE",
       "tr": "Gürcistan - Erovnuli Liga",
       "en": "Georgia - Erovnuli Liga",
       "de": "Georgien - Erovnuli Liga",
@@ -1590,6 +1712,7 @@
       "ro": "Georgia - Erovnuli Liga"
     },
     "HAZ": {
+      "ulke": "-",
       "tr": "Hazırlık Maçları (A Milli)",
       "en": "International Friendlies",
       "de": "Internationale Freundschaftsspiele",
@@ -1603,6 +1726,7 @@
       "ro": "Meciuri Amicale Internaționale"
     },
     "HAZK": {
+      "ulke": "-",
       "tr": "Hazırlık Maçları (Kadınlar)",
       "en": "Women's International Friendlies",
       "de": "Frauen-Freundschaftsspiele",
@@ -1616,6 +1740,7 @@
       "ro": "Meciuri Amicale Feminin"
     },
     "HIR": {
+      "ulke": "HR",
       "tr": "Hırvatistan - HNL (Süper Lig)",
       "en": "Croatia - HNL",
       "de": "Kroatien - HNL",
@@ -1629,6 +1754,7 @@
       "ro": "Croația - HNL"
     },
     "HIR2": {
+      "ulke": "HR",
       "tr": "Hırvatistan - 2. HNL",
       "en": "Croatia - 2. HNL",
       "de": "Kroatien - 2. HNL",
@@ -1642,6 +1768,7 @@
       "ro": "Croația - 2. HNL"
     },
     "HIRK": {
+      "ulke": "HR",
       "tr": "Hırvatistan - Kupa",
       "en": "Croatia - Cup",
       "de": "Kroatien - Pokal",
@@ -1655,6 +1782,7 @@
       "ro": "Croația - Cupa"
     },
     "HK1": {
+      "ulke": "HK",
       "tr": "Hong Kong - Premier Ligi",
       "en": "Hong Kong - Premier League",
       "de": "Hongkong - Premier League",
@@ -1668,6 +1796,7 @@
       "ro": "Hong Kong - Premier League"
     },
     "HK2": {
+      "ulke": "HK",
       "tr": "Hong Kong - 1. Lig",
       "en": "Hong Kong - 1st Division",
       "de": "Hongkong - 1. Division",
@@ -1681,6 +1810,7 @@
       "ro": "Hong Kong - Liga 1"
     },
     "HOK": {
+      "ulke": "NL",
       "tr": "Hollanda - Kupa (KNVB Beker)",
       "en": "Netherlands - KNVB Beker",
       "de": "Niederlande - KNVB Beker",
@@ -1694,6 +1824,7 @@
       "ro": "Țările de Jos - Cupa KNVB"
     },
     "HOL": {
+      "ulke": "NL",
       "tr": "Hollanda - Eredivisie",
       "en": "Netherlands - Eredivisie",
       "de": "Niederlande - Eredivisie",
@@ -1707,6 +1838,7 @@
       "ro": "Țările de Jos - Eredivisie"
     },
     "HOL2": {
+      "ulke": "NL",
       "tr": "Hollanda - Eerste Divisie",
       "en": "Netherlands - Eerste Divisie",
       "de": "Niederlande - Eerste Divisie",
@@ -1720,6 +1852,7 @@
       "ro": "Țările de Jos - Eerste Divisie"
     },
     "HOL3": {
+      "ulke": "NL",
       "tr": "Hollanda - Tweede Divisie",
       "en": "Netherlands - Tweede Divisie",
       "de": "Niederlande - Tweede Divisie",
@@ -1733,6 +1866,7 @@
       "ro": "Țările de Jos - Tweede Divisie"
     },
     "HOLK1": {
+      "ulke": "NL",
       "tr": "Hollanda - Kadınlar Eredivisie Kupası",
       "en": "Netherlands - Women's Eredivisie Cup",
       "de": "Niederlande - Eredivisie-Pokal der Frauen",
@@ -1746,6 +1880,7 @@
       "ro": "Țările de Jos - Cupa Eredivisie Feminin"
     },
     "HOLTW": {
+      "ulke": "NL",
       "tr": "Hollanda - Derde Divisie / Bölgesel Lig",
       "en": "Netherlands - Derde Divisie",
       "de": "Niederlande - Derde Divisie",
@@ -1759,6 +1894,7 @@
       "ro": "Țările de Jos - Derde Divisie"
     },
     "HON": {
+      "ulke": "HN",
       "tr": "Honduras - Liga Nacional",
       "en": "Honduras - Liga Nacional",
       "de": "Honduras - Liga Nacional",
@@ -1772,6 +1908,7 @@
       "ro": "Honduras - Liga Nacional"
     },
     "HONFK": {
+      "ulke": "HN",
       "tr": "Hong Kong - FA Kupası",
       "en": "Hong Kong - FA Cup",
       "de": "Hongkong - FA Cup",
@@ -1785,6 +1922,7 @@
       "ro": "Hong Kong - Cupa FA"
     },
     "HU19": {
+      "ulke": "HU",
       "tr": "Uluslararası - U19 Turnuvası",
       "en": "International - U19 Tournament",
       "de": "International - U19-Turnier",
@@ -1798,6 +1936,7 @@
       "ro": "Internațional - Turneu U19"
     },
     "HU23": {
+      "ulke": "-",
       "tr": "Uluslararası - U23 Turnuvası",
       "en": "International - U23 Tournament",
       "de": "International - U23-Turnier",
@@ -1811,6 +1950,7 @@
       "ro": "Internațional - Turneu U23"
     },
     "HİNSL": {
+      "ulke": "IN",
       "tr": "Hindistan - Süper Ligi",
       "en": "India - Super League",
       "de": "Indien - Super League",
@@ -1824,6 +1964,7 @@
       "ro": "India - Super League"
     },
     "INGPDL": {
+      "ulke": "EN",
       "tr": "İngiltere - Premier Ligi 2 (Geliştirme)",
       "en": "England - Premier League 2",
       "de": "England - Premier League 2",
@@ -1837,6 +1978,7 @@
       "ro": "Anglia - Premier League 2"
     },
     "INGPL2": {
+      "ulke": "EN",
       "tr": "İngiltere - Premier Ligi 2",
       "en": "England - Premier League 2",
       "de": "England - Premier League 2",
@@ -1850,6 +1992,7 @@
       "ro": "Anglia - Premier League 2"
     },
     "INGPL2-1": {
+      "ulke": "EN",
       "tr": "İngiltere - Premier Ligi 2 (B Grubu)",
       "en": "England - Premier League 2 (Group B)",
       "de": "England - Premier League 2 (Gruppe B)",
@@ -1863,6 +2006,7 @@
       "ro": "Anglia - Premier League 2 (Grupul B)"
     },
     "IRAK": {
+      "ulke": "IQ",
       "tr": "Irak - Süper Ligi",
       "en": "Iraq - Stars League",
       "de": "Irak - Stars League",
@@ -1876,6 +2020,7 @@
       "ro": "Irak - Stars League"
     },
     "IRAN": {
+      "ulke": "IR",
       "tr": "İran - Persian Gulf Pro League",
       "en": "Iran - Persian Gulf Pro League",
       "de": "Iran - Persian Gulf Pro League",
@@ -1889,6 +2034,7 @@
       "ro": "Iran - Persian Gulf Pro League"
     },
     "IRANAZ": {
+      "ulke": "IR",
       "tr": "İran - Azadegan Ligi",
       "en": "Iran - Azadegan League",
       "de": "Iran - Azadegan-Liga",
@@ -1902,6 +2048,7 @@
       "ro": "Iran - Liga Azadegan"
     },
     "JAP": {
+      "ulke": "JP",
       "tr": "Japonya - J1 Ligi",
       "en": "Japan - J1 League",
       "de": "Japan - J1 League",
@@ -1915,6 +2062,7 @@
       "ro": "Japonia - Liga J1"
     },
     "JAP2-3": {
+      "ulke": "JP",
       "tr": "Japonya - J2/J3 Ligi",
       "en": "Japan - J2/J3 League",
       "de": "Japan - J2/J3 League",
@@ -1928,6 +2076,7 @@
       "ro": "Japonia - Liga J2/J3"
     },
     "JWEL": {
+      "ulke": "JP",
       "tr": "Japonya - Kadınlar WE-Ligi",
       "en": "Japan - WE League",
       "de": "Japan - WE League",
@@ -1941,6 +2090,7 @@
       "ro": "Japonia - WE League Feminin"
     },
     "KAPL": {
+      "ulke": "KZ",
       "tr": "Kanada - Canadian Premier Ligi",
       "en": "Canada - Canadian Premier League",
       "de": "Kanada - Canadian Premier League",
@@ -1954,6 +2104,7 @@
       "ro": "Canada - Canadian Premier League"
     },
     "KAT": {
+      "ulke": "QA",
       "tr": "Katar - Stars Ligi",
       "en": "Qatar - Stars League",
       "de": "Katar - Stars League",
@@ -1967,6 +2118,7 @@
       "ro": "Qatar - Stars League"
     },
     "KATEK": {
+      "ulke": "QA",
       "tr": "Katar - Emir Kupası",
       "en": "Qatar - Emir Cup",
       "de": "Katar - Emir Cup",
@@ -1980,6 +2132,7 @@
       "ro": "Qatar - Cupa Emirului"
     },
     "KATYK": {
+      "ulke": "QA",
       "tr": "Katar - Yıldız Kupası",
       "en": "Qatar - Stars Cup",
       "de": "Katar - Stars Cup",
@@ -1993,6 +2146,7 @@
       "ro": "Qatar - Cupa Stelelor"
     },
     "KAZKK": {
+      "ulke": "KZ",
       "tr": "Kazakistan - Kupa",
       "en": "Kazakhstan - Cup",
       "de": "Kasachstan - Pokal",
@@ -2006,6 +2160,7 @@
       "ro": "Kazahstan - Cupa"
     },
     "KAZP": {
+      "ulke": "KZ",
       "tr": "Kazakistan - Premier Ligi",
       "en": "Kazakhstan - Premier League",
       "de": "Kasachstan - Premier Liga",
@@ -2019,6 +2174,7 @@
       "ro": "Kazahstan - Premier League"
     },
     "KAZSK": {
+      "ulke": "KZ",
       "tr": "Kazakistan - Süper Kupa",
       "en": "Kazakhstan - Super Cup",
       "de": "Kasachstan - Supercup",
@@ -2032,6 +2188,7 @@
       "ro": "Kazahstan - Supercupa"
     },
     "KBSK": {
+      "ulke": "-",
       "tr": "Kulüpler arası Süper Kupa",
       "en": "Intercontinental Super Cup",
       "de": "Interkontinentaler Supercup",
@@ -2045,6 +2202,7 @@
       "ro": "Supercupa Intercontinentală"
     },
     "KDK": {
+      "ulke": "-",
       "tr": "Kadınlar Dünya Kupası Elemeleri",
       "en": "Women's World Cup Qualifiers",
       "de": "Frauen-WM-Qualifikation",
@@ -2058,6 +2216,7 @@
       "ro": "Calificări la Campionatul Mondial Feminin"
     },
     "KEN": {
+      "ulke": "KE",
       "tr": "Kenya - Premier Ligi",
       "en": "Kenya - Premier League",
       "de": "Kenia - Premier League",
@@ -2071,6 +2230,7 @@
       "ro": "Kenya - Premier League"
     },
     "KOL": {
+      "ulke": "CO",
       "tr": "Kolombiya - Primera A",
       "en": "Colombia - Primera A",
       "de": "Kolumbien - Primera A",
@@ -2084,6 +2244,7 @@
       "ro": "Columbia - Primera A"
     },
     "KOLK": {
+      "ulke": "CO",
       "tr": "Kolombiya - Kupa",
       "en": "Colombia - Cup",
       "de": "Kolumbien - Pokal",
@@ -2097,6 +2258,7 @@
       "ro": "Columbia - Cupa"
     },
     "KOLSK": {
+      "ulke": "CO",
       "tr": "Kolombiya - Süper Kupa",
       "en": "Colombia - Super Cup",
       "de": "Kolumbien - Supercup",
@@ -2110,6 +2272,7 @@
       "ro": "Columbia - Supercupa"
     },
     "KOSTA": {
+      "ulke": "CR",
       "tr": "Kosta Rika - Primera Division",
       "en": "Costa Rica - Primera Division",
       "de": "Costa Rica - Primera Division",
@@ -2123,6 +2286,7 @@
       "ro": "Costa Rica - Primera Division"
     },
     "KOSTK": {
+      "ulke": "CR",
       "tr": "Kosta Rika - Kupa",
       "en": "Costa Rica - Cup",
       "de": "Costa Rica - Pokal",
@@ -2136,6 +2300,7 @@
       "ro": "Costa Rica - Cupa"
     },
     "KUV": {
+      "ulke": "KW",
       "tr": "Kuveyt - Premier Ligi",
       "en": "Kuwait - Premier League",
       "de": "Kuwait - Premier League",
@@ -2149,6 +2314,7 @@
       "ro": "Kuweit - Premier League"
     },
     "KUVEK": {
+      "ulke": "KW",
       "tr": "Kuveyt - Emir Kupası",
       "en": "Kuwait - Emir Cup",
       "de": "Kuwait - Emir Cup",
@@ -2162,6 +2328,7 @@
       "ro": "Kuweit - Cupa Emirului"
     },
     "KUVPK": {
+      "ulke": "KW",
       "tr": "Kuveyt - Prens Kupası",
       "en": "Kuwait - Crown Prince Cup",
       "de": "Kuwait - Crown Prince Cup",
@@ -2175,6 +2342,7 @@
       "ro": "Kuweit - Cupa Prințului"
     },
     "KUVSK": {
+      "ulke": "KW",
       "tr": "Kuveyt - Süper Kupa",
       "en": "Kuwait - Super Cup",
       "de": "Kuwait - Supercup",
@@ -2188,6 +2356,7 @@
       "ro": "Kuweit - Supercupa"
     },
     "KİRK": {
+      "ulke": "KG",
       "tr": "Kuzey İrlanda - Kupa",
       "en": "Northern Ireland - Cup",
       "de": "Nordirland - Pokal",
@@ -2201,6 +2370,7 @@
       "ro": "Irlanda de Nord - Cupa"
     },
     "KİRL": {
+      "ulke": "KG",
       "tr": "Kuzey İrlanda - Premiership",
       "en": "Northern Ireland - Premiership",
       "de": "Nordirland - Premiership",
@@ -2214,6 +2384,7 @@
       "ro": "Irlanda de Nord - Premiership"
     },
     "KİRL1": {
+      "ulke": "KG",
       "tr": "Kuzey İrlanda - Championship",
       "en": "Northern Ireland - Championship",
       "de": "Nordirland - Championship",
@@ -2227,6 +2398,7 @@
       "ro": "Irlanda de Nord - Championship"
     },
     "KİRLK": {
+      "ulke": "KG",
       "tr": "Kuzey İrlanda - Liga Kupası",
       "en": "Northern Ireland - League Cup",
       "de": "Nordirland - Ligapokal",
@@ -2240,6 +2412,7 @@
       "ro": "Irlanda de Nord - Cupa Ligii"
     },
     "LET": {
+      "ulke": "LV",
       "tr": "Letonya - Yüksek Lig",
       "en": "Latvia - Virsliga",
       "de": "Lettland - Virslīga",
@@ -2253,6 +2426,7 @@
       "ro": "Letonia - Virsliga"
     },
     "LET1": {
+      "ulke": "LV",
       "tr": "Letonya - 1. Lig",
       "en": "Latvia - 1st League",
       "de": "Lettland - 1. Liga",
@@ -2266,6 +2440,7 @@
       "ro": "Letonia - Liga 1"
     },
     "LIBER20": {
+      "ulke": "SA",
       "tr": "Liberya - U20 Turnuvası",
       "en": "Liberia - U20 Tournament",
       "de": "Liberia - U20-Turnier",
@@ -2279,6 +2454,7 @@
       "ro": "Liberia - Turneu U20"
     },
     "LIT1": {
+      "ulke": "LT",
       "tr": "Litvanya - 1. Lig (A Lyga Alt)",
       "en": "Lithuania - 1st League",
       "de": "Litauen - 1. Liga",
@@ -2292,6 +2468,7 @@
       "ro": "Lituania - Liga 1"
     },
     "LITA": {
+      "ulke": "LT",
       "tr": "Litvanya - A Lyga",
       "en": "Lithuania - A Lyga",
       "de": "Litauen - A Lyga",
@@ -2305,6 +2482,7 @@
       "ro": "Lituania - A Lyga"
     },
     "LITK": {
+      "ulke": "LT",
       "tr": "Litvanya - Kupa",
       "en": "Lithuania - Cup",
       "de": "Litauen - Pokal",
@@ -2318,6 +2496,7 @@
       "ro": "Lituania - Cupa"
     },
     "LITSK": {
+      "ulke": "LT",
       "tr": "Litvanya - Süper Kupa",
       "en": "Lithuania - Super Cup",
       "de": "Litauen - Supercup",
@@ -2331,6 +2510,7 @@
       "ro": "Lituania - Supercupa"
     },
     "LKU": {
+      "ulke": "LU",
       "tr": "Arjantin - Bölgesel Kupa",
       "en": "Argentina - Regional Cup",
       "de": "Argentinien - Regionalpokal",
@@ -2344,6 +2524,7 @@
       "ro": "Argentina - Cupa Regională"
     },
     "LUBN": {
+      "ulke": "LB",
       "tr": "Lübnan - Premier Ligi",
       "en": "Lebanon - Premier League",
       "de": "Libanon - Premier League",
@@ -2357,6 +2538,7 @@
       "ro": "Liban - Premier League"
     },
     "MAC": {
+      "ulke": "HU",
       "tr": "Macaristan - OTP Bank Liga",
       "en": "Hungary - OTP Bank Liga",
       "de": "Ungarn - OTP Bank Liga",
@@ -2370,6 +2552,7 @@
       "ro": "Ungaria - OTP Bank Liga"
     },
     "MAC2": {
+      "ulke": "HU",
       "tr": "Macaristan - NB II",
       "en": "Hungary - NB II",
       "de": "Ungarn - NB II",
@@ -2383,6 +2566,7 @@
       "ro": "Ungaria - NB II"
     },
     "MAC3": {
+      "ulke": "HU",
       "tr": "Macaristan - NB III",
       "en": "Hungary - NB III",
       "de": "Ungarn - NB III",
@@ -2396,6 +2580,7 @@
       "ro": "Ungaria - NB III"
     },
     "MACK": {
+      "ulke": "HU",
       "tr": "Macaristan - Kupa",
       "en": "Hungary - Cup",
       "de": "Ungarn - Pokal",
@@ -2409,6 +2594,7 @@
       "ro": "Ungaria - Cupa"
     },
     "MALEFK": {
+      "ulke": "MY",
       "tr": "Malezya - FA Kupası",
       "en": "Malaysia - FA Cup",
       "de": "Malaysia - FA Cup",
@@ -2422,6 +2608,7 @@
       "ro": "Malaysia - Cupa FA"
     },
     "MALEK": {
+      "ulke": "MY",
       "tr": "Malezya - Kupa",
       "en": "Malaysia - Cup",
       "de": "Malaysia - Pokal",
@@ -2435,6 +2622,7 @@
       "ro": "Malaysia - Cupa"
     },
     "MALES": {
+      "ulke": "MY",
       "tr": "Malezya - Super Ligi",
       "en": "Malaysia - Super League",
       "de": "Malaysia - Super League",
@@ -2448,6 +2636,7 @@
       "ro": "Malaysia - Super League"
     },
     "MALTP": {
+      "ulke": "MT",
       "tr": "Malta - Premier Ligi",
       "en": "Malta - Premier League",
       "de": "Malta - Premier League",
@@ -2461,6 +2650,7 @@
       "ro": "Malta - Premier League"
     },
     "MEK": {
+      "ulke": "MX",
       "tr": "Meksika - Liga MX",
       "en": "Mexico - Liga MX",
       "de": "Mexiko - Liga MX",
@@ -2474,6 +2664,7 @@
       "ro": "Mexic - Liga MX"
     },
     "MEK2": {
+      "ulke": "MX",
       "tr": "Meksika - Liga de Expansión",
       "en": "Mexico - Liga de Expansión",
       "de": "Mexiko - Liga de Expansión",
@@ -2487,6 +2678,7 @@
       "ro": "Mexic - Liga de Expansión"
     },
     "MISLK": {
+      "ulke": "EG",
       "tr": "Mısır - Ligi Kupası",
       "en": "Egypt - League Cup",
       "de": "Ägypten - Ligapokal",
@@ -2500,6 +2692,7 @@
       "ro": "Egipt - Cupa Ligii"
     },
     "MLTAK": {
+      "ulke": "MT",
       "tr": "Malta - Kupa",
       "en": "Malta - Cup",
       "de": "Malta - Pokal",
@@ -2513,6 +2706,7 @@
       "ro": "Malta - Cupa"
     },
     "MLTAS": {
+      "ulke": "MT",
       "tr": "Malta - Süper Kupa",
       "en": "Malta - Super Cup",
       "de": "Malta - Supercup",
@@ -2526,6 +2720,7 @@
       "ro": "Malta - Supercupa"
     },
     "MLTP": {
+      "ulke": "MT",
       "tr": "Malta - Premier Ligi Playoff",
       "en": "Malta - Premier League Playoff",
       "de": "Malta - Premier League Playoff",
@@ -2539,6 +2734,7 @@
       "ro": "Malta - Play-off Premier League"
     },
     "MOLD": {
+      "ulke": "MD",
       "tr": "Moldova - National Division",
       "en": "Moldova - National Division",
       "de": "Moldawien - National Division",
@@ -2552,6 +2748,7 @@
       "ro": "Moldova - Divizia Națională"
     },
     "MOLDK": {
+      "ulke": "MD",
       "tr": "Moldova - Kupa",
       "en": "Moldova - Cup",
       "de": "Moldawien - Pokal",
@@ -2565,6 +2762,7 @@
       "ro": "Moldova - Cupa"
     },
     "MSR": {
+      "ulke": "EG",
       "tr": "Mısır - Premier Ligi",
       "en": "Egypt - Premier League",
       "de": "Ägypten - Premier League",
@@ -2578,6 +2776,7 @@
       "ro": "Egipt - Premier League"
     },
     "MSR2": {
+      "ulke": "EG",
       "tr": "Mısır - 2. Lig",
       "en": "Egypt - Second Division",
       "de": "Ägypten - 2. Liga",
@@ -2591,6 +2790,7 @@
       "ro": "Egipt - Liga 2"
     },
     "MSRK": {
+      "ulke": "EG",
       "tr": "Mısır - Kupa",
       "en": "Egypt - Cup",
       "de": "Ägypten - Pokal",
@@ -2604,6 +2804,7 @@
       "ro": "Egipt - Cupa"
     },
     "MSRLK": {
+      "ulke": "EG",
       "tr": "Mısır - Ligi Kupası",
       "en": "Egypt - League Cup",
       "de": "Ägypten - Ligapokal",
@@ -2617,6 +2818,7 @@
       "ro": "Egipt - Cupa Ligii"
     },
     "NIJ": {
+      "ulke": "NG",
       "tr": "Nijerya - NPFL (Premier Futbol Ligi)",
       "en": "Nigeria - NPFL",
       "de": "Nigeria - NPFL",
@@ -2630,6 +2832,7 @@
       "ro": "Nigeria - NPFL"
     },
     "NOK": {
+      "ulke": "NO",
       "tr": "Norveç - Kupa",
       "en": "Norway - Cup",
       "de": "Norwegen - Pokal",
@@ -2643,6 +2846,7 @@
       "ro": "Norvegia - Cupa"
     },
     "NOR": {
+      "ulke": "NO",
       "tr": "Norveç - Eliteserien",
       "en": "Norway - Eliteserien",
       "de": "Norwegen - Eliteserien",
@@ -2656,6 +2860,7 @@
       "ro": "Norvegia - Eliteserien"
     },
     "NOR1": {
+      "ulke": "NO",
       "tr": "Norveç - 1. Divisjon",
       "en": "Norway - 1st Division",
       "de": "Norwegen - 1. Divisjon",
@@ -2669,6 +2874,7 @@
       "ro": "Norvegia - Liga 1"
     },
     "NOR3": {
+      "ulke": "NO",
       "tr": "Norveç - 3. Divisjon",
       "en": "Norway - 3rd Division",
       "de": "Norwegen - 3. Divisjon",
@@ -2682,6 +2888,7 @@
       "ro": "Norvegia - Liga 3"
     },
     "NOR4": {
+      "ulke": "NO",
       "tr": "Norveç - 4. Divisjon",
       "en": "Norway - 4th Division",
       "de": "Norwegen - 4. Divisjon",
@@ -2695,6 +2902,7 @@
       "ro": "Norvegia - Liga 4"
     },
     "NİK": {
+      "ulke": "NI",
       "tr": "Nikaragua - Primera Division",
       "en": "Nicaragua - Primera Division",
       "de": "Nicaragua - Primera Division",
@@ -2708,6 +2916,7 @@
       "ro": "Nicaragua - Primera Division"
     },
     "PAR": {
+      "ulke": "PY",
       "tr": "Paraguay - División Profesional",
       "en": "Paraguay - División Profesional",
       "de": "Paraguay - División Profesional",
@@ -2721,6 +2930,7 @@
       "ro": "Paraguay - División Profesional"
     },
     "PER": {
+      "ulke": "PE",
       "tr": "Peru - Primera Division",
       "en": "Peru - Primera Division",
       "de": "Peru - Primera Division",
@@ -2734,6 +2944,7 @@
       "ro": "Peru - Primera Division"
     },
     "POK": {
+      "ulke": "PL",
       "tr": "Portekiz - Kupa (Taça de Portugal)",
       "en": "Portugal - Taça de Portugal",
       "de": "Portugal - Taça de Portugal",
@@ -2747,6 +2958,7 @@
       "ro": "Portugalia - Taça de Portugal"
     },
     "POL": {
+      "ulke": "PL",
       "tr": "Polonya - Ekstraklasa",
       "en": "Poland - Ekstraklasa",
       "de": "Polen - Ekstraklasa",
@@ -2760,6 +2972,7 @@
       "ro": "Polonia - Ekstraklasa"
     },
     "POL1": {
+      "ulke": "PL",
       "tr": "Polonya - 1. Lig",
       "en": "Poland - I Liga",
       "de": "Polen - 1. Liga",
@@ -2773,6 +2986,7 @@
       "ro": "Polonia - Liga 1"
     },
     "POL2": {
+      "ulke": "PL",
       "tr": "Polonya - 2. Lig",
       "en": "Poland - II Liga",
       "de": "Polen - 2. Liga",
@@ -2786,6 +3000,7 @@
       "ro": "Polonia - Liga 2"
     },
     "POL3": {
+      "ulke": "PL",
       "tr": "Polonya - 3. Lig",
       "en": "Poland - III Liga",
       "de": "Polen - 3. Liga",
@@ -2799,6 +3014,7 @@
       "ro": "Polonia - Liga 3"
     },
     "POLK": {
+      "ulke": "PL",
       "tr": "Polonya - Kupa",
       "en": "Poland - Cup",
       "de": "Polen - Pokal",
@@ -2812,6 +3028,7 @@
       "ro": "Polonia - Cupa"
     },
     "POR": {
+      "ulke": "PT",
       "tr": "Portekiz - Primeira Liga",
       "en": "Portugal - Primeira Liga",
       "de": "Portugal - Primeira Liga",
@@ -2825,6 +3042,7 @@
       "ro": "Portugalia - Primeira Liga"
     },
     "POR2": {
+      "ulke": "PT",
       "tr": "Portekiz - Liga Sabseg (2. Lig)",
       "en": "Portugal - Liga Portugal 2",
       "de": "Portugal - Liga Portugal 2",
@@ -2838,6 +3056,7 @@
       "ro": "Portugalia - Liga Portugal 2"
     },
     "POR3": {
+      "ulke": "PT",
       "tr": "Portekiz - 3. Lig",
       "en": "Portugal - Liga 3",
       "de": "Portugal - Liga 3",
@@ -2851,6 +3070,7 @@
       "ro": "Portugalia - Liga 3"
     },
     "PORU23": {
+      "ulke": "PT",
       "tr": "Portekiz - U23 Ligi",
       "en": "Portugal - U23 League",
       "de": "Portugal - U23-Liga",
@@ -2864,6 +3084,7 @@
       "ro": "Portugalia - Liga U23"
     },
     "PRLK": {
+      "ulke": "PT",
       "tr": "Portekiz - Liga Kupası",
       "en": "Portugal - League Cup",
       "de": "Portugal - Ligapokal",
@@ -2877,6 +3098,7 @@
       "ro": "Portugalia - Cupa Ligii"
     },
     "RKBL": {
+      "ulke": "EU",
       "tr": "Rusya - Kupa (Büyük Finaller Ligi)",
       "en": "Russia - Cup (Super Final League)",
       "de": "Russland - Pokal (Super-Final-Liga)",
@@ -2890,6 +3112,7 @@
       "ro": "Rusia - Cupa (Super Final League)"
     },
     "ROK": {
+      "ulke": "RO",
       "tr": "Romanya - Kupa",
       "en": "Romania - Cup",
       "de": "Rumänien - Pokal",
@@ -2903,6 +3126,7 @@
       "ro": "România - Cupa"
     },
     "ROM": {
+      "ulke": "RO",
       "tr": "Romanya - Superliga",
       "en": "Romania - Superliga",
       "de": "Rumänien - Superliga",
@@ -2916,6 +3140,7 @@
       "ro": "România - Superliga"
     },
     "ROM2": {
+      "ulke": "RO",
       "tr": "Romanya - Liga II",
       "en": "Romania - Liga II",
       "de": "Rumänien - Liga II",
@@ -2929,6 +3154,7 @@
       "ro": "România - Liga II"
     },
     "ROMK": {
+      "ulke": "RO",
       "tr": "Romanya - Kupa",
       "en": "Romania - Cup",
       "de": "Rumänien - Pokal",
@@ -2942,6 +3168,7 @@
       "ro": "România - Cupa"
     },
     "RUK": {
+      "ulke": "RU",
       "tr": "Rusya - Kupa",
       "en": "Russia - Cup",
       "de": "Russland - Pokal",
@@ -2955,6 +3182,7 @@
       "ro": "Rusia - Cupa"
     },
     "RUS": {
+      "ulke": "RU",
       "tr": "Rusya - Premier Ligi",
       "en": "Russia - Premier League",
       "de": "Russland - Premier Liga",
@@ -2968,6 +3196,7 @@
       "ro": "Rusia - Premier League"
     },
     "RUS1": {
+      "ulke": "RU",
       "tr": "Rusya - FNL (1. Lig)",
       "en": "Russia - FNL",
       "de": "Russland - FNL",
@@ -2981,6 +3210,7 @@
       "ro": "Rusia - FNL"
     },
     "RUSK": {
+      "ulke": "RU",
       "tr": "Rusya - Kupa",
       "en": "Russia - Cup",
       "de": "Russland - Pokal",
@@ -2994,6 +3224,7 @@
       "ro": "Rusia - Cupa"
     },
     "RUSKS": {
+      "ulke": "RU",
       "tr": "Rusya - Kadınlar Süper Kupası",
       "en": "Russia - Women's Super Cup",
       "de": "Russland - Frauen-Supercup",
@@ -3007,6 +3238,7 @@
       "ro": "Rusia - Supercupa Feminină"
     },
     "S3-1": {
+      "ulke": "TR",
       "tr": "Türkiye - 3. Lig 1. Grup",
       "en": "Turkey - 3. Lig Group 1",
       "de": "Türkei - 3. Lig Gruppe 1",
@@ -3020,6 +3252,7 @@
       "ro": "Turcia - 3. Lig Grupul 1"
     },
     "S3-2": {
+      "ulke": "TR",
       "tr": "Türkiye - 3. Lig 2. Grup",
       "en": "Turkey - 3. Lig Group 2",
       "de": "Türkei - 3. Lig Gruppe 2",
@@ -3033,6 +3266,7 @@
       "ro": "Turcia - 3. Lig Grupul 2"
     },
     "S3-3": {
+      "ulke": "TR",
       "tr": "Türkiye - 3. Lig 3. Grup",
       "en": "Turkey - 3. Lig Group 3",
       "de": "Türkei - 3. Lig Gruppe 3",
@@ -3046,6 +3280,7 @@
       "ro": "Turcia - 3. Lig Grupul 3"
     },
     "S3-4": {
+      "ulke": "TR",
       "tr": "Türkiye - 3. Lig 4. Grup",
       "en": "Turkey - 3. Lig Group 4",
       "de": "Türkei - 3. Lig Gruppe 4",
@@ -3059,6 +3294,7 @@
       "ro": "Turcia - 3. Lig Grupul 4"
     },
     "S3P": {
+      "ulke": "TR",
       "tr": "Türkiye - 3. Lig Playoff",
       "en": "Turkey - 3. Lig Playoff",
       "de": "Türkei - 3. Lig Playoff",
@@ -3072,6 +3308,7 @@
       "ro": "Turcia - Play-off 3. Lig"
     },
     "SAKK": {
+      "ulke": "SA",
       "tr": "Suudi Arabistan - Kral Kupası",
       "en": "Saudi Arabia - King Cup",
       "de": "Saudi-Arabien - King Cup",
@@ -3085,6 +3322,7 @@
       "ro": "Arabia Saudită - Cupa Regelui"
     },
     "SHEBEL": {
+      "ulke": "SO",
       "tr": "SHEBELIEVES Cup (Uluslararası Kadınlar Turnuvası)",
       "en": "SheBelieves Cup",
       "de": "SheBelieves Cup",
@@ -3098,6 +3336,7 @@
       "ro": "SheBelieves Cup"
     },
     "SIRBK": {
+      "ulke": "RS",
       "tr": "Sırbistan - Kupa",
       "en": "Serbia - Cup",
       "de": "Serbien - Pokal",
@@ -3111,6 +3350,7 @@
       "ro": "Serbia - Cupa"
     },
     "SIRP": {
+      "ulke": "RS",
       "tr": "Sırbistan - Super Lig",
       "en": "Serbia - SuperLiga",
       "de": "Serbien - SuperLiga",
@@ -3124,6 +3364,7 @@
       "ro": "Serbia - SuperLiga"
     },
     "SLOVK": {
+      "ulke": "SI",
       "tr": "Slovakya - Kupa",
       "en": "Slovakia - Cup",
       "de": "Slowakei - Pokal",
@@ -3137,6 +3378,7 @@
       "ro": "Slovacia - Cupa"
     },
     "SLVK": {
+      "ulke": "SK",
       "tr": "Slovakya - Super Lig",
       "en": "Slovakia - Super Liga",
       "de": "Slowakei - Super Liga",
@@ -3150,6 +3392,7 @@
       "ro": "Slovacia - Super Liga"
     },
     "SLVK2": {
+      "ulke": "SK",
       "tr": "Slovakya - 2. Lig",
       "en": "Slovakia - 2. Liga",
       "de": "Slowakei - 2. Liga",
@@ -3163,6 +3406,7 @@
       "ro": "Slovacia - Liga 2"
     },
     "SLVN": {
+      "ulke": "SI",
       "tr": "Slovenya - PrvaLiga",
       "en": "Slovenia - PrvaLiga",
       "de": "Slowenien - PrvaLiga",
@@ -3176,6 +3420,7 @@
       "ro": "Slovenia - PrvaLiga"
     },
     "SLVN2": {
+      "ulke": "SI",
       "tr": "Slovenya - 2. SNL",
       "en": "Slovenia - 2. SNL",
       "de": "Slowenien - 2. SNL",
@@ -3189,6 +3434,7 @@
       "ro": "Slovenia - 2. SNL"
     },
     "SLVNK": {
+      "ulke": "SI",
       "tr": "Slovenya - Kupa",
       "en": "Slovenia - Cup",
       "de": "Slowenien - Pokal",
@@ -3202,6 +3448,7 @@
       "ro": "Slovenia - Cupa"
     },
     "SUUD": {
+      "ulke": "SA",
       "tr": "Suudi Arabistan - Pro Ligi",
       "en": "Saudi Arabia - Pro League",
       "de": "Saudi-Arabien - Pro League",
@@ -3215,6 +3462,7 @@
       "ro": "Arabia Saudită - Pro League"
     },
     "SUUD1": {
+      "ulke": "SA",
       "tr": "Suudi Arabistan - 1. Lig",
       "en": "Saudi Arabia - Division 1",
       "de": "Saudi-Arabien - 1. Division",
@@ -3228,6 +3476,7 @@
       "ro": "Arabia Saudită - Liga 1"
     },
     "SİNK": {
+      "ulke": "SG",
       "tr": "Singapur - Kupa",
       "en": "Singapore - Cup",
       "de": "Singapur - Pokal",
@@ -3241,6 +3490,7 @@
       "ro": "Singapore - Cupa"
     },
     "SİNP": {
+      "ulke": "SG",
       "tr": "Singapur - Premier Ligi",
       "en": "Singapore - Premier League",
       "de": "Singapur - Premier League",
@@ -3254,6 +3504,7 @@
       "ro": "Singapore - Premier League"
     },
     "T1L": {
+      "ulke": "TR",
       "tr": "Türkiye - TFF 1. Lig",
       "en": "Turkey - TFF 1. Lig",
       "de": "Türkei - TFF 1. Lig",
@@ -3267,6 +3518,7 @@
       "ro": "Turcia - TFF 1. Lig"
     },
     "T2L-B": {
+      "ulke": "TR",
       "tr": "Türkiye - TFF 2. Lig (Beyaz Grup)",
       "en": "Turkey - TFF 2. Lig (White Group)",
       "de": "Türkei - TFF 2. Lig (Weisse Gruppe)",
@@ -3280,6 +3532,7 @@
       "ro": "Turcia - TFF 2. Lig (Grupul Alb)"
     },
     "T2L-K": {
+      "ulke": "TR",
       "tr": "Türkiye - TFF 2. Lig (Kırmızı Grup)",
       "en": "Turkey - TFF 2. Lig (Red Group)",
       "de": "Türkei - TFF 2. Lig (Rote Gruppe)",
@@ -3293,6 +3546,7 @@
       "ro": "Turcia - TFF 2. Lig (Grupul Roșu)"
     },
     "T2L-P": {
+      "ulke": "TR",
       "tr": "Türkiye - TFF 2. Lig (Playoff)",
       "en": "Turkey - TFF 2. Lig Playoff",
       "de": "Türkei - TFF 2. Lig Playoff",
@@ -3306,6 +3560,7 @@
       "ro": "Turcia - Play-off TFF 2. Lig"
     },
     "TANZ": {
+      "ulke": "TZ",
       "tr": "Tanzanya - Premier Ligi",
       "en": "Tanzania - Premier League",
       "de": "Tansania - Premier League",
@@ -3319,6 +3574,7 @@
       "ro": "Tanzania - Premier League"
     },
     "TAY": {
+      "ulke": "TH",
       "tr": "Tayland - Thai League 1",
       "en": "Thailand - Thai League 1",
       "de": "Thailand - Thai League 1",
@@ -3332,6 +3588,7 @@
       "ro": "Thailanda - Thai League 1"
     },
     "TAYV": {
+      "ulke": "TW",
       "tr": "Tayvan - Futbol Ligi",
       "en": "Taiwan - Football League",
       "de": "Taiwan - Football League",
@@ -3345,6 +3602,7 @@
       "ro": "Taiwan - Liga de Fotbal"
     },
     "TNUSK": {
+      "ulke": "TN",
       "tr": "Tunus - Kupa",
       "en": "Tunisia - Cup",
       "de": "Tunesien - Pokal",
@@ -3358,6 +3616,7 @@
       "ro": "Tunisia - Cupa"
     },
     "TP1L": {
+      "ulke": "TR",
       "tr": "Türkiye - TFF 1. Lig Playoff",
       "en": "Turkey - TFF 1. Lig Playoff",
       "de": "Türkei - TFF 1. Lig Playoff",
@@ -3371,6 +3630,7 @@
       "ro": "Turcia - Play-off TFF 1. Lig"
     },
     "TSK": {
+      "ulke": "TR",
       "tr": "Türkiye - Süper Kupa",
       "en": "Turkey - Super Cup",
       "de": "Türkei - Supercup",
@@ -3384,6 +3644,7 @@
       "ro": "Turcia - Supercupa"
     },
     "TSL": {
+      "ulke": "TR",
       "tr": "Türkiye - Süper Ligi",
       "en": "Turkey - Süper Lig",
       "de": "Türkei - Süper Lig",
@@ -3397,6 +3658,7 @@
       "ro": "Turcia - Süper Lig"
     },
     "TUN1": {
+      "ulke": "TN",
       "tr": "Tunus - Ligue Professionnelle 1",
       "en": "Tunisia - Ligue Professionnelle 1",
       "de": "Tunesien - Ligue Professionnelle 1",
@@ -3410,6 +3672,7 @@
       "ro": "Tunisia - Ligue Professionnelle 1"
     },
     "TUN2": {
+      "ulke": "TN",
       "tr": "Tunus - Ligue Professionnelle 2",
       "en": "Tunisia - Ligue Professionnelle 2",
       "de": "Tunesien - Ligue Professionnelle 2",
@@ -3423,6 +3686,7 @@
       "ro": "Tunisia - Ligue Professionnelle 2"
     },
     "TÜK": {
+      "ulke": "TR",
       "tr": "Türkiye - Kupa (Ziraat Türkiye Kupası)",
       "en": "Turkey - Turkish Cup",
       "de": "Türkei - Türkischer Pokal",
@@ -3436,6 +3700,7 @@
       "ro": "Turcia - Cupa Turciei"
     },
     "U17": {
+      "ulke": "-",
       "tr": "Uluslararası - U17 Şampiyonası",
       "en": "International - U17 Championship",
       "de": "International - U17-Meisterschaft",
@@ -3449,6 +3714,7 @@
       "ro": "Internațional - Campionatul U17"
     },
     "U19": {
+      "ulke": "-",
       "tr": "Uluslararası - U19 Şampiyonası",
       "en": "International - U19 Championship",
       "de": "International - U19-Meisterschaft",
@@ -3462,6 +3728,7 @@
       "ro": "Internațional - Campionatul U19"
     },
     "U20EL": {
+      "ulke": "EU",
       "tr": "Uluslararası - U20 Turnuvası",
       "en": "International - U20 Tournament",
       "de": "International - U20-Turnier",
@@ -3475,6 +3742,7 @@
       "ro": "Internațional - Turneu U20"
     },
     "U21": {
+      "ulke": "EU",
       "tr": "Uluslararası - U21 Şampiyonası",
       "en": "International - U21 Championship",
       "de": "International - U21-Meisterschaft",
@@ -3488,6 +3756,7 @@
       "ro": "Internațional - Campionatul U21"
     },
     "UEGL": {
+      "ulke": "EU",
       "tr": "UEFA - Gençlik Ligi",
       "en": "UEFA Youth League",
       "de": "UEFA Youth League",
@@ -3501,6 +3770,7 @@
       "ro": "UEFA Youth League"
     },
     "UGA": {
+      "ulke": "UG",
       "tr": "Uganda - Premier Ligi",
       "en": "Uganda - Premier League",
       "de": "Uganda - Premier League",
@@ -3514,6 +3784,7 @@
       "ro": "Uganda - Premier League"
     },
     "UKR": {
+      "ulke": "UA",
       "tr": "Ukrayna - Premier Ligi",
       "en": "Ukraine - Premier League",
       "de": "Ukraine - Premier Liga",
@@ -3527,6 +3798,7 @@
       "ro": "Ucraina - Premier League"
     },
     "UKRK": {
+      "ulke": "UA",
       "tr": "Ukrayna - Kupa",
       "en": "Ukraine - Cup",
       "de": "Ukraine - Pokal",
@@ -3540,6 +3812,7 @@
       "ro": "Ucraina - Cupa"
     },
     "UMM": {
+      "ulke": "OM",
       "tr": "Umman - Professional League",
       "en": "Oman - Professional League",
       "de": "Oman - Professional League",
@@ -3553,6 +3826,7 @@
       "ro": "Oman - Professional League"
     },
     "UMMSK": {
+      "ulke": "OM",
       "tr": "Umman - Sultan Kupası",
       "en": "Oman - Sultan Cup",
       "de": "Oman - Sultan Cup",
@@ -3566,6 +3840,7 @@
       "ro": "Oman - Cupa Sultanului"
     },
     "URU": {
+      "ulke": "UY",
       "tr": "Uruguay - Primera Division",
       "en": "Uruguay - Primera Division",
       "de": "Uruguay - Primera Division",
@@ -3579,6 +3854,7 @@
       "ro": "Uruguay - Primera Division"
     },
     "USL Cup": {
+      "ulke": "US",
       "tr": "ABD - USL Şampiyonluk Kupası",
       "en": "USA - USL Championship Cup",
       "de": "USA - USL Championship Cup",
@@ -3592,6 +3868,7 @@
       "ro": "SUA - Cupa Campionatului USL"
     },
     "USL1": {
+      "ulke": "US",
       "tr": "ABD - USL Championship (1. Lig)",
       "en": "USA - USL Championship",
       "de": "USA - USL Championship",
@@ -3605,6 +3882,7 @@
       "ro": "SUA - USL Championship"
     },
     "USL2": {
+      "ulke": "US",
       "tr": "ABD - USL League 2",
       "en": "USA - USL League Two",
       "de": "USA - USL League Two",
@@ -3618,6 +3896,7 @@
       "ro": "SUA - USL League Two"
     },
     "USLKP": {
+      "ulke": "US",
       "tr": "ABD - USL Kupa Playoff",
       "en": "USA - USL Cup Playoff",
       "de": "USA - USL Cup Playoff",
@@ -3631,6 +3910,7 @@
       "ro": "SUA - Play-off Cupa USL"
     },
     "USLP": {
+      "ulke": "US",
       "tr": "ABD - USL Playoff",
       "en": "USA - USL Playoff",
       "de": "USA - USL Playoff",
@@ -3644,6 +3924,7 @@
       "ro": "SUA - Play-off USL"
     },
     "VEN": {
+      "ulke": "VE",
       "tr": "Venezuela - Primera Division",
       "en": "Venezuela - Primera Division",
       "de": "Venezuela - Primera Division",
@@ -3657,6 +3938,7 @@
       "ro": "Venezuela - Primera Division"
     },
     "VİET": {
+      "ulke": "VN",
       "tr": "Vietnam - V.League 1",
       "en": "Vietnam - V.League 1",
       "de": "Vietnam - V.League 1",
@@ -3670,6 +3952,7 @@
       "ro": "Vietnam - V.League 1"
     },
     "VİETK": {
+      "ulke": "VN",
       "tr": "Vietnam - Kupa",
       "en": "Vietnam - Cup",
       "de": "Vietnam - Pokal",
@@ -3683,6 +3966,7 @@
       "ro": "Vietnam - Cupa"
     },
     "Y100VL-B": {
+      "ulke": "TR",
       "tr": "Japonya - J1 Ligi (B Grubu)",
       "en": "Japan - J1 League (Group B)",
       "de": "Japan - J1 League (Gruppe B)",
@@ -3696,6 +3980,7 @@
       "ro": "Japonia - Liga J1 (Grupul B)"
     },
     "Y100VL-D": {
+      "ulke": "TR",
       "tr": "Japonya - J1 Ligi (D Grubu)",
       "en": "Japan - J1 League (Group D)",
       "de": "Japan - J1 League (Gruppe D)",
@@ -3709,6 +3994,7 @@
       "ro": "Japonia - Liga J1 (Grupul D)"
     },
     "YUK": {
+      "ulke": "GR",
       "tr": "Yunanistan - Kupa",
       "en": "Greece - Cup",
       "de": "Griechenland - Pokal",
@@ -3722,6 +4008,7 @@
       "ro": "Grecia - Cupa"
     },
     "YUN": {
+      "ulke": "GR",
       "tr": "Yunanistan - Super League",
       "en": "Greece - Super League",
       "de": "Griechenland - Super League",
@@ -3735,6 +4022,7 @@
       "ro": "Grecia - Super League"
     },
     "ÇEK": {
+      "ulke": "CZ",
       "tr": "Çekya - Fortuna Liga",
       "en": "Czech Republic - Fortuna Liga",
       "de": "Tschechien - Fortuna Liga",
@@ -3748,6 +4036,7 @@
       "ro": "Cehia - Fortuna Liga"
     },
     "ÇEK2": {
+      "ulke": "CZ",
       "tr": "Çekya - FNL (2. Lig)",
       "en": "Czech Republic - FNL",
       "de": "Tschechien - FNL",
@@ -3761,6 +4050,7 @@
       "ro": "Cehia - FNL"
     },
     "ÇEKK": {
+      "ulke": "CZ",
       "tr": "Çekya - Kupa",
       "en": "Czech Republic - Cup",
       "de": "Tschechien - Pokal",
@@ -3774,6 +4064,7 @@
       "ro": "Cehia - Cupa"
     },
     "ÇİN2": {
+      "ulke": "CN",
       "tr": "Çin - 2. Lig",
       "en": "China - League Two",
       "de": "China - 2. Liga",
@@ -3787,6 +4078,7 @@
       "ro": "China - Liga 2"
     },
     "ÇİNK": {
+      "ulke": "CN",
       "tr": "Çin - Kupa",
       "en": "China - FA Cup",
       "de": "China - FA Cup",
@@ -3800,6 +4092,7 @@
       "ro": "China - Cupa FA"
     },
     "ÇİNSL": {
+      "ulke": "CN",
       "tr": "Çin - Süper Ligi",
       "en": "China - Super League",
       "de": "China - Super League",
@@ -3813,6 +4106,7 @@
       "ro": "China - Super League"
     },
     "ÜRD": {
+      "ulke": "JO",
       "tr": "Ürdün - Premier Ligi",
       "en": "Jordan - Premier League",
       "de": "Jordanien - Premier League",
@@ -3826,6 +4120,7 @@
       "ro": "Iordania - Premier League"
     },
     "ÜRDK": {
+      "ulke": "JO",
       "tr": "Ürdün - Kupa",
       "en": "Jordan - Cup",
       "de": "Jordanien - Pokal",
@@ -3839,6 +4134,7 @@
       "ro": "Iordania - Cupa"
     },
     "İBSL": {
+      "ulke": "GI",
       "tr": "İngiltere - Vanarama National Ligi",
       "en": "England - National League",
       "de": "England - National League",
@@ -3852,6 +4148,7 @@
       "ro": "Anglia - National League"
     },
     "İCON": {
+      "ulke": "EN",
       "tr": "İngiltere - Isthmian Ligi / Bölgesel Lig",
       "en": "England - Isthmian League",
       "de": "England - Isthmian League",
@@ -3865,6 +4162,7 @@
       "ro": "Anglia - Isthmian League"
     },
     "İK1": {
+      "ulke": "SC",
       "tr": "İskoçya - Championship",
       "en": "Scotland - Championship",
       "de": "Schottland - Championship",
@@ -3878,6 +4176,7 @@
       "ro": "Scoția - Championship"
     },
     "İK2": {
+      "ulke": "SC",
       "tr": "İskoçya - League 1",
       "en": "Scotland - League One",
       "de": "Schottland - League One",
@@ -3891,6 +4190,7 @@
       "ro": "Scoția - League One"
     },
     "İKCK": {
+      "ulke": "SC",
       "tr": "İskoçya - Challenge Kupası",
       "en": "Scotland - Challenge Cup",
       "de": "Schottland - Challenge Cup",
@@ -3904,6 +4204,7 @@
       "ro": "Scoția - Challenge Cup"
     },
     "İKCL": {
+      "ulke": "SC",
       "tr": "İskoçya - Championship Playoff",
       "en": "Scotland - Championship Playoff",
       "de": "Schottland - Championship Playoff",
@@ -3917,6 +4218,7 @@
       "ro": "Scoția - Play-off Championship"
     },
     "İKK": {
+      "ulke": "SC",
       "tr": "İskoçya - Kupa",
       "en": "Scotland - Cup",
       "de": "Schottland - Pokal",
@@ -3930,6 +4232,7 @@
       "ro": "Scoția - Cupa"
     },
     "İKP": {
+      "ulke": "SC",
       "tr": "İskoçya - Premier Lig Playoff",
       "en": "Scotland - Premiership Playoff",
       "de": "Schottland - Premiership Playoff",
@@ -3943,6 +4246,7 @@
       "ro": "Scoția - Play-off Premiership"
     },
     "İN1": {
+      "ulke": "EN",
       "tr": "İngiltere - League One",
       "en": "England - League One",
       "de": "England - League One",
@@ -3956,6 +4260,7 @@
       "ro": "Anglia - League One"
     },
     "İN2": {
+      "ulke": "EN",
       "tr": "İngiltere - League Two",
       "en": "England - League Two",
       "de": "England - League Two",
@@ -3969,6 +4274,7 @@
       "ro": "Anglia - League Two"
     },
     "İNCL": {
+      "ulke": "EN",
       "tr": "İngiltere - Championship",
       "en": "England - Championship",
       "de": "England - Championship",
@@ -3982,6 +4288,7 @@
       "ro": "Anglia - Championship"
     },
     "İNFAT": {
+      "ulke": "EN",
       "tr": "İngiltere - FA Trophy",
       "en": "England - FA Trophy",
       "de": "England - FA Trophy",
@@ -3995,6 +4302,7 @@
       "ro": "Anglia - FA Trophy"
     },
     "İNGNLP": {
+      "ulke": "EN",
       "tr": "İngiltere - National League (5. Kademe)",
       "en": "England - National League",
       "de": "England - National League",
@@ -4008,6 +4316,7 @@
       "ro": "Anglia - National League"
     },
     "İNGU21PO": {
+      "ulke": "EN",
       "tr": "İngiltere - U21 Premier Ligi Playoff",
       "en": "England - U21 Premier League Playoff",
       "de": "England - U21 Premier League Playoff",
@@ -4021,6 +4330,7 @@
       "ro": "Anglia - Play-off Premier League U21"
     },
     "İNKPL": {
+      "ulke": "EN",
       "tr": "İngiltere - Carabao Kupası (Lig Kupası)",
       "en": "England - EFL Cup (Carabao Cup)",
       "de": "England - EFL Cup (Carabao Cup)",
@@ -4034,6 +4344,7 @@
       "ro": "Anglia - Cupa Ligii (Carabao Cup)"
     },
     "İNLK": {
+      "ulke": "EN",
       "tr": "İngiltere - Premier Lig (Büyük Maç)",
       "en": "England - Premier League",
       "de": "England - Premier League",
@@ -4047,6 +4358,7 @@
       "ro": "Anglia - Premier League"
     },
     "İNP": {
+      "ulke": "EN",
       "tr": "İngiltere - Premier Lig",
       "en": "England - Premier League",
       "de": "England - Premier League",
@@ -4060,6 +4372,7 @@
       "ro": "Anglia - Premier League"
     },
     "İNPLK": {
+      "ulke": "EN",
       "tr": "İngiltere - Premier Lig 2 Kupası",
       "en": "England - Premier League 2 Cup",
       "de": "England - Premier League 2 Cup",
@@ -4073,6 +4386,7 @@
       "ro": "Anglia - Cupa Premier League 2"
     },
     "İNTK": {
+      "ulke": "EN",
       "tr": "İngiltere - EFL Trophy",
       "en": "England - EFL Trophy",
       "de": "England - EFL Trophy",
@@ -4086,6 +4400,7 @@
       "ro": "Anglia - EFL Trophy"
     },
     "İR1": {
+      "ulke": "IE",
       "tr": "İrlanda - First Division",
       "en": "Ireland - First Division",
       "de": "Irland - First Division",
@@ -4099,6 +4414,7 @@
       "ro": "Irlanda - Liga 1"
     },
     "İRL": {
+      "ulke": "IE",
       "tr": "İrlanda - Premier Division",
       "en": "Ireland - Premier Division",
       "de": "Irland - Premier Division",
@@ -4112,6 +4428,7 @@
       "ro": "Irlanda - Premier Division"
     },
     "İRSK": {
+      "ulke": "IE",
       "tr": "İrlanda - Süper Kupa",
       "en": "Ireland - Super Cup",
       "de": "Irland - Supercup",
@@ -4125,6 +4442,7 @@
       "ro": "Irlanda - Supercupa"
     },
     "İS1": {
+      "ulke": "ES",
       "tr": "İspanya - La Liga",
       "en": "Spain - La Liga",
       "de": "Spanien - La Liga",
@@ -4138,6 +4456,7 @@
       "ro": "Spania - La Liga"
     },
     "İS2": {
+      "ulke": "ES",
       "tr": "İspanya - Segunda Division",
       "en": "Spain - Segunda Division",
       "de": "Spanien - Segunda Division",
@@ -4151,6 +4470,7 @@
       "ro": "Spania - Segunda Division"
     },
     "İS3": {
+      "ulke": "ES",
       "tr": "İspanya - Primera Federación (3. Kademe)",
       "en": "Spain - Primera Federación",
       "de": "Spanien - Primera Federación",
@@ -4164,6 +4484,7 @@
       "ro": "Spania - Primera Federación"
     },
     "İS4": {
+      "ulke": "ES",
       "tr": "İspanya - Segunda Federación (4. Kademe)",
       "en": "Spain - Segunda Federación",
       "de": "Spanien - Segunda Federación",
@@ -4177,6 +4498,7 @@
       "ro": "Spania - Segunda Federación"
     },
     "İSKPR": {
+      "ulke": "SC",
       "tr": "İspanya - Kadınlar Primera RF",
       "en": "Spain - Women's Primera Liga",
       "de": "Spanien - Primera Liga der Frauen",
@@ -4190,6 +4512,7 @@
       "ro": "Spania - Liga Feminină Primera"
     },
     "İSKSK": {
+      "ulke": "SC",
       "tr": "İspanya - Kadınlar Süper Kupa",
       "en": "Spain - Women's Super Cup",
       "de": "Spanien - Frauen-Supercup",
@@ -4203,6 +4526,7 @@
       "ro": "Spania - Supercupa Feminină"
     },
     "İSPK": {
+      "ulke": "ES",
       "tr": "İspanya - Copa del Rey",
       "en": "Spain - Copa del Rey",
       "de": "Spanien - Copa del Rey",
@@ -4216,6 +4540,7 @@
       "ro": "Spania - Copa del Rey"
     },
     "İSSK": {
+      "ulke": "CH",
       "tr": "İspanya - Süper Kupa",
       "en": "Spain - Super Cup",
       "de": "Spanien - Supercup",
@@ -4229,6 +4554,7 @@
       "ro": "Spania - Supercupa"
     },
     "İSTL": {
+      "ulke": "IS",
       "tr": "İspanya - Tercer Federación (Bölgesel)",
       "en": "Spain - Tercera Federación",
       "de": "Spanien - Tercera Federación",
@@ -4242,6 +4568,7 @@
       "ro": "Spania - Tercera Federación"
     },
     "İSV": {
+      "ulke": "CH",
       "tr": "İsviçre - Super Ligi",
       "en": "Switzerland - Super League",
       "de": "Schweiz - Super League",
@@ -4255,6 +4582,7 @@
       "ro": "Elveția - Super League"
     },
     "İSV1Y": {
+      "ulke": "CH",
       "tr": "İsviçre - 1. Lig (Promosyon)",
       "en": "Switzerland - Promotion League",
       "de": "Schweiz - Promotion League",
@@ -4268,6 +4596,7 @@
       "ro": "Elveția - Promotion League"
     },
     "İSV2": {
+      "ulke": "CH",
       "tr": "İsviçre - Challenge Ligi",
       "en": "Switzerland - Challenge League",
       "de": "Schweiz - Challenge League",
@@ -4281,6 +4610,7 @@
       "ro": "Elveția - Challenge League"
     },
     "İSVK": {
+      "ulke": "CH",
       "tr": "İsviçre - Kupa",
       "en": "Switzerland - Cup",
       "de": "Schweiz - Pokal",
@@ -4294,6 +4624,7 @@
       "ro": "Elveția - Cupa"
     },
     "İSÇ": {
+      "ulke": "SE",
       "tr": "İsveç - Allsvenskan",
       "en": "Sweden - Allsvenskan",
       "de": "Schweden - Allsvenskan",
@@ -4307,6 +4638,7 @@
       "ro": "Suedia - Allsvenskan"
     },
     "İSÇ2": {
+      "ulke": "SE",
       "tr": "İsveç - Superettan",
       "en": "Sweden - Superettan",
       "de": "Schweden - Superettan",
@@ -4320,6 +4652,7 @@
       "ro": "Suedia - Superettan"
     },
     "İSÇ3": {
+      "ulke": "SE",
       "tr": "İsveç - Division 1",
       "en": "Sweden - Division 1",
       "de": "Schweden - Division 1",
@@ -4333,6 +4666,7 @@
       "ro": "Suedia - Divizia 1"
     },
     "İSÇ4": {
+      "ulke": "SE",
       "tr": "İsveç - Division 2",
       "en": "Sweden - Division 2",
       "de": "Schweden - Division 2",
@@ -4346,6 +4680,7 @@
       "ro": "Suedia - Divizia 2"
     },
     "İSÇK": {
+      "ulke": "SE",
       "tr": "İsveç - Kupa",
       "en": "Sweden - Cup",
       "de": "Schweden - Pokal",
@@ -4359,6 +4694,7 @@
       "ro": "Suedia - Cupa"
     },
     "İTA": {
+      "ulke": "IT",
       "tr": "İtalya - Serie A",
       "en": "Italy - Serie A",
       "de": "Italien - Serie A",
@@ -4372,6 +4708,7 @@
       "ro": "Italia - Serie A"
     },
     "İTAPŞ1": {
+      "ulke": "IT",
       "tr": "İtalya - Primavera 1 (U20)",
       "en": "Italy - Primavera 1",
       "de": "Italien - Primavera 1",
@@ -4385,6 +4722,7 @@
       "ro": "Italia - Primavera 1"
     },
     "İTB": {
+      "ulke": "IT",
       "tr": "İtalya - Serie B",
       "en": "Italy - Serie B",
       "de": "Italien - Serie B",
@@ -4398,6 +4736,7 @@
       "ro": "Italia - Serie B"
     },
     "İTC": {
+      "ulke": "IT",
       "tr": "İtalya - Serie C",
       "en": "Italy - Serie C",
       "de": "Italien - Serie C",
@@ -4411,6 +4750,7 @@
       "ro": "Italia - Serie C"
     },
     "İTCK": {
+      "ulke": "IT",
       "tr": "İtalya - Serie C Kupası",
       "en": "Italy - Coppa Italia Serie C",
       "de": "Italien - Coppa Italia Serie C",
@@ -4424,6 +4764,7 @@
       "ro": "Italia - Cupa Seriei C"
     },
     "İTK": {
+      "ulke": "IT",
       "tr": "İtalya - Kupa (Coppa Italia)",
       "en": "Italy - Coppa Italia",
       "de": "Italien - Coppa Italia",
@@ -4437,6 +4778,7 @@
       "ro": "Italia - Cupa Italiei"
     },
     "İTKSA": {
+      "ulke": "IT",
       "tr": "İtalya - Kadınlar Serie A Kupası",
       "en": "Italy - Women's Serie A Cup",
       "de": "Italien - Serie A-Pokal der Frauen",
@@ -4450,6 +4792,7 @@
       "ro": "Italia - Cupa Seriei A Feminin"
     },
     "İULK": {
+      "ulke": "EN",
       "tr": "İngiltere - Ulusal Lig Kupası",
       "en": "England - National League Cup",
       "de": "England - National League Cup",
@@ -4463,6 +4806,7 @@
       "ro": "Anglia - Cupa National League"
     },
     "İZK": {
+      "ulke": "IS",
       "tr": "İzlanda - Kupa",
       "en": "Iceland - Cup",
       "de": "Island - Pokal",
@@ -4476,6 +4820,7 @@
       "ro": "Islanda - Cupa"
     },
     "İZL": {
+      "ulke": "IS",
       "tr": "İzlanda - Úrvalsdeild (Premier Lig)",
       "en": "Iceland - Úrvalsdeild",
       "de": "Island - Úrvalsdeild",
@@ -4489,6 +4834,7 @@
       "ro": "Islanda - Úrvalsdeild"
     },
     "İZL1": {
+      "ulke": "IS",
       "tr": "İzlanda - 1. Deild",
       "en": "Iceland - 1. Deild",
       "de": "Island - 1. Deild",
@@ -4502,6 +4848,7 @@
       "ro": "Islanda - 1. Deild"
     },
     "İZL2": {
+      "ulke": "IS",
       "tr": "İzlanda - 2. Deild",
       "en": "Iceland - 2. Deild",
       "de": "Island - 2. Deild",
@@ -4515,6 +4862,7 @@
       "ro": "Islanda - 2. Deild"
     },
     "İZLK": {
+      "ulke": "IS",
       "tr": "İzlanda - Kupa",
       "en": "Iceland - Cup",
       "de": "Island - Pokal",
@@ -4528,6 +4876,7 @@
       "ro": "Islanda - Cupa"
     },
     "ŞMP": {
+      "ulke": "EU",
       "tr": "UEFA Şampiyonlar Ligi",
       "en": "UEFA Champions League",
       "de": "UEFA Champions League",
@@ -4541,6 +4890,7 @@
       "ro": "UEFA Champions League"
     },
     "ŞMP-K": {
+      "ulke": "EU",
       "tr": "UEFA Şampiyonlar Ligi Kadınlar",
       "en": "UEFA Women's Champions League",
       "de": "UEFA Champions League der Frauen",
@@ -4554,6 +4904,7 @@
       "ro": "UEFA Champions League Feminin"
     },
     "ŞİL": {
+      "ulke": "CL",
       "tr": "Şili - Primera Division",
       "en": "Chile - Primera Division",
       "de": "Chile - Primera Division",
@@ -4567,6 +4918,7 @@
       "ro": "Chile - Primera Division"
     },
     "ŞİLİK": {
+      "ulke": "CL",
       "tr": "Şili - Kupa",
       "en": "Chile - Cup",
       "de": "Chile - Pokal",
@@ -4580,6 +4932,7 @@
       "ro": "Chile - Cupa"
     },
     "ŞİLİLK": {
+      "ulke": "CL",
       "tr": "Şili - Liga Kupası",
       "en": "Chile - League Cup",
       "de": "Chile - Ligapokal",
@@ -4593,6 +4946,7 @@
       "ro": "Chile - Cupa Ligii"
     },
     "ŞİLİSK": {
+      "ulke": "CL",
       "tr": "Şili - Süper Kupa",
       "en": "Chile - Super Cup",
       "de": "Chile - Supercup",
