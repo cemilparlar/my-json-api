@@ -53265,6 +53265,21 @@
         "status": "Won"
     },
     {
+        "date": "22.02.2026 23:00",
+        "league": "MEK",
+        "matchCode": "4418280",
+        "home": "Pumas UNAM",
+        "away": "CF Monterrey",
+        "firstHalf": "2 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "Double Chance 12",
+        "ihtimal": "73.63",
+        "odds": "1.12",
+        "matchCount": "91",
+        "matchLink": "4418280",
+        "status": "Won"
+    },
+    {
         "date": "23.02.2026 13:00",
         "league": "INGPDL",
         "matchCode": "4339539",
@@ -97182,6 +97197,21 @@
         "odds": "1.27",
         "matchCount": "44",
         "matchLink": "4437183",
+        "status": "Won"
+    },
+    {
+        "date": "22.03.2026 23:00",
+        "league": "MEK",
+        "matchCode": "4418326",
+        "home": "Santos Laguna",
+        "away": "Club Puebla",
+        "firstHalf": "0 - 0",
+        "finalScore": "2 - 1",
+        "prediction": "Double Chance 12",
+        "ihtimal": "83.1",
+        "odds": "1.12",
+        "matchCount": "71",
+        "matchLink": "4418326",
         "status": "Won"
     },
     {
@@ -142902,6 +142932,21 @@
         "odds": "1.05",
         "matchCount": "64",
         "matchLink": "4435764",
+        "status": "Won"
+    },
+    {
+        "date": "19.04.2026 23:00",
+        "league": "MEK",
+        "matchCode": "4418354",
+        "home": "Santos Laguna",
+        "away": "Atlas FC",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 1",
+        "prediction": "Double Chance 12",
+        "ihtimal": "74.14",
+        "odds": "1.12",
+        "matchCount": "58",
+        "matchLink": "4418354",
         "status": "Won"
     },
     {
@@ -259612,6 +259657,21 @@
         "away": "Club Necaxa",
         "firstHalf": "0 - 0",
         "finalScore": "1 - 1",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "75.0",
+        "odds": "1.12",
+        "matchCount": "52",
+        "matchLink": "4476395",
+        "status": "Won"
+    },
+    {
+        "date": "24.08.2026 01:00",
+        "league": "MEK",
+        "matchCode": "4476395",
+        "home": "Pumas UNAM",
+        "away": "Club Necaxa",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 1",
         "prediction": "Over 1.5 Goals",
         "ihtimal": "78.85",
         "odds": "1.08",
@@ -269705,14 +269765,14 @@
         "matchCode": "4501834",
         "home": "Cienciano",
         "away": "Cusco FC",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "1 - 2",
         "prediction": "Double Chance 12",
         "ihtimal": "86.67",
         "odds": "1.16",
         "matchCount": "15",
         "matchLink": "4501834",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "31.08.2026 00:00",
@@ -269720,14 +269780,29 @@
         "matchCode": "4435959",
         "home": "Coquimbo Unido",
         "away": "Huachipato",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 1",
         "prediction": "Double Chance 12",
         "ihtimal": "80.0",
         "odds": "1.06",
         "matchCount": "15",
         "matchLink": "4435959",
-        "status": "Pending"
+        "status": "Won"
+    },
+    {
+        "date": "31.08.2026 00:00",
+        "league": "MEK",
+        "matchCode": "4476403",
+        "home": "Deportivo Toluca",
+        "away": "FC Juarez",
+        "firstHalf": "2 - 0",
+        "finalScore": "4 - 0",
+        "prediction": "Match Result 1",
+        "ihtimal": "100.0",
+        "odds": "1.12",
+        "matchCount": "4",
+        "matchLink": "4476403",
+        "status": "Won"
     },
     {
         "date": "31.08.2026 01:20",
