@@ -83160,6 +83160,21 @@
         "status": "Won"
     },
     {
+        "date": "16.03.2026 15:30",
+        "league": "ROM",
+        "matchCode": "4452201",
+        "home": "FC Botosani",
+        "away": "FC Unirea Slobozia",
+        "firstHalf": "1 - 2",
+        "finalScore": "3 - 2",
+        "prediction": "Double Chance 12",
+        "ihtimal": "77.78",
+        "odds": "1.05",
+        "matchCount": "27",
+        "matchLink": "4452201",
+        "status": "Won"
+    },
+    {
         "date": "16.03.2026 16:00",
         "league": "SIRP",
         "matchCode": "4294616",
@@ -166947,6 +166962,21 @@
         "odds": "1.07",
         "matchCount": "4",
         "matchLink": "4459956",
+        "status": "Won"
+    },
+    {
+        "date": "04.05.2026 15:00",
+        "league": "TUN1",
+        "matchCode": "4459958",
+        "home": "US Monastir",
+        "away": "AS Metlaoui",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 1",
+        "prediction": "Double Chance 12",
+        "ihtimal": "100.0",
+        "odds": "1.05",
+        "matchCount": "2",
+        "matchLink": "4459958",
         "status": "Won"
     },
     {
@@ -270571,18 +270601,33 @@
     },
     {
         "date": "31.08.2026 15:00",
+        "league": "GUR",
+        "matchCode": "4435421",
+        "home": "FC Torpedo Kutaisi",
+        "away": "FC Meshakhte Tkibuli",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 2",
+        "prediction": "Double Chance 12",
+        "ihtimal": "85.0",
+        "odds": "1.05",
+        "matchCount": "20",
+        "matchLink": "4435421",
+        "status": "Won"
+    },
+    {
+        "date": "31.08.2026 15:00",
         "league": "UKR",
         "matchCode": "4508142",
         "home": "Bukovyna",
         "away": "Dynamo Kyiv",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "3 - 0",
         "prediction": "Double Chance 12",
         "ihtimal": "100.0",
         "odds": "1.07",
         "matchCount": "2",
         "matchLink": "4508142",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "31.08.2026 15:45",
