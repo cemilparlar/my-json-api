@@ -272495,14 +272495,14 @@
         "matchCode": "4540614",
         "home": "Huddersfield Town",
         "away": "Queens Park Rangers",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "2 - 1",
+        "finalScore": "3 - 1",
         "prediction": "Double Chance 1X",
         "ihtimal": "100.0",
         "odds": "1.11",
         "matchCount": "1",
         "matchLink": "4540614",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "01.09.2026 14:00",
@@ -273207,6 +273207,21 @@
         "odds": "1.20",
         "matchCount": "2",
         "matchLink": "4544595",
+        "status": "Pending"
+    },
+    {
+        "date": "01.09.2026 20:00",
+        "league": "PER",
+        "matchCode": "4501837",
+        "home": "Atletico Grau",
+        "away": "FBC Melgar",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "77.19",
+        "odds": "1.16",
+        "matchCount": "57",
+        "matchLink": "4501837",
         "status": "Pending"
     }
 ]
