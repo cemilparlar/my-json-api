@@ -272458,5 +272458,50 @@
         "matchCount": "20",
         "matchLink": "4518090",
         "status": "Pending"
+    },
+    {
+        "date": "01.09.2026 17:00",
+        "league": " İSÇ2",
+        "matchCode": "4426993",
+        "home": "Helsingborgs IF",
+        "away": "Orebro SK",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "92.86",
+        "odds": "1.13",
+        "matchCount": "28",
+        "matchLink": "4426993",
+        "status": "Pending"
+    },
+    {
+        "date": "01.09.2026 17:00",
+        "league": "POLK",
+        "matchCode": "4538426",
+        "home": "Stal Rzeszow",
+        "away": "P. Bielsko",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance X2",
+        "ihtimal": "73.33",
+        "odds": "1.31",
+        "matchCount": "15",
+        "matchLink": "4538426",
+        "status": "Pending"
+    },
+    {
+        "date": "01.09.2026 17:00",
+        "league": "POLK",
+        "matchCode": "4538426",
+        "home": "Stal Rzeszow",
+        "away": "P. Bielsko",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:1) 2",
+        "ihtimal": "73.33333333333333",
+        "odds": "1.31",
+        "matchCount": "15",
+        "matchLink": "4538426",
+        "status": "Pending"
     }
 ]
