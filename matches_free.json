@@ -132361,6 +132361,21 @@
     },
     {
         "date": "14.04.2026 18:45",
+        "league": "İK1",
+        "matchCode": "4299292",
+        "home": "Peterhead",
+        "away": "Inverness CT",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 2",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "75.0",
+        "odds": "1.29",
+        "matchCount": "8",
+        "matchLink": "4299292",
+        "status": "Won"
+    },
+    {
+        "date": "14.04.2026 18:45",
         "league": "İN1",
         "matchCode": "4304063",
         "home": "Wigan Athletic",
@@ -144835,6 +144850,21 @@
         "prediction": "Handicap (1:0) 1",
         "ihtimal": "90.9090909090909",
         "odds": "1.05",
+        "matchCount": "11",
+        "matchLink": "4443862",
+        "status": "Won"
+    },
+    {
+        "date": "21.04.2026 19:00",
+        "league": "İTK",
+        "matchCode": "4443862",
+        "home": "Inter",
+        "away": "Como 1907",
+        "firstHalf": "0 - 1",
+        "finalScore": "3 - 2",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "72.73",
+        "odds": "1.10",
         "matchCount": "11",
         "matchLink": "4443862",
         "status": "Won"
@@ -219360,6 +219390,21 @@
         "status": "Won"
     },
     {
+        "date": "07.07.2026 18:30",
+        "league": "HAZ",
+        "matchCode": "4479044",
+        "home": "Limavady Unite",
+        "away": "Coleraine",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 1",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "79.17",
+        "odds": "1.29",
+        "matchCount": "24",
+        "matchLink": "4479044",
+        "status": "Won"
+    },
+    {
         "date": "07.07.2026 19:00",
         "league": "ŞMP",
         "matchCode": "4478426",
@@ -227022,6 +227067,21 @@
         "odds": "1.09",
         "matchCount": "89",
         "matchLink": "4479550",
+        "status": "Won"
+    },
+    {
+        "date": "21.07.2026 18:30",
+        "league": "ŞMP",
+        "matchCode": "4479854",
+        "home": "SK Sturm Graz",
+        "away": "Heart of Midlothian",
+        "firstHalf": "1 - 0",
+        "finalScore": "4 - 0",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "71.15",
+        "odds": "1.29",
+        "matchCount": "52",
+        "matchLink": "4479854",
         "status": "Won"
     },
     {
@@ -246481,6 +246541,21 @@
     },
     {
         "date": "14.08.2026 16:30",
+        "league": "İTK",
+        "matchCode": "4534459",
+        "home": "Cagliari Calcio",
+        "away": "SS Arezzo",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "Double Chance 12",
+        "ihtimal": "76.92",
+        "odds": "1.10",
+        "matchCount": "13",
+        "matchLink": "4534459",
+        "status": "Won"
+    },
+    {
+        "date": "14.08.2026 16:30",
         "league": "AL2",
         "matchCode": "4495753",
         "home": "Eintracht Braunschweig",
@@ -251775,6 +251850,21 @@
         "status": "Won"
     },
     {
+        "date": "15.08.2026 18:45",
+        "league": "İTK",
+        "matchCode": "4534464",
+        "home": "Unione V.",
+        "away": "Modena FC",
+        "firstHalf": "1 - 2",
+        "finalScore": "3 - 2",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.10",
+        "matchCount": "6",
+        "matchLink": "4534464",
+        "status": "Won"
+    },
+    {
         "date": "15.08.2026 19:00",
         "league": "HIR",
         "matchCode": "4474273",
@@ -252492,6 +252582,21 @@
         "odds": "1.06",
         "matchCount": "26",
         "matchLink": "4501568",
+        "status": "Won"
+    },
+    {
+        "date": "17.08.2026 18:45",
+        "league": "İTK",
+        "matchCode": "4534472",
+        "home": "US Cremonese",
+        "away": "UC Sampdoria",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "90.0",
+        "odds": "1.10",
+        "matchCount": "10",
+        "matchLink": "4534472",
         "status": "Won"
     },
     {
@@ -272960,14 +273065,44 @@
         "matchCode": "4501837",
         "home": "Atletico Grau",
         "away": "FBC Melgar",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "77.19",
         "odds": "1.16",
         "matchCount": "57",
         "matchLink": "4501837",
-        "status": "Pending"
+        "status": "Won"
+    },
+    {
+        "date": "01.09.2026 16:00",
+        "league": "İTK",
+        "matchCode": "4544594",
+        "home": "Parma Calcio",
+        "away": "US Cremonese",
+        "firstHalf": "0 - 2",
+        "finalScore": "0 - 2",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.10",
+        "matchCount": "2",
+        "matchLink": "4544594",
+        "status": "Won"
+    },
+    {
+        "date": "01.09.2026 18:45",
+        "league": "İNCL",
+        "matchCode": "4488718",
+        "home": "Lincoln City",
+        "away": "Blackburn",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "100.0",
+        "odds": "1.29",
+        "matchCount": "1",
+        "matchLink": "4488718",
+        "status": "Won"
     },
     {
         "date": "01.09.2026 17:30",
