@@ -273388,5 +273388,50 @@
         "matchCount": "16",
         "matchLink": "4488400",
         "status": "Pending"
+    },
+    {
+        "date": "02.09.2026 10:00",
+        "league": "JAP",
+        "matchCode": "4487172",
+        "home": "Shimizu S-Pulse",
+        "away": "FC Tokyo",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:1) 2",
+        "ihtimal": "100.0",
+        "odds": "1.11",
+        "matchCount": "1",
+        "matchLink": "4487172",
+        "status": "Pending"
+    },
+    {
+        "date": "02.09.2026 10:00",
+        "league": " JLK",
+        "matchCode": "4488405",
+        "home": "FC Gifu",
+        "away": "Tokushima Vortis",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "71.43",
+        "odds": "1.27",
+        "matchCount": "14",
+        "matchLink": "4488405",
+        "status": "Pending"
+    },
+    {
+        "date": "02.09.2026 10:00",
+        "league": "JAP",
+        "matchCode": "4487171",
+        "home": "Yokohama F. Marinos",
+        "away": "Kyoto Sanga FC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "80.0",
+        "odds": "1.18",
+        "matchCount": "5",
+        "matchLink": "4487171",
+        "status": "Pending"
     }
 ]
