@@ -273770,14 +273770,14 @@
         "matchCode": "4486077",
         "home": "Zenit St. Petersburg",
         "away": "FC Makhachkala",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "2 - 0",
+        "finalScore": "3 - 0",
         "prediction": "Match Result 1",
         "ihtimal": "100.0",
         "odds": "1.19",
         "matchCount": "2",
         "matchLink": "4486077",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "02.09.2026 16:00",
@@ -274482,6 +274482,21 @@
         "odds": "1.13",
         "matchCount": "10",
         "matchLink": "4419316",
+        "status": "Pending"
+    },
+    {
+        "date": "02.09.2026 23:30",
+        "league": "USL1",
+        "matchCode": "4419315",
+        "home": "New York Cosmo",
+        "away": "Sarasota Paradi",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "91.18",
+        "odds": "1.13",
+        "matchCount": "34",
+        "matchLink": "4419315",
         "status": "Pending"
     }
 ]
