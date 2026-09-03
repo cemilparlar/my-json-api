@@ -275398,5 +275398,35 @@
         "matchCount": "6",
         "matchLink": "4480693",
         "status": "Pending"
+    },
+    {
+        "date": "03.09.2026 18:45",
+        "league": "FR3",
+        "matchCode": "4496177",
+        "home": "Rouen",
+        "away": "Valenciennes FC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "86.66666666666667",
+        "odds": "1.09",
+        "matchCount": "30",
+        "matchLink": "4496177",
+        "status": "Pending"
+    },
+    {
+        "date": "03.09.2026 18:45",
+        "league": "İKP",
+        "matchCode": "4480501",
+        "home": "Hibernian",
+        "away": "Heart of Midlothian",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Both Teams to Score - Yes",
+        "ihtimal": "100.0",
+        "odds": "1.40",
+        "matchCount": "1",
+        "matchLink": "4480501",
+        "status": "Pending"
     }
 ]
