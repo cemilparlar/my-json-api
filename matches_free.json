@@ -276005,14 +276005,14 @@
         "matchCode": "4550319",
         "home": "Arema FC",
         "away": "Adhyaksa",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "3 - 0",
+        "finalScore": "4 - 0",
         "prediction": "Double Chance 12",
         "ihtimal": "86.49",
         "odds": "1.08",
         "matchCount": "37",
         "matchLink": "4550319",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "04.09.2026 10:00",
@@ -276462,6 +276462,51 @@
         "odds": "1.06",
         "matchCount": "2",
         "matchLink": "4544552",
+        "status": "Pending"
+    },
+    {
+        "date": "04.09.2026 16:30",
+        "league": "AL2",
+        "matchCode": "4495771",
+        "home": "Arminia Bielef",
+        "away": "St Pauli",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.05",
+        "matchCount": "5",
+        "matchLink": "4495771",
+        "status": "Pending"
+    },
+    {
+        "date": "04.09.2026 16:30",
+        "league": "AL2",
+        "matchCode": "4495771",
+        "home": "Arminia Bielef",
+        "away": "St Pauli",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 4.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.08",
+        "matchCount": "5",
+        "matchLink": "4495771",
+        "status": "Pending"
+    },
+    {
+        "date": "04.09.2026 16:30",
+        "league": "AL2",
+        "matchCode": "4495771",
+        "home": "Arminia Bielef",
+        "away": "St Pauli",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "80.0",
+        "odds": "1.16",
+        "matchCount": "5",
+        "matchLink": "4495771",
         "status": "Pending"
     }
 ]
