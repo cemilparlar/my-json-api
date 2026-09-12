@@ -1,0 +1,219 @@
+{
+  "_ownership_verification": {
+    "developer_name": "Cemil Parlar",
+    "apple_id": "cemilparlar@gmail.com",
+    "team_id": "42L22T5XU5",
+    "bundle_id": "com.oddcharts.pro",
+    "github_account": "https://github.com/cemilparlar",
+    "statement": "This repository and all JSON files within it are solely owned and maintained by Cemil Parlar, registered Apple Developer with Team ID 42L22T5XU5. This file is submitted as part of an App Store appeal as verifiable ownership proof."
+  },
+  "_app_description": {
+    "app_name": "OddCharts",
+    "category": "Sports Statistics & Analysis",
+    "purpose": "OddCharts displays football match statistics using Bayesian ML models. All data is plain text: team names, scores, league codes, and statistical probabilities. No images, logos, or licensed assets.",
+    "gambling": "NONE. No bets, wagers, or monetary input. No links to betting platforms.",
+    "licensed_content": "NONE. Only plain-text team names (factual identifiers) and numerical statistics."
+  },
+  "_data_sources": {
+    "matches_free": "https://raw.githubusercontent.com/cemilparlar/my-json-api/main/matches_free.json",
+    "matches_elit": "https://raw.githubusercontent.com/cemilparlar/my-json-api-main-elit/main/matches_elit.json",
+    "live_scores": "https://raw.githubusercontent.com/cemilparlar/my-json-api-live/main/live.json",
+    "statistics": "https://raw.githubusercontent.com/cemilparlar/my-json-api-main-pro-stats/main/stats.json"
+  },
+  "_why_data_changes": {
+    "explanation": "IMPORTANT FOR REVIEWER: These JSON files update daily because football matches are played every day. This is time-series sports data — identical in nature to a weather app updating forecasts or a stock app updating prices. The data STRUCTURE and SCHEMA never change. Only match results change as games are played in real life. This is NOT a feature switch.",
+    "what_never_changes": [
+      "JSON field names and structure",
+      "Application features and functionality",
+      "GitHub repository URLs hardcoded in the app",
+      "Monetization model (AdMob + Apple StoreKit)",
+      "Absence of gambling, hidden features, or unauthorized content"
+    ],
+    "what_changes_naturally": [
+      "Match scores (games are played and completed daily)",
+      "New fixtures (new matches added as the football calendar progresses)",
+      "Statistics summaries (win rates updated as new results come in)",
+      "Live scores (minute-by-minute during active matches)"
+    ]
+  },
+  "_schema_reference": {
+    "matches_free_and_elit": {
+      "format": "JSON Array of objects",
+      "fields": {
+        "date": "Match date and time — e.g. '29.12.2025 08:00'",
+        "league": "Short league code — e.g. 'EPL', 'AVUS' (plain text, no logos)",
+        "matchCode": "Unique numeric match ID",
+        "home": "Home team name — plain text only",
+        "away": "Away team name — plain text only",
+        "firstHalf": "Half-time score — e.g. '2 - 1'",
+        "finalScore": "Full-time score — e.g. '5 - 1'",
+        "prediction": "Statistical analysis type — e.g. 'Double Chance X2'",
+        "ihtimal": "ML model probability percentage — e.g. '80.0'",
+        "odds": "Statistical risk value of the analysis — lower value indicates higher confidence, e.g. '1.14'",
+        "matchCount": "Number of historical samples used in analysis",
+        "matchLink": "Match ID for internal tracking only",
+        "status": "Outcome: 'Won' or 'Lost'"
+      }
+    },
+    "live_json": {
+      "format": "JSON Object with 'e' (events) and 'm' (matches) arrays",
+      "note": "Contains real-time match scores and events. Updates every few minutes during active matches. Same plain-text team names, no logos or images."
+    },
+    "stats_json": {
+      "format": "JSON Object with aggregated statistics",
+      "sections": [
+        "summary",
+        "by_day",
+        "by_hour",
+        "top_teams",
+        "top_leagues",
+        "top_predictions",
+        "top_odds",
+        "top_matches"
+      ],
+      "note": "Aggregated historical performance data. Updates daily as new match results are added."
+    }
+  },
+  "_sample_matches_free": [
+    {
+      "date": "29.12.2025 08:00",
+      "league": "AVUS",
+      "matchCode": "4378427",
+      "home": "Melbourne Victory",
+      "away": "Wellington Phoenix",
+      "firstHalf": "2 - 1",
+      "finalScore": "5 - 1",
+      "prediction": "1st Half Over 0.5",
+      "ihtimal": "80.0",
+      "odds": "1.14",
+      "matchCount": "5",
+      "matchLink": "4378427",
+      "status": "Won"
+    },
+    {
+      "date": "29.12.2025 12:50",
+      "league": "BAE",
+      "matchCode": "4410478",
+      "home": "Al Ittihad Kal",
+      "away": "Al Jazira Club",
+      "firstHalf": "1 - 1",
+      "finalScore": "1 - 1",
+      "prediction": "Double Chance X2",
+      "ihtimal": "87.18",
+      "odds": "1.08",
+      "matchCount": "39",
+      "matchLink": "4410478",
+      "status": "Won"
+    },
+    {
+      "date": "29.12.2025 19:45",
+      "league": "İNCL",
+      "matchCode": "4302074",
+      "home": "Millwall",
+      "away": "Bristol City",
+      "firstHalf": "1 - 0",
+      "finalScore": "2 - 1",
+      "prediction": "Double Chance 1X",
+      "ihtimal": "100.0",
+      "odds": "1.25",
+      "matchCount": "2",
+      "matchLink": "4302074",
+      "status": "Won"
+    }
+  ],
+  "_sample_stats_summary": {
+    "won": 53133,
+    "lost": 19345,
+    "rate": 73.3,
+    "total": 72478,
+    "note": "This summary updates daily as new match results are processed by the ML pipeline."
+  },
+  "_live_json_schema": {
+    "_note": "live.json updates every few minutes during active matches — identical behavior to ESPN, BBC Sport, or any live scores application. The JSON structure is permanently fixed; only the numerical values change as matches progress.",
+    "top_level_fields": {
+      "e": "Array of live EVENTS (goals, cards, match start/end). New entries appended as events occur.",
+      "m": "Array of all MATCHES for the day. Score values update as goals are scored.",
+      "eId": "Auto-incrementing event counter. Increases by 1 with each new event (goal, card, etc.)",
+      "_ts": "Unix timestamp of last update — e.g. 1780468323 = 2026-06-03 06:32:03 UTC",
+      "t": "Empty string, reserved field"
+    },
+    "e_array_field_positions": {
+      "[0]  eventId": "Unique event ID — auto-increments globally",
+      "[1]  matchId": "Match ID this event belongs to",
+      "[2]  status": "0 = completed event",
+      "[3]  countryId": "Numeric country identifier",
+      "[4]  leagueCatId": "Numeric league category ID",
+      "[5]  leagueName": "League name — plain text, e.g. 'Premier League'",
+      "[6]  leagueCode": "Short league code — plain text, e.g. 'EPL'",
+      "[7]  homeTeamId": "Home team numeric ID",
+      "[8]  homeName": "Home team name — PLAIN TEXT ONLY, e.g. 'Arsenal'",
+      "[9]  awayTeamId": "Away team numeric ID",
+      "[10] awayName": "Away team name — PLAIN TEXT ONLY, e.g. 'Chelsea'",
+      "[11] eventTime": "Time of event in HH:MM format",
+      "[12] homeScore": "Home team goals at time of event",
+      "[13] awayScore": "Away team goals at time of event",
+      "[14] eventCount": "Total events in this match",
+      "[16] homeScore2": "Secondary score (extra time / penalties)",
+      "[17] awayScore2": "Secondary score (extra time / penalties)",
+      "[18] matchStatus": "'MS'=Full Time, 'IY'=Half Time, '86''=Live minute, 'Pen'=Penalties"
+    },
+    "m_array_field_positions": {
+      "[0]  matchId": "Unique match ID",
+      "[1]  homeTeamId": "Home team numeric ID",
+      "[2]  homeName": "Home team name — PLAIN TEXT ONLY",
+      "[3]  awayTeamId": "Away team numeric ID",
+      "[4]  awayName": "Away team name — PLAIN TEXT ONLY",
+      "[5]  sportType": "4=Football/Soccer, 13=Basketball",
+      "[6]  matchStatus": "Same as e[18] above",
+      "[7]  score": "Current score string, e.g. '2-1'",
+      "[15] extraData": "JSON object with extra match metadata",
+      "[19] kickoffTime": "Scheduled kickoff time HH:MM",
+      "[21] odds1": "Favorite indicator for home team — lower value means home team is statistically favored",
+      "[22] oddsX": "Draw probability indicator — reflects statistical likelihood of an undecided outcome",
+      "[23] odds2": "Favorite indicator for away team — lower value means away team is statistically favored",
+      "[30] matchDate": "Match date DD/MM/YYYY",
+      "[31] leagueInfo": "Array: [countryId, countryName, leagueId, leagueName, seasonId, season, ...]",
+      "[14] matchImportanceScore": "Match importance score — higher value indicates a more significant or widely followed fixture",
+      "[32] matchSuitability": "1 = match is suitable for statistical analysis, 0 = insufficient data for analysis"
+    },
+    "why_it_updates": "Each time a goal is scored, a card is given, or a match starts/ends, a new entry is appended to 'e' and the corresponding 'm' entry score is updated. The _ts timestamp records when this happened. This is standard live sports data behavior — no different from the official ESPN or BBC Sport JSON APIs.",
+    "what_never_changes": [
+      "The array structure and field positions",
+      "The field types (string, integer, array)",
+      "The sportType codes (4=football, 13=basketball)",
+      "The matchStatus codes (MS, IY, Pen)",
+      "The absence of any images, logos, or licensed media"
+    ],
+    "sample_event": [
+      6648744,
+      4473284,
+      0,
+      102,
+      3610,
+      "Kolombiya Primera A Apertura Final",
+      "KOL",
+      1795,
+      "Junior",
+      2233,
+      "Atletico Nacional",
+      "05:34",
+      2,
+      0,
+      3,
+      0,
+      0,
+      0,
+      "MS"
+    ],
+    "sample_event_decoded": {
+      "eventId": 6648744,
+      "matchId": 4473284,
+      "leagueName": "Kolombiya Primera A Apertura Final",
+      "leagueCode": "KOL",
+      "homeTeam": "Junior",
+      "awayTeam": "Atletico Nacional",
+      "score": "2-0",
+      "status": "MS (Full Time)"
+    }
+  }
+}
