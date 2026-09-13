@@ -13710,6 +13710,21 @@
         "status": "Won"
     },
     {
+        "date": "18.01.2026 19:30",
+        "league": "İTC",
+        "matchCode": "4340706",
+        "home": "US Foggia",
+        "away": "Giugliano Calcio",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 1",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "82.43",
+        "odds": "1.09",
+        "matchCount": "74",
+        "matchLink": "4340706",
+        "status": "Won"
+    },
+    {
         "date": "18.01.2026 20:00",
         "league": "İS2",
         "matchCode": "4305785",
@@ -36670,6 +36685,21 @@
         "prediction": "Double Chance 1X",
         "ihtimal": "81.82",
         "odds": "1.12",
+        "matchCount": "22",
+        "matchLink": "4340355",
+        "status": "Won"
+    },
+    {
+        "date": "08.02.2026 19:30",
+        "league": "İTC",
+        "matchCode": "4340355",
+        "home": "Vis Pesaro",
+        "away": "FC Forli",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 1",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "81.82",
+        "odds": "1.09",
         "matchCount": "22",
         "matchLink": "4340355",
         "status": "Won"
@@ -94440,6 +94470,21 @@
         "status": "Won"
     },
     {
+        "date": "21.03.2026 21:30",
+        "league": "BR1",
+        "matchCode": "4423099",
+        "home": "Fluminense FC",
+        "away": "Atletico Mineiro",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "71.43",
+        "odds": "1.07",
+        "matchCount": "7",
+        "matchLink": "4423099",
+        "status": "Won"
+    },
+    {
         "date": "21.03.2026 22:00",
         "league": "ARJPBN",
         "matchCode": "4440754",
@@ -113535,6 +113580,21 @@
         "status": "Won"
     },
     {
+        "date": "04.04.2026 21:30",
+        "league": "BR1",
+        "matchCode": "4423121",
+        "home": "Sao Paulo FC",
+        "away": "Cruzeiro EC",
+        "firstHalf": "2 - 0",
+        "finalScore": "4 - 1",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "80.0",
+        "odds": "1.07",
+        "matchCount": "25",
+        "matchLink": "4423121",
+        "status": "Won"
+    },
+    {
         "date": "04.04.2026 23:00",
         "league": " KAPL",
         "matchCode": "4460097",
@@ -115857,21 +115917,6 @@
         "odds": "1.06",
         "matchCount": "36",
         "matchLink": "4305919",
-        "status": "Won"
-    },
-    {
-        "date": "05.04.2026 19:00",
-        "league": " BR2",
-        "matchCode": "4453713",
-        "home": "Avai",
-        "away": "Operario",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "87.94",
-        "odds": "1.05",
-        "matchCount": "141",
-        "matchLink": "4453713",
         "status": "Won"
     },
     {
@@ -144342,21 +144387,6 @@
         "odds": "1.10",
         "matchCount": "97",
         "matchLink": "4453730",
-        "status": "Won"
-    },
-    {
-        "date": "19.04.2026 19:00",
-        "league": " BR2",
-        "matchCode": "4453727",
-        "home": "Botafogo Ribei",
-        "away": "Atletico Goiani",
-        "firstHalf": "1 - 1",
-        "finalScore": "1 - 1",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "82.93",
-        "odds": "1.05",
-        "matchCount": "41",
-        "matchLink": "4453727",
         "status": "Won"
     },
     {
@@ -199425,21 +199455,6 @@
         "status": "Won"
     },
     {
-        "date": "24.05.2026 19:30",
-        "league": " BR2",
-        "matchCode": "4453785",
-        "home": "Regatas",
-        "away": "Ponte Preta",
-        "firstHalf": "1 - 2",
-        "finalScore": "4 - 2",
-        "prediction": "Double Chance 12",
-        "ihtimal": "88.1",
-        "odds": "1.05",
-        "matchCount": "42",
-        "matchLink": "4453785",
-        "status": "Won"
-    },
-    {
         "date": "24.05.2026 20:00",
         "league": "PAR",
         "matchCode": "4430480",
@@ -254251,6 +254266,21 @@
     },
     {
         "date": "15.08.2026 21:30",
+        "league": "BR1",
+        "matchCode": "4423256",
+        "home": "Atletico Paranaense",
+        "away": "Red Bull Bragantino",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 1",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "85.71",
+        "odds": "1.07",
+        "matchCount": "14",
+        "matchLink": "4423256",
+        "status": "Won"
+    },
+    {
+        "date": "15.08.2026 21:30",
         "league": "VEN",
         "matchCode": "4514330",
         "home": "Universidad Central de Venezuela",
@@ -288346,18 +288376,18 @@
     },
     {
         "date": "13.09.2026 19:00",
-        "league": " BR2",
-        "matchCode": "4453962",
-        "home": "Atletico Goian",
-        "away": "Criciuma",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "74.32",
-        "odds": "1.05",
-        "matchCount": "74",
-        "matchLink": "4453962",
-        "status": "Pending"
+        "league": "BR1",
+        "matchCode": "4423293",
+        "home": "Mirassol FC",
+        "away": "Vitoria Bahia",
+        "firstHalf": "0 - 2",
+        "finalScore": "2 - 2",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "80.0",
+        "odds": "1.07",
+        "matchCount": "5",
+        "matchLink": "4423293",
+        "status": "Won"
     },
     {
         "date": "13.09.2026 19:00",
@@ -288365,14 +288395,14 @@
         "matchCode": "4453962",
         "home": "Atletico Goian",
         "away": "Criciuma",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "2 - 0",
+        "finalScore": "4 - 0",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "77.03",
         "odds": "1.09",
         "matchCount": "74",
         "matchLink": "4453962",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "13.09.2026 19:00",
@@ -288380,14 +288410,29 @@
         "matchCode": "4535096",
         "home": "Trento Calcio",
         "away": "Union Brescia",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
         "prediction": "Under 3.5 Goals",
         "ihtimal": "71.43",
         "odds": "1.05",
         "matchCount": "7",
         "matchLink": "4535096",
-        "status": "Pending"
+        "status": "Won"
+    },
+    {
+        "date": "13.09.2026 19:00",
+        "league": "İTC",
+        "matchCode": "4535095",
+        "home": "Novara Calcio",
+        "away": "US Pergolettese",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 1",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "70.73",
+        "odds": "1.09",
+        "matchCount": "41",
+        "matchLink": "4535095",
+        "status": "Won"
     },
     {
         "date": "13.09.2026 19:15",
