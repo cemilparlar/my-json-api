@@ -289303,5 +289303,35 @@
         "matchCount": "4",
         "matchLink": "4561147",
         "status": "Pending"
+    },
+    {
+        "date": "14.09.2026 19:45",
+        "league": "POR",
+        "matchCode": "4517002",
+        "home": "SC Braga",
+        "away": "Estoril Praia",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 1",
+        "ihtimal": "100.0",
+        "odds": "1.23",
+        "matchCount": "1",
+        "matchLink": "4517002",
+        "status": "Pending"
+    },
+    {
+        "date": "14.09.2026 19:45",
+        "league": "POR",
+        "matchCode": "4517002",
+        "home": "SC Braga",
+        "away": "Estoril Praia",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.09",
+        "matchCount": "1",
+        "matchLink": "4517002",
+        "status": "Pending"
     }
 ]
