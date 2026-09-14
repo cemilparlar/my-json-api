@@ -288672,7 +288672,7 @@
         "odds": "1.33",
         "matchCount": "27",
         "matchLink": "4498059",
-        "status": "Pending"
+        "status": "HATA"
     },
     {
         "date": "14.09.2026 15:00",
@@ -288680,14 +288680,14 @@
         "matchCode": "4560137",
         "home": "Inter Turku",
         "away": "Vaasa",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
         "prediction": "Double Chance 12",
         "ihtimal": "100.0",
         "odds": "1.16",
         "matchCount": "1",
         "matchLink": "4560137",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "14.09.2026 15:00",
@@ -288695,14 +288695,14 @@
         "matchCode": "4560137",
         "home": "Inter Turku",
         "away": "Vaasa",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
         "prediction": "Under 3.5 Goals",
         "ihtimal": "100.0",
         "odds": "1.16",
         "matchCount": "1",
         "matchLink": "4560137",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "14.09.2026 15:00",
@@ -288710,14 +288710,14 @@
         "matchCode": "4435438",
         "home": "FC Torpedo Kutaisi",
         "away": "FC Samgurali",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "2 - 1",
+        "finalScore": "3 - 2",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "81.25",
         "odds": "1.09",
         "matchCount": "48",
         "matchLink": "4435438",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "14.09.2026 15:00",
@@ -288725,14 +288725,14 @@
         "matchCode": "4485447",
         "home": "Zlate Moravce",
         "away": "Lokomotiva Zvol",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "2 - 0",
+        "finalScore": "4 - 0",
         "prediction": "Double Chance 1X",
         "ihtimal": "75.86",
         "odds": "1.09",
         "matchCount": "58",
         "matchLink": "4485447",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "14.09.2026 15:00",
@@ -288740,14 +288740,14 @@
         "matchCode": "4501604",
         "home": "Universitatea Craiova",
         "away": "Otelul Galati",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "3 - 0",
         "prediction": "Double Chance 12",
         "ihtimal": "80.14",
         "odds": "1.11",
         "matchCount": "146",
         "matchLink": "4501604",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "14.09.2026 15:00",
@@ -289377,6 +289377,21 @@
         "odds": "1.16",
         "matchCount": "25",
         "matchLink": "4453959",
+        "status": "Pending"
+    },
+    {
+        "date": "14.09.2026 19:15",
+        "league": "POR",
+        "matchCode": "4517005",
+        "home": "Moreirense FC",
+        "away": "CS Maritimo",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "100.0",
+        "odds": "1.17",
+        "matchCount": "3",
+        "matchLink": "4517005",
         "status": "Pending"
     }
 ]
