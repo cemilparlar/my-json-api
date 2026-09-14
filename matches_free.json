@@ -71371,21 +71371,6 @@
     },
     {
         "date": "09.03.2026 19:30",
-        "league": "MSR",
-        "matchCode": "4338276",
-        "home": "National Bank of Egypt",
-        "away": "Pyramids FC",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "78.57",
-        "odds": "1.15",
-        "matchCount": "14",
-        "matchLink": "4338276",
-        "status": "Won"
-    },
-    {
-        "date": "09.03.2026 19:30",
         "league": "İTC",
         "matchCode": "4340415",
         "home": "AC Perugia",
@@ -132630,21 +132615,6 @@
         "status": "Won"
     },
     {
-        "date": "13.04.2026 15:00",
-        "league": "MSR",
-        "matchCode": "4454539",
-        "home": "Ghazl El Mahalla",
-        "away": "Wadi Degla",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "Under 2.5 Goals",
-        "ihtimal": "83.33",
-        "odds": "1.15",
-        "matchCount": "6",
-        "matchLink": "4454539",
-        "status": "Won"
-    },
-    {
         "date": "13.04.2026 15:30",
         "league": "LET",
         "matchCode": "4446661",
@@ -157512,21 +157482,6 @@
         "odds": "1.22",
         "matchCount": "12",
         "matchLink": "4457468",
-        "status": "Won"
-    },
-    {
-        "date": "27.04.2026 14:00",
-        "league": "MSR",
-        "matchCode": "4454506",
-        "home": "Smouha SC",
-        "away": "Al Masry",
-        "firstHalf": "0 - 1",
-        "finalScore": "0 - 1",
-        "prediction": "Double Chance X2",
-        "ihtimal": "91.67",
-        "odds": "1.15",
-        "matchCount": "12",
-        "matchLink": "4454506",
         "status": "Won"
     },
     {
@@ -190882,21 +190837,6 @@
         "away": "Haras El Hodood",
         "firstHalf": "0 - 1",
         "finalScore": "0 - 2",
-        "prediction": "Double Chance 12",
-        "ihtimal": "70.0",
-        "odds": "1.15",
-        "matchCount": "50",
-        "matchLink": "4454592",
-        "status": "Won"
-    },
-    {
-        "date": "18.05.2026 14:00",
-        "league": "MSR",
-        "matchCode": "4454592",
-        "home": "Kahraba Ismailia",
-        "away": "Haras El Hodood",
-        "firstHalf": "0 - 1",
-        "finalScore": "0 - 2",
         "prediction": "Over 1.5 Goals",
         "ihtimal": "70.0",
         "odds": "1.21",
@@ -190917,21 +190857,6 @@
         "odds": "1.15",
         "matchCount": "67",
         "matchLink": "4448818",
-        "status": "Won"
-    },
-    {
-        "date": "18.05.2026 14:00",
-        "league": "MSR",
-        "matchCode": "4454591",
-        "home": "El Geish",
-        "away": "Pharco FC",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Under 2.5 Goals",
-        "ihtimal": "100.0",
-        "odds": "1.15",
-        "matchCount": "2",
-        "matchLink": "4454591",
         "status": "Won"
     },
     {
@@ -288830,14 +288755,14 @@
         "matchCode": "4538675",
         "home": "Al Wahda",
         "away": "Al Akhdoud",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 1",
+        "finalScore": "4 - 2",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "84.21",
         "odds": "1.09",
         "matchCount": "38",
         "matchLink": "4538675",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "14.09.2026 14:00",
@@ -288845,29 +288770,14 @@
         "matchCode": "4537846",
         "home": "El Geish",
         "away": "Smouha SC",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "100.0",
-        "odds": "1.15",
-        "matchCount": "2",
-        "matchLink": "4537846",
-        "status": "Pending"
-    },
-    {
-        "date": "14.09.2026 14:00",
-        "league": "MSR",
-        "matchCode": "4537846",
-        "home": "El Geish",
-        "away": "Smouha SC",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 1",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "100.0",
         "odds": "1.06",
         "matchCount": "2",
         "matchLink": "4537846",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "14.09.2026 16:30",
@@ -289377,6 +289287,36 @@
         "odds": "1.06",
         "matchCount": "5",
         "matchLink": "4423297",
+        "status": "Pending"
+    },
+    {
+        "date": "14.09.2026 18:30",
+        "league": "İS2",
+        "matchCode": "4492726",
+        "home": "Celta Vigo B",
+        "away": "Eibar",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.18",
+        "matchCount": "2",
+        "matchLink": "4492726",
+        "status": "Pending"
+    },
+    {
+        "date": "15.09.2026 00:00",
+        "league": " MEKKA",
+        "matchCode": "4560741",
+        "home": "Toluca Women",
+        "away": "Tijuana Women",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 1",
+        "ihtimal": "75.0",
+        "odds": "1.29",
+        "matchCount": "12",
+        "matchLink": "4560741",
         "status": "Pending"
     }
 ]
