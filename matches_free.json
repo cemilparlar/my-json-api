@@ -98475,6 +98475,21 @@
         "status": "Won"
     },
     {
+        "date": "22.03.2026 23:30",
+        "league": "VEN",
+        "matchCode": "4435740",
+        "home": "Monagas SC",
+        "away": "Caracas FC",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 1",
+        "prediction": "Handicap (1:0) 1",
+        "ihtimal": "81.92771084337349",
+        "odds": "1.25",
+        "matchCount": "83",
+        "matchLink": "4435740",
+        "status": "Won"
+    },
+    {
         "date": "23.03.2026 01:06",
         "league": "MEK",
         "matchCode": "4418327",
@@ -272130,6 +272145,21 @@
         "status": "Won"
     },
     {
+        "date": "30.08.2026 22:30",
+        "league": "VEN",
+        "matchCode": "4514349",
+        "home": "Portuguesa FC",
+        "away": "Metropolitanos FC",
+        "firstHalf": "1 - 1",
+        "finalScore": "2 - 2",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "71.43",
+        "odds": "1.25",
+        "matchCount": "14",
+        "matchLink": "4514349",
+        "status": "Won"
+    },
+    {
         "date": "30.08.2026 23:00",
         "league": "GUAT",
         "matchCode": "4490374",
@@ -277212,6 +277242,21 @@
         "odds": "1.09",
         "matchCount": "36",
         "matchLink": "4444110",
+        "status": "Won"
+    },
+    {
+        "date": "03.09.2026 22:00",
+        "league": "VEN",
+        "matchCode": "4514355",
+        "home": "Estudiantes Fc",
+        "away": "Universidad Central de Venezuela",
+        "firstHalf": "1 - 1",
+        "finalScore": "1 - 1",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "76.92",
+        "odds": "1.25",
+        "matchCount": "39",
+        "matchLink": "4514355",
         "status": "Won"
     },
     {
@@ -290311,21 +290356,6 @@
     },
     {
         "date": "16.09.2026 17:00",
-        "league": " BOTS",
-        "matchCode": "4552555",
-        "home": "Centre Chiefs",
-        "away": "Tonota",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "100.0",
-        "odds": "1.07",
-        "matchCount": "5",
-        "matchLink": "4552555",
-        "status": "Pending"
-    },
-    {
-        "date": "16.09.2026 17:00",
         "league": "DAK",
         "matchCode": "4547814",
         "home": "Vendsyssel",
@@ -290630,14 +290660,14 @@
         "matchCode": "4514378",
         "home": "Portuguesa FC",
         "away": "Estudiantes Fc",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "2 - 0",
+        "finalScore": "2 - 1",
         "prediction": "1st Half Over 0.5",
         "ihtimal": "84.0",
         "odds": "1.25",
         "matchCount": "25",
         "matchLink": "4514378",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "16.09.2026 22:00",
@@ -290650,6 +290680,21 @@
         "prediction": "Double Chance 1X",
         "ihtimal": "80.46",
         "odds": "1.15",
+        "matchCount": "87",
+        "matchLink": "4514375",
+        "status": "Pending"
+    },
+    {
+        "date": "16.09.2026 22:00",
+        "league": "VEN",
+        "matchCode": "4514375",
+        "home": "Monagas SC",
+        "away": "Zamora FC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "70.11",
+        "odds": "1.25",
         "matchCount": "87",
         "matchLink": "4514375",
         "status": "Pending"
