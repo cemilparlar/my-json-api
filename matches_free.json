@@ -290983,5 +290983,50 @@
         "matchCount": "87",
         "matchLink": "4514375",
         "status": "Pending"
+    },
+    {
+        "date": "16.09.2026 17:00",
+        "league": "İSV",
+        "matchCode": "4482403",
+        "home": "FC Thun",
+        "away": "Servette FC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "85.71428571428571",
+        "odds": "1.08",
+        "matchCount": "7",
+        "matchLink": "4482403",
+        "status": "Pending"
+    },
+    {
+        "date": "16.09.2026 22:30",
+        "league": "BR1",
+        "matchCode": "4423230",
+        "home": "Botafogo de Futebol e Regatas",
+        "away": "Gremio FBPA",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (1:0) 1",
+        "ihtimal": "85.71428571428571",
+        "odds": "1.05",
+        "matchCount": "7",
+        "matchLink": "4423230",
+        "status": "Pending"
+    },
+    {
+        "date": "16.09.2026 22:30",
+        "league": "BR1",
+        "matchCode": "4423230",
+        "home": "Botafogo de Futebol e Regatas",
+        "away": "Gremio FBPA",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "100.0",
+        "odds": "1.17",
+        "matchCount": "7",
+        "matchLink": "4423230",
+        "status": "Pending"
     }
 ]
