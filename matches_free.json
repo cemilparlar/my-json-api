@@ -200432,6 +200432,21 @@
     {
         "date": "27.05.2026 22:00",
         "league": "CSA",
+        "matchCode": "4460419",
+        "home": "Club Olimpia",
+        "away": "Audax Italiano",
+        "firstHalf": "0 - 0",
+        "finalScore": "3 - 1",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "83.58",
+        "odds": "1.08",
+        "matchCount": "67",
+        "matchLink": "4460419",
+        "status": "Won"
+    },
+    {
+        "date": "27.05.2026 22:00",
+        "league": "CSA",
         "matchCode": "4460420",
         "home": "Club de Regatas Vasco da Gama",
         "away": "Barracas Central",
@@ -200442,6 +200457,21 @@
         "odds": "1.07",
         "matchCount": "17",
         "matchLink": "4460420",
+        "status": "Won"
+    },
+    {
+        "date": "27.05.2026 22:00",
+        "league": "CSA",
+        "matchCode": "4460360",
+        "home": "Cienciano",
+        "away": "Juventud Dl Pie",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 1",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "70.0",
+        "odds": "1.08",
+        "matchCount": "20",
+        "matchLink": "4460360",
         "status": "Won"
     },
     {
@@ -247635,6 +247665,21 @@
         "status": "Won"
     },
     {
+        "date": "13.08.2026 22:00",
+        "league": "CSA",
+        "matchCode": "4522504",
+        "home": "Club de Regatas Vasco da Gama",
+        "away": "Club Olimpia",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "Both Teams to Score - No",
+        "ihtimal": "80.0",
+        "odds": "1.47",
+        "matchCount": "5",
+        "matchLink": "4522504",
+        "status": "Won"
+    },
+    {
         "date": "13.08.2026 18:45",
         "league": "AVL",
         "matchCode": "4511737",
@@ -255000,6 +255045,21 @@
         "status": "Won"
     },
     {
+        "date": "19.08.2026 22:00",
+        "league": "LKU",
+        "matchCode": "4510386",
+        "home": "Club Cerro Porteno",
+        "away": "SE Palmeiras",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 1",
+        "prediction": "Both Teams to Score - No",
+        "ihtimal": "100.0",
+        "odds": "1.47",
+        "matchCount": "1",
+        "matchLink": "4510386",
+        "status": "Won"
+    },
+    {
         "date": "19.08.2026 22:30",
         "league": " BR2",
         "matchCode": "4453913",
@@ -256210,6 +256270,21 @@
         "prediction": "Handicap (0:2) 2",
         "ihtimal": "100.0",
         "odds": "1.27",
+        "matchCount": "1",
+        "matchLink": "4510388",
+        "status": "Won"
+    },
+    {
+        "date": "20.08.2026 22:00",
+        "league": "LKU",
+        "matchCode": "4510388",
+        "home": "LDU Quito",
+        "away": "Mirassol FC",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "Both Teams to Score - No",
+        "ihtimal": "100.0",
+        "odds": "1.47",
         "matchCount": "1",
         "matchLink": "4510388",
         "status": "Won"
@@ -289715,14 +289790,14 @@
         "matchCode": "4453960",
         "home": "Londrina",
         "away": "Ponte Preta",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "3 - 0",
+        "finalScore": "6 - 0",
         "prediction": "Match Result 1",
         "ihtimal": "100.0",
         "odds": "1.16",
         "matchCount": "12",
         "matchLink": "4453960",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "15.09.2026 22:30",
@@ -289730,14 +289805,14 @@
         "matchCode": "4453960",
         "home": "Londrina",
         "away": "Ponte Preta",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "3 - 0",
+        "finalScore": "6 - 0",
         "prediction": "Over 1.5 Goals",
         "ihtimal": "75.0",
         "odds": "1.08",
         "matchCount": "12",
         "matchLink": "4453960",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "15.09.2026 22:30",
@@ -289745,14 +289820,14 @@
         "matchCode": "4453960",
         "home": "Londrina",
         "away": "Ponte Preta",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "3 - 0",
+        "finalScore": "6 - 0",
         "prediction": "Both Teams to Score - No",
         "ihtimal": "75.0",
         "odds": "1.47",
         "matchCount": "12",
         "matchLink": "4453960",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "15.09.2026 22:30",
@@ -289760,14 +289835,14 @@
         "matchCode": "4453964",
         "home": "Nautico",
         "away": "Operario",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 1",
+        "finalScore": "3 - 3",
         "prediction": "Double Chance 1X",
         "ihtimal": "75.0",
         "odds": "1.08",
         "matchCount": "28",
         "matchLink": "4453964",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "16.09.2026 01:00",
