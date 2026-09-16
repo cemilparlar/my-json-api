@@ -265087,6 +265087,21 @@
         "away": "Umea Fc Akademi",
         "firstHalf": "0 - 0",
         "finalScore": "1 - 5",
+        "prediction": "Double Chance X2",
+        "ihtimal": "84.62",
+        "odds": "1.09",
+        "matchCount": "13",
+        "matchLink": "4513647",
+        "status": "Won"
+    },
+    {
+        "date": "26.08.2026 18:00",
+        "league": " İSÇD4",
+        "matchCode": "4513647",
+        "home": "Ifk Umea",
+        "away": "Umea Fc Akademi",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 5",
         "prediction": "1st Half Double Chance X2",
         "ihtimal": "76.92",
         "odds": "1.09",
@@ -290392,6 +290407,21 @@
         "away": "Gottne",
         "firstHalf": "0 - 0",
         "finalScore": "4 - 0",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "71.43",
+        "odds": "1.09",
+        "matchCount": "7",
+        "matchLink": "4513615",
+        "status": "Won"
+    },
+    {
+        "date": "16.09.2026 17:00",
+        "league": " İSÇD4",
+        "matchCode": "4513615",
+        "home": "Ifk Ostersund",
+        "away": "Gottne",
+        "firstHalf": "0 - 0",
+        "finalScore": "4 - 0",
         "prediction": "Double Chance 12",
         "ihtimal": "85.71",
         "odds": "1.09",
@@ -290405,14 +290435,14 @@
         "matchCode": "4506968",
         "home": "Chemnitzer FC",
         "away": "SV Babelsberg 03",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 1",
         "prediction": "Double Chance 12",
         "ihtimal": "100.0",
         "odds": "1.05",
         "matchCount": "9",
         "matchLink": "4506968",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "16.09.2026 17:00",
@@ -290442,6 +290472,21 @@
         "odds": "1.25",
         "matchCount": "7",
         "matchLink": "4563201",
+        "status": "Won"
+    },
+    {
+        "date": "16.09.2026 17:00",
+        "league": " İSÇD4",
+        "matchCode": "4513616",
+        "home": "Bodens",
+        "away": "Ifk Lulea",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "77.78",
+        "odds": "1.09",
+        "matchCount": "9",
+        "matchLink": "4513616",
         "status": "Won"
     },
     {
@@ -290495,14 +290540,14 @@
         "matchCode": "4547620",
         "home": "Kampala City Council FC",
         "away": "Kataka",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
         "prediction": "Double Chance 12",
         "ihtimal": "83.33",
         "odds": "1.11",
         "matchCount": "12",
         "matchLink": "4547620",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "16.09.2026 17:45",
@@ -291087,6 +291132,36 @@
         "odds": "1.31",
         "matchCount": "3",
         "matchLink": "4470927",
+        "status": "Pending"
+    },
+    {
+        "date": "17.09.2026 01:20",
+        "league": "KOL",
+        "matchCode": "4513961",
+        "home": "Inter Bogota",
+        "away": "Atletico Nacional",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance X2",
+        "ihtimal": "70.0",
+        "odds": "1.07",
+        "matchCount": "10",
+        "matchLink": "4513961",
+        "status": "Pending"
+    },
+    {
+        "date": "17.09.2026 01:30",
+        "league": " ABDK",
+        "matchCode": "4470926",
+        "home": "Colorado Rapids",
+        "away": "St. Louis City SC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (1:0) 1",
+        "ihtimal": "75.0",
+        "odds": "1.23",
+        "matchCount": "4",
+        "matchLink": "4470926",
         "status": "Pending"
     }
 ]
