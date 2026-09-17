@@ -121620,6 +121620,21 @@
         "status": "Won"
     },
     {
+        "date": "09.04.2026 14:00",
+        "league": "CZYR2",
+        "matchCode": "4459852",
+        "home": "Widad Amel",
+        "away": "JSM Tiaret",
+        "firstHalf": "1 - 0",
+        "finalScore": "3 - 0",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "77.56",
+        "odds": "1.09",
+        "matchCount": "156",
+        "matchLink": "4459852",
+        "status": "Won"
+    },
+    {
         "date": "09.04.2026 15:00",
         "league": "MSR",
         "matchCode": "4454535",
@@ -183237,6 +183252,21 @@
         "odds": "1.11",
         "matchCount": "14",
         "matchLink": "4442133",
+        "status": "Won"
+    },
+    {
+        "date": "14.05.2026 14:00",
+        "league": " İSÇ3",
+        "matchCode": "4459608",
+        "home": "Trelleborgs FF",
+        "away": "Jonkopings",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 1",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "79.22",
+        "odds": "1.09",
+        "matchCount": "77",
+        "matchLink": "4459608",
         "status": "Won"
     },
     {
@@ -290885,14 +290915,14 @@
         "matchCode": "4538036",
         "home": "Ismaily SC",
         "away": "Haras El Hodood",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 2",
         "prediction": "Double Chance X2",
         "ihtimal": "80.0",
         "odds": "1.19",
         "matchCount": "10",
         "matchLink": "4538036",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "17.09.2026 13:30",
@@ -290915,14 +290945,29 @@
         "matchCode": "4537847",
         "home": "Zed",
         "away": "Al Qanah",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "2 - 1",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "85.71",
+        "odds": "1.09",
+        "matchCount": "7",
+        "matchLink": "4537847",
+        "status": "Won"
+    },
+    {
+        "date": "17.09.2026 14:00",
+        "league": "MSR",
+        "matchCode": "4537847",
+        "home": "Zed",
+        "away": "Al Qanah",
+        "firstHalf": "0 - 0",
+        "finalScore": "2 - 1",
         "prediction": "1st Half Under 1.5",
         "ihtimal": "85.71",
         "odds": "1.09",
         "matchCount": "7",
         "matchLink": "4537847",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "17.09.2026 15:45",
