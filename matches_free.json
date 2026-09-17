@@ -3435,21 +3435,6 @@
         "status": "Won"
     },
     {
-        "date": "08.01.2026 13:00",
-        "league": "CZYR",
-        "matchCode": "4339723",
-        "home": "US El Bayadh",
-        "away": "Mostaganem",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "90.0",
-        "odds": "1.23",
-        "matchCount": "30",
-        "matchLink": "4339723",
-        "status": "Won"
-    },
-    {
         "date": "08.01.2026 14:10",
         "league": "UMM",
         "matchCode": "4414915",
@@ -105187,21 +105172,6 @@
         "away": "Newcastle Jets",
         "firstHalf": "2 - 2",
         "finalScore": "3 - 2",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "100.0",
-        "odds": "1.23",
-        "matchCount": "4",
-        "matchLink": "4378501",
-        "status": "Won"
-    },
-    {
-        "date": "02.04.2026 08:35",
-        "league": "AVUS",
-        "matchCode": "4378501",
-        "home": "Macarthur FC",
-        "away": "Newcastle Jets",
-        "firstHalf": "2 - 2",
-        "finalScore": "3 - 2",
         "prediction": "1st Half Over 0.5",
         "ihtimal": "100.0",
         "odds": "1.07",
@@ -183187,21 +183157,6 @@
         "away": "St. George SA",
         "firstHalf": "0 - 0",
         "finalScore": "0 - 0",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "100.0",
-        "odds": "1.23",
-        "matchCount": "2",
-        "matchLink": "4466485",
-        "status": "Won"
-    },
-    {
-        "date": "14.05.2026 13:00",
-        "league": "ETH",
-        "matchCode": "4466485",
-        "home": "Welayta Dicha",
-        "away": "St. George SA",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
         "prediction": "Both Teams to Score - No",
         "ihtimal": "100.0",
         "odds": "1.31",
@@ -191790,21 +191745,6 @@
         "status": "Won"
     },
     {
-        "date": "21.05.2026 14:30",
-        "league": " TNUSK",
-        "matchCode": "4470228",
-        "home": "Progres Sakiet Ezzit",
-        "away": "Jeunesse Sporti",
-        "firstHalf": "1 - 1",
-        "finalScore": "1 - 1",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "75.70093457943925",
-        "odds": "1.23",
-        "matchCount": "107",
-        "matchLink": "4470228",
-        "status": "Won"
-    },
-    {
         "date": "21.05.2026 16:00",
         "league": "BAH",
         "matchCode": "4470309",
@@ -192100,21 +192040,6 @@
         "prediction": "Handicap (0:1) 2",
         "ihtimal": "72.22222222222221",
         "odds": "1.27",
-        "matchCount": "18",
-        "matchLink": "4469851",
-        "status": "Won"
-    },
-    {
-        "date": "21.05.2026 19:00",
-        "league": "İKCL",
-        "matchCode": "4469851",
-        "home": "Partick Thistle",
-        "away": "St Mirren",
-        "firstHalf": "0 - 1",
-        "finalScore": "1 - 1",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "83.33333333333334",
-        "odds": "1.23",
         "matchCount": "18",
         "matchLink": "4469851",
         "status": "Won"
@@ -290760,34 +290685,19 @@
         "status": "Won"
     },
     {
-        "date": "17.09.2026 01:30",
-        "league": " ABDK",
-        "matchCode": "4470926",
-        "home": "Colorado Rapids",
-        "away": "St. Louis City SC",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "75.0",
-        "odds": "1.23",
-        "matchCount": "4",
-        "matchLink": "4470926",
-        "status": "Pending"
-    },
-    {
         "date": "17.09.2026 00:00",
         "league": " KASK",
         "matchCode": "4563255",
         "home": "Inter Miami CF",
         "away": "Cruz Azul",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 0",
         "prediction": "Handicap (1:0) 1",
         "ihtimal": "100.0",
         "odds": "1.12",
         "matchCount": "2",
         "matchLink": "4563255",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "17.09.2026 00:00",
@@ -290795,13 +290705,13 @@
         "matchCode": "4563255",
         "home": "Inter Miami CF",
         "away": "Cruz Azul",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 0",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "100.0",
         "odds": "1.11",
         "matchCount": "2",
         "matchLink": "4563255",
-        "status": "Pending"
+        "status": "Won"
     }
 ]
