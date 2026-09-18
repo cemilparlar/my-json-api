@@ -122077,6 +122077,21 @@
         "away": "FC Klubi 04",
         "firstHalf": "1 - 0",
         "finalScore": "1 - 0",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "78.38",
+        "odds": "1.08",
+        "matchCount": "37",
+        "matchLink": "4434982",
+        "status": "Won"
+    },
+    {
+        "date": "10.04.2026 15:30",
+        "league": " FİN2",
+        "matchCode": "4434982",
+        "home": "Japan A-League",
+        "away": "FC Klubi 04",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 0",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "75.68",
         "odds": "1.15",
@@ -221010,6 +221025,21 @@
         "status": "Won"
     },
     {
+        "date": "10.07.2026 15:30",
+        "league": " FİN2",
+        "matchCode": "4435040",
+        "home": "Kotka",
+        "away": "Japan A-League",
+        "firstHalf": "0 - 1",
+        "finalScore": "4 - 1",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "85.19",
+        "odds": "1.08",
+        "matchCount": "27",
+        "matchLink": "4435040",
+        "status": "Won"
+    },
+    {
         "date": "10.07.2026 16:00",
         "league": " FİN2",
         "matchCode": "4435041",
@@ -291555,6 +291585,21 @@
         "status": "Won"
     },
     {
+        "date": "18.09.2026 15:30",
+        "league": " FİN2",
+        "matchCode": "4435091",
+        "home": "Haka",
+        "away": "FC Klubi 04",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "92.31",
+        "odds": "1.08",
+        "matchCount": "13",
+        "matchLink": "4435091",
+        "status": "Won"
+    },
+    {
         "date": "18.09.2026 15:45",
         "league": "IRAK",
         "matchCode": "4540878",
@@ -292977,6 +293022,21 @@
         "odds": "1.09",
         "matchCount": "30",
         "matchLink": "4540570",
+        "status": "Pending"
+    },
+    {
+        "date": "18.09.2026 23:30",
+        "league": " BR2",
+        "matchCode": "4453971",
+        "home": "Ceara SC",
+        "away": "Novorizontino",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "77.78",
+        "odds": "1.14",
+        "matchCount": "36",
+        "matchLink": "4453971",
         "status": "Pending"
     }
 ]
