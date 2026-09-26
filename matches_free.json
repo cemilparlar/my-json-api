@@ -298940,14 +298940,14 @@
         "matchCode": "4435098",
         "home": "Ekenas If",
         "away": "Sjk Ii",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 1",
         "prediction": "1st Half Over 0.5",
         "ihtimal": "76.67",
         "odds": "1.08",
         "matchCount": "30",
         "matchLink": "4435098",
-        "status": "HATA"
+        "status": "Won"
     },
     {
         "date": "26.09.2026 12:00",
@@ -299000,14 +299000,14 @@
         "matchCode": "4566501",
         "home": "Vietnam",
         "away": "Philippines",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 0",
         "prediction": "Match Result 1",
         "ihtimal": "76.92",
         "odds": "1.22",
         "matchCount": "26",
         "matchLink": "4566501",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "26.09.2026 12:30",
@@ -299060,14 +299060,14 @@
         "matchCode": "4541240",
         "home": "Quick Boys",
         "away": "Hhc",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "2 - 0",
         "prediction": "Double Chance 12",
         "ihtimal": "81.82",
         "odds": "1.05",
         "matchCount": "44",
         "matchLink": "4541240",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "26.09.2026 13:00",
@@ -299075,14 +299075,14 @@
         "matchCode": "4435099",
         "home": "Jippo Joensuu",
         "away": "PK-35 Vantaa",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
         "prediction": "Under 3.5 Goals",
         "ihtimal": "77.57",
         "odds": "1.11",
         "matchCount": "214",
         "matchLink": "4435099",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "26.09.2026 13:00",
@@ -299090,14 +299090,14 @@
         "matchCode": "4435099",
         "home": "Jippo Joensuu",
         "away": "PK-35 Vantaa",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "72.43",
         "odds": "1.11",
         "matchCount": "214",
         "matchLink": "4435099",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "26.09.2026 13:00",
@@ -301002,6 +301002,36 @@
         "odds": "1.16",
         "matchCount": "23",
         "matchLink": "4565339",
+        "status": "Pending"
+    },
+    {
+        "date": "26.09.2026 21:00",
+        "league": "KOL",
+        "matchCode": "4513932",
+        "home": "Deportivo Pereira",
+        "away": "Inter Bogota",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "75.27",
+        "odds": "1.09",
+        "matchCount": "93",
+        "matchLink": "4513932",
+        "status": "Pending"
+    },
+    {
+        "date": "26.09.2026 21:00",
+        "league": "GUAT",
+        "matchCode": "4490402",
+        "home": "Deportivo Guastatoya",
+        "away": "Deportivo San P",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "76.0",
+        "odds": "1.09",
+        "matchCount": "25",
+        "matchLink": "4490402",
         "status": "Pending"
     }
 ]
