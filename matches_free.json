@@ -6467,21 +6467,6 @@
     {
         "date": "12.01.2026 19:30",
         "league": "İTC",
-        "matchCode": "4340692",
-        "home": "Giugliano Calcio",
-        "away": "AZ Picerno",
-        "firstHalf": "0 - 1",
-        "finalScore": "0 - 1",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "71.43",
-        "odds": "1.29",
-        "matchCount": "84",
-        "matchLink": "4340692",
-        "status": "Won"
-    },
-    {
-        "date": "12.01.2026 19:30",
-        "league": "İTC",
         "matchCode": "4340695",
         "home": "Salernitana",
         "away": "Cosenza Calcio",
@@ -13465,21 +13450,6 @@
         "prediction": "Under 3.5 Goals",
         "ihtimal": "78.57",
         "odds": "1.08",
-        "matchCount": "28",
-        "matchLink": "4340326",
-        "status": "Won"
-    },
-    {
-        "date": "18.01.2026 16:30",
-        "league": "İTC",
-        "matchCode": "4340326",
-        "home": "Pontedera",
-        "away": "Pineto Calcio",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "75.0",
-        "odds": "1.29",
         "matchCount": "28",
         "matchLink": "4340326",
         "status": "Won"
@@ -45286,21 +45256,6 @@
     },
     {
         "date": "15.02.2026 16:30",
-        "league": "İTC",
-        "matchCode": "4340373",
-        "home": "AC Perugia",
-        "away": "Athletic Carpi",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "71.43",
-        "odds": "1.29",
-        "matchCount": "49",
-        "matchLink": "4340373",
-        "status": "Won"
-    },
-    {
-        "date": "15.02.2026 16:30",
         "league": "AL1",
         "matchCode": "4306448",
         "home": "RB Leipzig",
@@ -46285,21 +46240,6 @@
         "prediction": "Over 1.5 Goals",
         "ihtimal": "75.29",
         "odds": "1.20",
-        "matchCount": "170",
-        "matchLink": "4339994",
-        "status": "Won"
-    },
-    {
-        "date": "16.02.2026 19:30",
-        "league": "İTC",
-        "matchCode": "4339994",
-        "home": "US Ospitaletto",
-        "away": "Inter Milan",
-        "firstHalf": "1 - 1",
-        "finalScore": "2 - 2",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "70.0",
-        "odds": "1.29",
         "matchCount": "170",
         "matchLink": "4339994",
         "status": "Won"
@@ -67272,6 +67212,21 @@
         "odds": "1.35",
         "matchCount": "14",
         "matchLink": "4321498",
+        "status": "Won"
+    },
+    {
+        "date": "07.03.2026 13:30",
+        "league": "İTC",
+        "matchCode": "4340034",
+        "home": "Giana Erminio",
+        "away": "LR Vicenza",
+        "firstHalf": "0 - 1",
+        "finalScore": "1 - 3",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "80.0",
+        "odds": "1.31",
+        "matchCount": "5",
+        "matchLink": "4340034",
         "status": "Won"
     },
     {
@@ -111046,17 +111001,17 @@
     },
     {
         "date": "04.04.2026 12:30",
-        "league": "İTC",
-        "matchCode": "4340840",
-        "home": "Monopoli",
-        "away": "Trapani Calcio",
-        "firstHalf": "0 - 1",
-        "finalScore": "1 - 1",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "79.49",
-        "odds": "1.06",
-        "matchCount": "39",
-        "matchLink": "4340840",
+        "league": "HOLTW",
+        "matchCode": "4344436",
+        "home": "Hoek",
+        "away": "VV Katwijk",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "Double Chance 12",
+        "ihtimal": "77.94",
+        "odds": "1.09",
+        "matchCount": "68",
+        "matchLink": "4344436",
         "status": "Won"
     },
     {
@@ -116097,21 +116052,6 @@
         "odds": "1.11",
         "matchCount": "95",
         "matchLink": "4316572",
-        "status": "Won"
-    },
-    {
-        "date": "06.04.2026 10:30",
-        "league": "İTC",
-        "matchCode": "4340839",
-        "home": "Sorrento Calcio",
-        "away": "SS Altamura",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "71.05",
-        "odds": "1.29",
-        "matchCount": "76",
-        "matchLink": "4340839",
         "status": "Won"
     },
     {
@@ -125011,6 +124951,21 @@
     },
     {
         "date": "11.04.2026 12:30",
+        "league": "HOLTW",
+        "matchCode": "4344536",
+        "home": "RKAV Volendam",
+        "away": "IJsselmeervogels",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 2",
+        "prediction": "Double Chance 12",
+        "ihtimal": "87.5",
+        "odds": "1.09",
+        "matchCount": "24",
+        "matchLink": "4344536",
+        "status": "Won"
+    },
+    {
+        "date": "11.04.2026 12:30",
         "league": "DAN1",
         "matchCode": "4458265",
         "home": "Lyngby BK",
@@ -125067,6 +125022,21 @@
         "odds": "1.21",
         "matchCount": "39",
         "matchLink": "4290747",
+        "status": "Won"
+    },
+    {
+        "date": "11.04.2026 12:30",
+        "league": "HOLTW",
+        "matchCode": "4344533",
+        "home": "Hoek",
+        "away": "Kozakken Boys",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 2",
+        "prediction": "Double Chance 12",
+        "ihtimal": "73.89",
+        "odds": "1.09",
+        "matchCount": "157",
+        "matchLink": "4344533",
         "status": "Won"
     },
     {
@@ -150777,6 +150747,21 @@
         "odds": "1.39",
         "matchCount": "10",
         "matchLink": "4429100",
+        "status": "Won"
+    },
+    {
+        "date": "25.04.2026 12:30",
+        "league": "HOLTW",
+        "matchCode": "4344554",
+        "home": "RKAV Volendam",
+        "away": "Afc Amsterdamsc",
+        "firstHalf": "0 - 2",
+        "finalScore": "0 - 3",
+        "prediction": "Double Chance 12",
+        "ihtimal": "70.0",
+        "odds": "1.09",
+        "matchCount": "70",
+        "matchLink": "4344554",
         "status": "Won"
     },
     {
@@ -205951,6 +205936,21 @@
     },
     {
         "date": "06.06.2026 12:00",
+        "league": "DAN2",
+        "matchCode": "4464491",
+        "home": "Brabrand",
+        "away": "Fremad Amager",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 2",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "71.67",
+        "odds": "1.23",
+        "matchCount": "60",
+        "matchLink": "4464491",
+        "status": "Won"
+    },
+    {
+        "date": "06.06.2026 12:00",
         "league": "DAN3",
         "matchCode": "4464514",
         "home": "Naesby",
@@ -238875,6 +238875,21 @@
         "status": "Won"
     },
     {
+        "date": "08.08.2026 11:30",
+        "league": "DAN2",
+        "matchCode": "4510780",
+        "home": "VSK Arhus",
+        "away": "Fremad Amager",
+        "firstHalf": "1 - 0",
+        "finalScore": "3 - 0",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "72.93",
+        "odds": "1.23",
+        "matchCount": "229",
+        "matchLink": "4510780",
+        "status": "Won"
+    },
+    {
         "date": "08.08.2026 11:35",
         "league": "ÇİNSL",
         "matchCode": "4446983",
@@ -239367,6 +239382,21 @@
         "odds": "1.24",
         "matchCount": "12",
         "matchLink": "4450635",
+        "status": "Won"
+    },
+    {
+        "date": "08.08.2026 13:00",
+        "league": "DAN2",
+        "matchCode": "4510782",
+        "home": "Thisted FC",
+        "away": "Fa 2000",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 1",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "70.0",
+        "odds": "1.23",
+        "matchCount": "120",
+        "matchLink": "4510782",
         "status": "Won"
     },
     {
@@ -289922,21 +289952,6 @@
     {
         "date": "16.09.2026 16:30",
         "league": "İTC",
-        "matchCode": "4535477",
-        "home": "Grosseto",
-        "away": "SS Campobasso",
-        "firstHalf": "2 - 0",
-        "finalScore": "2 - 2",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "72.5",
-        "odds": "1.29",
-        "matchCount": "40",
-        "matchLink": "4535477",
-        "status": "Won"
-    },
-    {
-        "date": "16.09.2026 16:30",
-        "league": "İTC",
         "matchCode": "4535478",
         "home": "Latina Calcio",
         "away": "Monterosi Tuscia",
@@ -291015,6 +291030,21 @@
         "status": "Won"
     },
     {
+        "date": "17.09.2026 16:30",
+        "league": "İTC",
+        "matchCode": "4535097",
+        "home": "AlbinoLeffe",
+        "away": "Union Arzignano",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 2",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "81.48",
+        "odds": "1.31",
+        "matchCount": "27",
+        "matchLink": "4535097",
+        "status": "Won"
+    },
+    {
         "date": "17.09.2026 17:00",
         "league": "MSR",
         "matchCode": "4537854",
@@ -291117,21 +291147,6 @@
         "odds": "1.28",
         "matchCount": "58",
         "matchLink": "4535106",
-        "status": "Won"
-    },
-    {
-        "date": "17.09.2026 19:00",
-        "league": "İTC",
-        "matchCode": "4535103",
-        "home": "Athletic Carpi",
-        "away": "US Ospitaletto",
-        "firstHalf": "2 - 1",
-        "finalScore": "2 - 2",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "87.1",
-        "odds": "1.29",
-        "matchCount": "31",
-        "matchLink": "4535103",
         "status": "Won"
     },
     {
@@ -298995,6 +299010,21 @@
         "status": "Won"
     },
     {
+        "date": "26.09.2026 11:30",
+        "league": "DAN2",
+        "matchCode": "4510821",
+        "home": "VSK Arhus",
+        "away": "Skive IK",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "75.0",
+        "odds": "1.23",
+        "matchCount": "136",
+        "matchLink": "4510821",
+        "status": "Won"
+    },
+    {
         "date": "26.09.2026 12:00",
         "league": " İSÇ4",
         "matchCode": "4459094",
@@ -299067,7 +299097,7 @@
         "odds": "1.07",
         "matchCount": "30",
         "matchLink": "4435098",
-        "status": "Pending"
+        "status": "HATA"
     },
     {
         "date": "26.09.2026 12:00",
@@ -299082,7 +299112,7 @@
         "odds": "1.07",
         "matchCount": "30",
         "matchLink": "4435098",
-        "status": "Pending"
+        "status": "HATA"
     },
     {
         "date": "26.09.2026 12:00",
@@ -299097,7 +299127,7 @@
         "odds": "1.08",
         "matchCount": "30",
         "matchLink": "4435098",
-        "status": "Pending"
+        "status": "HATA"
     },
     {
         "date": "26.09.2026 12:00",
@@ -299112,22 +299142,22 @@
         "odds": "1.07",
         "matchCount": "1",
         "matchLink": "4429216",
-        "status": "Pending"
+        "status": "HATA"
     },
     {
-        "date": "26.09.2026 12:30",
-        "league": "İTC",
-        "matchCode": "4535119",
-        "home": "US Pergolettese",
-        "away": "Trento Calcio",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "75.76",
-        "odds": "1.29",
-        "matchCount": "33",
-        "matchLink": "4535119",
-        "status": "Pending"
+        "date": "26.09.2026 12:00",
+        "league": "DAN2",
+        "matchCode": "4510822",
+        "home": "Fa 2000",
+        "away": "Fremad Amager",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 2",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "75.34",
+        "odds": "1.23",
+        "matchCount": "73",
+        "matchLink": "4510822",
+        "status": "Won"
     },
     {
         "date": "26.09.2026 12:30",
@@ -299135,14 +299165,14 @@
         "matchCode": "4510956",
         "home": "Holstebro",
         "away": "Ishoj IF",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 3",
         "prediction": "Double Chance 12",
         "ihtimal": "81.33",
         "odds": "1.11",
         "matchCount": "75",
         "matchLink": "4510956",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "26.09.2026 12:30",
@@ -299161,18 +299191,18 @@
     },
     {
         "date": "26.09.2026 12:30",
-        "league": "İTC",
-        "matchCode": "4535498",
-        "home": "Sassari Torres",
-        "away": "F.C. Vado",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "78.33",
-        "odds": "1.06",
-        "matchCount": "60",
-        "matchLink": "4535498",
-        "status": "Pending"
+        "league": "HOLTW",
+        "matchCode": "4541235",
+        "home": "GVVV",
+        "away": "RKAV Volendam",
+        "firstHalf": "2 - 0",
+        "finalScore": "3 - 2",
+        "prediction": "Double Chance 12",
+        "ihtimal": "75.68",
+        "odds": "1.09",
+        "matchCount": "37",
+        "matchLink": "4541235",
+        "status": "Won"
     },
     {
         "date": "26.09.2026 12:30",
@@ -299180,14 +299210,14 @@
         "matchCode": "4535497",
         "home": "Pineto Calcio",
         "away": "Grosseto",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "74.68",
-        "odds": "1.06",
+        "firstHalf": "0 - 3",
+        "finalScore": "0 - 4",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "70.25",
+        "odds": "1.31",
         "matchCount": "158",
         "matchLink": "4535497",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "26.09.2026 12:00",
@@ -299195,14 +299225,14 @@
         "matchCode": "4429764",
         "home": "Askoy",
         "away": "Brann Ii",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 2",
+        "finalScore": "1 - 4",
         "prediction": "Over 2.5 Goals",
         "ihtimal": "100.0",
         "odds": "1.09",
         "matchCount": "3",
         "matchLink": "4429764",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "26.09.2026 13:00",
