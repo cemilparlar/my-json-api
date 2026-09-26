@@ -5820,6 +5820,21 @@
         "status": "Won"
     },
     {
+        "date": "10.01.2026 16:00",
+        "league": "AFUK",
+        "matchCode": "4420437",
+        "home": "Algeria",
+        "away": "Nigeria",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 2",
+        "prediction": "Handicap (0:1) 2",
+        "ihtimal": "100.0",
+        "odds": "1.17",
+        "matchCount": "2",
+        "matchLink": "4420437",
+        "status": "Won"
+    },
+    {
         "date": "10.01.2026 18:30",
         "league": "İTB",
         "matchCode": "4331401",
@@ -297585,6 +297600,36 @@
         "status": "Won"
     },
     {
+        "date": "24.09.2026 13:00",
+        "league": "AFUK",
+        "matchCode": "4566129",
+        "home": "Namibia",
+        "away": "Congo",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "71.03",
+        "odds": "1.17",
+        "matchCount": "145",
+        "matchLink": "4566129",
+        "status": "Won"
+    },
+    {
+        "date": "24.09.2026 16:00",
+        "league": "AFUK",
+        "matchCode": "4566113",
+        "home": "Demokratik Kon",
+        "away": "Equatorial Guinea",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.17",
+        "matchCount": "3",
+        "matchLink": "4566113",
+        "status": "Won"
+    },
+    {
         "date": "24.09.2026 14:00",
         "league": "HU19",
         "matchCode": "4566523",
@@ -297852,6 +297897,21 @@
         "odds": "1.20",
         "matchCount": "11",
         "matchLink": "4561251",
+        "status": "Won"
+    },
+    {
+        "date": "25.09.2026 13:00",
+        "league": "AFUK",
+        "matchCode": "4566121",
+        "home": "Mozambique",
+        "away": "Senegal",
+        "firstHalf": "1 - 1",
+        "finalScore": "1 - 1",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.17",
+        "matchCount": "1",
+        "matchLink": "4566121",
         "status": "Won"
     },
     {
@@ -299187,6 +299247,21 @@
         "odds": "1.20",
         "matchCount": "7",
         "matchLink": "4429039",
+        "status": "Won"
+    },
+    {
+        "date": "26.09.2026 13:00",
+        "league": "AFUK",
+        "matchCode": "4566110",
+        "home": "Guney Afrika",
+        "away": "Guinea",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 1",
+        "prediction": "Double Chance 12",
+        "ihtimal": "75.0",
+        "odds": "1.17",
+        "matchCount": "36",
+        "matchLink": "4566110",
         "status": "Won"
     },
     {
@@ -301197,6 +301272,21 @@
         "odds": "1.20",
         "matchCount": "93",
         "matchLink": "4453982",
+        "status": "Pending"
+    },
+    {
+        "date": "26.09.2026 22:00",
+        "league": "USL1",
+        "matchCode": "4419352",
+        "home": "Forward Madiso",
+        "away": "Spokane Velocit",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "79.8",
+        "odds": "1.12",
+        "matchCount": "99",
+        "matchLink": "4419352",
         "status": "Pending"
     }
 ]
