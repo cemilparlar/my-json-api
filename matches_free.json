@@ -309961,21 +309961,6 @@
     },
     {
         "date": "03.10.2026 18:00",
-        "league": " ARJPC",
-        "matchCode": "4473849",
-        "home": "Paraguayo",
-        "away": "Club Mercedes",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Both Teams to Score - No",
-        "ihtimal": "80.0",
-        "odds": "1.39",
-        "matchCount": "5",
-        "matchLink": "4473849",
-        "status": "Pending"
-    },
-    {
-        "date": "03.10.2026 18:00",
         "league": "HOL2",
         "matchCode": "4481877",
         "home": "RKC Waalwijk",
@@ -310310,14 +310295,14 @@
         "matchCode": "4537193",
         "home": "Sint Maarten",
         "away": "Saint Vincent V",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 3",
+        "finalScore": "2 - 4",
         "prediction": "Over 1.5 Goals",
         "ihtimal": "82.76",
         "odds": "1.14",
         "matchCount": "29",
         "matchLink": "4537193",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "03.10.2026 21:00",
@@ -310797,6 +310782,21 @@
         "odds": "1.14",
         "matchCount": "135",
         "matchLink": "4536384",
+        "status": "Pending"
+    },
+    {
+        "date": "04.10.2026 05:00",
+        "league": " JAP3",
+        "matchCode": "4487972",
+        "home": "Kamatamare Sanuki",
+        "away": "Tochigi SC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "73.08",
+        "odds": "1.12",
+        "matchCount": "52",
+        "matchLink": "4487972",
         "status": "Pending"
     }
 ]
