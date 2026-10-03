@@ -310025,14 +310025,14 @@
         "matchCode": "4441219",
         "home": "Colon Santa Fe",
         "away": "Caseros",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
         "prediction": "1st Half Double Chance X2",
         "ihtimal": "80.95",
         "odds": "1.22",
         "matchCount": "21",
         "matchLink": "4441219",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "03.10.2026 18:00",
@@ -310040,14 +310040,14 @@
         "matchCode": "4419047",
         "home": "Dock Sud",
         "away": "Armenio",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 2",
+        "finalScore": "0 - 3",
         "prediction": "1st Half Double Chance X2",
         "ihtimal": "76.52",
         "odds": "1.10",
         "matchCount": "115",
         "matchLink": "4419047",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "03.10.2026 18:00",
@@ -310962,6 +310962,21 @@
         "odds": "1.26",
         "matchCount": "1",
         "matchLink": "4475868",
+        "status": "Pending"
+    },
+    {
+        "date": "04.10.2026 02:00",
+        "league": "USLP",
+        "matchCode": "4449954",
+        "home": "Orange County SC",
+        "away": "Monterey Bay FC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "82.54",
+        "odds": "1.06",
+        "matchCount": "126",
+        "matchLink": "4449954",
         "status": "Pending"
     }
 ]
