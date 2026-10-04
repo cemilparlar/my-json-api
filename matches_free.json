@@ -219031,6 +219031,21 @@
     },
     {
         "date": "04.07.2026 23:00",
+        "league": " KAPL",
+        "matchCode": "4460140",
+        "home": "Vancouver Fc",
+        "away": "Inter Toronto",
+        "firstHalf": "4 - 0",
+        "finalScore": "4 - 0",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "76.84",
+        "odds": "1.08",
+        "matchCount": "95",
+        "matchLink": "4460140",
+        "status": "Won"
+    },
+    {
+        "date": "04.07.2026 23:00",
         "league": "USL1",
         "matchCode": "4419230",
         "home": "New York Cosmo",
@@ -232092,6 +232107,21 @@
         "odds": "1.08",
         "matchCount": "91",
         "matchLink": "4449826",
+        "status": "Won"
+    },
+    {
+        "date": "01.08.2026 23:00",
+        "league": "KOSTA",
+        "matchCode": "4487046",
+        "home": "Puntarenas FC",
+        "away": "Sporting San Jo",
+        "firstHalf": "1 - 1",
+        "finalScore": "1 - 1",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "77.08",
+        "odds": "1.08",
+        "matchCount": "144",
+        "matchLink": "4487046",
         "status": "Won"
     },
     {
@@ -310520,14 +310550,14 @@
         "matchCode": "4449949",
         "home": "Lexington",
         "away": "El Paso Locomot",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 1",
+        "finalScore": "3 - 1",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "75.31",
         "odds": "1.08",
         "matchCount": "81",
         "matchLink": "4449949",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "03.10.2026 23:00",
@@ -310535,14 +310565,29 @@
         "matchCode": "4419361",
         "home": "Westchester SC",
         "away": "Alta",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "2 - 0",
+        "finalScore": "2 - 1",
         "prediction": "Double Chance 12",
         "ihtimal": "87.18",
         "odds": "1.09",
         "matchCount": "39",
         "matchLink": "4419361",
-        "status": "Pending"
+        "status": "Won"
+    },
+    {
+        "date": "03.10.2026 23:00",
+        "league": "USL1",
+        "matchCode": "4419361",
+        "home": "Westchester SC",
+        "away": "Alta",
+        "firstHalf": "2 - 0",
+        "finalScore": "2 - 1",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "87.18",
+        "odds": "1.08",
+        "matchCount": "39",
+        "matchLink": "4419361",
+        "status": "Won"
     },
     {
         "date": "03.10.2026 23:30",
