@@ -113625,6 +113625,21 @@
         "status": "Won"
     },
     {
+        "date": "04.04.2026 22:00",
+        "league": "ARJPBN",
+        "matchCode": "4440789",
+        "home": "Colon Santa Fe",
+        "away": "Club Deportivo San Miguel",
+        "firstHalf": "2 - 0",
+        "finalScore": "3 - 0",
+        "prediction": "Double Chance 12",
+        "ihtimal": "91.67",
+        "odds": "1.16",
+        "matchCount": "12",
+        "matchLink": "4440789",
+        "status": "Won"
+    },
+    {
         "date": "04.04.2026 23:00",
         "league": " KAPL",
         "matchCode": "4460097",
@@ -301426,6 +301441,21 @@
     },
     {
         "date": "26.09.2026 22:00",
+        "league": " KOLPB",
+        "matchCode": "4510203",
+        "home": "Centauros",
+        "away": "Patriotas",
+        "firstHalf": "3 - 0",
+        "finalScore": "4 - 1",
+        "prediction": "Double Chance 12",
+        "ihtimal": "76.92",
+        "odds": "1.16",
+        "matchCount": "130",
+        "matchLink": "4510203",
+        "status": "Won"
+    },
+    {
+        "date": "26.09.2026 22:00",
         "league": "USL1",
         "matchCode": "4419352",
         "home": "Forward Madiso",
@@ -301437,6 +301467,21 @@
         "odds": "1.12",
         "matchCount": "99",
         "matchLink": "4419352",
+        "status": "Won"
+    },
+    {
+        "date": "26.09.2026 22:30",
+        "league": " BRE3",
+        "matchCode": "4559522",
+        "home": "Inter De Limer",
+        "away": "Paysandu",
+        "firstHalf": "1 - 0",
+        "finalScore": "2 - 0",
+        "prediction": "Double Chance 12",
+        "ihtimal": "72.07",
+        "odds": "1.16",
+        "matchCount": "111",
+        "matchLink": "4559522",
         "status": "Won"
     },
     {
@@ -310310,14 +310355,14 @@
         "matchCode": "4419363",
         "home": "Richmond Kicke",
         "away": "One Knoxville SC",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "2 - 2",
+        "finalScore": "3 - 2",
         "prediction": "Double Chance 12",
         "ihtimal": "88.0",
         "odds": "1.09",
         "matchCount": "25",
         "matchLink": "4419363",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "03.10.2026 22:30",
@@ -310325,14 +310370,29 @@
         "matchCode": "4566860",
         "home": "Eastern Suburb",
         "away": "Auckland City",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "2 - 4",
         "prediction": "Double Chance 12",
         "ihtimal": "79.01",
         "odds": "1.14",
         "matchCount": "162",
         "matchLink": "4566860",
-        "status": "Pending"
+        "status": "Won"
+    },
+    {
+        "date": "03.10.2026 22:30",
+        "league": " BRE3",
+        "matchCode": "4559525",
+        "home": "Paysandu",
+        "away": "Ferroviaria",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 0",
+        "prediction": "Double Chance 12",
+        "ihtimal": "74.33",
+        "odds": "1.16",
+        "matchCount": "187",
+        "matchLink": "4559525",
+        "status": "Won"
     },
     {
         "date": "03.10.2026 22:00",
