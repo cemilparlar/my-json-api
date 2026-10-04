@@ -203521,21 +203521,6 @@
     },
     {
         "date": "31.05.2026 15:00",
-        "league": " NOR4",
-        "matchCode": "4430047",
-        "home": "Skjetten",
-        "away": "Fauske/Sprint",
-        "firstHalf": "2 - 0",
-        "finalScore": "2 - 3",
-        "prediction": "Both Teams to Score - Yes",
-        "ihtimal": "100.0",
-        "odds": "1.07",
-        "matchCount": "3",
-        "matchLink": "4430047",
-        "status": "Won"
-    },
-    {
-        "date": "31.05.2026 15:00",
         "league": " NOR1",
         "matchCode": "4428600",
         "home": "Raufoss",
@@ -211905,21 +211890,6 @@
         "status": "Won"
     },
     {
-        "date": "21.06.2026 10:30",
-        "league": " NOR4",
-        "matchCode": "4430056",
-        "home": "Tromso Ii",
-        "away": "Skedsmo",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 3",
-        "prediction": "Double Chance X2",
-        "ihtimal": "84.62",
-        "odds": "1.07",
-        "matchCount": "13",
-        "matchLink": "4430056",
-        "status": "Won"
-    },
-    {
         "date": "21.06.2026 11:00",
         "league": " NOR3",
         "matchCode": "4429147",
@@ -212037,36 +212007,6 @@
         "odds": "1.06",
         "matchCount": "50",
         "matchLink": "4426929",
-        "status": "Won"
-    },
-    {
-        "date": "21.06.2026 13:00",
-        "league": " NOR4",
-        "matchCode": "4430060",
-        "home": "Harstad",
-        "away": "Kongsvinger Ii",
-        "firstHalf": "2 - 0",
-        "finalScore": "6 - 1",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "77.78",
-        "odds": "1.07",
-        "matchCount": "9",
-        "matchLink": "4430060",
-        "status": "Won"
-    },
-    {
-        "date": "21.06.2026 13:00",
-        "league": " NOR4",
-        "matchCode": "4430060",
-        "home": "Harstad",
-        "away": "Kongsvinger Ii",
-        "firstHalf": "2 - 0",
-        "finalScore": "6 - 1",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "77.78",
-        "odds": "1.07",
-        "matchCount": "9",
-        "matchLink": "4430060",
         "status": "Won"
     },
     {
@@ -270750,21 +270690,6 @@
         "status": "Won"
     },
     {
-        "date": "30.08.2026 12:00",
-        "league": " NOR4",
-        "matchCode": "4429920",
-        "home": "Stabaek 2",
-        "away": "Staal Jorpeland",
-        "firstHalf": "0 - 0",
-        "finalScore": "2 - 1",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "100.0",
-        "odds": "1.07",
-        "matchCount": "1",
-        "matchLink": "4429920",
-        "status": "Won"
-    },
-    {
         "date": "30.08.2026 12:30",
         "league": "POL2",
         "matchCode": "4486476",
@@ -311071,33 +310996,18 @@
     },
     {
         "date": "04.10.2026 09:00",
-        "league": " NOR4",
-        "matchCode": "4430136",
-        "home": "Skjervoy",
-        "away": "Fauske/Sprint",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Both Teams to Score - Yes",
-        "ihtimal": "84.62",
-        "odds": "1.07",
-        "matchCount": "13",
-        "matchLink": "4430136",
-        "status": "Pending"
-    },
-    {
-        "date": "04.10.2026 09:00",
         "league": " FRU19",
         "matchCode": "4561894",
         "home": "Auxerre U19",
         "away": "Annecy U19",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
         "prediction": "Double Chance 1X",
         "ihtimal": "75.0",
         "odds": "1.18",
         "matchCount": "96",
         "matchLink": "4561894",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "04.10.2026 12:30",
@@ -311667,6 +311577,51 @@
         "odds": "1.08",
         "matchCount": "155",
         "matchLink": "4493194",
+        "status": "Pending"
+    },
+    {
+        "date": "04.10.2026 16:45",
+        "league": "İS3",
+        "matchCode": "4493572",
+        "home": "Algeciras CF",
+        "away": "Rayo Majadahond",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "78.57",
+        "odds": "1.09",
+        "matchCount": "182",
+        "matchLink": "4493572",
+        "status": "Pending"
+    },
+    {
+        "date": "04.10.2026 16:45",
+        "league": "İS3",
+        "matchCode": "4493572",
+        "home": "Algeciras CF",
+        "away": "Rayo Majadahond",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "82.97",
+        "odds": "1.05",
+        "matchCount": "182",
+        "matchLink": "4493572",
+        "status": "Pending"
+    },
+    {
+        "date": "04.10.2026 17:00",
+        "league": "İS4",
+        "matchCode": "4494857",
+        "home": "Lucena",
+        "away": "Atletico Paso",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "76.24",
+        "odds": "1.15",
+        "matchCount": "101",
+        "matchLink": "4494857",
         "status": "Pending"
     }
 ]
