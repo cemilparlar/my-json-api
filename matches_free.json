@@ -232891,6 +232891,21 @@
     },
     {
         "date": "02.08.2026 12:00",
+        "league": " İSÇ4",
+        "matchCode": "4459040",
+        "home": "Fittja",
+        "away": "Haninge",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 2",
+        "prediction": "Double Chance X2",
+        "ihtimal": "77.78",
+        "odds": "1.07",
+        "matchCount": "18",
+        "matchLink": "4459040",
+        "status": "Won"
+    },
+    {
+        "date": "02.08.2026 12:00",
         "league": " LET1",
         "matchCode": "4454933",
         "home": "Jfk Ventspils",
@@ -310985,14 +311000,14 @@
         "matchCode": "4492764",
         "home": "Real Sociedad",
         "away": "Granada CF",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "2 - 0",
+        "finalScore": "2 - 3",
         "prediction": "1st Half Over 0.5",
         "ihtimal": "100.0",
         "odds": "1.26",
         "matchCount": "1",
         "matchLink": "4492764",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "04.10.2026 12:00",
@@ -311000,14 +311015,14 @@
         "matchCode": "4458486",
         "home": "Ahlafors If",
         "away": "Motala Aif Fk",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "4 - 1",
+        "finalScore": "6 - 2",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "74.47",
         "odds": "1.07",
         "matchCount": "47",
         "matchLink": "4458486",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "04.10.2026 12:00",
@@ -311015,14 +311030,14 @@
         "matchCode": "4427213",
         "home": "Djurgarden Women",
         "away": "Aik Women",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "2 - 1",
         "prediction": "1st Half Double Chance X2",
         "ihtimal": "73.12",
         "odds": "1.10",
         "matchCount": "93",
         "matchLink": "4427213",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "04.10.2026 12:00",
@@ -311030,14 +311045,14 @@
         "matchCode": "4429228",
         "home": "Tromsdalen",
         "away": "Levanger",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "4 - 2",
         "prediction": "Double Chance 12",
         "ihtimal": "90.91",
         "odds": "1.06",
         "matchCount": "11",
         "matchLink": "4429228",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "04.10.2026 12:00",
@@ -311045,14 +311060,14 @@
         "matchCode": "4429228",
         "home": "Tromsdalen",
         "away": "Levanger",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "4 - 2",
         "prediction": "Both Teams to Score - Yes",
         "ihtimal": "72.73",
         "odds": "1.24",
         "matchCount": "11",
         "matchLink": "4429228",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "04.10.2026 09:00",
@@ -311622,6 +311637,36 @@
         "odds": "1.07",
         "matchCount": "51",
         "matchLink": "4529748",
+        "status": "Pending"
+    },
+    {
+        "date": "04.10.2026 16:30",
+        "league": "İS4",
+        "matchCode": "4494855",
+        "home": "Atletico Centr",
+        "away": "Linares Deportivo",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "78.91",
+        "odds": "1.09",
+        "matchCount": "147",
+        "matchLink": "4494855",
+        "status": "Pending"
+    },
+    {
+        "date": "04.10.2026 16:45",
+        "league": "İS3",
+        "matchCode": "4493194",
+        "home": "AD Merida",
+        "away": "Cacereno",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "74.84",
+        "odds": "1.08",
+        "matchCount": "155",
+        "matchLink": "4493194",
         "status": "Pending"
     }
 ]
