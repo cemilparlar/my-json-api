@@ -241846,21 +241846,6 @@
     },
     {
         "date": "09.08.2026 10:00",
-        "league": " JAP3",
-        "matchCode": "4487893",
-        "home": "Ehime FC",
-        "away": "Nara Club",
-        "firstHalf": "3 - 0",
-        "finalScore": "4 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "71.88",
-        "odds": "1.12",
-        "matchCount": "128",
-        "matchLink": "4487893",
-        "status": "Won"
-    },
-    {
-        "date": "09.08.2026 10:00",
         "league": "POR2",
         "matchCode": "4517264",
         "home": "SC Farense",
@@ -248292,6 +248277,21 @@
         "odds": "1.15",
         "matchCount": "67",
         "matchLink": "4505227",
+        "status": "Won"
+    },
+    {
+        "date": "15.08.2026 09:00",
+        "league": " JAP3",
+        "matchCode": "4487905",
+        "home": "Giravanz Kitakyushu",
+        "away": "Kamatamare Sanuki",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "82.24",
+        "odds": "1.08",
+        "matchCount": "152",
+        "matchLink": "4487905",
         "status": "Won"
     },
     {
@@ -290625,6 +290625,21 @@
         "status": "Won"
     },
     {
+        "date": "18.09.2026 10:00",
+        "league": " JAP3",
+        "matchCode": "4487952",
+        "home": "Cerezo Osaka",
+        "away": "Fukushima United FC",
+        "firstHalf": "2 - 0",
+        "finalScore": "4 - 1",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "74.42",
+        "odds": "1.08",
+        "matchCount": "43",
+        "matchLink": "4487952",
+        "status": "Won"
+    },
+    {
         "date": "18.09.2026 11:00",
         "league": " ÇİN2",
         "matchCode": "4452080",
@@ -298450,6 +298465,21 @@
         "prediction": "Double Chance 12",
         "ihtimal": "75.56",
         "odds": "1.12",
+        "matchCount": "45",
+        "matchLink": "4487963",
+        "status": "Won"
+    },
+    {
+        "date": "26.09.2026 08:00",
+        "league": " JAP3",
+        "matchCode": "4487963",
+        "home": "Kamatamare Sanuki",
+        "away": "FC Gifu",
+        "firstHalf": "2 - 3",
+        "finalScore": "3 - 4",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "80.0",
+        "odds": "1.08",
         "matchCount": "45",
         "matchLink": "4487963",
         "status": "Won"
@@ -307125,6 +307155,21 @@
         "status": "Won"
     },
     {
+        "date": "03.10.2026 06:00",
+        "league": " JAP3",
+        "matchCode": "4487973",
+        "home": "Ehime FC",
+        "away": "Thespa Kusatsu Gunma",
+        "firstHalf": "0 - 1",
+        "finalScore": "3 - 1",
+        "prediction": "Double Chance 12",
+        "ihtimal": "76.6",
+        "odds": "1.08",
+        "matchCount": "47",
+        "matchLink": "4487973",
+        "status": "Won"
+    },
+    {
         "date": "03.10.2026 07:00",
         "league": " JAP2",
         "matchCode": "4487592",
@@ -310445,14 +310490,14 @@
         "matchCode": "4487972",
         "home": "Kamatamare Sanuki",
         "away": "Tochigi SC",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "73.08",
-        "odds": "1.12",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 0",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "84.62",
+        "odds": "1.08",
         "matchCount": "52",
         "matchLink": "4487972",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "04.10.2026 06:00",
@@ -311022,6 +311067,36 @@
         "odds": "1.09",
         "matchCount": "6",
         "matchLink": "4429953",
+        "status": "Pending"
+    },
+    {
+        "date": "04.10.2026 13:00",
+        "league": " NOR3",
+        "matchCode": "4429042",
+        "home": "Sandviken",
+        "away": "Arendal",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "85.92",
+        "odds": "1.12",
+        "matchCount": "71",
+        "matchLink": "4429042",
+        "status": "Pending"
+    },
+    {
+        "date": "04.10.2026 13:00",
+        "league": "İNKPL",
+        "matchCode": "4550659",
+        "home": "Aston Villa (K",
+        "away": "Crystal Palace",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "76.71",
+        "odds": "1.06",
+        "matchCount": "73",
+        "matchLink": "4550659",
         "status": "Pending"
     }
 ]
