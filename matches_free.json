@@ -310955,14 +310955,14 @@
         "matchCode": "4505036",
         "home": "",
         "away": "Csepel Tc",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
         "prediction": "1st Half Double Chance X2",
         "ihtimal": "78.26",
         "odds": "1.16",
         "matchCount": "23",
         "matchLink": "4505036",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "04.10.2026 11:30",
@@ -310970,14 +310970,14 @@
         "matchCode": "4498152",
         "home": "Veles",
         "away": "FC Volga Ulyanovsk",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 2",
+        "finalScore": "1 - 2",
         "prediction": "1st Half Over 0.5",
         "ihtimal": "71.36",
         "odds": "1.30",
         "matchCount": "199",
         "matchLink": "4498152",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "04.10.2026 12:00",
@@ -311547,6 +311547,21 @@
         "odds": "1.13",
         "matchCount": "110",
         "matchLink": "4550663",
+        "status": "Pending"
+    },
+    {
+        "date": "04.10.2026 15:30",
+        "league": " İSTL",
+        "matchCode": "4532196",
+        "home": "Cdfc La Calzad",
+        "away": "Comillas",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "78.79",
+        "odds": "1.06",
+        "matchCount": "33",
+        "matchLink": "4532196",
         "status": "Pending"
     }
 ]
