@@ -310576,18 +310576,33 @@
     },
     {
         "date": "04.10.2026 02:00",
+        "league": "CON",
+        "matchCode": "4537192",
+        "home": "Belize",
+        "away": "Fransiz Guyanas",
+        "firstHalf": "0 - 0",
+        "finalScore": "0 - 2",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "75.0",
+        "odds": "1.09",
+        "matchCount": "56",
+        "matchLink": "4537192",
+        "status": "Won"
+    },
+    {
+        "date": "04.10.2026 02:00",
         "league": "USLP",
         "matchCode": "4449954",
         "home": "Orange County SC",
         "away": "Monterey Bay FC",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "1 - 0",
+        "finalScore": "1 - 2",
         "prediction": "Over 1.5 Goals",
         "ihtimal": "82.54",
         "odds": "1.06",
         "matchCount": "126",
         "matchLink": "4449954",
-        "status": "Pending"
+        "status": "Won"
     },
     {
         "date": "04.10.2026 02:30",
