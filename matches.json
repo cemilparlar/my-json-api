@@ -26263,30 +26263,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "28.10.2026 17:30",
-        "league": "İTA",
-        "matchCode": "4475127",
-        "home": "Parma Calcio",
-        "away": "Udinese",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance X2",
-        "ihtimal": "86.67",
-        "odds": "1.24",
-        "matchCount": "15",
-        "matchLink": "4475127",
-        "status": "Pending",
-        "predictedScore": "0-1",
-        "predictedScoreText": "5/15",
-        "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 70.37,
+        "patternText": "172.729/245.459",
+        "patternInfo": {
+            "m": 64,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 86.67
+        }
     },
     {
         "date": "28.10.2026 17:30",
@@ -26307,8 +26292,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.3,
+        "patternText": "123.137/180.281",
+        "patternInfo": {
+            "m": 56,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 90.91
+        }
     },
     {
         "date": "28.10.2026 17:30",
@@ -26329,8 +26321,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 70.03,
+        "patternText": "156.256/223.141",
+        "patternInfo": {
+            "m": 65,
+            "s": 6,
+            "f": 0,
+            "e": 85,
+            "b": 91.67
+        }
     },
     {
         "date": "28.10.2026 17:30",
@@ -26351,8 +26350,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 69.31,
+        "patternText": "136.313/196.681",
+        "patternInfo": {
+            "m": 59,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        }
     },
     {
         "date": "28.10.2026 17:30",
@@ -26373,30 +26379,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "28.10.2026 18:00",
-        "league": "İSÇ",
-        "matchCode": "4426797",
-        "home": "Degerfors IF",
-        "away": "Vasteras SK",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "80.77",
-        "odds": "1.17",
-        "matchCount": "26",
-        "matchLink": "4426797",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "5/26",
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 67.96,
+        "patternText": "207.286/305.021",
+        "patternInfo": {
+            "m": 60,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 85.71
+        }
     },
     {
         "date": "28.10.2026 18:00",
@@ -26414,11 +26405,18 @@
         "status": "Pending",
         "predictedScore": "2-1",
         "predictedScoreText": "5/26",
-        "mbs": 2,
+        "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 70.16,
+        "patternText": "278.091/396.392",
+        "patternInfo": {
+            "m": 62,
+            "s": 2,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "28.10.2026 18:00",
@@ -26436,11 +26434,18 @@
         "status": "Pending",
         "predictedScore": "2-1",
         "predictedScoreText": "5/26",
-        "mbs": 2,
+        "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 69.82,
+        "patternText": "232.373/332.824",
+        "patternInfo": {
+            "m": 58,
+            "s": 2,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "28.10.2026 18:00",
@@ -26458,10 +26463,17 @@
         "status": "Pending",
         "predictedScore": "2-1",
         "predictedScoreText": "5/26",
-        "mbs": 2,
+        "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.52,
+        "patternText": "210.445/307.115",
+        "patternInfo": {
+            "m": 58,
+            "s": 4,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     }
 ]
