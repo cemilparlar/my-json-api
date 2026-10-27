@@ -7654,5 +7654,34 @@
             "e": 85,
             "b": 100.0
         }
+    },
+    {
+        "date": "27.10.2026 16:00",
+        "league": "SLVN2",
+        "matchCode": "4483998",
+        "home": "Krka Novo Mest",
+        "away": "Dren Vrhnika",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "75.51",
+        "odds": "1.10",
+        "matchCount": "294",
+        "matchLink": "4483998",
+        "status": "Pending",
+        "predictedScore": "0-0",
+        "predictedScoreText": "34/294",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 69.79,
+        "patternText": "204.885/293.553",
+        "patternInfo": {
+            "m": 37,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 88.0
+        }
     }
 ]
