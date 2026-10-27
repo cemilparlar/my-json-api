@@ -9133,5 +9133,34 @@
             "e": 85,
             "b": 87.5
         }
+    },
+    {
+        "date": "29.10.2026 18:30",
+        "league": "DAK",
+        "matchCode": "4575926",
+        "home": "FC Midtjylland",
+        "away": "OB Odense",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 4.5 Goals",
+        "ihtimal": "86.54",
+        "odds": "1.08",
+        "matchCount": "52",
+        "matchLink": "4575926",
+        "status": "Pending",
+        "predictedScore": "3-1",
+        "predictedScoreText": "7/52",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 69.85,
+        "patternText": "122.853/175.873",
+        "patternInfo": {
+            "m": 52,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        }
     }
 ]
