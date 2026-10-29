@@ -5934,8 +5934,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 70.04,
+        "patternText": "257.330/367.422",
+        "patternInfo": {
+            "m": 65,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 91.67
+        }
     },
     {
         "date": "29.10.2026 18:00",
@@ -5956,8 +5963,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 69.0,
+        "patternText": "204.109/295.812",
+        "patternInfo": {
+            "m": 57,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 85.29
+        }
     },
     {
         "date": "29.10.2026 18:00",
@@ -5978,8 +5992,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.25,
+        "patternText": "193.017/282.817",
+        "patternInfo": {
+            "m": 42,
+            "s": 5,
+            "f": 0,
+            "e": 85,
+            "b": 89.47
+        }
     },
     {
         "date": "29.10.2026 18:00",
@@ -6000,8 +6021,15 @@
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 70.68,
+        "patternText": "168.089/237.826",
+        "patternInfo": {
+            "m": 60,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 87.5
+        }
     },
     {
         "date": "29.10.2026 18:00",
@@ -6022,8 +6050,15 @@
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 69.29,
+        "patternText": "228.008/329.075",
+        "patternInfo": {
+            "m": 65,
+            "s": 2,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "29.10.2026 18:00",
@@ -6044,8 +6079,15 @@
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.51,
+        "patternText": "216.433/315.893",
+        "patternInfo": {
+            "m": 64,
+            "s": 6,
+            "f": 0,
+            "e": 85,
+            "b": 91.67
+        }
     },
     {
         "date": "29.10.2026 18:00",
@@ -6066,8 +6108,15 @@
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.67,
+        "patternText": "206.182/300.255",
+        "patternInfo": {
+            "m": 59,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 85.29
+        }
     },
     {
         "date": "29.10.2026 18:30",
@@ -6088,11 +6137,11 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "29.10.2026 16:21",
-        "patternScore": 69.87,
-        "patternText": "123.175/176.289",
+        "patternScore": 69.7,
+        "patternText": "122.061/175.127",
         "patternInfo": {
             "m": 52,
-            "s": 2,
+            "s": 3,
             "f": 0,
             "e": 85,
             "b": 88.89
@@ -6117,8 +6166,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 67.71,
+        "patternText": "184.463/272.431",
+        "patternInfo": {
+            "m": 48,
+            "s": 6,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "29.10.2026 19:00",
@@ -6139,8 +6195,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 67.71,
+        "patternText": "182.083/268.905",
+        "patternInfo": {
+            "m": 43,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 85.71
+        }
     },
     {
         "date": "29.10.2026 19:00",
@@ -6161,30 +6224,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "29.10.2026 19:00",
-        "league": "HOK",
-        "matchCode": "4576746",
-        "home": "Purmersteijn",
-        "away": "Gemert",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "72.73",
-        "odds": "1.20",
-        "matchCount": "44",
-        "matchLink": "4576746",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.69,
+        "patternText": "112.484/163.756",
+        "patternInfo": {
+            "m": 47,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 88.57
+        }
     },
     {
         "date": "29.10.2026 19:00",
@@ -6205,8 +6253,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 71.25,
+        "patternText": "165.356/232.068",
+        "patternInfo": {
+            "m": 55,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 92.86
+        }
     },
     {
         "date": "29.10.2026 19:00",
@@ -6227,8 +6282,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 67.51,
+        "patternText": "178.832/264.912",
+        "patternInfo": {
+            "m": 44,
+            "s": 6,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "29.10.2026 19:00",
@@ -6249,7 +6311,14 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 67.94,
+        "patternText": "173.844/255.884",
+        "patternInfo": {
+            "m": 42,
+            "s": 5,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        }
     }
 ]
