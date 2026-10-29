@@ -5000,7 +5000,7 @@
         "odds": "1.22",
         "matchCount": "152",
         "matchLink": "4574166",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": "1-1",
         "predictedScoreText": "23/152",
         "mbs": 3,
@@ -5029,7 +5029,7 @@
         "odds": "1.36",
         "matchCount": "28",
         "matchLink": "4576742",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": "2-1",
         "predictedScoreText": "6/28",
         "mbs": 3,
@@ -5058,7 +5058,7 @@
         "odds": "1.21",
         "matchCount": "28",
         "matchLink": "4576742",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": "2-1",
         "predictedScoreText": "6/28",
         "mbs": 3,
@@ -5087,7 +5087,7 @@
         "odds": "1.08",
         "matchCount": "44",
         "matchLink": "4576746",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 3,
@@ -5116,7 +5116,7 @@
         "odds": "1.30",
         "matchCount": "44",
         "matchLink": "4576746",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 3,
@@ -5145,7 +5145,7 @@
         "odds": "1.30",
         "matchCount": "44",
         "matchLink": "4576746",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 3,
@@ -5290,7 +5290,7 @@
         "odds": "1.28",
         "matchCount": "8",
         "matchLink": "4574165",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": "1-2",
         "predictedScoreText": "3/8",
         "mbs": 3,
@@ -5319,7 +5319,7 @@
         "odds": "1.21",
         "matchCount": "5",
         "matchLink": "4574164",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": "1-2",
         "predictedScoreText": "2/5",
         "mbs": 3,
@@ -5348,7 +5348,7 @@
         "odds": "1.15",
         "matchCount": "3",
         "matchLink": "4576745",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 3,
@@ -5377,7 +5377,7 @@
         "odds": "1.08",
         "matchCount": "49",
         "matchLink": "4576744",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": "1-1",
         "predictedScoreText": "5/49",
         "mbs": 3,
@@ -5406,7 +5406,7 @@
         "odds": "1.11",
         "matchCount": "49",
         "matchLink": "4576744",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": "1-1",
         "predictedScoreText": "5/49",
         "mbs": 3,
@@ -6282,8 +6282,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 70.01,
+        "patternText": "127.729/182.437",
+        "patternInfo": {
+            "m": 56,
+            "s": 5,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "30.10.2026 12:00",
@@ -6304,8 +6311,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.54,
+        "patternText": "232.270/338.896",
+        "patternInfo": {
+            "m": 60,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 86.67
+        }
     },
     {
         "date": "30.10.2026 12:00",
@@ -6326,8 +6340,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 69.3,
+        "patternText": "254.368/367.068",
+        "patternInfo": {
+            "m": 67,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 86.67
+        }
     },
     {
         "date": "30.10.2026 12:00",
@@ -6348,8 +6369,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 70.58,
+        "patternText": "280.949/398.072",
+        "patternInfo": {
+            "m": 60,
+            "s": 2,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "30.10.2026 12:00",
@@ -6370,30 +6398,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "30.10.2026 12:00",
-        "league": "TAY1",
-        "matchCode": "4539357",
-        "home": "Mahasarakham U",
-        "away": "Chanthaburi",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance X2",
-        "ihtimal": "75.22",
-        "odds": "1.11",
-        "matchCount": "113",
-        "matchLink": "4539357",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 70.12,
+        "patternText": "271.396/387.038",
+        "patternInfo": {
+            "m": 59,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        }
     },
     {
         "date": "30.10.2026 12:15",
@@ -6414,8 +6427,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 66.43,
+        "patternText": "149.557/225.132",
+        "patternInfo": {
+            "m": 41,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 87.5
+        }
     },
     {
         "date": "30.10.2026 12:50",
@@ -6436,8 +6456,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.3,
+        "patternText": "235.007/344.079",
+        "patternInfo": {
+            "m": 55,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "30.10.2026 12:50",
@@ -6458,30 +6485,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "30.10.2026 12:50",
-        "league": "BAE2",
-        "matchCode": "4574624",
-        "home": "Emirates Club",
-        "away": "Dibba Al Fujairah",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance X2",
-        "ihtimal": "71.95",
-        "odds": "1.21",
-        "matchCount": "82",
-        "matchLink": "4574624",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "14/82",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 70.8,
+        "patternText": "346.776/489.779",
+        "patternInfo": {
+            "m": 65,
+            "s": 2,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "30.10.2026 13:00",
@@ -6502,30 +6514,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "30.10.2026 13:00",
-        "league": "UGA",
-        "matchCode": "4547656",
-        "home": "Kataka",
-        "away": "Police",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance X2",
-        "ihtimal": "87.14",
-        "odds": "1.06",
-        "matchCount": "70",
-        "matchLink": "4547656",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "12/70",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 70.05,
+        "patternText": "448.340/640.037",
+        "patternInfo": {
+            "m": 69,
+            "s": 2,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "30.10.2026 13:00",
@@ -6546,7 +6543,14 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 69.75,
+        "patternText": "268.115/384.421",
+        "patternInfo": {
+            "m": 75,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        }
     }
 ]
