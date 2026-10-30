@@ -609,64 +609,6 @@
         }
     },
     {
-        "date": "28.10.2026 19:30",
-        "league": "ROMK",
-        "matchCode": "4549804",
-        "home": "CFR Cluj",
-        "away": "Universitatea Craiova",
-        "firstHalf": "1 - 2",
-        "finalScore": "1 - 3",
-        "prediction": "Double Chance 12",
-        "ihtimal": "73.68",
-        "odds": "1.12",
-        "matchCount": "76",
-        "matchLink": "4549804",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "21/76",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 70.23,
-        "patternText": "255.438/363.693",
-        "patternInfo": {
-            "m": 60,
-            "s": 8,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        }
-    },
-    {
-        "date": "28.10.2026 19:30",
-        "league": "ROMK",
-        "matchCode": "4549804",
-        "home": "CFR Cluj",
-        "away": "Universitatea Craiova",
-        "firstHalf": "1 - 2",
-        "finalScore": "1 - 3",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "77.63",
-        "odds": "1.24",
-        "matchCount": "76",
-        "matchLink": "4549804",
-        "status": "Lost",
-        "predictedScore": "0-1",
-        "predictedScoreText": "21/76",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 67.99,
-        "patternText": "193.090/284.005",
-        "patternInfo": {
-            "m": 52,
-            "s": 7,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        }
-    },
-    {
         "date": "30.10.2026 19:45",
         "league": "GAL",
         "matchCode": "4508469",
@@ -693,35 +635,6 @@
             "f": 0,
             "e": 85,
             "b": 89.47
-        }
-    },
-    {
-        "date": "28.10.2026 19:30",
-        "league": "POLK",
-        "matchCode": "4564190",
-        "home": "Lechia Gdansk",
-        "away": "Jagiellonia Bialystok",
-        "firstHalf": "0 - 2",
-        "finalScore": "0 - 6",
-        "prediction": "Double Chance 12",
-        "ihtimal": "76.19",
-        "odds": "1.08",
-        "matchCount": "42",
-        "matchLink": "4564190",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "7/42",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 70.33,
-        "patternText": "258.090/366.965",
-        "patternInfo": {
-            "m": 60,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 95.65
         }
     },
     {
@@ -1559,122 +1472,6 @@
         "patternText": "306.274/458.446",
         "patternInfo": {
             "m": 70,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        }
-    },
-    {
-        "date": "28.10.2026 19:45",
-        "league": "AFK",
-        "matchCode": "4560236",
-        "home": "Bayer Leverkusen",
-        "away": "Nuremberg",
-        "firstHalf": "1 - 2",
-        "finalScore": "5 - 2",
-        "prediction": "Match Result 1",
-        "ihtimal": "100.0",
-        "odds": "1.07",
-        "matchCount": "1",
-        "matchLink": "4560236",
-        "status": "Won",
-        "predictedScore": "3-0",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 57.69,
-        "patternText": "219.581/380.635",
-        "patternInfo": {
-            "m": 64,
-            "s": 4,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        }
-    },
-    {
-        "date": "28.10.2026 19:45",
-        "league": "AFK",
-        "matchCode": "4560236",
-        "home": "Bayer Leverkusen",
-        "away": "Nuremberg",
-        "firstHalf": "1 - 2",
-        "finalScore": "5 - 2",
-        "prediction": "Over 2.5 Goals",
-        "ihtimal": "100.0",
-        "odds": "1.14",
-        "matchCount": "1",
-        "matchLink": "4560236",
-        "status": "Won",
-        "predictedScore": "3-0",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 57.05,
-        "patternText": "213.216/373.768",
-        "patternInfo": {
-            "m": 60,
-            "s": 5,
-            "f": 0,
-            "e": 85,
-            "b": 88.89
-        }
-    },
-    {
-        "date": "28.10.2026 19:45",
-        "league": "AFK",
-        "matchCode": "4560236",
-        "home": "Bayer Leverkusen",
-        "away": "Nuremberg",
-        "firstHalf": "1 - 2",
-        "finalScore": "5 - 2",
-        "prediction": "1st Half Double Chance 12",
-        "ihtimal": "100.0",
-        "odds": "1.13",
-        "matchCount": "1",
-        "matchLink": "4560236",
-        "status": "Won",
-        "predictedScore": "3-0",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 57.18,
-        "patternText": "209.373/366.169",
-        "patternInfo": {
-            "m": 59,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 85.25
-        }
-    },
-    {
-        "date": "28.10.2026 19:45",
-        "league": "AFK",
-        "matchCode": "4560236",
-        "home": "Bayer Leverkusen",
-        "away": "Nuremberg",
-        "firstHalf": "1 - 2",
-        "finalScore": "5 - 2",
-        "prediction": "1st Half Under 2.5",
-        "ihtimal": "100.0",
-        "odds": "1.10",
-        "matchCount": "1",
-        "matchLink": "4560236",
-        "status": "Lost",
-        "predictedScore": "3-0",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 57.49,
-        "patternText": "208.441/362.583",
-        "patternInfo": {
-            "m": 59,
             "s": 3,
             "f": 1,
             "e": 85,
@@ -6166,8 +5963,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 58.82,
+        "patternText": "259.803/441.701",
+        "patternInfo": {
+            "m": 52,
+            "s": 4,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "30.10.2026 23:00",
@@ -6188,8 +5992,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 69.12,
+        "patternText": "272.647/394.466",
+        "patternInfo": {
+            "m": 51,
+            "s": 4,
+            "f": 4,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "30.10.2026 23:00",
@@ -6210,8 +6021,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 69.66,
+        "patternText": "268.235/385.090",
+        "patternInfo": {
+            "m": 51,
+            "s": 4,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "30.10.2026 23:00",
@@ -6232,8 +6050,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.37,
+        "patternText": "243.719/356.456",
+        "patternInfo": {
+            "m": 40,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 85.71
+        }
     },
     {
         "date": "31.10.2026 02:00",
@@ -6254,8 +6079,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 70.22,
+        "patternText": "316.832/451.183",
+        "patternInfo": {
+            "m": 58,
+            "s": 4,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "31.10.2026 02:00",
@@ -6276,29 +6108,14 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "31.10.2026 02:00",
-        "league": "KOSTA",
-        "matchCode": "4487105",
-        "home": "Deportivo Perez Zeledon",
-        "away": "Puntarenas FC",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "70.15",
-        "odds": "1.15",
-        "matchCount": "134",
-        "matchLink": "4487105",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "20/134",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 69.29,
+        "patternText": "254.900/367.850",
+        "patternInfo": {
+            "m": 46,
+            "s": 5,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        }
     }
 ]
