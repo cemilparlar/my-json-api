@@ -10249,7 +10249,7 @@
         "odds": "1.11",
         "matchCount": "14",
         "matchLink": "4492808",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 1,
@@ -10278,7 +10278,7 @@
         "odds": "1.17",
         "matchCount": "14",
         "matchLink": "4492808",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 1,
@@ -21438,28 +21438,6 @@
         "away": "St Johnstone",
         "firstHalf": "-",
         "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "70.0",
-        "odds": "1.21",
-        "matchCount": "10",
-        "matchLink": "4480543",
-        "status": "Pending",
-        "predictedScore": "3-0",
-        "predictedScoreText": "2/10",
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "31.10.2026 15:00",
-        "league": "İKP",
-        "matchCode": "4480543",
-        "home": "Kilmarnock",
-        "away": "St Johnstone",
-        "firstHalf": "-",
-        "finalScore": "-",
         "prediction": "Double Chance 12",
         "ihtimal": "90.0",
         "odds": "1.14",
@@ -21471,8 +21449,15 @@
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 69.93,
+        "patternText": "197.459/282.374",
+        "patternInfo": {
+            "m": 64,
+            "s": 5,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "31.10.2026 15:00",
@@ -21493,8 +21478,15 @@
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.08,
+        "patternText": "302.859/444.826",
+        "patternInfo": {
+            "m": 63,
+            "s": 8,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "31.10.2026 15:00",
@@ -21515,8 +21507,15 @@
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 69.17,
+        "patternText": "162.914/235.516",
+        "patternInfo": {
+            "m": 63,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 86.96
+        }
     },
     {
         "date": "31.10.2026 15:00",
@@ -21537,8 +21536,15 @@
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 67.76,
+        "patternText": "193.153/285.038",
+        "patternInfo": {
+            "m": 57,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 86.96
+        }
     },
     {
         "date": "31.10.2026 15:00",
@@ -21559,30 +21565,15 @@
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "31.10.2026 15:00",
-        "league": "İKP",
-        "matchCode": "4480543",
-        "home": "Kilmarnock",
-        "away": "St Johnstone",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 12",
-        "ihtimal": "80.0",
-        "odds": "1.39",
-        "matchCount": "10",
-        "matchLink": "4480543",
-        "status": "Pending",
-        "predictedScore": "3-0",
-        "predictedScoreText": "2/10",
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 69.02,
+        "patternText": "336.125/486.994",
+        "patternInfo": {
+            "m": 67,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 92.86
+        }
     },
     {
         "date": "31.10.2026 15:00",
@@ -21603,8 +21594,15 @@
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.15,
+        "patternText": "153.949/225.892",
+        "patternInfo": {
+            "m": 61,
+            "s": 9,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "31.10.2026 15:00",
@@ -21625,8 +21623,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:16",
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 65.64,
+        "patternText": "266.816/406.464",
+        "patternInfo": {
+            "m": 78,
+            "s": 6,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "31.10.2026 15:00",
@@ -21647,8 +21652,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:16",
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 67.39,
+        "patternText": "215.388/319.596",
+        "patternInfo": {
+            "m": 71,
+            "s": 4,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "31.10.2026 15:00",
@@ -21669,8 +21681,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:16",
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 66.75,
+        "patternText": "213.158/319.314",
+        "patternInfo": {
+            "m": 72,
+            "s": 5,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "31.10.2026 15:00",
@@ -21691,8 +21710,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:16",
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 67.6,
+        "patternText": "323.466/478.514",
+        "patternInfo": {
+            "m": 66,
+            "s": 5,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "31.10.2026 15:00",
@@ -21713,8 +21739,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:16",
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.19,
+        "patternText": "231.176/338.996",
+        "patternInfo": {
+            "m": 74,
+            "s": 10,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "31.10.2026 15:00",
@@ -21735,14 +21768,14 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:16",
-        "patternScore": 58.17,
-        "patternText": "277.926/477.743",
+        "patternScore": 66.88,
+        "patternText": "303.022/453.110",
         "patternInfo": {
-            "m": 79,
-            "s": 1,
-            "f": 0,
+            "m": 75,
+            "s": 3,
+            "f": 1,
             "e": 85,
-            "b": 85.71
+            "b": 100.0
         }
     },
     {
@@ -21764,37 +21797,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:16",
-        "patternScore": 60.32,
-        "patternText": "304.134/504.177",
+        "patternScore": 68.8,
+        "patternText": "254.534/369.982",
         "patternInfo": {
-            "m": 80,
-            "s": 2,
-            "f": 0,
+            "m": 76,
+            "s": 4,
+            "f": 1,
             "e": 85,
-            "b": 93.75
+            "b": 100.0
         }
-    },
-    {
-        "date": "31.10.2026 15:00",
-        "league": "İNP",
-        "matchCode": "4481098",
-        "home": "Manchester City",
-        "away": "Brighton & Hove Albion",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "71.43",
-        "odds": "1.46",
-        "matchCount": "7",
-        "matchLink": "4481098",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "3/7",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "31.10.2026 14:16",
-        "patternScore": null,
-        "patternText": null
     },
     {
         "date": "31.10.2026 15:00",
@@ -21815,34 +21826,12 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:16",
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "31.10.2026 15:00",
-        "league": "İNP",
-        "matchCode": "4481091",
-        "home": "AFC Bournemouth",
-        "away": "Leeds United",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "81.82",
-        "odds": "1.15",
-        "matchCount": "11",
-        "matchLink": "4481091",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "31.10.2026 14:17",
-        "patternScore": 68.75,
-        "patternText": "169.503/246.552",
+        "patternScore": 68.06,
+        "patternText": "339.000/498.068",
         "patternInfo": {
-            "m": 69,
-            "s": 5,
-            "f": 1,
+            "m": 75,
+            "s": 7,
+            "f": 2,
             "e": 85,
             "b": 100.0
         }
@@ -21866,8 +21855,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:17",
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 69.56,
+        "patternText": "382.669/550.119",
+        "patternInfo": {
+            "m": 78,
+            "s": 6,
+            "f": 0,
+            "e": 85,
+            "b": 91.3
+        }
     },
     {
         "date": "31.10.2026 15:00",
@@ -21888,12 +21884,12 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:17",
-        "patternScore": 68.76,
-        "patternText": "311.431/452.940",
+        "patternScore": 69.19,
+        "patternText": "156.798/226.628",
         "patternInfo": {
-            "m": 75,
-            "s": 6,
-            "f": 1,
+            "m": 67,
+            "s": 9,
+            "f": 3,
             "e": 85,
             "b": 100.0
         }
@@ -21917,12 +21913,12 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:17",
-        "patternScore": 68.18,
-        "patternText": "148.313/217.516",
+        "patternScore": 68.7,
+        "patternText": "211.605/307.991",
         "patternInfo": {
-            "m": 66,
-            "s": 8,
-            "f": 3,
+            "m": 76,
+            "s": 11,
+            "f": 4,
             "e": 85,
             "b": 100.0
         }
@@ -21946,8 +21942,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:17",
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 69.07,
+        "patternText": "223.844/324.085",
+        "patternInfo": {
+            "m": 76,
+            "s": 5,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "31.10.2026 15:00",
@@ -21968,8 +21971,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:17",
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.29,
+        "patternText": "325.040/475.959",
+        "patternInfo": {
+            "m": 82,
+            "s": 6,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "31.10.2026 15:00",
@@ -21990,14 +22000,14 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:17",
-        "patternScore": 69.9,
-        "patternText": "177.710/254.222",
+        "patternScore": 70.13,
+        "patternText": "250.198/356.769",
         "patternInfo": {
-            "m": 73,
-            "s": 8,
-            "f": 3,
+            "m": 78,
+            "s": 3,
+            "f": 0,
             "e": 85,
-            "b": 100.0
+            "b": 89.74
         }
     },
     {
@@ -22019,8 +22029,15 @@
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 70.13,
+        "patternText": "366.727/522.898",
+        "patternInfo": {
+            "m": 81,
+            "s": 6,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        }
     },
     {
         "date": "31.10.2026 15:00",
@@ -22041,8 +22058,15 @@
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 69.75,
+        "patternText": "308.613/442.430",
+        "patternInfo": {
+            "m": 75,
+            "s": 13,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "31.10.2026 15:00",
@@ -22063,8 +22087,15 @@
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.76,
+        "patternText": "284.287/413.466",
+        "patternInfo": {
+            "m": 62,
+            "s": 8,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        }
     },
     {
         "date": "31.10.2026 15:00",
@@ -22085,8 +22116,15 @@
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.86,
+        "patternText": "302.836/439.772",
+        "patternInfo": {
+            "m": 73,
+            "s": 11,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "31.10.2026 15:00",
@@ -22107,14 +22145,14 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:19",
-        "patternScore": 69.14,
-        "patternText": "328.618/475.319",
+        "patternScore": 68.59,
+        "patternText": "158.444/231.010",
         "patternInfo": {
-            "m": 75,
-            "s": 3,
-            "f": 0,
+            "m": 66,
+            "s": 1,
+            "f": 1,
             "e": 85,
-            "b": 90.91
+            "b": 100.0
         }
     },
     {
@@ -22136,8 +22174,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:19",
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.61,
+        "patternText": "321.868/469.121",
+        "patternInfo": {
+            "m": 72,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 87.5
+        }
     },
     {
         "date": "31.10.2026 15:00",
@@ -22158,37 +22203,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:19",
-        "patternScore": 68.74,
-        "patternText": "202.808/295.057",
+        "patternScore": 68.18,
+        "patternText": "316.603/464.343",
         "patternInfo": {
-            "m": 71,
+            "m": 77,
             "s": 2,
             "f": 0,
             "e": 85,
             "b": 87.5
         }
-    },
-    {
-        "date": "31.10.2026 15:00",
-        "league": "İN1",
-        "matchCode": "4489394",
-        "home": "MK Dons",
-        "away": "Doncaster Rovers",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "71.17",
-        "odds": "1.13",
-        "matchCount": "163",
-        "matchLink": "4489394",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "21/163",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "31.10.2026 14:19",
-        "patternScore": null,
-        "patternText": null
     },
     {
         "date": "31.10.2026 15:00",
@@ -22209,14 +22232,14 @@
         "mbs": 2,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:19",
-        "patternScore": 70.15,
-        "patternText": "364.108/519.048",
+        "patternScore": 70.11,
+        "patternText": "364.628/520.068",
         "patternInfo": {
-            "m": 70,
-            "s": 8,
+            "m": 72,
+            "s": 2,
             "f": 0,
             "e": 85,
-            "b": 94.44
+            "b": 86.67
         }
     },
     {
@@ -22238,14 +22261,14 @@
         "mbs": 2,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:19",
-        "patternScore": 69.49,
-        "patternText": "294.426/423.696",
+        "patternScore": 69.03,
+        "patternText": "279.461/404.829",
         "patternInfo": {
-            "m": 58,
-            "s": 14,
+            "m": 61,
+            "s": 4,
             "f": 0,
             "e": 85,
-            "b": 94.44
+            "b": 87.88
         }
     },
     {
@@ -22267,8 +22290,15 @@
         "mbs": 2,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:19",
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.71,
+        "patternText": "284.337/413.795",
+        "patternInfo": {
+            "m": 61,
+            "s": 6,
+            "f": 0,
+            "e": 85,
+            "b": 91.67
+        }
     },
     {
         "date": "31.10.2026 15:00",
@@ -22289,14 +22319,14 @@
         "mbs": 2,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:19",
-        "patternScore": 69.71,
-        "patternText": "310.082/444.796",
+        "patternScore": 69.65,
+        "patternText": "310.484/445.748",
         "patternInfo": {
-            "m": 68,
-            "s": 15,
-            "f": 3,
+            "m": 71,
+            "s": 5,
+            "f": 0,
             "e": 85,
-            "b": 100.0
+            "b": 87.5
         }
     },
     {
@@ -22318,8 +22348,15 @@
         "mbs": 2,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:19",
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.67,
+        "patternText": "294.797/429.323",
+        "patternInfo": {
+            "m": 65,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 90.0
+        }
     },
     {
         "date": "31.10.2026 15:00",
@@ -22341,11 +22378,11 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:19",
         "patternScore": 70.43,
-        "patternText": "221.271/314.189",
+        "patternText": "217.019/308.135",
         "patternInfo": {
-            "m": 70,
-            "s": 8,
-            "f": 2,
+            "m": 66,
+            "s": 9,
+            "f": 3,
             "e": 85,
             "b": 100.0
         }
@@ -22369,118 +22406,15 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "31.10.2026 14:19",
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "31.10.2026 15:15",
-        "league": "İS1",
-        "matchCode": "4492367",
-        "home": "Rayo Vallecano",
-        "away": "Celta de Vigo",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "73.68",
-        "odds": "1.22",
-        "matchCount": "19",
-        "matchLink": "4492367",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "5/19",
-        "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "31.10.2026 15:15",
-        "league": "İS1",
-        "matchCode": "4492367",
-        "home": "Rayo Vallecano",
-        "away": "Celta de Vigo",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "84.21",
-        "odds": "1.21",
-        "matchCount": "19",
-        "matchLink": "4492367",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "5/19",
-        "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "31.10.2026 15:15",
-        "league": "İS1",
-        "matchCode": "4492367",
-        "home": "Rayo Vallecano",
-        "away": "Celta de Vigo",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "73.68421052631578",
-        "odds": "1.20",
-        "matchCount": "19",
-        "matchLink": "4492367",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "5/19",
-        "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "31.10.2026 15:15",
-        "league": "İS1",
-        "matchCode": "4492367",
-        "home": "Rayo Vallecano",
-        "away": "Celta de Vigo",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "78.95",
-        "odds": "1.21",
-        "matchCount": "19",
-        "matchLink": "4492367",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "5/19",
-        "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "31.10.2026 15:15",
-        "league": "İS1",
-        "matchCode": "4492367",
-        "home": "Rayo Vallecano",
-        "away": "Celta de Vigo",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "78.95",
-        "odds": "1.31",
-        "matchCount": "19",
-        "matchLink": "4492367",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "5/19",
-        "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 69.29,
+        "patternText": "204.039/294.482",
+        "patternInfo": {
+            "m": 61,
+            "s": 2,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "31.10.2026 15:15",
@@ -22501,8 +22435,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.52,
+        "patternText": "329.712/481.184",
+        "patternInfo": {
+            "m": 75,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 90.0
+        }
     },
     {
         "date": "31.10.2026 15:15",
@@ -22523,8 +22464,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 67.96,
+        "patternText": "299.032/440.018",
+        "patternInfo": {
+            "m": 74,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 90.0
+        }
     },
     {
         "date": "31.10.2026 15:15",
@@ -22545,8 +22493,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 67.75,
+        "patternText": "150.671/222.384",
+        "patternInfo": {
+            "m": 64,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "31.10.2026 15:15",
@@ -22567,8 +22522,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.85,
+        "patternText": "327.585/475.821",
+        "patternInfo": {
+            "m": 72,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 90.0
+        }
     },
     {
         "date": "31.10.2026 15:15",
@@ -22589,7 +22551,123 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
+        "patternScore": 67.69,
+        "patternText": "311.390/460.032",
+        "patternInfo": {
+            "m": 77,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 90.0
+        }
+    },
+    {
+        "date": "31.10.2026 15:15",
+        "league": "İS1",
+        "matchCode": "4492367",
+        "home": "Rayo Vallecano",
+        "away": "Celta de Vigo",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (1:0) 1",
+        "ihtimal": "70.0",
+        "odds": "1.20",
+        "matchCount": "10",
+        "matchLink": "4492367",
+        "status": "Pending",
+        "predictedScore": "1-3",
+        "predictedScoreText": "2/10",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "31.10.2026 14:37",
+        "patternScore": 68.23,
+        "patternText": "297.947/436.687",
+        "patternInfo": {
+            "m": 73,
+            "s": 7,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        }
+    },
+    {
+        "date": "31.10.2026 15:15",
+        "league": "İS1",
+        "matchCode": "4492367",
+        "home": "Rayo Vallecano",
+        "away": "Celta de Vigo",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "90.0",
+        "odds": "1.21",
+        "matchCount": "10",
+        "matchLink": "4492367",
+        "status": "Pending",
+        "predictedScore": "1-3",
+        "predictedScoreText": "2/10",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "31.10.2026 14:37",
+        "patternScore": 68.75,
+        "patternText": "322.926/469.735",
+        "patternInfo": {
+            "m": 76,
+            "s": 4,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        }
+    },
+    {
+        "date": "31.10.2026 15:15",
+        "league": "İS1",
+        "matchCode": "4492367",
+        "home": "Rayo Vallecano",
+        "away": "Celta de Vigo",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "70.0",
+        "odds": "1.13",
+        "matchCount": "10",
+        "matchLink": "4492367",
+        "status": "Pending",
+        "predictedScore": "1-3",
+        "predictedScoreText": "2/10",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "31.10.2026 14:37",
         "patternScore": null,
         "patternText": null
+    },
+    {
+        "date": "31.10.2026 15:15",
+        "league": "İS1",
+        "matchCode": "4492367",
+        "home": "Rayo Vallecano",
+        "away": "Celta de Vigo",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "100.0",
+        "odds": "1.31",
+        "matchCount": "10",
+        "matchLink": "4492367",
+        "status": "Pending",
+        "predictedScore": "1-3",
+        "predictedScoreText": "2/10",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "31.10.2026 14:37",
+        "patternScore": 68.26,
+        "patternText": "307.566/450.555",
+        "patternInfo": {
+            "m": 72,
+            "s": 7,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        }
     }
 ]
