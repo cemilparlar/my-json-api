@@ -38640,7 +38640,7 @@
         "odds": "1.08",
         "matchCount": "201",
         "matchLink": "4523926",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": "1-0",
         "predictedScoreText": "29/201",
         "mbs": 3,
@@ -49869,8 +49869,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 69.03,
+        "patternText": "195.865/283.723",
+        "patternInfo": {
+            "m": 51,
+            "s": 1,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "01.11.2026 21:30",
@@ -49891,8 +49898,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.45,
+        "patternText": "175.187/255.919",
+        "patternInfo": {
+            "m": 50,
+            "s": 2,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "01.11.2026 21:30",
@@ -49913,12 +49927,12 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": 70.35,
-        "patternText": "127.163/180.750",
+        "patternScore": 69.4,
+        "patternText": "202.096/291.193",
         "patternInfo": {
             "m": 54,
-            "s": 6,
-            "f": 1,
+            "s": 8,
+            "f": 2,
             "e": 85,
             "b": 100.0
         }
@@ -49942,14 +49956,14 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": 70.67,
-        "patternText": "128.630/182.016",
+        "patternScore": 70.72,
+        "patternText": "121.397/171.651",
         "patternInfo": {
-            "m": 54,
-            "s": 1,
-            "f": 0,
+            "m": 53,
+            "s": 2,
+            "f": 1,
             "e": 85,
-            "b": 92.86
+            "b": 100.0
         }
     },
     {
@@ -49971,14 +49985,14 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": 68.16,
-        "patternText": "190.898/280.093",
+        "patternScore": 68.2,
+        "patternText": "188.143/275.861",
         "patternInfo": {
-            "m": 55,
-            "s": 5,
-            "f": 1,
+            "m": 53,
+            "s": 2,
+            "f": 0,
             "e": 85,
-            "b": 100.0
+            "b": 88.89
         }
     },
     {
@@ -50000,8 +50014,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 56.43,
+        "patternText": "179.684/318.439",
+        "patternInfo": {
+            "m": 63,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 87.5
+        }
     },
     {
         "date": "01.11.2026 21:30",
@@ -50022,8 +50043,8 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": 56.87,
-        "patternText": "186.506/327.929",
+        "patternScore": 56.83,
+        "patternText": "186.058/327.399",
         "patternInfo": {
             "m": 67,
             "s": 1,
@@ -50051,12 +50072,12 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": 57.33,
-        "patternText": "184.444/321.727",
+        "patternScore": 56.89,
+        "patternText": "179.904/316.227",
         "patternInfo": {
-            "m": 73,
-            "s": 9,
-            "f": 8,
+            "m": 70,
+            "s": 5,
+            "f": 4,
             "e": 85,
             "b": 100.0
         }
@@ -50080,12 +50101,12 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": 57.66,
-        "patternText": "184.282/319.617",
+        "patternScore": 57.33,
+        "patternText": "181.584/316.717",
         "patternInfo": {
-            "m": 74,
-            "s": 5,
-            "f": 3,
+            "m": 76,
+            "s": 11,
+            "f": 7,
             "e": 85,
             "b": 100.0
         }
@@ -50109,8 +50130,8 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": 55.67,
-        "patternText": "169.985/305.337",
+        "patternScore": 55.7,
+        "patternText": "170.035/305.259",
         "patternInfo": {
             "m": 60,
             "s": 4,
@@ -50156,28 +50177,6 @@
         "away": "Toronto FC",
         "firstHalf": "-",
         "finalScore": "-",
-        "prediction": "Double Chance X2",
-        "ihtimal": "100.0",
-        "odds": "1.48",
-        "matchCount": "1",
-        "matchLink": "4419835",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "01.11.2026 21:30",
-        "league": "ABD",
-        "matchCode": "4419835",
-        "home": "Atlanta United",
-        "away": "Toronto FC",
-        "firstHalf": "-",
-        "finalScore": "-",
         "prediction": "Handicap (0:2) 2",
         "ihtimal": "100.0",
         "odds": "1.09",
@@ -50189,12 +50188,12 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": 57.36,
-        "patternText": "185.279/323.013",
+        "patternScore": 58.05,
+        "patternText": "193.535/333.417",
         "patternInfo": {
-            "m": 81,
+            "m": 78,
             "s": 8,
-            "f": 4,
+            "f": 1,
             "e": 85,
             "b": 100.0
         }
@@ -50218,10 +50217,10 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": 55.89,
-        "patternText": "174.513/312.233",
+        "patternScore": 55.94,
+        "patternText": "173.197/309.607",
         "patternInfo": {
-            "m": 77,
+            "m": 74,
             "s": 4,
             "f": 0,
             "e": 85,
@@ -50247,8 +50246,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 55.37,
+        "patternText": "163.383/295.071",
+        "patternInfo": {
+            "m": 53,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 90.91
+        }
     },
     {
         "date": "01.11.2026 21:30",
@@ -50269,8 +50275,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 55.47,
+        "patternText": "162.943/293.725",
+        "patternInfo": {
+            "m": 49,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 90.91
+        }
     },
     {
         "date": "01.11.2026 21:30",
@@ -50291,10 +50304,10 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": 56.01,
-        "patternText": "177.155/316.279",
+        "patternScore": 56.04,
+        "patternText": "177.291/316.345",
         "patternInfo": {
-            "m": 79,
+            "m": 77,
             "s": 4,
             "f": 0,
             "e": 85,
@@ -50320,8 +50333,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 56.88,
+        "patternText": "186.553/327.987",
+        "patternInfo": {
+            "m": 74,
+            "s": 5,
+            "f": 0,
+            "e": 85,
+            "b": 90.91
+        }
     },
     {
         "date": "01.11.2026 21:30",
@@ -50371,14 +50391,14 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": 56.03,
-        "patternText": "181.867/324.607",
+        "patternScore": 55.87,
+        "patternText": "179.203/320.767",
         "patternInfo": {
-            "m": 78,
-            "s": 5,
+            "m": 79,
+            "s": 4,
             "f": 0,
             "e": 85,
-            "b": 94.44
+            "b": 90.91
         }
     },
     {
@@ -50400,8 +50420,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 55.28,
+        "patternText": "167.033/302.131",
+        "patternInfo": {
+            "m": 66,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 90.91
+        }
     },
     {
         "date": "01.11.2026 21:30",
@@ -50422,8 +50449,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 55.13,
+        "patternText": "167.777/304.319",
+        "patternInfo": {
+            "m": 71,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 90.91
+        }
     },
     {
         "date": "01.11.2026 21:30",
@@ -50444,36 +50478,14 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "01.11.2026 21:30",
-        "league": "ABD",
-        "matchCode": "4419835",
-        "home": "Atlanta United",
-        "away": "Toronto FC",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "100.0",
-        "odds": "1.30",
-        "matchCount": "1",
-        "matchLink": "4419835",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": 56.84,
-        "patternText": "180.443/317.479",
+        "patternScore": 57.56,
+        "patternText": "189.005/328.341",
         "patternInfo": {
-            "m": 72,
-            "s": 4,
-            "f": 0,
+            "m": 68,
+            "s": 6,
+            "f": 1,
             "e": 85,
-            "b": 90.91
+            "b": 100.0
         }
     },
     {
@@ -50495,8 +50507,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 58.9,
+        "patternText": "207.997/353.121",
+        "patternInfo": {
+            "m": 83,
+            "s": 12,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "01.11.2026 21:30",
@@ -50517,8 +50536,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 55.19,
+        "patternText": "167.227/303.009",
+        "patternInfo": {
+            "m": 68,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 90.91
+        }
     },
     {
         "date": "01.11.2026 21:30",
@@ -50539,37 +50565,15 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "01.11.2026 15:42",
-        "patternScore": 57.65,
-        "patternText": "184.319/319.695",
+        "patternScore": 57.3,
+        "patternText": "180.783/315.499",
         "patternInfo": {
-            "m": 80,
-            "s": 9,
-            "f": 3,
+            "m": 81,
+            "s": 17,
+            "f": 8,
             "e": 85,
             "b": 100.0
         }
-    },
-    {
-        "date": "02.11.2026 19:45",
-        "league": "İCON",
-        "matchCode": "4516069",
-        "home": "Chelmsford",
-        "away": "Farnham Town",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "82.11",
-        "odds": "1.08",
-        "matchCount": "95",
-        "matchLink": "4516069",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "15/95",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
     },
     {
         "date": "02.11.2026 19:45",
@@ -50590,8 +50594,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 70.29,
+        "patternText": "258.052/367.114",
+        "patternInfo": {
+            "m": 71,
+            "s": 7,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "02.11.2026 19:45",
@@ -50612,8 +50623,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.43,
+        "patternText": "199.357/291.333",
+        "patternInfo": {
+            "m": 57,
+            "s": 5,
+            "f": 0,
+            "e": 85,
+            "b": 90.91
+        }
     },
     {
         "date": "02.11.2026 19:45",
@@ -50634,7 +50652,14 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 71.11,
+        "patternText": "140.595/197.708",
+        "patternInfo": {
+            "m": 63,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 92.31
+        }
     }
 ]
