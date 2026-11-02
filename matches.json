@@ -38896,28 +38896,6 @@
         "away": "Everton",
         "firstHalf": "-",
         "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "76.47",
-        "odds": "1.20",
-        "matchCount": "17",
-        "matchLink": "4481099",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "3/17",
-        "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "02.11.2026 20:00",
-        "league": "İNP",
-        "matchCode": "4481099",
-        "home": "Newcastle United",
-        "away": "Everton",
-        "firstHalf": "-",
-        "finalScore": "-",
         "prediction": "Double Chance 12",
         "ihtimal": "82.35",
         "odds": "1.16",
@@ -38929,8 +38907,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 70.81,
+        "patternText": "158.247/223.489",
+        "patternInfo": {
+            "m": 66,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 92.86
+        }
     },
     {
         "date": "02.11.2026 20:00",
@@ -38951,8 +38936,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 69.01,
+        "patternText": "187.594/271.840",
+        "patternInfo": {
+            "m": 62,
+            "s": 7,
+            "f": 4,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "02.11.2026 20:00",
@@ -38973,8 +38965,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.24,
+        "patternText": "182.084/266.828",
+        "patternInfo": {
+            "m": 63,
+            "s": 6,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "02.11.2026 20:00",
@@ -38995,8 +38994,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 69.46,
+        "patternText": "207.382/298.561",
+        "patternInfo": {
+            "m": 68,
+            "s": 7,
+            "f": 4,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "02.11.2026 20:00",
@@ -39017,8 +39023,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 67.61,
+        "patternText": "171.892/254.244",
+        "patternInfo": {
+            "m": 54,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        }
     },
     {
         "date": "02.11.2026 20:00",
@@ -39039,8 +39052,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 67.75,
+        "patternText": "165.290/243.984",
+        "patternInfo": {
+            "m": 41,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        }
     },
     {
         "date": "02.11.2026 20:00",
@@ -39061,30 +39081,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "02.11.2026 20:00",
-        "league": "İNP",
-        "matchCode": "4481099",
-        "home": "Newcastle United",
-        "away": "Everton",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 12",
-        "ihtimal": "82.35",
-        "odds": "1.41",
-        "matchCount": "17",
-        "matchLink": "4481099",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "3/17",
-        "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 70.43,
+        "patternText": "131.192/186.281",
+        "patternInfo": {
+            "m": 63,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        }
     },
     {
         "date": "02.11.2026 20:00",
@@ -39105,7 +39110,14 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 69.04,
+        "patternText": "117.524/170.236",
+        "patternInfo": {
+            "m": 64,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     }
 ]
