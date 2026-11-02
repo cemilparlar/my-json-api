@@ -3915,93 +3915,6 @@
         }
     },
     {
-        "date": "01.11.2026 10:00",
-        "league": "RUS",
-        "matchCode": "4485908",
-        "home": "FC Orenburg",
-        "away": "CSKA Moscow",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "Handicap (2:0) 1",
-        "ihtimal": "91.66666666666666",
-        "odds": "1.07",
-        "matchCount": "12",
-        "matchLink": "4485908",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "3/12",
-        "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 68.56,
-        "patternText": "101.462/147.996",
-        "patternInfo": {
-            "m": 53,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 85.71
-        }
-    },
-    {
-        "date": "01.11.2026 10:00",
-        "league": "RUS",
-        "matchCode": "4485908",
-        "home": "FC Orenburg",
-        "away": "CSKA Moscow",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "91.67",
-        "odds": "1.08",
-        "matchCount": "12",
-        "matchLink": "4485908",
-        "status": "Lost",
-        "predictedScore": "1-1",
-        "predictedScoreText": "3/12",
-        "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 69.24,
-        "patternText": "120.115/173.478",
-        "patternInfo": {
-            "m": 62,
-            "s": 6,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        }
-    },
-    {
-        "date": "01.11.2026 10:00",
-        "league": "AND",
-        "matchCode": "4551742",
-        "home": "Fc Ordino",
-        "away": "Descaldes",
-        "firstHalf": "0 - 1",
-        "finalScore": "0 - 2",
-        "prediction": "Match Result 2",
-        "ihtimal": "72.73",
-        "odds": "1.20",
-        "matchCount": "11",
-        "matchLink": "4551742",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "01.11.2026 04:26",
-        "patternScore": 67.72,
-        "patternText": "233.398/344.665",
-        "patternInfo": {
-            "m": 51,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        }
-    },
-    {
         "date": "01.11.2026 10:30",
         "league": "T1L",
         "matchCode": "4498867",
@@ -6142,93 +6055,6 @@
         "patternInfo": {
             "m": 43,
             "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        }
-    },
-    {
-        "date": "01.11.2026 10:00",
-        "league": "BLR",
-        "matchCode": "4454471",
-        "home": "Isloch",
-        "away": "Slavia Mozyr",
-        "firstHalf": "0 - 1",
-        "finalScore": "3 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "75.31",
-        "odds": "1.08",
-        "matchCount": "81",
-        "matchLink": "4454471",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "17/81",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "01.11.2026 08:13",
-        "patternScore": 70.65,
-        "patternText": "372.023/526.555",
-        "patternInfo": {
-            "m": 74,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        }
-    },
-    {
-        "date": "01.11.2026 10:00",
-        "league": "BLR",
-        "matchCode": "4454471",
-        "home": "Isloch",
-        "away": "Slavia Mozyr",
-        "firstHalf": "0 - 1",
-        "finalScore": "3 - 1",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "77.78",
-        "odds": "1.14",
-        "matchCount": "81",
-        "matchLink": "4454471",
-        "status": "Lost",
-        "predictedScore": "1-0",
-        "predictedScoreText": "17/81",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "01.11.2026 08:13",
-        "patternScore": 69.29,
-        "patternText": "306.568/442.471",
-        "patternInfo": {
-            "m": 71,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        }
-    },
-    {
-        "date": "01.11.2026 10:00",
-        "league": "BLR",
-        "matchCode": "4454471",
-        "home": "Isloch",
-        "away": "Slavia Mozyr",
-        "firstHalf": "0 - 1",
-        "finalScore": "3 - 1",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "75.31",
-        "odds": "1.23",
-        "matchCount": "81",
-        "matchLink": "4454471",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "17/81",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "01.11.2026 08:13",
-        "patternScore": 68.61,
-        "patternText": "291.227/424.445",
-        "patternInfo": {
-            "m": 67,
-            "s": 2,
             "f": 1,
             "e": 85,
             "b": 100.0
@@ -39023,30 +38849,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "03.11.2026 19:00",
-        "league": "İULK",
-        "matchCode": "4527512",
-        "home": "Hartlepool United",
-        "away": "Leeds United U21",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "75.0",
-        "odds": "1.08",
-        "matchCount": "20",
-        "matchLink": "4527512",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "4/20",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 69.84,
+        "patternText": "238.717/341.817",
+        "patternInfo": {
+            "m": 66,
+            "s": 6,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "03.11.2026 19:00",
@@ -39067,8 +38878,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 70.45,
+        "patternText": "281.050/398.931",
+        "patternInfo": {
+            "m": 75,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 95.83
+        }
     },
     {
         "date": "03.11.2026 19:00",
@@ -39089,30 +38907,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "03.11.2026 19:00",
-        "league": "İULK",
-        "matchCode": "4527512",
-        "home": "Hartlepool United",
-        "away": "Leeds United U21",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 12",
-        "ihtimal": "70.0",
-        "odds": "1.28",
-        "matchCount": "20",
-        "matchLink": "4527512",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "4/20",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 71.16,
+        "patternText": "158.368/222.539",
+        "patternInfo": {
+            "m": 70,
+            "s": 5,
+            "f": 0,
+            "e": 85,
+            "b": 91.67
+        }
     },
     {
         "date": "03.11.2026 20:00",
@@ -39133,30 +38936,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "03.11.2026 20:00",
-        "league": "ŞMP",
-        "matchCode": "4549515",
-        "home": "Villarreal CF",
-        "away": "Paris Saint-Germain",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance X2",
-        "ihtimal": "100.0",
-        "odds": "1.07",
-        "matchCount": "1",
-        "matchLink": "4549515",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 60.13,
+        "patternText": "235.909/392.362",
+        "patternInfo": {
+            "m": 92,
+            "s": 8,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "03.11.2026 20:00",
@@ -39177,8 +38965,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 56.33,
+        "patternText": "186.935/331.836",
+        "patternInfo": {
+            "m": 82,
+            "s": 3,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "03.11.2026 20:00",
@@ -39199,8 +38994,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 56.86,
+        "patternText": "185.633/326.468",
+        "patternInfo": {
+            "m": 79,
+            "s": 5,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "03.11.2026 20:00",
@@ -39221,30 +39023,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
-    },
-    {
-        "date": "03.11.2026 20:00",
-        "league": "ŞMP",
-        "matchCode": "4549515",
-        "home": "Villarreal CF",
-        "away": "Paris Saint-Germain",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "100.0",
-        "odds": "1.56",
-        "matchCount": "1",
-        "matchLink": "4549515",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 56.11,
+        "patternText": "188.905/336.640",
+        "patternInfo": {
+            "m": 83,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 85.71
+        }
     },
     {
         "date": "03.11.2026 20:00",
@@ -39265,8 +39052,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 57.85,
+        "patternText": "197.633/341.655",
+        "patternInfo": {
+            "m": 76,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 90.91
+        }
     },
     {
         "date": "03.11.2026 20:00",
@@ -39287,8 +39081,15 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 56.44,
+        "patternText": "191.014/338.444",
+        "patternInfo": {
+            "m": 78,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        }
     },
     {
         "date": "03.11.2026 20:00",
@@ -39309,7 +39110,14 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 57.14,
+        "patternText": "186.615/326.570",
+        "patternInfo": {
+            "m": 75,
+            "s": 17,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        }
     }
 ]
