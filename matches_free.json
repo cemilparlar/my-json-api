@@ -267,7 +267,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "10.11.2026 19:45",
@@ -387,7 +387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "04.11.2026 17:45",
@@ -447,7 +447,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "04.11.2026 20:00",
@@ -717,7 +717,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "04.11.2026 20:00",
@@ -837,7 +837,7 @@
             "e": 85,
             "b": 86.67
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "04.11.2026 20:00",
@@ -1107,7 +1107,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "04.11.2026 20:00",
@@ -1137,7 +1137,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "04.11.2026 20:00",
@@ -1407,7 +1407,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "05.11.2026 17:45",
@@ -1527,7 +1527,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "05.11.2026 17:45",
@@ -1707,7 +1707,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "05.11.2026 17:45",
@@ -1797,7 +1797,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "05.11.2026 17:45",
@@ -2067,7 +2067,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "05.11.2026 17:45",
@@ -2187,7 +2187,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "05.11.2026 17:45",
@@ -2427,7 +2427,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "05.11.2026 17:45",
@@ -2487,7 +2487,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "05.11.2026 17:45",
@@ -2817,7 +2817,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "05.11.2026 17:45",
@@ -2997,7 +2997,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "05.11.2026 17:45",
@@ -3207,7 +3207,7 @@
             "e": 85,
             "b": 85.25
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "05.11.2026 20:00",
@@ -3387,7 +3387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "05.11.2026 20:00",
@@ -4077,7 +4077,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "05.11.2026 20:00",
@@ -4137,7 +4137,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "05.11.2026 20:00",
@@ -4467,7 +4467,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 96
+        "aiScore": 95
     },
     {
         "date": "05.11.2026 20:00",
@@ -4707,7 +4707,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "05.11.2026 20:00",
@@ -5280,126 +5280,6 @@
         "aiScore": 96
     },
     {
-        "date": "04.11.2026 00:30",
-        "league": "BR1",
-        "matchCode": "4423365",
-        "home": "Sport Club Internacional",
-        "away": "Coritiba FBC",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "84.62",
-        "odds": "1.10",
-        "matchCount": "13",
-        "matchLink": "4423365",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "4/13",
-        "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 71.42,
-        "patternText": "160.798/225.147",
-        "patternInfo": {
-            "m": 64,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 95
-    },
-    {
-        "date": "04.11.2026 00:30",
-        "league": "BR1",
-        "matchCode": "4423365",
-        "home": "Sport Club Internacional",
-        "away": "Coritiba FBC",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "92.31",
-        "odds": "1.10",
-        "matchCount": "13",
-        "matchLink": "4423365",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "4/13",
-        "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 69.9,
-        "patternText": "74.544/106.643",
-        "patternInfo": {
-            "m": 52,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 95
-    },
-    {
-        "date": "04.11.2026 00:30",
-        "league": "BR1",
-        "matchCode": "4423365",
-        "home": "Sport Club Internacional",
-        "away": "Coritiba FBC",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Over 2.5 Goals",
-        "ihtimal": "84.62",
-        "odds": "1.57",
-        "matchCount": "13",
-        "matchLink": "4423365",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "4/13",
-        "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 67.86,
-        "patternText": "98.524/145.191",
-        "patternInfo": {
-            "m": 49,
-            "s": 3,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 58
-    },
-    {
-        "date": "04.11.2026 00:30",
-        "league": "BR1",
-        "matchCode": "4423365",
-        "home": "Sport Club Internacional",
-        "away": "Coritiba FBC",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "84.62",
-        "odds": "1.18",
-        "matchCount": "13",
-        "matchLink": "4423365",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "4/13",
-        "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 68.82,
-        "patternText": "114.386/166.204",
-        "patternInfo": {
-            "m": 58,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 90.91
-        },
-        "aiScore": 70
-    },
-    {
         "date": "04.11.2026 01:00",
         "league": "KOSTA",
         "matchCode": "4487111",
@@ -5937,7 +5817,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "05.11.2026 00:00",
@@ -7017,7 +6897,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 53
+        "aiScore": 54
     },
     {
         "date": "04.11.2026 20:00",
@@ -7107,7 +6987,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "02.11.2026 13:15",
@@ -7227,7 +7107,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 99
+        "aiScore": 98
     },
     {
         "date": "02.11.2026 17:00",
@@ -7347,7 +7227,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "02.11.2026 17:00",
@@ -7377,7 +7257,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "02.11.2026 17:00",
@@ -8397,7 +8277,7 @@
             "e": 85,
             "b": 92.59
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "02.11.2026 19:30",
@@ -8637,7 +8517,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "02.11.2026 15:00",
@@ -9267,7 +9147,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "02.11.2026 16:00",
@@ -9747,7 +9627,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "02.11.2026 19:30",
@@ -10077,7 +9957,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "02.11.2026 17:30",
@@ -10437,7 +10317,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "02.11.2026 18:15",
@@ -10587,7 +10467,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "02.11.2026 18:00",
@@ -10917,7 +10797,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "02.11.2026 19:00",
@@ -11667,7 +11547,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "03.11.2026 00:15",
@@ -11967,7 +11847,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "02.11.2026 19:45",
@@ -12027,7 +11907,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "02.11.2026 20:00",
@@ -12087,7 +11967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 97
     },
     {
         "date": "02.11.2026 20:00",
@@ -12147,7 +12027,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 52
+        "aiScore": 53
     },
     {
         "date": "02.11.2026 20:00",
@@ -12417,7 +12297,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "02.11.2026 20:00",
@@ -12657,7 +12537,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "02.11.2026 23:00",
@@ -13197,7 +13077,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "02.11.2026 22:00",
@@ -13423,8 +13303,8 @@
         "matchCount": "22",
         "matchLink": "4575436",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "5/53",
+        "predictedScore": "2-1",
+        "predictedScoreText": "11/74",
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -13453,8 +13333,8 @@
         "matchCount": "22",
         "matchLink": "4575436",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "5/53",
+        "predictedScore": "2-1",
+        "predictedScoreText": "11/74",
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -14487,7 +14367,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "04.11.2026 10:00",
@@ -14727,7 +14607,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "04.11.2026 05:00",
@@ -15387,7 +15267,7 @@
             "e": 85,
             "b": 75.0
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "03.11.2026 10:00",
@@ -15507,7 +15387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "05.11.2026 08:30",
@@ -15627,7 +15507,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "06.11.2026 00:00",
@@ -15717,7 +15597,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "03.11.2026 12:00",
@@ -15777,7 +15657,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "03.11.2026 12:00",
@@ -16077,7 +15957,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "03.11.2026 17:00",
@@ -16437,7 +16317,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "03.11.2026 13:45",
@@ -17457,7 +17337,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "03.11.2026 19:00",
@@ -18057,7 +17937,7 @@
             "e": 85,
             "b": 86.96
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "03.11.2026 19:45",
@@ -18720,186 +18600,6 @@
         "aiScore": 62
     },
     {
-        "date": "03.11.2026 20:00",
-        "league": "ŞMP",
-        "matchCode": "4549515",
-        "home": "Villarreal CF",
-        "away": "Paris Saint-Germain",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "100.0",
-        "odds": "1.08",
-        "matchCount": "1",
-        "matchLink": "4549515",
-        "status": "Pending",
-        "predictedScore": "1-5",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 18:34",
-        "patternScore": 60.18,
-        "patternText": "238.761/396.736",
-        "patternInfo": {
-            "m": 92,
-            "s": 9,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 88
-    },
-    {
-        "date": "03.11.2026 20:00",
-        "league": "ŞMP",
-        "matchCode": "4549515",
-        "home": "Villarreal CF",
-        "away": "Paris Saint-Germain",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (0:1) 2",
-        "ihtimal": "100.0",
-        "odds": "1.08",
-        "matchCount": "1",
-        "matchLink": "4549515",
-        "status": "Pending",
-        "predictedScore": "1-5",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 18:34",
-        "patternScore": 57.21,
-        "patternText": "194.207/339.435",
-        "patternInfo": {
-            "m": 79,
-            "s": 8,
-            "f": 6,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 91
-    },
-    {
-        "date": "03.11.2026 20:00",
-        "league": "ŞMP",
-        "matchCode": "4549515",
-        "home": "Villarreal CF",
-        "away": "Paris Saint-Germain",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "100.0",
-        "odds": "1.21",
-        "matchCount": "1",
-        "matchLink": "4549515",
-        "status": "Pending",
-        "predictedScore": "1-5",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 18:34",
-        "patternScore": 57.13,
-        "patternText": "190.843/334.076",
-        "patternInfo": {
-            "m": 79,
-            "s": 5,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 61
-    },
-    {
-        "date": "03.11.2026 20:00",
-        "league": "ŞMP",
-        "matchCode": "4549515",
-        "home": "Villarreal CF",
-        "away": "Paris Saint-Germain",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "100.0",
-        "odds": "1.08",
-        "matchCount": "1",
-        "matchLink": "4549515",
-        "status": "Pending",
-        "predictedScore": "1-5",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 18:34",
-        "patternScore": 57.9,
-        "patternText": "199.967/345.369",
-        "patternInfo": {
-            "m": 78,
-            "s": 5,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 75
-    },
-    {
-        "date": "03.11.2026 20:00",
-        "league": "ŞMP",
-        "matchCode": "4549515",
-        "home": "Villarreal CF",
-        "away": "Paris Saint-Germain",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "100.0",
-        "odds": "1.07",
-        "matchCount": "1",
-        "matchLink": "4549515",
-        "status": "Pending",
-        "predictedScore": "1-5",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 18:34",
-        "patternScore": 58.22,
-        "patternText": "206.629/354.941",
-        "patternInfo": {
-            "m": 85,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 90.91
-        },
-        "aiScore": 75
-    },
-    {
-        "date": "03.11.2026 20:00",
-        "league": "ŞMP",
-        "matchCode": "4549515",
-        "home": "Villarreal CF",
-        "away": "Paris Saint-Germain",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Under 2.5",
-        "ihtimal": "100.0",
-        "odds": "1.09",
-        "matchCount": "1",
-        "matchLink": "4549515",
-        "status": "Pending",
-        "predictedScore": "1-5",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 18:34",
-        "patternScore": 58.04,
-        "patternText": "197.833/340.848",
-        "patternInfo": {
-            "m": 82,
-            "s": 13,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 88
-    },
-    {
         "date": "05.11.2026 01:00",
         "league": "ELSAL",
         "matchCode": "4504364",
@@ -19077,7 +18777,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "03.11.2026 15:00",
@@ -19197,7 +18897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 96
     },
     {
         "date": "03.11.2026 16:00",
@@ -19317,7 +19017,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "03.11.2026 20:00",
@@ -19407,7 +19107,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "03.11.2026 16:00",
@@ -19587,7 +19287,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "03.11.2026 21:30",
@@ -19947,7 +19647,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "03.11.2026 19:45",
@@ -20067,7 +19767,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "03.11.2026 20:00",
@@ -20547,7 +20247,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "03.11.2026 19:45",
@@ -20697,7 +20397,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "03.11.2026 17:45",
@@ -21237,7 +20937,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "03.11.2026 19:45",
@@ -21267,7 +20967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "03.11.2026 19:45",
@@ -21507,127 +21207,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 65
-    },
-    {
-        "date": "03.11.2026 19:45",
-        "league": "İN1",
-        "matchCode": "4489320",
-        "home": "Huddersfield Town",
-        "away": "Luton Town",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "74.25",
-        "odds": "1.10",
-        "matchCount": "167",
-        "matchLink": "4489320",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "21/164",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 18:33",
-        "patternScore": 70.37,
-        "patternText": "261.573/371.730",
-        "patternInfo": {
-            "m": 69,
-            "s": 4,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 78
-    },
-    {
-        "date": "03.11.2026 19:45",
-        "league": "İN1",
-        "matchCode": "4489320",
-        "home": "Huddersfield Town",
-        "away": "Luton Town",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (0:2) 2",
-        "ihtimal": "75.44910179640718",
-        "odds": "1.10",
-        "matchCount": "167",
-        "matchLink": "4489320",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "21/164",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 18:33",
-        "patternScore": 69.1,
-        "patternText": "194.928/282.096",
-        "patternInfo": {
-            "m": 61,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 79
-    },
-    {
-        "date": "03.11.2026 19:45",
-        "league": "İN1",
-        "matchCode": "4489320",
-        "home": "Huddersfield Town",
-        "away": "Luton Town",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "73.65269461077844",
-        "odds": "1.10",
-        "matchCount": "167",
-        "matchLink": "4489320",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "21/164",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 18:33",
-        "patternScore": 68.92,
-        "patternText": "198.676/288.256",
-        "patternInfo": {
-            "m": 64,
-            "s": 6,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 71
-    },
-    {
-        "date": "03.11.2026 19:45",
-        "league": "İN1",
-        "matchCode": "4489320",
-        "home": "Huddersfield Town",
-        "away": "Luton Town",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "80.84",
-        "odds": "1.08",
-        "matchCount": "167",
-        "matchLink": "4489320",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "21/164",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 18:33",
-        "patternScore": 70.64,
-        "patternText": "137.836/195.134",
-        "patternInfo": {
-            "m": 60,
-            "s": 5,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 87
+        "aiScore": 66
     },
     {
         "date": "03.11.2026 19:45",
@@ -22077,7 +21657,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "03.11.2026 19:45",
@@ -23068,5 +22648,614 @@
             "b": 88.89
         },
         "aiScore": 61
+    },
+    {
+        "date": "03.11.2026 19:45",
+        "league": "İN1",
+        "matchCode": "4489320",
+        "home": "Huddersfield Town",
+        "away": "Luton Town",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "72.56",
+        "odds": "1.11",
+        "matchCount": "164",
+        "matchLink": "4489320",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "21/164",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 18:33",
+        "patternScore": 70.2,
+        "patternText": "262.119/373.364",
+        "patternInfo": {
+            "m": 73,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 93.33
+        },
+        "aiScore": 69
+    },
+    {
+        "date": "03.11.2026 19:45",
+        "league": "İN1",
+        "matchCode": "4489320",
+        "home": "Huddersfield Town",
+        "away": "Luton Town",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "73.17073170731707",
+        "odds": "1.11",
+        "matchCount": "164",
+        "matchLink": "4489320",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "21/164",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 18:33",
+        "patternScore": 68.96,
+        "patternText": "194.860/282.562",
+        "patternInfo": {
+            "m": 60,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 93.33
+        },
+        "aiScore": 71
+    },
+    {
+        "date": "03.11.2026 19:45",
+        "league": "İN1",
+        "matchCode": "4489320",
+        "home": "Huddersfield Town",
+        "away": "Luton Town",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (1:0) 1",
+        "ihtimal": "75.0",
+        "odds": "1.09",
+        "matchCount": "164",
+        "matchLink": "4489320",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "21/164",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 18:33",
+        "patternScore": 69.33,
+        "patternText": "210.327/303.383",
+        "patternInfo": {
+            "m": 68,
+            "s": 7,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 78
+    },
+    {
+        "date": "03.11.2026 19:45",
+        "league": "İN1",
+        "matchCode": "4489320",
+        "home": "Huddersfield Town",
+        "away": "Luton Town",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "77.44",
+        "odds": "1.07",
+        "matchCount": "164",
+        "matchLink": "4489320",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "21/164",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 18:33",
+        "patternScore": 69.77,
+        "patternText": "217.397/311.573",
+        "patternInfo": {
+            "m": 70,
+            "s": 7,
+            "f": 0,
+            "e": 85,
+            "b": 93.33
+        },
+        "aiScore": 84
+    },
+    {
+        "date": "03.11.2026 19:45",
+        "league": "İN1",
+        "matchCode": "4489320",
+        "home": "Huddersfield Town",
+        "away": "Luton Town",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "76.22",
+        "odds": "1.13",
+        "matchCount": "164",
+        "matchLink": "4489320",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "21/164",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 18:33",
+        "patternScore": 68.88,
+        "patternText": "211.211/306.641",
+        "patternInfo": {
+            "m": 70,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 93.33
+        },
+        "aiScore": 68
+    },
+    {
+        "date": "03.11.2026 20:00",
+        "league": "ŞMP",
+        "matchCode": "4549515",
+        "home": "Villarreal CF",
+        "away": "Paris Saint-Germain",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "100.0",
+        "odds": "1.08",
+        "matchCount": "1",
+        "matchLink": "4549515",
+        "status": "Pending",
+        "predictedScore": "1-5",
+        "predictedScoreText": "1/1",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 18:34",
+        "patternScore": 60.18,
+        "patternText": "238.761/396.736",
+        "patternInfo": {
+            "m": 92,
+            "s": 9,
+            "f": 4,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 88
+    },
+    {
+        "date": "03.11.2026 20:00",
+        "league": "ŞMP",
+        "matchCode": "4549515",
+        "home": "Villarreal CF",
+        "away": "Paris Saint-Germain",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:1) 2",
+        "ihtimal": "100.0",
+        "odds": "1.07",
+        "matchCount": "1",
+        "matchLink": "4549515",
+        "status": "Pending",
+        "predictedScore": "1-5",
+        "predictedScoreText": "1/1",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 18:34",
+        "patternScore": 57.17,
+        "patternText": "193.075/337.725",
+        "patternInfo": {
+            "m": 77,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 90.91
+        },
+        "aiScore": 71
+    },
+    {
+        "date": "03.11.2026 20:00",
+        "league": "ŞMP",
+        "matchCode": "4549515",
+        "home": "Villarreal CF",
+        "away": "Paris Saint-Germain",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 2.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.19",
+        "matchCount": "1",
+        "matchLink": "4549515",
+        "status": "Pending",
+        "predictedScore": "1-5",
+        "predictedScoreText": "1/1",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 18:34",
+        "patternScore": 56.35,
+        "patternText": "187.901/333.452",
+        "patternInfo": {
+            "m": 82,
+            "s": 3,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 61
+    },
+    {
+        "date": "03.11.2026 20:00",
+        "league": "ŞMP",
+        "matchCode": "4549515",
+        "home": "Villarreal CF",
+        "away": "Paris Saint-Germain",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "100.0",
+        "odds": "1.51",
+        "matchCount": "1",
+        "matchLink": "4549515",
+        "status": "Pending",
+        "predictedScore": "1-5",
+        "predictedScoreText": "1/1",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 18:34",
+        "patternScore": 57.14,
+        "patternText": "191.425/334.992",
+        "patternInfo": {
+            "m": 69,
+            "s": 2,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 53
+    },
+    {
+        "date": "03.11.2026 20:00",
+        "league": "ŞMP",
+        "matchCode": "4549515",
+        "home": "Villarreal CF",
+        "away": "Paris Saint-Germain",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "100.0",
+        "odds": "1.06",
+        "matchCount": "1",
+        "matchLink": "4549515",
+        "status": "Pending",
+        "predictedScore": "1-5",
+        "predictedScoreText": "1/1",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 18:34",
+        "patternScore": 58.59,
+        "patternText": "210.560/359.362",
+        "patternInfo": {
+            "m": 86,
+            "s": 11,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 91
+    },
+    {
+        "date": "03.11.2026 20:00",
+        "league": "ŞMP",
+        "matchCode": "4549515",
+        "home": "Villarreal CF",
+        "away": "Paris Saint-Germain",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "100.0",
+        "odds": "1.67",
+        "matchCount": "1",
+        "matchLink": "4549515",
+        "status": "Pending",
+        "predictedScore": "1-5",
+        "predictedScoreText": "1/1",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 18:34",
+        "patternScore": 56.46,
+        "patternText": "192.024/340.132",
+        "patternInfo": {
+            "m": 78,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        },
+        "aiScore": 52
+    },
+    {
+        "date": "03.11.2026 20:00",
+        "league": "ŞMP",
+        "matchCode": "4549515",
+        "home": "Villarreal CF",
+        "away": "Paris Saint-Germain",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 2.5",
+        "ihtimal": "100.0",
+        "odds": "1.11",
+        "matchCount": "1",
+        "matchLink": "4549515",
+        "status": "Pending",
+        "predictedScore": "1-5",
+        "predictedScoreText": "1/1",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 18:34",
+        "patternScore": 57.16,
+        "patternText": "187.647/328.272",
+        "patternInfo": {
+            "m": 75,
+            "s": 17,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 88
+    },
+    {
+        "date": "04.11.2026 00:30",
+        "league": "BR1",
+        "matchCode": "4423365",
+        "home": "Sport Club Internacional",
+        "away": "Coritiba FBC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "100.0",
+        "odds": "1.09",
+        "matchCount": "3",
+        "matchLink": "4423365",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "2/3",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 18:35",
+        "patternScore": 60.71,
+        "patternText": "240.344/395.884",
+        "patternInfo": {
+            "m": 74,
+            "s": 2,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 85
+    },
+    {
+        "date": "04.11.2026 00:30",
+        "league": "BR1",
+        "matchCode": "4423365",
+        "home": "Sport Club Internacional",
+        "away": "Coritiba FBC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.10",
+        "matchCount": "3",
+        "matchLink": "4423365",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "2/3",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 18:35",
+        "patternScore": 58.18,
+        "patternText": "198.330/340.917",
+        "patternInfo": {
+            "m": 75,
+            "s": 3,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 73
+    },
+    {
+        "date": "04.11.2026 00:30",
+        "league": "BR1",
+        "matchCode": "4423365",
+        "home": "Sport Club Internacional",
+        "away": "Coritiba FBC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.23",
+        "matchCount": "3",
+        "matchLink": "4423365",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "2/3",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 18:35",
+        "patternScore": 57.11,
+        "patternText": "192.017/336.247",
+        "patternInfo": {
+            "m": 71,
+            "s": 5,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 62
+    },
+    {
+        "date": "04.11.2026 00:30",
+        "league": "BR1",
+        "matchCode": "4423365",
+        "home": "Sport Club Internacional",
+        "away": "Coritiba FBC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 12",
+        "ihtimal": "100.0",
+        "odds": "1.37",
+        "matchCount": "3",
+        "matchLink": "4423365",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "2/3",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 18:35",
+        "patternScore": 55.81,
+        "patternText": "171.218/306.792",
+        "patternInfo": {
+            "m": 61,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 87.5
+        },
+        "aiScore": 54
+    },
+    {
+        "date": "04.11.2026 00:30",
+        "league": "BR1",
+        "matchCode": "4423365",
+        "home": "Sport Club Internacional",
+        "away": "Coritiba FBC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "100.0",
+        "odds": "1.19",
+        "matchCount": "3",
+        "matchLink": "4423365",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "2/3",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 18:35",
+        "patternScore": 57.3,
+        "patternText": "190.790/332.967",
+        "patternInfo": {
+            "m": 71,
+            "s": 4,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 65
+    },
+    {
+        "date": "04.11.2026 19:00",
+        "league": "CZYR",
+        "matchCode": "4546092",
+        "home": "MC Alger",
+        "away": "MC Oran",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "74.55",
+        "odds": "1.11",
+        "matchCount": "55",
+        "matchLink": "4546092",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "10/55",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 70.29,
+        "patternText": "262.335/373.198",
+        "patternInfo": {
+            "m": 67,
+            "s": 5,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 85
+    },
+    {
+        "date": "05.11.2026 00:30",
+        "league": "BOLPLK",
+        "matchCode": "4575438",
+        "home": "The Strongest",
+        "away": "Always Ready",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "70.79",
+        "odds": "1.15",
+        "matchCount": "89",
+        "matchLink": "4575438",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "14/89",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": null,
+        "patternText": null,
+        "aiScore": 82
+    },
+    {
+        "date": "05.11.2026 00:30",
+        "league": "BOLPLK",
+        "matchCode": "4575438",
+        "home": "The Strongest",
+        "away": "Always Ready",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "76.4",
+        "odds": "1.08",
+        "matchCount": "89",
+        "matchLink": "4575438",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "14/89",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": null,
+        "patternText": null,
+        "aiScore": 99
+    },
+    {
+        "date": "05.11.2026 00:30",
+        "league": "BOLPLK",
+        "matchCode": "4575438",
+        "home": "The Strongest",
+        "away": "Always Ready",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "74.16",
+        "odds": "1.11",
+        "matchCount": "89",
+        "matchLink": "4575438",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "14/89",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": null,
+        "patternText": null,
+        "aiScore": 96
     }
 ]
