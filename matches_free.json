@@ -27,7 +27,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "02.11.2026 17:00",
@@ -267,7 +267,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "10.11.2026 19:45",
@@ -289,7 +289,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.79,
-        "patternText": "290.350/410.182",
+        "patternText": "290.376/410.214",
         "patternInfo": {
             "m": 69,
             "s": 6,
@@ -360,216 +360,6 @@
         "aiScore": 85
     },
     {
-        "date": "03.11.2026 20:00",
-        "league": "ŞMP",
-        "matchCode": "4549521",
-        "home": "Feyenoord",
-        "away": "Inter",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "100.0",
-        "odds": "1.10",
-        "matchCount": "2",
-        "matchLink": "4549521",
-        "status": "Pending",
-        "predictedScore": "1-4",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 14:58",
-        "patternScore": 60.14,
-        "patternText": "236.900/393.883",
-        "patternInfo": {
-            "m": 75,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 87.5
-        },
-        "aiScore": 81
-    },
-    {
-        "date": "03.11.2026 20:00",
-        "league": "ŞMP",
-        "matchCode": "4549521",
-        "home": "Feyenoord",
-        "away": "Inter",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Over 2.5 Goals",
-        "ihtimal": "100.0",
-        "odds": "1.26",
-        "matchCount": "2",
-        "matchLink": "4549521",
-        "status": "Pending",
-        "predictedScore": "1-4",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 14:58",
-        "patternScore": 56.15,
-        "patternText": "185.200/329.811",
-        "patternInfo": {
-            "m": 69,
-            "s": 3,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 58
-    },
-    {
-        "date": "03.11.2026 20:00",
-        "league": "ŞMP",
-        "matchCode": "4549521",
-        "home": "Feyenoord",
-        "away": "Inter",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "100.0",
-        "odds": "1.17",
-        "matchCount": "2",
-        "matchLink": "4549521",
-        "status": "Pending",
-        "predictedScore": "1-4",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 14:58",
-        "patternScore": 57.07,
-        "patternText": "188.272/329.921",
-        "patternInfo": {
-            "m": 69,
-            "s": 6,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 65
-    },
-    {
-        "date": "03.11.2026 20:00",
-        "league": "ŞMP",
-        "matchCode": "4549521",
-        "home": "Feyenoord",
-        "away": "Inter",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Both Teams to Score - Yes",
-        "ihtimal": "100.0",
-        "odds": "1.28",
-        "matchCount": "2",
-        "matchLink": "4549521",
-        "status": "Pending",
-        "predictedScore": "1-4",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 14:58",
-        "patternScore": 56.04,
-        "patternText": "186.718/333.169",
-        "patternInfo": {
-            "m": 70,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 86.67
-        },
-        "aiScore": 55
-    },
-    {
-        "date": "03.11.2026 20:00",
-        "league": "ŞMP",
-        "matchCode": "4549521",
-        "home": "Feyenoord",
-        "away": "Inter",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "100.0",
-        "odds": "1.42",
-        "matchCount": "2",
-        "matchLink": "4549521",
-        "status": "Pending",
-        "predictedScore": "1-4",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 14:58",
-        "patternScore": 57.21,
-        "patternText": "191.032/333.891",
-        "patternInfo": {
-            "m": 56,
-            "s": 2,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 54
-    },
-    {
-        "date": "03.11.2026 20:00",
-        "league": "ŞMP",
-        "matchCode": "4549521",
-        "home": "Feyenoord",
-        "away": "Inter",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "100.0",
-        "odds": "1.08",
-        "matchCount": "2",
-        "matchLink": "4549521",
-        "status": "Pending",
-        "predictedScore": "1-4",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 14:58",
-        "patternScore": 58.32,
-        "patternText": "207.649/356.050",
-        "patternInfo": {
-            "m": 77,
-            "s": 10,
-            "f": 5,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 90
-    },
-    {
-        "date": "03.11.2026 20:00",
-        "league": "ŞMP",
-        "matchCode": "4549521",
-        "home": "Feyenoord",
-        "away": "Inter",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Under 2.5",
-        "ihtimal": "100.0",
-        "odds": "1.08",
-        "matchCount": "2",
-        "matchLink": "4549521",
-        "status": "Pending",
-        "predictedScore": "1-4",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 14:58",
-        "patternScore": 57.44,
-        "patternText": "189.450/329.821",
-        "patternInfo": {
-            "m": 70,
-            "s": 19,
-            "f": 8,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 95
-    },
-    {
         "date": "04.11.2026 17:45",
         "league": "ŞMP",
         "matchCode": "4549404",
@@ -619,7 +409,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 60.29,
-        "patternText": "262.156/434.799",
+        "patternText": "262.158/434.801",
         "patternInfo": {
             "m": 89,
             "s": 10,
@@ -627,7 +417,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "04.11.2026 17:45",
@@ -709,7 +499,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 58.35,
-        "patternText": "229.719/393.660",
+        "patternText": "229.721/393.662",
         "patternInfo": {
             "m": 80,
             "s": 4,
@@ -739,7 +529,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 60.02,
-        "patternText": "237.040/394.956",
+        "patternText": "237.042/394.958",
         "patternInfo": {
             "m": 93,
             "s": 18,
@@ -859,7 +649,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 58.09,
-        "patternText": "202.604/348.792",
+        "patternText": "202.606/348.794",
         "patternInfo": {
             "m": 74,
             "s": 10,
@@ -897,7 +687,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "04.11.2026 20:00",
@@ -927,7 +717,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "04.11.2026 20:00",
@@ -949,7 +739,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.59,
-        "patternText": "260.913/374.937",
+        "patternText": "260.931/374.957",
         "patternInfo": {
             "m": 68,
             "s": 11,
@@ -957,7 +747,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "04.11.2026 20:00",
@@ -979,7 +769,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.22,
-        "patternText": "120.034/178.562",
+        "patternText": "120.046/178.574",
         "patternInfo": {
             "m": 59,
             "s": 5,
@@ -1008,8 +798,8 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": 68.5,
-        "patternText": "133.276/194.552",
+        "patternScore": 68.51,
+        "patternText": "133.296/194.572",
         "patternInfo": {
             "m": 66,
             "s": 7,
@@ -1039,7 +829,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 66.77,
-        "patternText": "173.951/260.520",
+        "patternText": "173.961/260.532",
         "patternInfo": {
             "m": 47,
             "s": 1,
@@ -1069,7 +859,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.21,
-        "patternText": "150.118/216.900",
+        "patternText": "150.138/216.920",
         "patternInfo": {
             "m": 67,
             "s": 4,
@@ -1099,7 +889,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 66.78,
-        "patternText": "195.435/292.666",
+        "patternText": "195.445/292.678",
         "patternInfo": {
             "m": 59,
             "s": 1,
@@ -1129,7 +919,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 59.95,
-        "patternText": "236.835/395.070",
+        "patternText": "236.839/395.074",
         "patternInfo": {
             "m": 75,
             "s": 11,
@@ -1249,7 +1039,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 57.39,
-        "patternText": "196.675/342.706",
+        "patternText": "196.677/342.708",
         "patternInfo": {
             "m": 63,
             "s": 2,
@@ -1279,7 +1069,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 57.07,
-        "patternText": "187.968/329.340",
+        "patternText": "187.970/329.342",
         "patternInfo": {
             "m": 72,
             "s": 16,
@@ -1309,7 +1099,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.71,
-        "patternText": "124.374/178.417",
+        "patternText": "124.378/178.421",
         "patternInfo": {
             "m": 59,
             "s": 2,
@@ -1317,7 +1107,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "04.11.2026 20:00",
@@ -1339,7 +1129,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.51,
-        "patternText": "196.382/282.540",
+        "patternText": "196.388/282.548",
         "patternInfo": {
             "m": 63,
             "s": 6,
@@ -1369,7 +1159,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.18,
-        "patternText": "113.892/164.627",
+        "patternText": "113.896/164.631",
         "patternInfo": {
             "m": 59,
             "s": 1,
@@ -1399,7 +1189,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.53,
-        "patternText": "205.072/294.945",
+        "patternText": "205.082/294.957",
         "patternInfo": {
             "m": 66,
             "s": 8,
@@ -1429,7 +1219,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.36,
-        "patternText": "194.348/284.284",
+        "patternText": "194.356/284.294",
         "patternInfo": {
             "m": 64,
             "s": 5,
@@ -1459,7 +1249,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.56,
-        "patternText": "129.546/183.599",
+        "patternText": "129.554/183.607",
         "patternInfo": {
             "m": 63,
             "s": 3,
@@ -1489,7 +1279,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 59.74,
-        "patternText": "258.587/432.848",
+        "patternText": "258.589/432.850",
         "patternInfo": {
             "m": 96,
             "s": 4,
@@ -1519,7 +1309,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 57.83,
-        "patternText": "218.667/378.152",
+        "patternText": "218.669/378.154",
         "patternInfo": {
             "m": 95,
             "s": 2,
@@ -1557,7 +1347,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "05.11.2026 17:45",
@@ -1579,7 +1369,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.54,
-        "patternText": "282.246/405.881",
+        "patternText": "282.258/405.899",
         "patternInfo": {
             "m": 75,
             "s": 2,
@@ -1609,7 +1399,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.23,
-        "patternText": "131.040/192.058",
+        "patternText": "131.046/192.066",
         "patternInfo": {
             "m": 64,
             "s": 1,
@@ -1617,7 +1407,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "05.11.2026 17:45",
@@ -1639,7 +1429,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.78,
-        "patternText": "232.110/337.473",
+        "patternText": "232.120/337.489",
         "patternInfo": {
             "m": 68,
             "s": 5,
@@ -1669,7 +1459,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.75,
-        "patternText": "151.392/217.062",
+        "patternText": "151.410/217.082",
         "patternInfo": {
             "m": 67,
             "s": 2,
@@ -1699,7 +1489,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.83,
-        "patternText": "223.453/329.411",
+        "patternText": "223.463/329.427",
         "patternInfo": {
             "m": 70,
             "s": 1,
@@ -1729,7 +1519,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.51,
-        "patternText": "262.645/377.838",
+        "patternText": "262.653/377.848",
         "patternInfo": {
             "m": 75,
             "s": 4,
@@ -1759,7 +1549,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.29,
-        "patternText": "212.844/311.697",
+        "patternText": "212.850/311.705",
         "patternInfo": {
             "m": 73,
             "s": 5,
@@ -1789,7 +1579,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.97,
-        "patternText": "141.405/205.019",
+        "patternText": "141.409/205.023",
         "patternInfo": {
             "m": 70,
             "s": 4,
@@ -1819,7 +1609,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.34,
-        "patternText": "230.924/333.051",
+        "patternText": "230.936/333.065",
         "patternInfo": {
             "m": 74,
             "s": 4,
@@ -1827,7 +1617,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "05.11.2026 17:45",
@@ -1849,7 +1639,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.31,
-        "patternText": "275.656/397.688",
+        "patternText": "275.668/397.706",
         "patternInfo": {
             "m": 79,
             "s": 2,
@@ -1879,7 +1669,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.5,
-        "patternText": "121.636/180.213",
+        "patternText": "121.642/180.221",
         "patternInfo": {
             "m": 65,
             "s": 1,
@@ -1909,7 +1699,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.1,
-        "patternText": "121.204/180.633",
+        "patternText": "121.210/180.641",
         "patternInfo": {
             "m": 64,
             "s": 1,
@@ -1939,7 +1729,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.03,
-        "patternText": "82.969/121.967",
+        "patternText": "82.971/121.971",
         "patternInfo": {
             "m": 61,
             "s": 4,
@@ -1969,7 +1759,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 66.9,
-        "patternText": "122.951/183.781",
+        "patternText": "122.957/183.789",
         "patternInfo": {
             "m": 65,
             "s": 1,
@@ -1999,7 +1789,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.42,
-        "patternText": "82.654/122.604",
+        "patternText": "82.660/122.612",
         "patternInfo": {
             "m": 56,
             "s": 1,
@@ -2029,7 +1819,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.74,
-        "patternText": "144.523/210.243",
+        "patternText": "144.529/210.251",
         "patternInfo": {
             "m": 72,
             "s": 5,
@@ -2059,7 +1849,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.75,
-        "patternText": "277.753/398.240",
+        "patternText": "277.761/398.250",
         "patternInfo": {
             "m": 77,
             "s": 4,
@@ -2089,7 +1879,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.59,
-        "patternText": "192.918/285.428",
+        "patternText": "192.924/285.436",
         "patternInfo": {
             "m": 65,
             "s": 2,
@@ -2119,7 +1909,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.05,
-        "patternText": "211.367/310.588",
+        "patternText": "211.373/310.596",
         "patternInfo": {
             "m": 61,
             "s": 3,
@@ -2149,7 +1939,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.38,
-        "patternText": "144.725/205.626",
+        "patternText": "144.729/205.630",
         "patternInfo": {
             "m": 71,
             "s": 14,
@@ -2179,7 +1969,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.18,
-        "patternText": "195.090/290.418",
+        "patternText": "195.096/290.426",
         "patternInfo": {
             "m": 65,
             "s": 2,
@@ -2209,7 +1999,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.83,
-        "patternText": "219.246/318.546",
+        "patternText": "219.258/318.560",
         "patternInfo": {
             "m": 69,
             "s": 5,
@@ -2239,7 +2029,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.43,
-        "patternText": "223.932/327.252",
+        "patternText": "223.938/327.260",
         "patternInfo": {
             "m": 72,
             "s": 2,
@@ -2269,7 +2059,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.45,
-        "patternText": "200.542/288.764",
+        "patternText": "200.562/288.784",
         "patternInfo": {
             "m": 79,
             "s": 6,
@@ -2299,7 +2089,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.1,
-        "patternText": "163.300/239.810",
+        "patternText": "163.312/239.822",
         "patternInfo": {
             "m": 82,
             "s": 3,
@@ -2329,7 +2119,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.16,
-        "patternText": "151.983/226.302",
+        "patternText": "151.995/226.314",
         "patternInfo": {
             "m": 74,
             "s": 1,
@@ -2359,7 +2149,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.37,
-        "patternText": "184.810/262.634",
+        "patternText": "184.820/262.646",
         "patternInfo": {
             "m": 75,
             "s": 4,
@@ -2389,7 +2179,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.44,
-        "patternText": "81.240/120.454",
+        "patternText": "81.242/120.458",
         "patternInfo": {
             "m": 57,
             "s": 5,
@@ -2397,7 +2187,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "05.11.2026 17:45",
@@ -2419,7 +2209,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.04,
-        "patternText": "215.198/316.265",
+        "patternText": "215.208/316.281",
         "patternInfo": {
             "m": 66,
             "s": 2,
@@ -2449,7 +2239,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.26,
-        "patternText": "120.908/179.753",
+        "patternText": "120.914/179.761",
         "patternInfo": {
             "m": 64,
             "s": 1,
@@ -2479,7 +2269,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.6,
-        "patternText": "150.761/216.616",
+        "patternText": "150.771/216.628",
         "patternInfo": {
             "m": 69,
             "s": 3,
@@ -2508,8 +2298,8 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": 67.84,
-        "patternText": "91.707/135.191",
+        "patternScore": 67.83,
+        "patternText": "91.709/135.195",
         "patternInfo": {
             "m": 60,
             "s": 3,
@@ -2517,7 +2307,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "05.11.2026 17:45",
@@ -2538,8 +2328,8 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": 66.71,
-        "patternText": "130.575/195.724",
+        "patternScore": 66.72,
+        "patternText": "130.587/195.736",
         "patternInfo": {
             "m": 57,
             "s": 1,
@@ -2569,7 +2359,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.48,
-        "patternText": "153.207/223.736",
+        "patternText": "153.219/223.748",
         "patternInfo": {
             "m": 72,
             "s": 7,
@@ -2599,7 +2389,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 66.54,
-        "patternText": "133.377/200.442",
+        "patternText": "133.389/200.454",
         "patternInfo": {
             "m": 63,
             "s": 4,
@@ -2629,7 +2419,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.71,
-        "patternText": "159.791/236.002",
+        "patternText": "159.803/236.014",
         "patternInfo": {
             "m": 72,
             "s": 2,
@@ -2659,7 +2449,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 62.5,
-        "patternText": "158.229/253.168",
+        "patternText": "158.233/253.172",
         "patternInfo": {
             "m": 73,
             "s": 5,
@@ -2689,7 +2479,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 62.35,
-        "patternText": "152.025/243.823",
+        "patternText": "152.029/243.827",
         "patternInfo": {
             "m": 72,
             "s": 3,
@@ -2719,7 +2509,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 63.51,
-        "patternText": "164.715/259.356",
+        "patternText": "164.723/259.364",
         "patternInfo": {
             "m": 72,
             "s": 5,
@@ -2749,7 +2539,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.51,
-        "patternText": "156.936/232.479",
+        "patternText": "156.948/232.491",
         "patternInfo": {
             "m": 72,
             "s": 1,
@@ -2779,7 +2569,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 58.08,
-        "patternText": "221.164/380.796",
+        "patternText": "221.166/380.798",
         "patternInfo": {
             "m": 95,
             "s": 10,
@@ -2899,7 +2689,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.22,
-        "patternText": "222.977/326.844",
+        "patternText": "222.987/326.860",
         "patternInfo": {
             "m": 56,
             "s": 1,
@@ -2929,7 +2719,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.46,
-        "patternText": "200.205/296.760",
+        "patternText": "200.223/296.784",
         "patternInfo": {
             "m": 63,
             "s": 4,
@@ -2959,7 +2749,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.46,
-        "patternText": "199.401/295.582",
+        "patternText": "199.411/295.598",
         "patternInfo": {
             "m": 58,
             "s": 1,
@@ -2989,7 +2779,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.13,
-        "patternText": "135.151/198.372",
+        "patternText": "135.157/198.380",
         "patternInfo": {
             "m": 62,
             "s": 1,
@@ -3019,7 +2809,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.54,
-        "patternText": "84.870/123.833",
+        "patternText": "84.874/123.839",
         "patternInfo": {
             "m": 63,
             "s": 2,
@@ -3049,7 +2839,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 66.92,
-        "patternText": "201.513/301.140",
+        "patternText": "201.523/301.156",
         "patternInfo": {
             "m": 64,
             "s": 2,
@@ -3079,7 +2869,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.02,
-        "patternText": "140.101/202.980",
+        "patternText": "140.115/202.996",
         "patternInfo": {
             "m": 62,
             "s": 2,
@@ -3109,7 +2899,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.04,
-        "patternText": "225.284/331.086",
+        "patternText": "225.294/331.102",
         "patternInfo": {
             "m": 70,
             "s": 1,
@@ -3139,7 +2929,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.37,
-        "patternText": "130.007/192.982",
+        "patternText": "130.013/192.990",
         "patternInfo": {
             "m": 60,
             "s": 1,
@@ -3169,7 +2959,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 66.66,
-        "patternText": "136.754/205.149",
+        "patternText": "136.768/205.163",
         "patternInfo": {
             "m": 57,
             "s": 3,
@@ -3199,7 +2989,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.53,
-        "patternText": "169.398/247.183",
+        "patternText": "169.418/247.203",
         "patternInfo": {
             "m": 69,
             "s": 3,
@@ -3229,7 +3019,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.75,
-        "patternText": "151.864/224.145",
+        "patternText": "151.878/224.159",
         "patternInfo": {
             "m": 68,
             "s": 3,
@@ -3237,7 +3027,7 @@
             "e": 85,
             "b": 94.44
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "05.11.2026 17:45",
@@ -3258,8 +3048,8 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": 67.19,
-        "patternText": "223.985/333.336",
+        "patternScore": 67.2,
+        "patternText": "223.995/333.348",
         "patternInfo": {
             "m": 73,
             "s": 1,
@@ -3288,8 +3078,8 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": 68.27,
-        "patternText": "153.607/224.985",
+        "patternScore": 68.28,
+        "patternText": "153.621/224.999",
         "patternInfo": {
             "m": 74,
             "s": 1,
@@ -3319,7 +3109,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.46,
-        "patternText": "231.400/342.998",
+        "patternText": "231.410/343.010",
         "patternInfo": {
             "m": 75,
             "s": 2,
@@ -3349,7 +3139,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.01,
-        "patternText": "286.094/414.583",
+        "patternText": "286.108/414.599",
         "patternInfo": {
             "m": 80,
             "s": 4,
@@ -3379,7 +3169,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.47,
-        "patternText": "146.885/217.716",
+        "patternText": "146.897/217.728",
         "patternInfo": {
             "m": 70,
             "s": 3,
@@ -3409,7 +3199,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 66.3,
-        "patternText": "206.189/310.976",
+        "patternText": "206.199/310.988",
         "patternInfo": {
             "m": 73,
             "s": 3,
@@ -3439,7 +3229,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.53,
-        "patternText": "165.361/241.298",
+        "patternText": "165.381/241.318",
         "patternInfo": {
             "m": 71,
             "s": 2,
@@ -3468,8 +3258,8 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": 70.96,
-        "patternText": "156.111/219.984",
+        "patternScore": 70.97,
+        "patternText": "156.119/219.992",
         "patternInfo": {
             "m": 72,
             "s": 1,
@@ -3499,7 +3289,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.47,
-        "patternText": "201.505/290.058",
+        "patternText": "201.511/290.066",
         "patternInfo": {
             "m": 73,
             "s": 7,
@@ -3529,7 +3319,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.43,
-        "patternText": "204.427/294.456",
+        "patternText": "204.435/294.466",
         "patternInfo": {
             "m": 69,
             "s": 3,
@@ -3559,7 +3349,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.38,
-        "patternText": "193.945/283.624",
+        "patternText": "193.951/283.632",
         "patternInfo": {
             "m": 70,
             "s": 3,
@@ -3589,7 +3379,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.99,
-        "patternText": "144.005/202.864",
+        "patternText": "144.013/202.872",
         "patternInfo": {
             "m": 63,
             "s": 3,
@@ -3619,7 +3409,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.27,
-        "patternText": "118.941/169.262",
+        "patternText": "118.945/169.266",
         "patternInfo": {
             "m": 68,
             "s": 7,
@@ -3627,7 +3417,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "05.11.2026 20:00",
@@ -3649,7 +3439,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.44,
-        "patternText": "196.181/282.502",
+        "patternText": "196.189/282.512",
         "patternInfo": {
             "m": 64,
             "s": 7,
@@ -3679,7 +3469,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.43,
-        "patternText": "182.767/267.086",
+        "patternText": "182.773/267.094",
         "patternInfo": {
             "m": 64,
             "s": 2,
@@ -3709,7 +3499,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 71.0,
-        "patternText": "160.040/225.406",
+        "patternText": "160.048/225.414",
         "patternInfo": {
             "m": 71,
             "s": 2,
@@ -3739,7 +3529,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.88,
-        "patternText": "177.533/261.531",
+        "patternText": "177.539/261.539",
         "patternInfo": {
             "m": 67,
             "s": 3,
@@ -3769,7 +3559,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.87,
-        "patternText": "176.879/256.843",
+        "patternText": "176.885/256.851",
         "patternInfo": {
             "m": 60,
             "s": 4,
@@ -3799,7 +3589,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.22,
-        "patternText": "188.152/275.800",
+        "patternText": "188.158/275.808",
         "patternInfo": {
             "m": 63,
             "s": 3,
@@ -3829,7 +3619,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.52,
-        "patternText": "115.256/163.439",
+        "patternText": "115.260/163.443",
         "patternInfo": {
             "m": 67,
             "s": 8,
@@ -3858,8 +3648,8 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": 68.69,
-        "patternText": "190.539/277.371",
+        "patternScore": 68.7,
+        "patternText": "190.549/277.383",
         "patternInfo": {
             "m": 68,
             "s": 5,
@@ -3889,7 +3679,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.37,
-        "patternText": "122.193/176.156",
+        "patternText": "122.197/176.160",
         "patternInfo": {
             "m": 70,
             "s": 1,
@@ -3919,7 +3709,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.01,
-        "patternText": "250.930/358.431",
+        "patternText": "250.946/358.453",
         "patternInfo": {
             "m": 67,
             "s": 5,
@@ -3949,7 +3739,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.74,
-        "patternText": "118.630/170.111",
+        "patternText": "118.638/170.121",
         "patternInfo": {
             "m": 66,
             "s": 2,
@@ -3957,7 +3747,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "05.11.2026 20:00",
@@ -3979,7 +3769,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.45,
-        "patternText": "170.587/252.898",
+        "patternText": "170.597/252.914",
         "patternInfo": {
             "m": 49,
             "s": 1,
@@ -4009,7 +3799,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.01,
-        "patternText": "124.581/180.519",
+        "patternText": "124.587/180.527",
         "patternInfo": {
             "m": 67,
             "s": 4,
@@ -4039,7 +3829,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 57.53,
-        "patternText": "203.217/353.259",
+        "patternText": "203.219/353.261",
         "patternInfo": {
             "m": 88,
             "s": 6,
@@ -4129,7 +3919,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 57.12,
-        "patternText": "190.745/333.959",
+        "patternText": "190.747/333.961",
         "patternInfo": {
             "m": 76,
             "s": 7,
@@ -4159,7 +3949,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 57.58,
-        "patternText": "203.127/352.777",
+        "patternText": "203.129/352.779",
         "patternInfo": {
             "m": 82,
             "s": 7,
@@ -4339,7 +4129,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.49,
-        "patternText": "132.752/196.706",
+        "patternText": "132.766/196.720",
         "patternInfo": {
             "m": 68,
             "s": 1,
@@ -4369,7 +4159,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.4,
-        "patternText": "126.570/187.796",
+        "patternText": "126.582/187.808",
         "patternInfo": {
             "m": 63,
             "s": 3,
@@ -4377,7 +4167,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "05.11.2026 20:00",
@@ -4398,8 +4188,8 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": 62.34,
-        "patternText": "134.616/215.924",
+        "patternScore": 62.35,
+        "patternText": "134.624/215.932",
         "patternInfo": {
             "m": 74,
             "s": 5,
@@ -4429,7 +4219,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.35,
-        "patternText": "202.972/301.353",
+        "patternText": "202.982/301.365",
         "patternInfo": {
             "m": 74,
             "s": 2,
@@ -4459,7 +4249,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 66.29,
-        "patternText": "180.395/272.127",
+        "patternText": "180.405/272.139",
         "patternInfo": {
             "m": 58,
             "s": 2,
@@ -4488,8 +4278,8 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": 66.56,
-        "patternText": "171.679/257.913",
+        "patternScore": 66.57,
+        "patternText": "171.689/257.925",
         "patternInfo": {
             "m": 55,
             "s": 1,
@@ -4519,7 +4309,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.08,
-        "patternText": "149.660/216.655",
+        "patternText": "149.674/216.669",
         "patternInfo": {
             "m": 72,
             "s": 8,
@@ -4549,7 +4339,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.45,
-        "patternText": "135.673/201.154",
+        "patternText": "135.685/201.166",
         "patternInfo": {
             "m": 70,
             "s": 2,
@@ -4579,7 +4369,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 56.24,
-        "patternText": "189.673/337.275",
+        "patternText": "189.675/337.277",
         "patternInfo": {
             "m": 96,
             "s": 9,
@@ -4669,7 +4459,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 58.09,
-        "patternText": "209.726/361.026",
+        "patternText": "209.728/361.028",
         "patternInfo": {
             "m": 98,
             "s": 14,
@@ -4729,7 +4519,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.94,
-        "patternText": "164.865/232.412",
+        "patternText": "164.877/232.426",
         "patternInfo": {
             "m": 74,
             "s": 3,
@@ -4759,7 +4549,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.35,
-        "patternText": "78.196/112.750",
+        "patternText": "78.198/112.754",
         "patternInfo": {
             "m": 63,
             "s": 4,
@@ -4789,7 +4579,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.07,
-        "patternText": "182.892/268.671",
+        "patternText": "182.906/268.691",
         "patternInfo": {
             "m": 53,
             "s": 1,
@@ -4819,7 +4609,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.35,
-        "patternText": "205.798/301.111",
+        "patternText": "205.808/301.127",
         "patternInfo": {
             "m": 74,
             "s": 2,
@@ -4848,8 +4638,8 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": 70.02,
-        "patternText": "249.009/355.601",
+        "patternScore": 70.03,
+        "patternText": "249.017/355.611",
         "patternInfo": {
             "m": 62,
             "s": 3,
@@ -4857,7 +4647,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "05.11.2026 20:00",
@@ -4879,7 +4669,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.51,
-        "patternText": "187.777/274.083",
+        "patternText": "187.783/274.091",
         "patternInfo": {
             "m": 58,
             "s": 3,
@@ -4939,7 +4729,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.26,
-        "patternText": "189.207/277.205",
+        "patternText": "189.213/277.213",
         "patternInfo": {
             "m": 53,
             "s": 6,
@@ -5028,8 +4818,8 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": 69.83,
-        "patternText": "177.899/254.744",
+        "patternScore": 69.84,
+        "patternText": "177.927/254.772",
         "patternInfo": {
             "m": 76,
             "s": 3,
@@ -5058,8 +4848,8 @@
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": 67.99,
-        "patternText": "198.341/291.701",
+        "patternScore": 68.0,
+        "patternText": "198.351/291.713",
         "patternInfo": {
             "m": 62,
             "s": 2,
@@ -5067,7 +4857,7 @@
             "e": 85,
             "b": 89.47
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "05.11.2026 20:00",
@@ -5089,7 +4879,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.34,
-        "patternText": "133.048/194.680",
+        "patternText": "133.062/194.694",
         "patternInfo": {
             "m": 68,
             "s": 1,
@@ -5119,7 +4909,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.05,
-        "patternText": "147.458/213.555",
+        "patternText": "147.478/213.575",
         "patternInfo": {
             "m": 72,
             "s": 4,
@@ -5149,7 +4939,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 66.09,
-        "patternText": "126.004/190.662",
+        "patternText": "126.016/190.674",
         "patternInfo": {
             "m": 66,
             "s": 2,
@@ -5179,7 +4969,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 58.21,
-        "patternText": "209.922/360.617",
+        "patternText": "209.924/360.619",
         "patternInfo": {
             "m": 98,
             "s": 12,
@@ -5217,7 +5007,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "03.11.2026 05:00",
@@ -5539,7 +5329,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.73,
-        "patternText": "266.947/377.424",
+        "patternText": "266.973/377.456",
         "patternInfo": {
             "m": 68,
             "s": 12,
@@ -5569,7 +5359,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.64,
-        "patternText": "223.411/316.249",
+        "patternText": "223.419/316.259",
         "patternInfo": {
             "m": 51,
             "s": 6,
@@ -5599,7 +5389,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.24,
-        "patternText": "183.376/261.066",
+        "patternText": "183.388/261.080",
         "patternInfo": {
             "m": 47,
             "s": 7,
@@ -5629,7 +5419,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 61.22,
-        "patternText": "113.811/185.903",
+        "patternText": "113.815/185.907",
         "patternInfo": {
             "m": 59,
             "s": 10,
@@ -5659,7 +5449,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.56,
-        "patternText": "129.455/191.614",
+        "patternText": "129.467/191.626",
         "patternInfo": {
             "m": 58,
             "s": 3,
@@ -5689,7 +5479,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.46,
-        "patternText": "133.391/194.846",
+        "patternText": "133.411/194.866",
         "patternInfo": {
             "m": 57,
             "s": 3,
@@ -5719,7 +5509,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 66.75,
-        "patternText": "125.672/188.267",
+        "patternText": "125.684/188.279",
         "patternInfo": {
             "m": 60,
             "s": 2,
@@ -5749,7 +5539,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 71.42,
-        "patternText": "160.738/225.069",
+        "patternText": "160.752/225.085",
         "patternInfo": {
             "m": 64,
             "s": 5,
@@ -5757,7 +5547,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 95
     },
     {
         "date": "04.11.2026 00:30",
@@ -5779,7 +5569,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.9,
-        "patternText": "74.524/106.615",
+        "patternText": "74.528/106.621",
         "patternInfo": {
             "m": 52,
             "s": 2,
@@ -5809,7 +5599,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.86,
-        "patternText": "98.502/145.151",
+        "patternText": "98.508/145.159",
         "patternInfo": {
             "m": 49,
             "s": 3,
@@ -5839,7 +5629,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.83,
-        "patternText": "114.364/166.166",
+        "patternText": "114.370/166.174",
         "patternInfo": {
             "m": 58,
             "s": 2,
@@ -5869,7 +5659,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.23,
-        "patternText": "102.457/147.997",
+        "patternText": "102.463/148.003",
         "patternInfo": {
             "m": 40,
             "s": 3,
@@ -5989,7 +5779,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.65,
-        "patternText": "204.538/293.662",
+        "patternText": "204.558/293.682",
         "patternInfo": {
             "m": 82,
             "s": 12,
@@ -6019,7 +5809,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.76,
-        "patternText": "220.151/324.905",
+        "patternText": "220.161/324.917",
         "patternInfo": {
             "m": 69,
             "s": 7,
@@ -6049,7 +5839,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.17,
-        "patternText": "138.585/206.325",
+        "patternText": "138.597/206.337",
         "patternInfo": {
             "m": 68,
             "s": 4,
@@ -6079,7 +5869,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.25,
-        "patternText": "173.925/251.145",
+        "patternText": "173.937/251.157",
         "patternInfo": {
             "m": 83,
             "s": 7,
@@ -6109,7 +5899,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 66.43,
-        "patternText": "138.624/208.692",
+        "patternText": "138.636/208.704",
         "patternInfo": {
             "m": 71,
             "s": 2,
@@ -6139,7 +5929,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.43,
-        "patternText": "228.556/338.961",
+        "patternText": "228.566/338.973",
         "patternInfo": {
             "m": 75,
             "s": 5,
@@ -6169,7 +5959,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.3,
-        "patternText": "232.587/340.557",
+        "patternText": "232.601/340.573",
         "patternInfo": {
             "m": 72,
             "s": 9,
@@ -6177,7 +5967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "04.11.2026 19:45",
@@ -6199,7 +5989,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.9,
-        "patternText": "240.588/354.331",
+        "patternText": "240.598/354.343",
         "patternInfo": {
             "m": 83,
             "s": 12,
@@ -6229,7 +6019,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.02,
-        "patternText": "253.842/367.801",
+        "patternText": "253.856/367.817",
         "patternInfo": {
             "m": 70,
             "s": 6,
@@ -6259,7 +6049,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.22,
-        "patternText": "211.799/310.465",
+        "patternText": "211.809/310.477",
         "patternInfo": {
             "m": 70,
             "s": 1,
@@ -6289,7 +6079,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.49,
-        "patternText": "140.342/204.913",
+        "patternText": "140.364/204.935",
         "patternInfo": {
             "m": 65,
             "s": 5,
@@ -6319,7 +6109,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.48,
-        "patternText": "202.682/300.366",
+        "patternText": "202.692/300.378",
         "patternInfo": {
             "m": 70,
             "s": 3,
@@ -6349,7 +6139,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 71.15,
-        "patternText": "151.292/212.637",
+        "patternText": "151.300/212.645",
         "patternInfo": {
             "m": 71,
             "s": 5,
@@ -6379,7 +6169,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.57,
-        "patternText": "108.687/154.016",
+        "patternText": "108.691/154.020",
         "patternInfo": {
             "m": 61,
             "s": 8,
@@ -6409,7 +6199,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.12,
-        "patternText": "62.092/91.146",
+        "patternText": "62.094/91.148",
         "patternInfo": {
             "m": 50,
             "s": 3,
@@ -6439,7 +6229,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.57,
-        "patternText": "121.281/171.857",
+        "patternText": "121.289/171.865",
         "patternInfo": {
             "m": 63,
             "s": 5,
@@ -6469,7 +6259,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.2,
-        "patternText": "176.944/255.714",
+        "patternText": "176.950/255.722",
         "patternInfo": {
             "m": 39,
             "s": 3,
@@ -6499,7 +6289,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.5,
-        "patternText": "189.896/269.364",
+        "patternText": "189.904/269.374",
         "patternInfo": {
             "m": 43,
             "s": 5,
@@ -6529,7 +6319,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.28,
-        "patternText": "125.592/178.707",
+        "patternText": "125.596/178.711",
         "patternInfo": {
             "m": 64,
             "s": 4,
@@ -6537,7 +6327,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "05.11.2026 00:30",
@@ -6559,7 +6349,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.82,
-        "patternText": "107.077/153.366",
+        "patternText": "107.081/153.370",
         "patternInfo": {
             "m": 60,
             "s": 5,
@@ -6589,7 +6379,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.63,
-        "patternText": "197.567/283.732",
+        "patternText": "197.577/283.744",
         "patternInfo": {
             "m": 72,
             "s": 7,
@@ -6619,7 +6409,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 71.03,
-        "patternText": "123.601/174.008",
+        "patternText": "123.617/174.024",
         "patternInfo": {
             "m": 63,
             "s": 3,
@@ -6649,7 +6439,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.47,
-        "patternText": "184.086/268.859",
+        "patternText": "184.092/268.867",
         "patternInfo": {
             "m": 68,
             "s": 4,
@@ -6679,7 +6469,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.59,
-        "patternText": "235.806/338.845",
+        "patternText": "235.818/338.863",
         "patternInfo": {
             "m": 73,
             "s": 2,
@@ -6709,7 +6499,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.26,
-        "patternText": "182.316/267.106",
+        "patternText": "182.326/267.122",
         "patternInfo": {
             "m": 65,
             "s": 4,
@@ -6739,7 +6529,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.31,
-        "patternText": "112.079/161.700",
+        "patternText": "112.085/161.708",
         "patternInfo": {
             "m": 61,
             "s": 2,
@@ -6769,7 +6559,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 57.0,
-        "patternText": "184.814/324.233",
+        "patternText": "184.816/324.235",
         "patternInfo": {
             "m": 52,
             "s": 6,
@@ -6799,7 +6589,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.44,
-        "patternText": "217.699/322.827",
+        "patternText": "217.713/322.843",
         "patternInfo": {
             "m": 57,
             "s": 1,
@@ -6829,7 +6619,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.14,
-        "patternText": "201.714/291.762",
+        "patternText": "201.720/291.770",
         "patternInfo": {
             "m": 40,
             "s": 1,
@@ -6837,7 +6627,7 @@
             "e": 85,
             "b": 86.67
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "05.11.2026 19:45",
@@ -6859,7 +6649,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.54,
-        "patternText": "198.887/290.188",
+        "patternText": "198.893/290.196",
         "patternInfo": {
             "m": 42,
             "s": 1,
@@ -6889,7 +6679,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.56,
-        "patternText": "205.538/295.481",
+        "patternText": "205.550/295.495",
         "patternInfo": {
             "m": 43,
             "s": 2,
@@ -6919,7 +6709,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 64.03,
-        "patternText": "232.301/362.818",
+        "patternText": "232.311/362.830",
         "patternInfo": {
             "m": 57,
             "s": 1,
@@ -6949,7 +6739,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 66.84,
-        "patternText": "314.575/470.654",
+        "patternText": "314.583/470.664",
         "patternInfo": {
             "m": 71,
             "s": 5,
@@ -6957,7 +6747,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "06.11.2026 00:30",
@@ -7039,7 +6829,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 65.92,
-        "patternText": "267.761/406.216",
+        "patternText": "267.769/406.226",
         "patternInfo": {
             "m": 65,
             "s": 5,
@@ -7099,7 +6889,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.06,
-        "patternText": "241.492/344.694",
+        "patternText": "241.500/344.704",
         "patternInfo": {
             "m": 50,
             "s": 5,
@@ -7129,7 +6919,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.64,
-        "patternText": "202.596/290.934",
+        "patternText": "202.604/290.944",
         "patternInfo": {
             "m": 42,
             "s": 3,
@@ -7317,7 +7107,7 @@
             "e": 85,
             "b": 90.24
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "02.11.2026 15:00",
@@ -7609,7 +7399,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 57.69,
-        "patternText": "197.455/342.287",
+        "patternText": "197.457/342.289",
         "patternInfo": {
             "m": 89,
             "s": 4,
@@ -7617,7 +7407,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "04.11.2026 20:00",
@@ -7647,7 +7437,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "02.11.2026 13:15",
@@ -7737,7 +7527,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "02.11.2026 16:00",
@@ -7789,7 +7579,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 71.11,
-        "patternText": "152.961/215.116",
+        "patternText": "152.979/215.136",
         "patternInfo": {
             "m": 68,
             "s": 12,
@@ -7818,8 +7608,8 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": 71.44,
-        "patternText": "172.516/241.473",
+        "patternScore": 71.45,
+        "patternText": "172.546/241.505",
         "patternInfo": {
             "m": 61,
             "s": 9,
@@ -7849,7 +7639,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.89,
-        "patternText": "127.748/180.211",
+        "patternText": "127.766/180.231",
         "patternInfo": {
             "m": 57,
             "s": 6,
@@ -7857,7 +7647,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "03.11.2026 19:00",
@@ -7879,7 +7669,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 71.39,
-        "patternText": "145.394/203.669",
+        "patternText": "145.420/203.697",
         "patternInfo": {
             "m": 62,
             "s": 7,
@@ -8149,7 +7939,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 71.45,
-        "patternText": "191.081/267.436",
+        "patternText": "191.151/267.520",
         "patternInfo": {
             "m": 81,
             "s": 6,
@@ -8179,7 +7969,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.86,
-        "patternText": "199.234/293.605",
+        "patternText": "199.304/293.705",
         "patternInfo": {
             "m": 65,
             "s": 7,
@@ -8517,7 +8307,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "05.11.2026 17:45",
@@ -8539,7 +8329,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 56.44,
-        "patternText": "206.339/365.584",
+        "patternText": "206.341/365.586",
         "patternInfo": {
             "m": 84,
             "s": 6,
@@ -8569,7 +8359,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 58.61,
-        "patternText": "232.377/396.508",
+        "patternText": "232.379/396.510",
         "patternInfo": {
             "m": 90,
             "s": 14,
@@ -8659,7 +8449,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.86,
-        "patternText": "359.994/522.826",
+        "patternText": "360.012/522.848",
         "patternInfo": {
             "m": 66,
             "s": 6,
@@ -8689,7 +8479,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.96,
-        "patternText": "278.300/397.788",
+        "patternText": "278.314/397.804",
         "patternInfo": {
             "m": 57,
             "s": 5,
@@ -8719,7 +8509,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.12,
-        "patternText": "226.364/327.508",
+        "patternText": "226.370/327.516",
         "patternInfo": {
             "m": 49,
             "s": 2,
@@ -8877,7 +8667,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 56
+        "aiScore": 55
     },
     {
         "date": "02.11.2026 15:15",
@@ -9117,7 +8907,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "02.11.2026 19:30",
@@ -9507,7 +9297,7 @@
             "e": 85,
             "b": 87.76
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "02.11.2026 16:00",
@@ -9567,7 +9357,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "02.11.2026 19:30",
@@ -9597,7 +9387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "02.11.2026 19:30",
@@ -9777,7 +9567,7 @@
             "e": 85,
             "b": 93.75
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "02.11.2026 18:15",
@@ -10039,7 +9829,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.6,
-        "patternText": "181.582/264.711",
+        "patternText": "181.596/264.731",
         "patternInfo": {
             "m": 41,
             "s": 1,
@@ -10167,7 +9957,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "02.11.2026 16:00",
@@ -10317,7 +10107,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "02.11.2026 16:00",
@@ -10737,7 +10527,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "02.11.2026 17:00",
@@ -10767,7 +10557,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "02.11.2026 17:00",
@@ -10947,7 +10737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "02.11.2026 17:30",
@@ -11037,7 +10827,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "02.11.2026 18:00",
@@ -11067,7 +10857,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "02.11.2026 18:00",
@@ -11307,7 +11097,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "02.11.2026 18:00",
@@ -11367,7 +11157,7 @@
             "e": 85,
             "b": 91.3
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "02.11.2026 18:05",
@@ -11397,7 +11187,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "02.11.2026 18:15",
@@ -11637,7 +11427,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "02.11.2026 19:00",
@@ -11697,7 +11487,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "02.11.2026 19:45",
@@ -11787,7 +11577,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "02.11.2026 19:45",
@@ -11967,7 +11757,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "02.11.2026 19:00",
@@ -12177,7 +11967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "02.11.2026 19:00",
@@ -12507,7 +12297,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "02.11.2026 19:30",
@@ -12567,7 +12357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "02.11.2026 19:45",
@@ -12837,7 +12627,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "02.11.2026 20:00",
@@ -12957,7 +12747,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 56
     },
     {
         "date": "02.11.2026 20:00",
@@ -13497,7 +13287,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 96
     },
     {
         "date": "02.11.2026 23:00",
@@ -13609,7 +13399,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "02.11.2026 20:38",
         "patternScore": 70.56,
-        "patternText": "223.374/316.566",
+        "patternText": "223.400/316.598",
         "patternInfo": {
             "m": 30,
             "s": 3,
@@ -14059,7 +13849,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 72.49,
-        "patternText": "98.466/135.836",
+        "patternText": "98.468/135.838",
         "patternInfo": {
             "m": 46,
             "s": 4,
@@ -14089,7 +13879,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 71.34,
-        "patternText": "125.909/176.486",
+        "patternText": "125.919/176.496",
         "patternInfo": {
             "m": 49,
             "s": 4,
@@ -14157,7 +13947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "03.11.2026 00:15",
@@ -14337,7 +14127,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "03.11.2026 05:00",
@@ -14457,7 +14247,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "03.11.2026 05:00",
@@ -14637,7 +14427,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "03.11.2026 05:00",
@@ -14667,7 +14457,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "03.11.2026 05:00",
@@ -15027,7 +14817,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "03.11.2026 05:00",
@@ -15139,7 +14929,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.85,
-        "patternText": "244.951/345.742",
+        "patternText": "244.961/345.754",
         "patternInfo": {
             "m": 66,
             "s": 8,
@@ -15147,7 +14937,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "04.11.2026 10:00",
@@ -15169,7 +14959,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.04,
-        "patternText": "179.307/259.722",
+        "patternText": "179.313/259.730",
         "patternInfo": {
             "m": 56,
             "s": 1,
@@ -15199,7 +14989,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 71.08,
-        "patternText": "120.100/168.961",
+        "patternText": "120.106/168.967",
         "patternInfo": {
             "m": 56,
             "s": 3,
@@ -15229,7 +15019,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.8,
-        "patternText": "191.125/273.804",
+        "patternText": "191.135/273.816",
         "patternInfo": {
             "m": 64,
             "s": 4,
@@ -15259,7 +15049,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.9,
-        "patternText": "184.967/268.446",
+        "patternText": "184.973/268.454",
         "patternInfo": {
             "m": 58,
             "s": 2,
@@ -15289,7 +15079,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.62,
-        "patternText": "253.806/359.401",
+        "patternText": "253.816/359.413",
         "patternInfo": {
             "m": 69,
             "s": 8,
@@ -15327,7 +15117,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "03.11.2026 07:00",
@@ -15379,7 +15169,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.66,
-        "patternText": "228.125/322.834",
+        "patternText": "228.133/322.844",
         "patternInfo": {
             "m": 63,
             "s": 9,
@@ -15409,7 +15199,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.19,
-        "patternText": "185.213/263.871",
+        "patternText": "185.221/263.881",
         "patternInfo": {
             "m": 62,
             "s": 8,
@@ -15665,14 +15455,14 @@
         "matchCode": "4547666",
         "home": "Police",
         "away": "Kitara",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "1 - 1",
         "prediction": "Double Chance X2",
         "ihtimal": "75.95",
         "odds": "1.19",
         "matchCount": "79",
         "matchLink": "4547666",
-        "status": "Pending",
+        "status": "Won",
         "predictedScore": "1-1",
         "predictedScoreText": "17/79",
         "mbs": 3,
@@ -15695,14 +15485,14 @@
         "matchCode": "4547666",
         "home": "Police",
         "away": "Kitara",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "1 - 1",
         "prediction": "1st Half Double Chance X2",
         "ihtimal": "75.95",
         "odds": "1.08",
         "matchCount": "79",
         "matchLink": "4547666",
-        "status": "Pending",
+        "status": "Won",
         "predictedScore": "1-1",
         "predictedScoreText": "17/79",
         "mbs": 3,
@@ -15725,14 +15515,14 @@
         "matchCode": "4547667",
         "home": "NEC Nijmegen",
         "away": "UPDF FC",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 0",
+        "finalScore": "1 - 0",
         "prediction": "Match Result 1",
         "ihtimal": "75.0",
         "odds": "1.25",
         "matchCount": "12",
         "matchLink": "4547667",
-        "status": "Pending",
+        "status": "Won",
         "predictedScore": "3-0",
         "predictedScoreText": "3/12",
         "mbs": 3,
@@ -15807,7 +15597,7 @@
             "e": 85,
             "b": 91.89
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "03.11.2026 10:00",
@@ -15859,7 +15649,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.04,
-        "patternText": "194.976/286.561",
+        "patternText": "194.998/286.589",
         "patternInfo": {
             "m": 50,
             "s": 3,
@@ -15888,8 +15678,8 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": 68.45,
-        "patternText": "120.973/176.721",
+        "patternScore": 68.46,
+        "patternText": "120.991/176.741",
         "patternInfo": {
             "m": 49,
             "s": 4,
@@ -15919,7 +15709,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 09:06",
         "patternScore": 70.77,
-        "patternText": "269.016/380.128",
+        "patternText": "269.062/380.180",
         "patternInfo": {
             "m": 68,
             "s": 14,
@@ -15949,7 +15739,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 09:06",
         "patternScore": 71.2,
-        "patternText": "133.684/187.764",
+        "patternText": "133.718/187.800",
         "patternInfo": {
             "m": 55,
             "s": 10,
@@ -15979,7 +15769,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 09:06",
         "patternScore": 68.17,
-        "patternText": "200.732/294.467",
+        "patternText": "200.770/294.511",
         "patternInfo": {
             "m": 54,
             "s": 9,
@@ -16129,7 +15919,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.77,
-        "patternText": "137.688/200.211",
+        "patternText": "137.702/200.227",
         "patternInfo": {
             "m": 54,
             "s": 2,
@@ -16137,7 +15927,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "04.11.2026 17:00",
@@ -16159,7 +15949,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.02,
-        "patternText": "127.556/187.533",
+        "patternText": "127.562/187.541",
         "patternInfo": {
             "m": 56,
             "s": 3,
@@ -16168,96 +15958,6 @@
             "b": 100.0
         },
         "aiScore": 71
-    },
-    {
-        "date": "03.11.2026 16:00",
-        "league": "AFCŞL2",
-        "matchCode": "4550009",
-        "home": "Al Hussein",
-        "away": "Al Shorta",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "73.91",
-        "odds": "1.18",
-        "matchCount": "184",
-        "matchLink": "4550009",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "38/230",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 14:57",
-        "patternScore": 69.81,
-        "patternText": "239.536/343.139",
-        "patternInfo": {
-            "m": 57,
-            "s": 8,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 70
-    },
-    {
-        "date": "03.11.2026 16:00",
-        "league": "AFCŞL2",
-        "matchCode": "4550009",
-        "home": "Al Hussein",
-        "away": "Al Shorta",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "85.87",
-        "odds": "1.09",
-        "matchCount": "184",
-        "matchLink": "4550009",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "38/230",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 14:57",
-        "patternScore": 70.42,
-        "patternText": "135.653/192.628",
-        "patternInfo": {
-            "m": 46,
-            "s": 4,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 95
-    },
-    {
-        "date": "03.11.2026 16:00",
-        "league": "AFCŞL2",
-        "matchCode": "4550009",
-        "home": "Al Hussein",
-        "away": "Al Shorta",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "75.0",
-        "odds": "1.10",
-        "matchCount": "184",
-        "matchLink": "4550009",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "38/230",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 14:57",
-        "patternScore": 69.85,
-        "patternText": "211.076/302.187",
-        "patternInfo": {
-            "m": 55,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 88.46
-        },
-        "aiScore": 73
     },
     {
         "date": "03.11.2026 16:00",
@@ -16279,7 +15979,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 10:10",
         "patternScore": 69.05,
-        "patternText": "204.957/296.844",
+        "patternText": "204.979/296.872",
         "patternInfo": {
             "m": 46,
             "s": 8,
@@ -16309,7 +16009,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 10:10",
         "patternScore": 68.36,
-        "patternText": "184.417/269.786",
+        "patternText": "184.439/269.814",
         "patternInfo": {
             "m": 48,
             "s": 6,
@@ -16339,7 +16039,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 10:10",
         "patternScore": 69.31,
-        "patternText": "207.651/299.586",
+        "patternText": "207.673/299.614",
         "patternInfo": {
             "m": 54,
             "s": 5,
@@ -16369,7 +16069,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 10:10",
         "patternScore": 69.03,
-        "patternText": "206.733/299.488",
+        "patternText": "206.755/299.516",
         "patternInfo": {
             "m": 52,
             "s": 9,
@@ -16398,8 +16098,8 @@
         "mbs": 2,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 10:10",
-        "patternScore": 70.22,
-        "patternText": "223.145/317.758",
+        "patternScore": 70.23,
+        "patternText": "223.171/317.790",
         "patternInfo": {
             "m": 50,
             "s": 6,
@@ -16429,7 +16129,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 10:10",
         "patternScore": 67.9,
-        "patternText": "191.141/281.490",
+        "patternText": "191.163/281.518",
         "patternInfo": {
             "m": 45,
             "s": 4,
@@ -16458,8 +16158,8 @@
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": 72.32,
-        "patternText": "156.828/216.838",
+        "patternScore": 72.33,
+        "patternText": "156.836/216.846",
         "patternInfo": {
             "m": 57,
             "s": 6,
@@ -16489,7 +16189,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.87,
-        "patternText": "164.568/242.485",
+        "patternText": "164.578/242.497",
         "patternInfo": {
             "m": 44,
             "s": 3,
@@ -16519,7 +16219,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.78,
-        "patternText": "115.998/163.880",
+        "patternText": "116.008/163.890",
         "patternInfo": {
             "m": 49,
             "s": 3,
@@ -16549,7 +16249,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.36,
-        "patternText": "116.278/165.256",
+        "patternText": "116.284/165.262",
         "patternInfo": {
             "m": 50,
             "s": 3,
@@ -16579,7 +16279,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 71.94,
-        "patternText": "171.288/238.093",
+        "patternText": "171.296/238.101",
         "patternInfo": {
             "m": 46,
             "s": 1,
@@ -16617,7 +16317,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "03.11.2026 12:00",
@@ -16699,7 +16399,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 10:51",
         "patternScore": 70.81,
-        "patternText": "261.888/369.868",
+        "patternText": "261.950/369.944",
         "patternInfo": {
             "m": 67,
             "s": 2,
@@ -16857,7 +16557,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "03.11.2026 12:15",
@@ -16999,7 +16699,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 11:11",
         "patternScore": 68.78,
-        "patternText": "206.484/300.229",
+        "patternText": "206.510/300.261",
         "patternInfo": {
             "m": 49,
             "s": 5,
@@ -17029,7 +16729,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 11:11",
         "patternScore": 68.05,
-        "patternText": "179.936/264.412",
+        "patternText": "179.958/264.440",
         "patternInfo": {
             "m": 45,
             "s": 5,
@@ -17059,7 +16759,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 11:11",
         "patternScore": 68.95,
-        "patternText": "200.277/290.471",
+        "patternText": "200.299/290.499",
         "patternInfo": {
             "m": 51,
             "s": 3,
@@ -17088,8 +16788,8 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 11:11",
-        "patternScore": 69.51,
-        "patternText": "223.343/321.289",
+        "patternScore": 69.52,
+        "patternText": "223.365/321.317",
         "patternInfo": {
             "m": 54,
             "s": 6,
@@ -17119,7 +16819,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 11:11",
         "patternScore": 68.98,
-        "patternText": "202.880/294.102",
+        "patternText": "202.910/294.138",
         "patternInfo": {
             "m": 50,
             "s": 2,
@@ -17148,8 +16848,8 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 11:11",
-        "patternScore": 67.82,
-        "patternText": "193.598/285.440",
+        "patternScore": 67.83,
+        "patternText": "193.620/285.468",
         "patternInfo": {
             "m": 48,
             "s": 2,
@@ -17179,7 +16879,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 11:11",
         "patternScore": 70.51,
-        "patternText": "267.576/379.472",
+        "patternText": "267.606/379.508",
         "patternInfo": {
             "m": 72,
             "s": 7,
@@ -17209,7 +16909,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 11:11",
         "patternScore": 70.06,
-        "patternText": "232.833/332.355",
+        "patternText": "232.855/332.383",
         "patternInfo": {
             "m": 66,
             "s": 6,
@@ -17239,7 +16939,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 11:11",
         "patternScore": 68.79,
-        "patternText": "210.252/305.631",
+        "patternText": "210.274/305.659",
         "patternInfo": {
             "m": 60,
             "s": 6,
@@ -17329,7 +17029,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 11:31",
         "patternScore": 70.61,
-        "patternText": "253.920/359.590",
+        "patternText": "253.946/359.622",
         "patternInfo": {
             "m": 53,
             "s": 5,
@@ -17337,7 +17037,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "03.11.2026 13:45",
@@ -17358,8 +17058,8 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 11:31",
-        "patternScore": 70.02,
-        "patternText": "248.404/354.748",
+        "patternScore": 70.03,
+        "patternText": "248.466/354.824",
         "patternInfo": {
             "m": 56,
             "s": 2,
@@ -17389,7 +17089,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 11:31",
         "patternScore": 69.15,
-        "patternText": "201.476/291.374",
+        "patternText": "201.530/291.442",
         "patternInfo": {
             "m": 51,
             "s": 2,
@@ -17397,7 +17097,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "03.11.2026 13:45",
@@ -17418,8 +17118,8 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 11:31",
-        "patternScore": 69.61,
-        "patternText": "208.710/299.814",
+        "patternScore": 69.62,
+        "patternText": "208.772/299.890",
         "patternInfo": {
             "m": 55,
             "s": 4,
@@ -17427,7 +17127,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "04.11.2026 07:45",
@@ -17449,7 +17149,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 71.23,
-        "patternText": "237.792/333.818",
+        "patternText": "237.800/333.828",
         "patternInfo": {
             "m": 56,
             "s": 11,
@@ -17479,7 +17179,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 71.04,
-        "patternText": "102.012/143.598",
+        "patternText": "102.016/143.602",
         "patternInfo": {
             "m": 45,
             "s": 8,
@@ -17509,7 +17209,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.36,
-        "patternText": "266.132/378.222",
+        "patternText": "266.158/378.254",
         "patternInfo": {
             "m": 65,
             "s": 2,
@@ -17539,7 +17239,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.18,
-        "patternText": "249.563/355.620",
+        "patternText": "249.571/355.630",
         "patternInfo": {
             "m": 55,
             "s": 9,
@@ -17569,7 +17269,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.53,
-        "patternText": "121.098/174.169",
+        "patternText": "121.102/174.173",
         "patternInfo": {
             "m": 43,
             "s": 8,
@@ -17577,7 +17277,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "04.11.2026 16:00",
@@ -17599,7 +17299,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.83,
-        "patternText": "205.947/294.926",
+        "patternText": "205.955/294.936",
         "patternInfo": {
             "m": 45,
             "s": 4,
@@ -17629,7 +17329,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.37,
-        "patternText": "183.672/268.644",
+        "patternText": "183.682/268.656",
         "patternInfo": {
             "m": 36,
             "s": 1,
@@ -17667,7 +17367,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "03.11.2026 12:35",
@@ -17705,14 +17405,14 @@
         "matchCode": "4547665",
         "home": "Bul",
         "away": "SC Villa",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "2 - 0",
+        "finalScore": "2 - 1",
         "prediction": "Double Chance 12",
         "ihtimal": "80.0",
         "odds": "1.27",
         "matchCount": "5",
         "matchLink": "4547665",
-        "status": "Pending",
+        "status": "Won",
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 3,
@@ -17735,14 +17435,14 @@
         "matchCode": "4547665",
         "home": "Bul",
         "away": "SC Villa",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "2 - 0",
+        "finalScore": "2 - 1",
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "80.0",
         "odds": "1.10",
         "matchCount": "5",
         "matchLink": "4547665",
-        "status": "Pending",
+        "status": "Won",
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 3,
@@ -17779,7 +17479,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.69,
-        "patternText": "121.504/174.352",
+        "patternText": "121.526/174.376",
         "patternInfo": {
             "m": 46,
             "s": 2,
@@ -17809,7 +17509,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 66.28,
-        "patternText": "269.478/406.576",
+        "patternText": "269.500/406.604",
         "patternInfo": {
             "m": 55,
             "s": 7,
@@ -17839,7 +17539,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.68,
-        "patternText": "358.714/514.822",
+        "patternText": "358.752/514.870",
         "patternInfo": {
             "m": 62,
             "s": 7,
@@ -17869,7 +17569,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.49,
-        "patternText": "127.108/180.320",
+        "patternText": "127.134/180.348",
         "patternInfo": {
             "m": 47,
             "s": 9,
@@ -17899,7 +17599,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.24,
-        "patternText": "209.175/306.513",
+        "patternText": "209.185/306.525",
         "patternInfo": {
             "m": 57,
             "s": 2,
@@ -17929,7 +17629,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 12:07",
         "patternScore": 57.62,
-        "patternText": "204.982/355.742",
+        "patternText": "204.992/355.754",
         "patternInfo": {
             "m": 50,
             "s": 2,
@@ -17959,7 +17659,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 58.1,
-        "patternText": "226.775/390.293",
+        "patternText": "226.785/390.305",
         "patternInfo": {
             "m": 68,
             "s": 3,
@@ -17989,7 +17689,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 58.16,
-        "patternText": "223.327/384.011",
+        "patternText": "223.341/384.027",
         "patternInfo": {
             "m": 69,
             "s": 10,
@@ -18019,7 +17719,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.42,
-        "patternText": "261.521/371.390",
+        "patternText": "261.551/371.426",
         "patternInfo": {
             "m": 58,
             "s": 2,
@@ -18048,8 +17748,8 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": 70.46,
-        "patternText": "119.072/168.983",
+        "patternScore": 70.47,
+        "patternText": "119.090/169.003",
         "patternInfo": {
             "m": 47,
             "s": 11,
@@ -18079,7 +17779,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 69.44,
-        "patternText": "218.704/314.961",
+        "patternText": "218.730/314.993",
         "patternInfo": {
             "m": 56,
             "s": 1,
@@ -18109,7 +17809,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 57.49,
-        "patternText": "196.919/342.521",
+        "patternText": "196.923/342.525",
         "patternInfo": {
             "m": 68,
             "s": 6,
@@ -18237,7 +17937,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "04.11.2026 10:00",
@@ -18409,7 +18109,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 13:09",
         "patternScore": 70.4,
-        "patternText": "262.101/372.310",
+        "patternText": "262.127/372.342",
         "patternInfo": {
             "m": 67,
             "s": 3,
@@ -18439,7 +18139,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 13:09",
         "patternScore": 70.44,
-        "patternText": "123.072/174.726",
+        "patternText": "123.090/174.746",
         "patternInfo": {
             "m": 52,
             "s": 8,
@@ -18469,7 +18169,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 13:10",
         "patternScore": 71.66,
-        "patternText": "183.227/255.697",
+        "patternText": "183.253/255.725",
         "patternInfo": {
             "m": 63,
             "s": 2,
@@ -18498,8 +18198,8 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 13:10",
-        "patternScore": 69.71,
-        "patternText": "201.961/289.696",
+        "patternScore": 69.72,
+        "patternText": "201.983/289.724",
         "patternInfo": {
             "m": 57,
             "s": 5,
@@ -18529,7 +18229,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 13:10",
         "patternScore": 68.12,
-        "patternText": "179.941/264.150",
+        "patternText": "179.963/264.178",
         "patternInfo": {
             "m": 47,
             "s": 2,
@@ -18558,8 +18258,8 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 13:11",
-        "patternScore": 70.71,
-        "patternText": "280.917/397.257",
+        "patternScore": 70.72,
+        "patternText": "280.943/397.289",
         "patternInfo": {
             "m": 77,
             "s": 6,
@@ -18589,7 +18289,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 13:11",
         "patternScore": 69.46,
-        "patternText": "218.469/314.533",
+        "patternText": "218.495/314.565",
         "patternInfo": {
             "m": 70,
             "s": 3,
@@ -18619,7 +18319,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 13:11",
         "patternScore": 70.44,
-        "patternText": "266.341/378.111",
+        "patternText": "266.375/378.151",
         "patternInfo": {
             "m": 71,
             "s": 8,
@@ -18649,7 +18349,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 13:11",
         "patternScore": 69.89,
-        "patternText": "224.521/321.260",
+        "patternText": "224.555/321.300",
         "patternInfo": {
             "m": 67,
             "s": 4,
@@ -18679,7 +18379,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 13:12",
         "patternScore": 70.41,
-        "patternText": "269.286/382.457",
+        "patternText": "269.320/382.497",
         "patternInfo": {
             "m": 75,
             "s": 2,
@@ -18709,7 +18409,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 13:12",
         "patternScore": 69.84,
-        "patternText": "227.024/325.069",
+        "patternText": "227.058/325.109",
         "patternInfo": {
             "m": 77,
             "s": 1,
@@ -18739,7 +18439,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 13:12",
         "patternScore": 70.72,
-        "patternText": "281.010/397.348",
+        "patternText": "281.036/397.380",
         "patternInfo": {
             "m": 77,
             "s": 4,
@@ -18769,7 +18469,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 13:12",
         "patternScore": 69.56,
-        "patternText": "224.001/322.016",
+        "patternText": "224.027/322.048",
         "patternInfo": {
             "m": 71,
             "s": 2,
@@ -18799,7 +18499,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.66,
-        "patternText": "212.752/309.863",
+        "patternText": "212.774/309.891",
         "patternInfo": {
             "m": 56,
             "s": 2,
@@ -18829,7 +18529,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 71.91,
-        "patternText": "170.511/237.104",
+        "patternText": "170.519/237.112",
         "patternInfo": {
             "m": 74,
             "s": 19,
@@ -18859,7 +18559,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.57,
-        "patternText": "198.222/289.078",
+        "patternText": "198.228/289.086",
         "patternInfo": {
             "m": 61,
             "s": 7,
@@ -18889,7 +18589,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.9,
-        "patternText": "122.478/172.756",
+        "patternText": "122.482/172.760",
         "patternInfo": {
             "m": 60,
             "s": 13,
@@ -18919,7 +18619,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.21,
-        "patternText": "177.055/259.586",
+        "patternText": "177.061/259.594",
         "patternInfo": {
             "m": 51,
             "s": 3,
@@ -18949,7 +18649,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 67.98,
-        "patternText": "192.660/283.393",
+        "patternText": "192.666/283.401",
         "patternInfo": {
             "m": 55,
             "s": 3,
@@ -18958,66 +18658,6 @@
             "b": 87.5
         },
         "aiScore": 55
-    },
-    {
-        "date": "03.11.2026 19:00",
-        "league": "İNTK",
-        "matchCode": "4527817",
-        "home": "Rotherham United",
-        "away": "Newcastle United U21",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "79.46",
-        "odds": "1.09",
-        "matchCount": "112",
-        "matchLink": "4527817",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "19/197",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 14:57",
-        "patternScore": 70.7,
-        "patternText": "279.626/395.498",
-        "patternInfo": {
-            "m": 69,
-            "s": 8,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 87
-    },
-    {
-        "date": "03.11.2026 19:00",
-        "league": "İNTK",
-        "matchCode": "4527817",
-        "home": "Rotherham United",
-        "away": "Newcastle United U21",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "75.89",
-        "odds": "1.12",
-        "matchCount": "112",
-        "matchLink": "4527817",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "19/197",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 14:57",
-        "patternScore": 69.16,
-        "patternText": "199.939/289.107",
-        "patternInfo": {
-            "m": 59,
-            "s": 8,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 79
     },
     {
         "date": "03.11.2026 15:00",
@@ -19039,7 +18679,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 13:44",
         "patternScore": 70.77,
-        "patternText": "334.632/472.824",
+        "patternText": "334.670/472.868",
         "patternInfo": {
             "m": 75,
             "s": 2,
@@ -19047,7 +18687,7 @@
             "e": 85,
             "b": 88.46
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "03.11.2026 19:30",
@@ -19069,7 +18709,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 13:46",
         "patternScore": 69.41,
-        "patternText": "216.201/311.477",
+        "patternText": "216.235/311.517",
         "patternInfo": {
             "m": 65,
             "s": 2,
@@ -19099,7 +18739,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 71.89,
-        "patternText": "194.311/270.284",
+        "patternText": "194.319/270.292",
         "patternInfo": {
             "m": 66,
             "s": 7,
@@ -19129,7 +18769,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.1,
-        "patternText": "240.892/343.645",
+        "patternText": "240.898/343.653",
         "patternInfo": {
             "m": 72,
             "s": 3,
@@ -19159,7 +18799,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:04",
         "patternScore": 68.08,
-        "patternText": "220.752/324.239",
+        "patternText": "220.790/324.291",
         "patternInfo": {
             "m": 59,
             "s": 3,
@@ -19189,7 +18829,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:04",
         "patternScore": 68.15,
-        "patternText": "219.872/322.621",
+        "patternText": "219.902/322.665",
         "patternInfo": {
             "m": 59,
             "s": 4,
@@ -19197,7 +18837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "03.11.2026 17:45",
@@ -19219,7 +18859,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:04",
         "patternScore": 69.16,
-        "patternText": "237.474/343.361",
+        "patternText": "237.504/343.405",
         "patternInfo": {
             "m": 66,
             "s": 10,
@@ -19249,7 +18889,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:04",
         "patternScore": 68.1,
-        "patternText": "224.818/330.109",
+        "patternText": "224.848/330.153",
         "patternInfo": {
             "m": 59,
             "s": 4,
@@ -19257,7 +18897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 59
     },
     {
         "date": "03.11.2026 17:45",
@@ -19279,7 +18919,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:04",
         "patternScore": 69.44,
-        "patternText": "147.066/211.786",
+        "patternText": "147.092/211.818",
         "patternInfo": {
             "m": 60,
             "s": 2,
@@ -19309,7 +18949,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:04",
         "patternScore": 68.15,
-        "patternText": "224.848/329.923",
+        "patternText": "224.878/329.967",
         "patternInfo": {
             "m": 63,
             "s": 5,
@@ -19338,8 +18978,8 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:04",
-        "patternScore": 70.57,
-        "patternText": "273.864/388.051",
+        "patternScore": 70.58,
+        "patternText": "273.898/388.091",
         "patternInfo": {
             "m": 75,
             "s": 7,
@@ -19369,7 +19009,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:04",
         "patternScore": 68.88,
-        "patternText": "204.409/296.770",
+        "patternText": "204.439/296.806",
         "patternInfo": {
             "m": 58,
             "s": 1,
@@ -19399,7 +19039,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:04",
         "patternScore": 68.13,
-        "patternText": "202.661/297.455",
+        "patternText": "202.691/297.491",
         "patternInfo": {
             "m": 60,
             "s": 2,
@@ -19429,7 +19069,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:04",
         "patternScore": 68.17,
-        "patternText": "203.745/298.879",
+        "patternText": "203.767/298.907",
         "patternInfo": {
             "m": 63,
             "s": 5,
@@ -19459,7 +19099,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:05",
         "patternScore": 69.28,
-        "patternText": "145.139/209.494",
+        "patternText": "145.157/209.514",
         "patternInfo": {
             "m": 66,
             "s": 2,
@@ -19489,7 +19129,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:05",
         "patternScore": 68.05,
-        "patternText": "206.407/303.326",
+        "patternText": "206.429/303.354",
         "patternInfo": {
             "m": 69,
             "s": 3,
@@ -19519,7 +19159,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:05",
         "patternScore": 68.46,
-        "patternText": "127.204/185.818",
+        "patternText": "127.222/185.838",
         "patternInfo": {
             "m": 67,
             "s": 1,
@@ -19549,7 +19189,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:05",
         "patternScore": 69.05,
-        "patternText": "239.334/346.628",
+        "patternText": "239.360/346.660",
         "patternInfo": {
             "m": 82,
             "s": 8,
@@ -19578,8 +19218,8 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:05",
-        "patternScore": 69.66,
-        "patternText": "146.866/210.820",
+        "patternScore": 69.67,
+        "patternText": "146.892/210.848",
         "patternInfo": {
             "m": 73,
             "s": 1,
@@ -19609,7 +19249,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:05",
         "patternScore": 70.5,
-        "patternText": "446.687/633.561",
+        "patternText": "446.725/633.609",
         "patternInfo": {
             "m": 79,
             "s": 2,
@@ -19639,7 +19279,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:05",
         "patternScore": 69.91,
-        "patternText": "274.387/392.509",
+        "patternText": "274.413/392.541",
         "patternInfo": {
             "m": 79,
             "s": 7,
@@ -19669,7 +19309,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:05",
         "patternScore": 70.67,
-        "patternText": "136.643/193.359",
+        "patternText": "136.661/193.379",
         "patternInfo": {
             "m": 74,
             "s": 7,
@@ -19699,7 +19339,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:05",
         "patternScore": 68.46,
-        "patternText": "205.738/300.533",
+        "patternText": "205.760/300.561",
         "patternInfo": {
             "m": 66,
             "s": 5,
@@ -19707,7 +19347,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "03.11.2026 19:45",
@@ -19729,7 +19369,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:05",
         "patternScore": 70.07,
-        "patternText": "247.455/353.158",
+        "patternText": "247.477/353.186",
         "patternInfo": {
             "m": 77,
             "s": 3,
@@ -19759,7 +19399,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:05",
         "patternScore": 68.71,
-        "patternText": "220.943/321.568",
+        "patternText": "220.973/321.604",
         "patternInfo": {
             "m": 74,
             "s": 4,
@@ -19789,7 +19429,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:05",
         "patternScore": 69.48,
-        "patternText": "232.014/333.915",
+        "patternText": "232.040/333.947",
         "patternInfo": {
             "m": 72,
             "s": 7,
@@ -19819,7 +19459,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:05",
         "patternScore": 67.93,
-        "patternText": "212.344/312.605",
+        "patternText": "212.366/312.633",
         "patternInfo": {
             "m": 70,
             "s": 2,
@@ -19849,7 +19489,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:06",
         "patternScore": 68.48,
-        "patternText": "218.518/319.119",
+        "patternText": "218.540/319.147",
         "patternInfo": {
             "m": 56,
             "s": 3,
@@ -19879,7 +19519,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:06",
         "patternScore": 70.6,
-        "patternText": "147.326/208.671",
+        "patternText": "147.344/208.691",
         "patternInfo": {
             "m": 68,
             "s": 2,
@@ -19909,7 +19549,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:06",
         "patternScore": 67.61,
-        "patternText": "200.566/296.655",
+        "patternText": "200.588/296.683",
         "patternInfo": {
             "m": 59,
             "s": 1,
@@ -19939,7 +19579,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:06",
         "patternScore": 64.61,
-        "patternText": "193.688/299.802",
+        "patternText": "193.714/299.830",
         "patternInfo": {
             "m": 87,
             "s": 9,
@@ -19969,15 +19609,15 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:06",
         "patternScore": 68.11,
-        "patternText": "152.125/223.357",
+        "patternText": "152.175/223.409",
         "patternInfo": {
             "m": 69,
-            "s": 10,
+            "s": 11,
             "f": 3,
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 97
     },
     {
         "date": "03.11.2026 19:45",
@@ -19998,8 +19638,8 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:06",
-        "patternScore": 68.61,
-        "patternText": "250.798/365.518",
+        "patternScore": 68.62,
+        "patternText": "250.836/365.562",
         "patternInfo": {
             "m": 80,
             "s": 5,
@@ -20029,7 +19669,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:06",
         "patternScore": 66.84,
-        "patternText": "211.999/317.170",
+        "patternText": "212.029/317.206",
         "patternInfo": {
             "m": 66,
             "s": 4,
@@ -20059,7 +19699,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:06",
         "patternScore": 67.42,
-        "patternText": "160.923/238.689",
+        "patternText": "160.957/238.725",
         "patternInfo": {
             "m": 76,
             "s": 2,
@@ -20089,7 +19729,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:06",
         "patternScore": 62.53,
-        "patternText": "154.269/246.717",
+        "patternText": "154.291/246.741",
         "patternInfo": {
             "m": 75,
             "s": 3,
@@ -20119,7 +19759,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:06",
         "patternScore": 70.26,
-        "patternText": "264.190/376.042",
+        "patternText": "264.216/376.074",
         "patternInfo": {
             "m": 72,
             "s": 8,
@@ -20149,7 +19789,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 57.52,
-        "patternText": "217.474/378.082",
+        "patternText": "217.488/378.098",
         "patternInfo": {
             "m": 56,
             "s": 4,
@@ -20179,7 +19819,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:06",
         "patternScore": 68.3,
-        "patternText": "187.742/274.867",
+        "patternText": "187.764/274.895",
         "patternInfo": {
             "m": 53,
             "s": 2,
@@ -20209,7 +19849,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:06",
         "patternScore": 69.77,
-        "patternText": "132.425/189.812",
+        "patternText": "132.447/189.836",
         "patternInfo": {
             "m": 50,
             "s": 1,
@@ -20239,7 +19879,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:06",
         "patternScore": 69.75,
-        "patternText": "217.875/312.387",
+        "patternText": "217.909/312.427",
         "patternInfo": {
             "m": 61,
             "s": 3,
@@ -20247,7 +19887,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "03.11.2026 19:45",
@@ -20269,7 +19909,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:07",
         "patternScore": 70.34,
-        "patternText": "261.751/372.108",
+        "patternText": "261.781/372.144",
         "patternInfo": {
             "m": 70,
             "s": 2,
@@ -20299,7 +19939,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:07",
         "patternScore": 69.09,
-        "patternText": "195.128/282.440",
+        "patternText": "195.154/282.472",
         "patternInfo": {
             "m": 59,
             "s": 5,
@@ -20307,7 +19947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "03.11.2026 19:45",
@@ -20329,7 +19969,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:07",
         "patternScore": 68.91,
-        "patternText": "198.882/288.612",
+        "patternText": "198.908/288.644",
         "patternInfo": {
             "m": 63,
             "s": 6,
@@ -20359,7 +19999,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:07",
         "patternScore": 70.64,
-        "patternText": "137.930/195.270",
+        "patternText": "137.960/195.302",
         "patternInfo": {
             "m": 62,
             "s": 6,
@@ -20388,8 +20028,8 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:07",
-        "patternScore": 71.0,
-        "patternText": "166.663/234.724",
+        "patternScore": 71.01,
+        "patternText": "166.689/234.752",
         "patternInfo": {
             "m": 56,
             "s": 1,
@@ -20397,7 +20037,7 @@
             "e": 85,
             "b": 94.12
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "03.11.2026 19:45",
@@ -20419,7 +20059,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:08",
         "patternScore": 71.44,
-        "patternText": "175.624/245.837",
+        "patternText": "175.654/245.869",
         "patternInfo": {
             "m": 67,
             "s": 9,
@@ -20449,7 +20089,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:08",
         "patternScore": 69.75,
-        "patternText": "226.087/324.151",
+        "patternText": "226.113/324.183",
         "patternInfo": {
             "m": 73,
             "s": 8,
@@ -20478,8 +20118,8 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:09",
-        "patternScore": 69.66,
-        "patternText": "120.748/173.330",
+        "patternScore": 69.67,
+        "patternText": "120.766/173.350",
         "patternInfo": {
             "m": 59,
             "s": 3,
@@ -20508,8 +20148,8 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:09",
-        "patternScore": 67.81,
-        "patternText": "151.378/223.227",
+        "patternScore": 67.82,
+        "patternText": "151.412/223.263",
         "patternInfo": {
             "m": 71,
             "s": 8,
@@ -20538,8 +20178,8 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:09",
-        "patternScore": 67.66,
-        "patternText": "164.858/243.639",
+        "patternScore": 67.67,
+        "patternText": "164.892/243.675",
         "patternInfo": {
             "m": 84,
             "s": 5,
@@ -20569,7 +20209,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:09",
         "patternScore": 69.64,
-        "patternText": "268.861/386.059",
+        "patternText": "268.887/386.091",
         "patternInfo": {
             "m": 71,
             "s": 4,
@@ -20599,7 +20239,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:09",
         "patternScore": 68.08,
-        "patternText": "200.869/295.036",
+        "patternText": "200.891/295.064",
         "patternInfo": {
             "m": 65,
             "s": 7,
@@ -20629,7 +20269,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:09",
         "patternScore": 69.26,
-        "patternText": "237.760/343.270",
+        "patternText": "237.782/343.298",
         "patternInfo": {
             "m": 81,
             "s": 6,
@@ -20659,7 +20299,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:09",
         "patternScore": 68.62,
-        "patternText": "231.004/336.653",
+        "patternText": "231.026/336.681",
         "patternInfo": {
             "m": 77,
             "s": 4,
@@ -20689,7 +20329,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:09",
         "patternScore": 68.68,
-        "patternText": "217.647/316.922",
+        "patternText": "217.677/316.958",
         "patternInfo": {
             "m": 70,
             "s": 5,
@@ -20719,7 +20359,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:09",
         "patternScore": 68.33,
-        "patternText": "217.109/317.717",
+        "patternText": "217.131/317.745",
         "patternInfo": {
             "m": 71,
             "s": 5,
@@ -20727,7 +20367,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 61
     },
     {
         "date": "03.11.2026 19:45",
@@ -20748,8 +20388,8 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:09",
-        "patternScore": 67.87,
-        "patternText": "217.564/320.539",
+        "patternScore": 67.88,
+        "patternText": "217.594/320.575",
         "patternInfo": {
             "m": 74,
             "s": 7,
@@ -20779,7 +20419,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:09",
         "patternScore": 70.69,
-        "patternText": "279.784/395.767",
+        "patternText": "279.810/395.799",
         "patternInfo": {
             "m": 64,
             "s": 4,
@@ -20808,8 +20448,8 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:09",
-        "patternScore": 69.27,
-        "patternText": "199.020/287.309",
+        "patternScore": 69.28,
+        "patternText": "199.074/287.365",
         "patternInfo": {
             "m": 80,
             "s": 5,
@@ -20839,7 +20479,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:09",
         "patternScore": 68.25,
-        "patternText": "164.406/240.888",
+        "patternText": "164.444/240.928",
         "patternInfo": {
             "m": 82,
             "s": 7,
@@ -20869,7 +20509,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:09",
         "patternScore": 68.23,
-        "patternText": "165.889/243.140",
+        "patternText": "165.939/243.192",
         "patternInfo": {
             "m": 73,
             "s": 1,
@@ -20899,7 +20539,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:09",
         "patternScore": 67.48,
-        "patternText": "158.221/234.472",
+        "patternText": "158.255/234.508",
         "patternInfo": {
             "m": 80,
             "s": 5,
@@ -20929,7 +20569,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:10",
         "patternScore": 70.69,
-        "patternText": "190.344/269.281",
+        "patternText": "190.370/269.309",
         "patternInfo": {
             "m": 77,
             "s": 5,
@@ -20959,7 +20599,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:10",
         "patternScore": 68.61,
-        "patternText": "220.529/321.405",
+        "patternText": "220.551/321.433",
         "patternInfo": {
             "m": 68,
             "s": 2,
@@ -20989,7 +20629,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:10",
         "patternScore": 70.44,
-        "patternText": "155.529/220.794",
+        "patternText": "155.547/220.814",
         "patternInfo": {
             "m": 76,
             "s": 5,
@@ -21019,7 +20659,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:10",
         "patternScore": 70.4,
-        "patternText": "156.810/222.748",
+        "patternText": "156.852/222.792",
         "patternInfo": {
             "m": 72,
             "s": 1,
@@ -21028,156 +20668,6 @@
             "b": 100.0
         },
         "aiScore": 89
-    },
-    {
-        "date": "03.11.2026 20:00",
-        "league": "İNCL",
-        "matchCode": "4488837",
-        "home": "Birmingham City",
-        "away": "Millwall",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "83.33",
-        "odds": "1.12",
-        "matchCount": "18",
-        "matchLink": "4488837",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 14:57",
-        "patternScore": 70.3,
-        "patternText": "134.001/190.611",
-        "patternInfo": {
-            "m": 63,
-            "s": 7,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 95
-    },
-    {
-        "date": "03.11.2026 20:00",
-        "league": "İNCL",
-        "matchCode": "4488837",
-        "home": "Birmingham City",
-        "away": "Millwall",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "83.33333333333334",
-        "odds": "1.09",
-        "matchCount": "18",
-        "matchLink": "4488837",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 14:57",
-        "patternScore": 70.37,
-        "patternText": "127.267/180.845",
-        "patternInfo": {
-            "m": 63,
-            "s": 7,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 94
-    },
-    {
-        "date": "03.11.2026 20:00",
-        "league": "İNCL",
-        "matchCode": "4488837",
-        "home": "Birmingham City",
-        "away": "Millwall",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "83.33",
-        "odds": "1.09",
-        "matchCount": "18",
-        "matchLink": "4488837",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 14:57",
-        "patternScore": 71.1,
-        "patternText": "140.924/198.218",
-        "patternInfo": {
-            "m": 68,
-            "s": 7,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 94
-    },
-    {
-        "date": "03.11.2026 20:00",
-        "league": "İNCL",
-        "matchCode": "4488837",
-        "home": "Birmingham City",
-        "away": "Millwall",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "77.78",
-        "odds": "1.08",
-        "matchCount": "18",
-        "matchLink": "4488837",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 14:57",
-        "patternScore": 69.74,
-        "patternText": "211.973/303.959",
-        "patternInfo": {
-            "m": 67,
-            "s": 4,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 90
-    },
-    {
-        "date": "03.11.2026 20:00",
-        "league": "İNCL",
-        "matchCode": "4488837",
-        "home": "Birmingham City",
-        "away": "Millwall",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "83.33",
-        "odds": "1.19",
-        "matchCount": "18",
-        "matchLink": "4488837",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 14:57",
-        "patternScore": 69.33,
-        "patternText": "117.713/169.794",
-        "patternInfo": {
-            "m": 64,
-            "s": 6,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 84
     },
     {
         "date": "03.11.2026 20:00",
@@ -21199,7 +20689,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:10",
         "patternScore": 56.16,
-        "patternText": "184.151/327.914",
+        "patternText": "184.165/327.930",
         "patternInfo": {
             "m": 67,
             "s": 2,
@@ -21229,7 +20719,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:10",
         "patternScore": 60.03,
-        "patternText": "237.176/395.092",
+        "patternText": "237.190/395.108",
         "patternInfo": {
             "m": 81,
             "s": 6,
@@ -21259,7 +20749,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:10",
         "patternScore": 56.68,
-        "patternText": "189.975/335.162",
+        "patternText": "189.985/335.174",
         "patternInfo": {
             "m": 72,
             "s": 2,
@@ -21289,7 +20779,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:10",
         "patternScore": 56.05,
-        "patternText": "184.059/328.399",
+        "patternText": "184.069/328.411",
         "patternInfo": {
             "m": 74,
             "s": 8,
@@ -21319,7 +20809,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:10",
         "patternScore": 55.37,
-        "patternText": "174.183/314.588",
+        "patternText": "174.193/314.600",
         "patternInfo": {
             "m": 63,
             "s": 2,
@@ -21349,7 +20839,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:10",
         "patternScore": 55.42,
-        "patternText": "170.729/308.076",
+        "patternText": "170.739/308.088",
         "patternInfo": {
             "m": 55,
             "s": 2,
@@ -21379,7 +20869,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:10",
         "patternScore": 55.89,
-        "patternText": "185.605/332.114",
+        "patternText": "185.615/332.126",
         "patternInfo": {
             "m": 73,
             "s": 2,
@@ -21409,7 +20899,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:10",
         "patternScore": 57.86,
-        "patternText": "200.345/346.262",
+        "patternText": "200.359/346.278",
         "patternInfo": {
             "m": 70,
             "s": 8,
@@ -21439,7 +20929,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:10",
         "patternScore": 58.1,
-        "patternText": "206.324/355.136",
+        "patternText": "206.334/355.148",
         "patternInfo": {
             "m": 89,
             "s": 7,
@@ -21468,8 +20958,8 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:10",
-        "patternScore": 67.19,
-        "patternText": "129.726/193.067",
+        "patternScore": 67.2,
+        "patternText": "129.764/193.107",
         "patternInfo": {
             "m": 63,
             "s": 7,
@@ -21498,8 +20988,8 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:10",
-        "patternScore": 66.77,
-        "patternText": "121.178/181.477",
+        "patternScore": 66.78,
+        "patternText": "121.212/181.513",
         "patternInfo": {
             "m": 62,
             "s": 8,
@@ -21528,11 +21018,11 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:10",
-        "patternScore": 68.65,
-        "patternText": "135.476/197.347",
+        "patternScore": 68.66,
+        "patternText": "135.526/197.399",
         "patternInfo": {
             "m": 70,
-            "s": 13,
+            "s": 14,
             "f": 1,
             "e": 85,
             "b": 100.0
@@ -21558,8 +21048,8 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:10",
-        "patternScore": 66.22,
-        "patternText": "122.858/185.527",
+        "patternScore": 66.23,
+        "patternText": "122.892/185.563",
         "patternInfo": {
             "m": 65,
             "s": 7,
@@ -21589,7 +21079,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:10",
         "patternScore": 67.94,
-        "patternText": "134.108/197.399",
+        "patternText": "134.150/197.443",
         "patternInfo": {
             "m": 66,
             "s": 9,
@@ -21597,7 +21087,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "03.11.2026 20:00",
@@ -21619,7 +21109,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:10",
         "patternScore": 68.13,
-        "patternText": "143.774/211.031",
+        "patternText": "143.808/211.067",
         "patternInfo": {
             "m": 73,
             "s": 9,
@@ -21627,7 +21117,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "03.11.2026 20:00",
@@ -21649,7 +21139,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:11",
         "patternScore": 55.56,
-        "patternText": "174.160/313.479",
+        "patternText": "174.170/313.495",
         "patternInfo": {
             "m": 63,
             "s": 2,
@@ -21679,7 +21169,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:11",
         "patternScore": 56.65,
-        "patternText": "183.474/323.880",
+        "patternText": "183.484/323.892",
         "patternInfo": {
             "m": 77,
             "s": 5,
@@ -21709,7 +21199,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:11",
         "patternScore": 56.34,
-        "patternText": "178.457/316.736",
+        "patternText": "178.467/316.748",
         "patternInfo": {
             "m": 71,
             "s": 14,
@@ -21739,7 +21229,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:12",
         "patternScore": 60.18,
-        "patternText": "238.551/396.378",
+        "patternText": "238.569/396.398",
         "patternInfo": {
             "m": 92,
             "s": 9,
@@ -21769,7 +21259,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:12",
         "patternScore": 57.22,
-        "patternText": "194.043/339.127",
+        "patternText": "194.057/339.143",
         "patternInfo": {
             "m": 79,
             "s": 8,
@@ -21777,7 +21267,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "03.11.2026 20:00",
@@ -21799,7 +21289,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:12",
         "patternScore": 57.13,
-        "patternText": "190.687/333.760",
+        "patternText": "190.697/333.772",
         "patternInfo": {
             "m": 79,
             "s": 5,
@@ -21829,7 +21319,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:12",
         "patternScore": 57.9,
-        "patternText": "199.789/345.047",
+        "patternText": "199.811/345.071",
         "patternInfo": {
             "m": 78,
             "s": 5,
@@ -21859,7 +21349,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:12",
         "patternScore": 58.22,
-        "patternText": "206.477/354.647",
+        "patternText": "206.487/354.659",
         "patternInfo": {
             "m": 85,
             "s": 2,
@@ -21889,7 +21379,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:12",
         "patternScore": 58.05,
-        "patternText": "197.677/340.552",
+        "patternText": "197.687/340.564",
         "patternInfo": {
             "m": 82,
             "s": 13,
@@ -21919,7 +21409,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:12",
         "patternScore": 69.89,
-        "patternText": "241.703/345.851",
+        "patternText": "241.729/345.883",
         "patternInfo": {
             "m": 67,
             "s": 4,
@@ -21948,8 +21438,8 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:12",
-        "patternScore": 68.45,
-        "patternText": "101.549/148.350",
+        "patternScore": 68.46,
+        "patternText": "101.567/148.370",
         "patternInfo": {
             "m": 51,
             "s": 2,
@@ -21979,7 +21469,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:12",
         "patternScore": 70.08,
-        "patternText": "125.384/178.923",
+        "patternText": "125.402/178.943",
         "patternInfo": {
             "m": 65,
             "s": 2,
@@ -21987,7 +21477,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "03.11.2026 20:00",
@@ -22008,8 +21498,8 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:12",
-        "patternScore": 68.68,
-        "patternText": "190.633/277.550",
+        "patternScore": 68.69,
+        "patternText": "190.663/277.586",
         "patternInfo": {
             "m": 61,
             "s": 1,
@@ -22039,7 +21529,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:12",
         "patternScore": 68.43,
-        "patternText": "194.594/284.367",
+        "patternText": "194.616/284.395",
         "patternInfo": {
             "m": 67,
             "s": 1,
@@ -22069,7 +21559,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:12",
         "patternScore": 56.41,
-        "patternText": "187.993/333.255",
+        "patternText": "188.003/333.267",
         "patternInfo": {
             "m": 68,
             "s": 3,
@@ -22099,7 +21589,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:12",
         "patternScore": 55.31,
-        "patternText": "174.921/316.243",
+        "patternText": "174.931/316.255",
         "patternInfo": {
             "m": 63,
             "s": 2,
@@ -22129,7 +21619,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:12",
         "patternScore": 71.58,
-        "patternText": "181.440/253.469",
+        "patternText": "181.470/253.505",
         "patternInfo": {
             "m": 67,
             "s": 6,
@@ -22159,7 +21649,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:12",
         "patternScore": 68.02,
-        "patternText": "179.231/263.504",
+        "patternText": "179.261/263.548",
         "patternInfo": {
             "m": 54,
             "s": 4,
@@ -22189,7 +21679,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:12",
         "patternScore": 67.38,
-        "patternText": "179.964/267.107",
+        "patternText": "179.994/267.151",
         "patternInfo": {
             "m": 62,
             "s": 4,
@@ -22219,7 +21709,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:12",
         "patternScore": 69.01,
-        "patternText": "69.512/100.725",
+        "patternText": "69.526/100.745",
         "patternInfo": {
             "m": 53,
             "s": 10,
@@ -22249,7 +21739,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:12",
         "patternScore": 70.62,
-        "patternText": "137.466/194.665",
+        "patternText": "137.496/194.701",
         "patternInfo": {
             "m": 61,
             "s": 5,
@@ -22279,7 +21769,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:12",
         "patternScore": 68.79,
-        "patternText": "208.393/302.924",
+        "patternText": "208.427/302.972",
         "patternInfo": {
             "m": 63,
             "s": 6,
@@ -22309,7 +21799,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:12",
         "patternScore": 67.49,
-        "patternText": "191.641/283.948",
+        "patternText": "191.671/283.992",
         "patternInfo": {
             "m": 55,
             "s": 4,
@@ -22338,8 +21828,8 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": 69.97,
-        "patternText": "185.510/265.109",
+        "patternScore": 69.98,
+        "patternText": "185.520/265.121",
         "patternInfo": {
             "m": 48,
             "s": 2,
@@ -22369,7 +21859,7 @@
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 68.93,
-        "patternText": "160.440/232.771",
+        "patternText": "160.452/232.785",
         "patternInfo": {
             "m": 43,
             "s": 1,
@@ -22398,8 +21888,8 @@
         "mbs": 2,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:21",
-        "patternScore": 68.25,
-        "patternText": "197.825/289.835",
+        "patternScore": 68.26,
+        "patternText": "197.855/289.871",
         "patternInfo": {
             "m": 50,
             "s": 3,
@@ -22428,8 +21918,8 @@
         "mbs": 2,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:21",
-        "patternScore": 70.85,
-        "patternText": "153.638/216.836",
+        "patternScore": 70.86,
+        "patternText": "153.656/216.856",
         "patternInfo": {
             "m": 60,
             "s": 6,
@@ -22459,7 +21949,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:21",
         "patternScore": 68.65,
-        "patternText": "214.427/312.343",
+        "patternText": "214.449/312.371",
         "patternInfo": {
             "m": 48,
             "s": 4,
@@ -22489,7 +21979,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:21",
         "patternScore": 69.67,
-        "patternText": "121.210/173.982",
+        "patternText": "121.228/174.002",
         "patternInfo": {
             "m": 51,
             "s": 6,
@@ -22519,7 +22009,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:21",
         "patternScore": 69.94,
-        "patternText": "235.451/336.629",
+        "patternText": "235.477/336.661",
         "patternInfo": {
             "m": 62,
             "s": 5,
@@ -22527,7 +22017,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "03.11.2026 15:00",
@@ -22549,7 +22039,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:21",
         "patternScore": 70.62,
-        "patternText": "262.777/372.115",
+        "patternText": "262.807/372.151",
         "patternInfo": {
             "m": 63,
             "s": 3,
@@ -22579,7 +22069,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:21",
         "patternScore": 70.42,
-        "patternText": "427.416/606.993",
+        "patternText": "427.466/607.053",
         "patternInfo": {
             "m": 82,
             "s": 2,
@@ -22609,7 +22099,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:39",
         "patternScore": 60.43,
-        "patternText": "261.515/432.777",
+        "patternText": "261.533/432.797",
         "patternInfo": {
             "m": 84,
             "s": 9,
@@ -22639,7 +22129,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:39",
         "patternScore": 57.58,
-        "patternText": "213.345/370.529",
+        "patternText": "213.355/370.541",
         "patternInfo": {
             "m": 67,
             "s": 1,
@@ -22669,7 +22159,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:39",
         "patternScore": 57.31,
-        "patternText": "216.707/378.111",
+        "patternText": "216.717/378.123",
         "patternInfo": {
             "m": 71,
             "s": 3,
@@ -22698,8 +22188,8 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:39",
-        "patternScore": 56.98,
-        "patternText": "215.461/378.105",
+        "patternScore": 56.99,
+        "patternText": "215.471/378.117",
         "patternInfo": {
             "m": 75,
             "s": 1,
@@ -22729,7 +22219,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:39",
         "patternScore": 68.31,
-        "patternText": "205.503/300.842",
+        "patternText": "205.533/300.878",
         "patternInfo": {
             "m": 60,
             "s": 4,
@@ -22759,7 +22249,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:39",
         "patternScore": 69.38,
-        "patternText": "217.435/313.406",
+        "patternText": "217.465/313.442",
         "patternInfo": {
             "m": 70,
             "s": 1,
@@ -22767,7 +22257,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "03.11.2026 18:15",
@@ -22789,7 +22279,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:39",
         "patternScore": 69.17,
-        "patternText": "230.955/333.886",
+        "patternText": "230.985/333.922",
         "patternInfo": {
             "m": 72,
             "s": 1,
@@ -22819,7 +22309,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:39",
         "patternScore": 70.41,
-        "patternText": "272.530/387.084",
+        "patternText": "272.564/387.124",
         "patternInfo": {
             "m": 76,
             "s": 3,
@@ -22849,7 +22339,7 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "03.11.2026 14:39",
         "patternScore": 69.35,
-        "patternText": "222.022/320.141",
+        "patternText": "222.048/320.173",
         "patternInfo": {
             "m": 68,
             "s": 7,
@@ -22858,5 +22348,485 @@
             "b": 100.0
         },
         "aiScore": 85
+    },
+    {
+        "date": "03.11.2026 16:00",
+        "league": "AFCŞL2",
+        "matchCode": "4550009",
+        "home": "Al Hussein",
+        "away": "Al Shorta",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "86.96",
+        "odds": "1.08",
+        "matchCount": "230",
+        "matchLink": "4550009",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "38/230",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 14:57",
+        "patternScore": 69.89,
+        "patternText": "125.761/179.946",
+        "patternInfo": {
+            "m": 43,
+            "s": 6,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 96
+    },
+    {
+        "date": "03.11.2026 16:00",
+        "league": "AFCŞL2",
+        "matchCode": "4550009",
+        "home": "Al Hussein",
+        "away": "Al Shorta",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "73.91",
+        "odds": "1.08",
+        "matchCount": "230",
+        "matchLink": "4550009",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "38/230",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 14:57",
+        "patternScore": 69.82,
+        "patternText": "210.566/301.589",
+        "patternInfo": {
+            "m": 48,
+            "s": 4,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 75
+    },
+    {
+        "date": "03.11.2026 19:00",
+        "league": "İNTK",
+        "matchCode": "4527817",
+        "home": "Rotherham United",
+        "away": "Newcastle United U21",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "77.16",
+        "odds": "1.10",
+        "matchCount": "197",
+        "matchLink": "4527817",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "19/197",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 14:57",
+        "patternScore": 70.38,
+        "patternText": "260.056/369.490",
+        "patternInfo": {
+            "m": 59,
+            "s": 6,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 84
+    },
+    {
+        "date": "03.11.2026 19:00",
+        "league": "İNTK",
+        "matchCode": "4527817",
+        "home": "Rotherham United",
+        "away": "Newcastle United U21",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 4.5 Goals",
+        "ihtimal": "79.7",
+        "odds": "1.14",
+        "matchCount": "197",
+        "matchLink": "4527817",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "19/197",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 14:57",
+        "patternScore": 68.87,
+        "patternText": "192.045/278.865",
+        "patternInfo": {
+            "m": 50,
+            "s": 7,
+            "f": 0,
+            "e": 85,
+            "b": 92.59
+        },
+        "aiScore": 78
+    },
+    {
+        "date": "03.11.2026 19:00",
+        "league": "İNTK",
+        "matchCode": "4527817",
+        "home": "Rotherham United",
+        "away": "Newcastle United U21",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "73.1",
+        "odds": "1.13",
+        "matchCount": "197",
+        "matchLink": "4527817",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "19/197",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 14:57",
+        "patternScore": 69.52,
+        "patternText": "216.626/311.616",
+        "patternInfo": {
+            "m": 58,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 90.0
+        },
+        "aiScore": 68
+    },
+    {
+        "date": "03.11.2026 20:00",
+        "league": "İNCL",
+        "matchCode": "4488837",
+        "home": "Birmingham City",
+        "away": "Millwall",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "80.95",
+        "odds": "1.14",
+        "matchCount": "21",
+        "matchLink": "4488837",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 14:57",
+        "patternScore": 70.08,
+        "patternText": "127.073/181.316",
+        "patternInfo": {
+            "m": 60,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        },
+        "aiScore": 81
+    },
+    {
+        "date": "03.11.2026 20:00",
+        "league": "İNCL",
+        "matchCode": "4488837",
+        "home": "Birmingham City",
+        "away": "Millwall",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "85.71428571428571",
+        "odds": "1.13",
+        "matchCount": "21",
+        "matchLink": "4488837",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 14:57",
+        "patternScore": 69.69,
+        "patternText": "108.865/156.214",
+        "patternInfo": {
+            "m": 55,
+            "s": 4,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 84
+    },
+    {
+        "date": "03.11.2026 20:00",
+        "league": "İNCL",
+        "matchCode": "4488837",
+        "home": "Birmingham City",
+        "away": "Millwall",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (1:0) 1",
+        "ihtimal": "80.95238095238095",
+        "odds": "1.11",
+        "matchCount": "21",
+        "matchLink": "4488837",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 14:57",
+        "patternScore": 69.55,
+        "patternText": "111.770/160.709",
+        "patternInfo": {
+            "m": 58,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        },
+        "aiScore": 76
+    },
+    {
+        "date": "03.11.2026 20:00",
+        "league": "İNCL",
+        "matchCode": "4488837",
+        "home": "Birmingham City",
+        "away": "Millwall",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "71.43",
+        "odds": "1.09",
+        "matchCount": "21",
+        "matchLink": "4488837",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 14:57",
+        "patternScore": 69.97,
+        "patternText": "218.382/312.115",
+        "patternInfo": {
+            "m": 71,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        },
+        "aiScore": 74
+    },
+    {
+        "date": "03.11.2026 20:00",
+        "league": "İNCL",
+        "matchCode": "4488837",
+        "home": "Birmingham City",
+        "away": "Millwall",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "80.95",
+        "odds": "1.08",
+        "matchCount": "21",
+        "matchLink": "4488837",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 14:57",
+        "patternScore": 70.99,
+        "patternText": "131.593/185.379",
+        "patternInfo": {
+            "m": 64,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 90.0
+        },
+        "aiScore": 88
+    },
+    {
+        "date": "03.11.2026 20:00",
+        "league": "ŞMP",
+        "matchCode": "4549521",
+        "home": "Feyenoord",
+        "away": "Inter",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "100.0",
+        "odds": "1.11",
+        "matchCount": "1",
+        "matchLink": "4549521",
+        "status": "Pending",
+        "predictedScore": "1-4",
+        "predictedScoreText": "1/1",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 14:58",
+        "patternScore": 60.07,
+        "patternText": "237.262/394.953",
+        "patternInfo": {
+            "m": 78,
+            "s": 9,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 82
+    },
+    {
+        "date": "03.11.2026 20:00",
+        "league": "ŞMP",
+        "matchCode": "4549521",
+        "home": "Feyenoord",
+        "away": "Inter",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:1) 2",
+        "ihtimal": "100.0",
+        "odds": "1.13",
+        "matchCount": "1",
+        "matchLink": "4549521",
+        "status": "Pending",
+        "predictedScore": "1-4",
+        "predictedScoreText": "1/1",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 14:58",
+        "patternScore": 57.04,
+        "patternText": "192.482/337.437",
+        "patternInfo": {
+            "m": 71,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 85.71
+        },
+        "aiScore": 62
+    },
+    {
+        "date": "03.11.2026 20:00",
+        "league": "ŞMP",
+        "matchCode": "4549521",
+        "home": "Feyenoord",
+        "away": "Inter",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 2.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.26",
+        "matchCount": "1",
+        "matchLink": "4549521",
+        "status": "Pending",
+        "predictedScore": "1-4",
+        "predictedScoreText": "1/1",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 14:58",
+        "patternScore": 56.15,
+        "patternText": "185.210/329.823",
+        "patternInfo": {
+            "m": 69,
+            "s": 3,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 57
+    },
+    {
+        "date": "03.11.2026 20:00",
+        "league": "ŞMP",
+        "matchCode": "4549521",
+        "home": "Feyenoord",
+        "away": "Inter",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Both Teams to Score - Yes",
+        "ihtimal": "100.0",
+        "odds": "1.27",
+        "matchCount": "1",
+        "matchLink": "4549521",
+        "status": "Pending",
+        "predictedScore": "1-4",
+        "predictedScoreText": "1/1",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 14:58",
+        "patternScore": 56.17,
+        "patternText": "189.602/337.553",
+        "patternInfo": {
+            "m": 73,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 85.71
+        },
+        "aiScore": 54
+    },
+    {
+        "date": "03.11.2026 20:00",
+        "league": "ŞMP",
+        "matchCode": "4549521",
+        "home": "Feyenoord",
+        "away": "Inter",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "100.0",
+        "odds": "1.12",
+        "matchCount": "1",
+        "matchLink": "4549521",
+        "status": "Pending",
+        "predictedScore": "1-4",
+        "predictedScoreText": "1/1",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 14:58",
+        "patternScore": 57.7,
+        "patternText": "197.490/342.257",
+        "patternInfo": {
+            "m": 65,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 85.71
+        },
+        "aiScore": 66
+    },
+    {
+        "date": "03.11.2026 20:00",
+        "league": "ŞMP",
+        "matchCode": "4549521",
+        "home": "Feyenoord",
+        "away": "Inter",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "100.0",
+        "odds": "1.08",
+        "matchCount": "1",
+        "matchLink": "4549521",
+        "status": "Pending",
+        "predictedScore": "1-4",
+        "predictedScoreText": "1/1",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 14:58",
+        "patternScore": 58.32,
+        "patternText": "207.663/356.066",
+        "patternInfo": {
+            "m": 77,
+            "s": 10,
+            "f": 5,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 89
     }
 ]
