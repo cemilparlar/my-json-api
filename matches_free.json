@@ -657,7 +657,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "05.11.2026 17:45",
@@ -1227,7 +1227,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "05.11.2026 17:45",
@@ -1857,7 +1857,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 66
     },
     {
         "date": "05.11.2026 17:45",
@@ -1887,7 +1887,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "05.11.2026 17:45",
@@ -2157,7 +2157,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "05.11.2026 17:45",
@@ -2217,7 +2217,7 @@
             "e": 85,
             "b": 85.25
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "05.11.2026 20:00",
@@ -2457,7 +2457,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "05.11.2026 20:00",
@@ -3837,7 +3837,7 @@
             "e": 85,
             "b": 94.12
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "05.11.2026 20:00",
@@ -4287,7 +4287,7 @@
             "e": 85,
             "b": 89.19
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "03.11.2026 19:00",
@@ -4318,66 +4318,6 @@
             "b": 100.0
         },
         "aiScore": 98
-    },
-    {
-        "date": "03.11.2026 13:00",
-        "league": "INGPDL",
-        "matchCode": "4540668",
-        "home": "Wigan Athletic",
-        "away": "Sheffield United",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "84.62",
-        "odds": "1.06",
-        "matchCount": "13",
-        "matchLink": "4540668",
-        "status": "HATA",
-        "predictedScore": "0-1",
-        "predictedScoreText": "3/13",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 71.46,
-        "patternText": "191.987/268.654",
-        "patternInfo": {
-            "m": 81,
-            "s": 6,
-            "f": 0,
-            "e": 85,
-            "b": 90.91
-        },
-        "aiScore": 98
-    },
-    {
-        "date": "03.11.2026 13:00",
-        "league": "INGPDL",
-        "matchCode": "4540668",
-        "home": "Wigan Athletic",
-        "away": "Sheffield United",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 12",
-        "ihtimal": "76.92",
-        "odds": "1.20",
-        "matchCount": "13",
-        "matchLink": "4540668",
-        "status": "HATA",
-        "predictedScore": "0-1",
-        "predictedScoreText": "3/13",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 67.84,
-        "patternText": "200.064/294.899",
-        "patternInfo": {
-            "m": 65,
-            "s": 7,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 72
     },
     {
         "date": "05.11.2026 17:45",
@@ -4527,97 +4467,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
-    },
-    {
-        "date": "03.11.2026 13:00",
-        "league": "UGA",
-        "matchCode": "4547666",
-        "home": "Police",
-        "away": "Kitara",
-        "firstHalf": "0 - 1",
-        "finalScore": "1 - 1",
-        "prediction": "Double Chance X2",
-        "ihtimal": "75.95",
-        "odds": "1.19",
-        "matchCount": "79",
-        "matchLink": "4547666",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "17/79",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 68.62,
-        "patternText": "193.766/282.384",
-        "patternInfo": {
-            "m": 68,
-            "s": 4,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 66
-    },
-    {
-        "date": "03.11.2026 13:00",
-        "league": "UGA",
-        "matchCode": "4547666",
-        "home": "Police",
-        "away": "Kitara",
-        "firstHalf": "0 - 1",
-        "finalScore": "1 - 1",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "75.95",
-        "odds": "1.08",
-        "matchCount": "79",
-        "matchLink": "4547666",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "17/79",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 69.44,
-        "patternText": "205.976/296.620",
-        "patternInfo": {
-            "m": 69,
-            "s": 2,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 76
-    },
-    {
-        "date": "03.11.2026 13:00",
-        "league": "UGA",
-        "matchCode": "4547667",
-        "home": "NEC Nijmegen",
-        "away": "UPDF FC",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Match Result 1",
-        "ihtimal": "75.0",
-        "odds": "1.25",
-        "matchCount": "12",
-        "matchLink": "4547667",
-        "status": "Won",
-        "predictedScore": "3-0",
-        "predictedScoreText": "3/12",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 07:12",
-        "patternScore": 67.84,
-        "patternText": "203.435/299.855",
-        "patternInfo": {
-            "m": 62,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 63
+        "aiScore": 95
     },
     {
         "date": "03.11.2026 15:00",
@@ -4737,7 +4587,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "04.11.2026 17:00",
@@ -4857,7 +4707,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "05.11.2026 08:30",
@@ -4948,36 +4798,6 @@
             "b": 92.86
         },
         "aiScore": 92
-    },
-    {
-        "date": "03.11.2026 13:00",
-        "league": "UEGL",
-        "matchCode": "4560336",
-        "home": "Salzburg U19",
-        "away": "Genk U19",
-        "firstHalf": "2 - 1",
-        "finalScore": "4 - 3",
-        "prediction": "Double Chance 12",
-        "ihtimal": "76.27",
-        "odds": "1.06",
-        "matchCount": "59",
-        "matchLink": "4560336",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "9/59",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 10:51",
-        "patternScore": 70.81,
-        "patternText": "261.950/369.944",
-        "patternInfo": {
-            "m": 67,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 87.5
-        },
-        "aiScore": 88
     },
     {
         "date": "03.11.2026 17:00",
@@ -5157,7 +4977,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "03.11.2026 17:00",
@@ -5368,66 +5188,6 @@
             "b": 86.96
         },
         "aiScore": 59
-    },
-    {
-        "date": "03.11.2026 13:00",
-        "league": "UGA",
-        "matchCode": "4547665",
-        "home": "Bul",
-        "away": "SC Villa",
-        "firstHalf": "2 - 0",
-        "finalScore": "2 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "80.0",
-        "odds": "1.27",
-        "matchCount": "5",
-        "matchLink": "4547665",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 11:49",
-        "patternScore": 69.16,
-        "patternText": "189.525/274.033",
-        "patternInfo": {
-            "m": 64,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 85.71
-        },
-        "aiScore": 65
-    },
-    {
-        "date": "03.11.2026 13:00",
-        "league": "UGA",
-        "matchCode": "4547665",
-        "home": "Bul",
-        "away": "SC Villa",
-        "firstHalf": "2 - 0",
-        "finalScore": "2 - 1",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "80.0",
-        "odds": "1.10",
-        "matchCount": "5",
-        "matchLink": "4547665",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 11:49",
-        "patternScore": 69.06,
-        "patternText": "167.654/242.751",
-        "patternInfo": {
-            "m": 65,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 89
     },
     {
         "date": "04.11.2026 13:00",
@@ -6147,7 +5907,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "03.11.2026 19:45",
@@ -6447,7 +6207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "03.11.2026 19:45",
@@ -6657,7 +6417,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 52
+        "aiScore": 53
     },
     {
         "date": "03.11.2026 20:00",
@@ -7107,7 +6867,7 @@
             "e": 85,
             "b": 81.58
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "03.11.2026 16:00",
@@ -7497,7 +7257,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "03.11.2026 21:00",
@@ -7617,7 +7377,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 98
     },
     {
         "date": "03.11.2026 22:30",
@@ -8757,7 +8517,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "03.11.2026 19:45",
@@ -10947,7 +10707,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "04.11.2026 05:00",
@@ -11097,7 +10857,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "04.11.2026 14:00",
@@ -11427,7 +11187,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "04.11.2026 12:00",
@@ -11607,7 +11367,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "04.11.2026 10:00",
@@ -12867,7 +12627,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 96
     },
     {
         "date": "04.11.2026 16:00",
@@ -13137,7 +12897,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "04.11.2026 17:00",
@@ -13197,7 +12957,7 @@
             "e": 85,
             "b": 94.74
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "04.11.2026 17:45",
@@ -15117,7 +14877,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "04.11.2026 19:45",
@@ -15327,7 +15087,7 @@
             "e": 85,
             "b": 93.75
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "04.11.2026 19:45",
