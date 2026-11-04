@@ -1,155 +1,5 @@
 [
     {
-        "date": "02.11.2026 19:00",
-        "league": "BR2",
-        "matchCode": "4454041",
-        "home": "Fortaleza Ce",
-        "away": "Atletico Goiani",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "71.98",
-        "odds": "1.14",
-        "matchCount": "232",
-        "matchLink": "4454041",
-        "status": "Lost",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 69.83,
-        "patternText": "249.827/357.781",
-        "patternInfo": {
-            "m": 57,
-            "s": 6,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 72
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "BR2",
-        "matchCode": "4454041",
-        "home": "Fortaleza Ce",
-        "away": "Atletico Goiani",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "81.03",
-        "odds": "1.10",
-        "matchCount": "232",
-        "matchLink": "4454041",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 69.41,
-        "patternText": "127.072/183.075",
-        "patternInfo": {
-            "m": 47,
-            "s": 3,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 84
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "BR2",
-        "matchCode": "4454041",
-        "home": "Fortaleza Ce",
-        "away": "Atletico Goiani",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "81.47",
-        "odds": "1.06",
-        "matchCount": "232",
-        "matchLink": "4454041",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 70.99,
-        "patternText": "137.537/193.739",
-        "patternInfo": {
-            "m": 47,
-            "s": 4,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 93
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "BOLİ",
-        "matchCode": "4577009",
-        "home": "Real Tomayapo",
-        "away": "Blooming",
-        "firstHalf": "0 - 1",
-        "finalScore": "1 - 2",
-        "prediction": "Double Chance 12",
-        "ihtimal": "71.3",
-        "odds": "1.11",
-        "matchCount": "216",
-        "matchLink": "4577009",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "25/216",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 70.03,
-        "patternText": "254.448/363.360",
-        "patternInfo": {
-            "m": 49,
-            "s": 0,
-            "f": 0,
-            "e": 85,
-            "b": 83.33
-        },
-        "aiScore": 66
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "BOLİ",
-        "matchCode": "4577009",
-        "home": "Real Tomayapo",
-        "away": "Blooming",
-        "firstHalf": "0 - 1",
-        "finalScore": "1 - 2",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "81.48",
-        "odds": "1.10",
-        "matchCount": "216",
-        "matchLink": "4577009",
-        "status": "Lost",
-        "predictedScore": "1-1",
-        "predictedScoreText": "25/216",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 70.35,
-        "patternText": "131.656/187.148",
-        "patternInfo": {
-            "m": 42,
-            "s": 4,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 86
-    },
-    {
         "date": "10.11.2026 19:45",
         "league": "İNGNLP",
         "matchCode": "4518211",
@@ -387,7 +237,7 @@
             "e": 85,
             "b": 93.75
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "04.11.2026 20:00",
@@ -477,7 +327,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "04.11.2026 20:00",
@@ -537,7 +387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "04.11.2026 20:00",
@@ -627,7 +477,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "04.11.2026 20:00",
@@ -657,7 +507,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "04.11.2026 20:00",
@@ -837,7 +687,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "04.11.2026 20:00",
@@ -867,7 +717,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "04.11.2026 20:00",
@@ -957,7 +807,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "05.11.2026 17:45",
@@ -987,7 +837,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "05.11.2026 17:45",
@@ -1077,7 +927,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "05.11.2026 17:45",
@@ -1137,7 +987,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "05.11.2026 17:45",
@@ -1287,7 +1137,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "05.11.2026 17:45",
@@ -1317,7 +1167,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "05.11.2026 17:45",
@@ -1347,7 +1197,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "05.11.2026 17:45",
@@ -1497,7 +1347,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "05.11.2026 17:45",
@@ -1527,7 +1377,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "05.11.2026 17:45",
@@ -1557,7 +1407,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "05.11.2026 17:45",
@@ -1617,7 +1467,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "05.11.2026 17:45",
@@ -1767,7 +1617,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "05.11.2026 17:45",
@@ -1797,7 +1647,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "05.11.2026 17:45",
@@ -1977,7 +1827,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "05.11.2026 17:45",
@@ -2157,7 +2007,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "05.11.2026 17:45",
@@ -2187,7 +2037,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "05.11.2026 17:45",
@@ -2247,7 +2097,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "05.11.2026 17:45",
@@ -2277,7 +2127,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "05.11.2026 17:45",
@@ -2337,7 +2187,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "05.11.2026 17:45",
@@ -2427,7 +2277,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "05.11.2026 17:45",
@@ -2457,7 +2307,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "05.11.2026 17:45",
@@ -2667,7 +2517,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 53
+        "aiScore": 54
     },
     {
         "date": "05.11.2026 17:45",
@@ -2817,7 +2667,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "05.11.2026 17:45",
@@ -2907,7 +2757,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "05.11.2026 17:45",
@@ -2937,7 +2787,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "05.11.2026 20:00",
@@ -2967,7 +2817,7 @@
             "e": 85,
             "b": 85.25
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "05.11.2026 20:00",
@@ -3027,7 +2877,7 @@
             "e": 85,
             "b": 94.74
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "05.11.2026 20:00",
@@ -3057,7 +2907,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "05.11.2026 20:00",
@@ -3117,7 +2967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "05.11.2026 20:00",
@@ -3177,7 +3027,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "05.11.2026 20:00",
@@ -3207,7 +3057,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "05.11.2026 20:00",
@@ -3267,7 +3117,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "05.11.2026 20:00",
@@ -3357,7 +3207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "05.11.2026 20:00",
@@ -3387,7 +3237,7 @@
             "e": 85,
             "b": 94.12
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "05.11.2026 20:00",
@@ -3477,7 +3327,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "05.11.2026 20:00",
@@ -3507,7 +3357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "05.11.2026 20:00",
@@ -3537,7 +3387,7 @@
             "e": 85,
             "b": 89.47
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "05.11.2026 20:00",
@@ -3597,7 +3447,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "05.11.2026 20:00",
@@ -3627,7 +3477,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "05.11.2026 20:00",
@@ -3657,7 +3507,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "05.11.2026 20:00",
@@ -3747,7 +3597,7 @@
             "e": 85,
             "b": 91.3
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "05.11.2026 20:00",
@@ -3777,7 +3627,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "05.11.2026 20:00",
@@ -3807,7 +3657,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "05.11.2026 20:00",
@@ -3867,7 +3717,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "05.11.2026 20:00",
@@ -3987,7 +3837,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "05.11.2026 20:00",
@@ -4017,7 +3867,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "05.11.2026 20:00",
@@ -4257,7 +4107,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "05.11.2026 20:00",
@@ -4317,7 +4167,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "05.11.2026 20:00",
@@ -4377,7 +4227,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "05.11.2026 20:00",
@@ -4587,7 +4437,7 @@
             "e": 85,
             "b": 94.12
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "05.11.2026 20:00",
@@ -4617,7 +4467,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "03.11.2026 05:00",
@@ -4737,7 +4587,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "03.11.2026 05:00",
@@ -4917,7 +4767,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "03.11.2026 05:00",
@@ -4947,7 +4797,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "03.11.2026 19:45",
@@ -5187,7 +5037,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "04.11.2026 19:45",
@@ -5247,7 +5097,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "04.11.2026 20:00",
@@ -5517,7 +5367,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "05.11.2026 00:30",
@@ -5607,7 +5457,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "05.11.2026 00:30",
@@ -5637,7 +5487,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "05.11.2026 00:30",
@@ -5757,7 +5607,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "05.11.2026 00:30",
@@ -5817,7 +5667,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "05.11.2026 14:00",
@@ -5847,7 +5697,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "05.11.2026 19:45",
@@ -5877,7 +5727,7 @@
             "e": 85,
             "b": 86.67
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "05.11.2026 19:45",
@@ -5997,7 +5847,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "06.11.2026 00:30",
@@ -6117,7 +5967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "06.11.2026 02:00",
@@ -6207,7 +6057,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "04.11.2026 20:00",
@@ -6297,7 +6147,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "04.11.2026 20:00",
@@ -6477,7 +6327,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "05.11.2026 17:45",
@@ -6597,7 +6447,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 52
+        "aiScore": 53
     },
     {
         "date": "04.11.2026 17:45",
@@ -6657,7 +6507,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "02.11.2026 19:30",
@@ -6837,7 +6687,7 @@
             "e": 85,
             "b": 94.74
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "02.11.2026 19:30",
@@ -6867,7 +6717,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "02.11.2026 19:30",
@@ -6897,7 +6747,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "02.11.2026 19:30",
@@ -6927,7 +6777,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "02.11.2026 19:45",
@@ -6987,7 +6837,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "02.11.2026 19:45",
@@ -7047,7 +6897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "02.11.2026 19:30",
@@ -7137,7 +6987,7 @@
             "e": 85,
             "b": 82.76
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "02.11.2026 22:00",
@@ -7257,7 +7107,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "02.11.2026 19:45",
@@ -7320,216 +7170,6 @@
         "aiScore": 89
     },
     {
-        "date": "02.11.2026 19:00",
-        "league": "İNPLK",
-        "matchCode": "4540457",
-        "home": "Preston North End",
-        "away": "Fleetwood Town",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "88.24",
-        "odds": "1.08",
-        "matchCount": "51",
-        "matchLink": "4540457",
-        "status": "Won",
-        "predictedScore": "3-0",
-        "predictedScoreText": "7/51",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "02.11.2026 18:09",
-        "patternScore": 71.12,
-        "patternText": "172.498/242.532",
-        "patternInfo": {
-            "m": 55,
-            "s": 4,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 96
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "İNPLK",
-        "matchCode": "4540457",
-        "home": "Preston North End",
-        "away": "Fleetwood Town",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "76.47",
-        "odds": "1.07",
-        "matchCount": "51",
-        "matchLink": "4540457",
-        "status": "Won",
-        "predictedScore": "3-0",
-        "predictedScoreText": "7/51",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "02.11.2026 18:09",
-        "patternScore": 69.63,
-        "patternText": "220.910/317.266",
-        "patternInfo": {
-            "m": 55,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 88.89
-        },
-        "aiScore": 83
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "İNPLK",
-        "matchCode": "4540421",
-        "home": "AFC Bournemouth U21",
-        "away": "Cardiff City U21",
-        "firstHalf": "2 - 1",
-        "finalScore": "3 - 2",
-        "prediction": "Double Chance 12",
-        "ihtimal": "80.52",
-        "odds": "1.08",
-        "matchCount": "77",
-        "matchLink": "4540421",
-        "status": "Won",
-        "predictedScore": "2-1",
-        "predictedScoreText": "10/77",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "02.11.2026 18:09",
-        "patternScore": 71.25,
-        "patternText": "170.403/239.159",
-        "patternInfo": {
-            "m": 57,
-            "s": 6,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 94
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "İNPLK",
-        "matchCode": "4540421",
-        "home": "AFC Bournemouth U21",
-        "away": "Cardiff City U21",
-        "firstHalf": "2 - 1",
-        "finalScore": "3 - 2",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "85.71",
-        "odds": "1.08",
-        "matchCount": "77",
-        "matchLink": "4540421",
-        "status": "Won",
-        "predictedScore": "2-1",
-        "predictedScoreText": "10/77",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "02.11.2026 18:09",
-        "patternScore": 70.58,
-        "patternText": "139.493/197.651",
-        "patternInfo": {
-            "m": 55,
-            "s": 4,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 93
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "HOL2",
-        "matchCode": "4481917",
-        "home": "Jong Utrecht",
-        "away": "FC Dordrecht",
-        "firstHalf": "3 - 1",
-        "finalScore": "3 - 2",
-        "prediction": "Double Chance 12",
-        "ihtimal": "81.38",
-        "odds": "1.10",
-        "matchCount": "145",
-        "matchLink": "4481917",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "16/145",
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 71.09,
-        "patternText": "163.945/230.601",
-        "patternInfo": {
-            "m": 61,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 87
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "HOL2",
-        "matchCode": "4481917",
-        "home": "Jong Utrecht",
-        "away": "FC Dordrecht",
-        "firstHalf": "3 - 1",
-        "finalScore": "3 - 2",
-        "prediction": "Handicap (0:2) 2",
-        "ihtimal": "73.79310344827587",
-        "odds": "1.06",
-        "matchCount": "145",
-        "matchLink": "4481917",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "16/145",
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 69.33,
-        "patternText": "192.998/278.386",
-        "patternInfo": {
-            "m": 59,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 89
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "HOL2",
-        "matchCode": "4481917",
-        "home": "Jong Utrecht",
-        "away": "FC Dordrecht",
-        "firstHalf": "3 - 1",
-        "finalScore": "3 - 2",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "77.24",
-        "odds": "1.08",
-        "matchCount": "145",
-        "matchLink": "4481917",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "16/145",
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 69.05,
-        "patternText": "207.576/300.624",
-        "patternInfo": {
-            "m": 63,
-            "s": 8,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 87
-    },
-    {
         "date": "02.11.2026 19:45",
         "league": "FR2",
         "matchCode": "4476907",
@@ -7587,7 +7227,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "02.11.2026 19:45",
@@ -7707,427 +7347,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "İNPLK",
-        "matchCode": "4540514",
-        "home": "Hull City U21",
-        "away": "Derby County U21",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Match Result 1",
-        "ihtimal": "75.0",
-        "odds": "1.08",
-        "matchCount": "4",
-        "matchLink": "4540514",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "02.11.2026 18:28",
-        "patternScore": 64.59,
-        "patternText": "257.354/398.442",
-        "patternInfo": {
-            "m": 60,
-            "s": 3,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 91
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "İNPLK",
-        "matchCode": "4540514",
-        "home": "Hull City U21",
-        "away": "Derby County U21",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "75.0",
-        "odds": "1.07",
-        "matchCount": "4",
-        "matchLink": "4540514",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "02.11.2026 18:28",
-        "patternScore": 66.56,
-        "patternText": "317.095/476.369",
-        "patternInfo": {
-            "m": 65,
-            "s": 5,
-            "f": 0,
-            "e": 85,
-            "b": 92.86
-        },
-        "aiScore": 90
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "HOL2",
-        "matchCode": "4481916",
-        "home": "Jong Ajax",
-        "away": "Vitesse Arnhem",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "82.35",
-        "odds": "1.09",
-        "matchCount": "85",
-        "matchLink": "4481916",
-        "status": "Lost",
-        "predictedScore": "1-0",
-        "predictedScoreText": "11/85",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "02.11.2026 18:29",
-        "patternScore": 71.65,
-        "patternText": "181.721/253.638",
-        "patternInfo": {
-            "m": 69,
-            "s": 4,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 90
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "HOL2",
-        "matchCode": "4481916",
-        "home": "Jong Ajax",
-        "away": "Vitesse Arnhem",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "77.65",
-        "odds": "1.15",
-        "matchCount": "85",
-        "matchLink": "4481916",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "11/85",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "02.11.2026 18:29",
-        "patternScore": 69.0,
-        "patternText": "199.071/288.512",
-        "patternInfo": {
-            "m": 64,
-            "s": 4,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 78
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "HOL2",
-        "matchCode": "4481916",
-        "home": "Jong Ajax",
-        "away": "Vitesse Arnhem",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "74.12",
-        "odds": "1.21",
-        "matchCount": "85",
-        "matchLink": "4481916",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "11/85",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "02.11.2026 18:29",
-        "patternScore": 69.11,
-        "patternText": "211.185/305.572",
-        "patternInfo": {
-            "m": 63,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 90.91
-        },
-        "aiScore": 63
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "HOL2",
-        "matchCode": "4481916",
-        "home": "Jong Ajax",
-        "away": "Vitesse Arnhem",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "70.59",
-        "odds": "1.06",
-        "matchCount": "85",
-        "matchLink": "4481916",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "11/85",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "02.11.2026 18:29",
-        "patternScore": 69.38,
-        "patternText": "212.627/306.452",
-        "patternInfo": {
-            "m": 68,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 83
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "HOL2",
-        "matchCode": "4481916",
-        "home": "Jong Ajax",
-        "away": "Vitesse Arnhem",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "1st Half Under 2.5",
-        "ihtimal": "89.41",
-        "odds": "1.06",
-        "matchCount": "85",
-        "matchLink": "4481916",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "11/85",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "02.11.2026 18:29",
-        "patternScore": 70.28,
-        "patternText": "117.087/166.596",
-        "patternInfo": {
-            "m": 55,
-            "s": 4,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 96
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "HOL2",
-        "matchCode": "4481918",
-        "home": "Jong PSV",
-        "away": "NAC Breda",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 2",
-        "prediction": "Handicap (2:0) 1",
-        "ihtimal": "70.37037037037037",
-        "odds": "1.34",
-        "matchCount": "27",
-        "matchLink": "4481918",
-        "status": "Lost",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "02.11.2026 18:29",
-        "patternScore": 68.36,
-        "patternText": "187.433/274.188",
-        "patternInfo": {
-            "m": 54,
-            "s": 5,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
         "aiScore": 58
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "HOL2",
-        "matchCode": "4481918",
-        "home": "Jong PSV",
-        "away": "NAC Breda",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 2",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "74.07",
-        "odds": "1.15",
-        "matchCount": "27",
-        "matchLink": "4481918",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "02.11.2026 18:29",
-        "patternScore": 69.1,
-        "patternText": "211.545/306.150",
-        "patternInfo": {
-            "m": 70,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 76
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "HOL2",
-        "matchCode": "4481918",
-        "home": "Jong PSV",
-        "away": "NAC Breda",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 2",
-        "prediction": "1st Half Under 2.5",
-        "ihtimal": "81.48",
-        "odds": "1.06",
-        "matchCount": "27",
-        "matchLink": "4481918",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "02.11.2026 18:29",
-        "patternScore": 70.55,
-        "patternText": "128.886/182.687",
-        "patternInfo": {
-            "m": 65,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 94
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "CZYR",
-        "matchCode": "4546148",
-        "home": "CR Belouizdad",
-        "away": "JS Saoura",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "80.0",
-        "odds": "1.20",
-        "matchCount": "5",
-        "matchLink": "4546148",
-        "status": "Lost",
-        "predictedScore": "2-0",
-        "predictedScoreText": "2/5",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "02.11.2026 18:29",
-        "patternScore": 67.92,
-        "patternText": "159.751/235.213",
-        "patternInfo": {
-            "m": 62,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 90.0
-        },
-        "aiScore": 71
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "CZYR",
-        "matchCode": "4546148",
-        "home": "CR Belouizdad",
-        "away": "JS Saoura",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "80.0",
-        "odds": "1.07",
-        "matchCount": "5",
-        "matchLink": "4546148",
-        "status": "Won",
-        "predictedScore": "2-0",
-        "predictedScoreText": "2/5",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "02.11.2026 18:29",
-        "patternScore": 68.16,
-        "patternText": "169.753/249.053",
-        "patternInfo": {
-            "m": 61,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 89
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "İNPLK",
-        "matchCode": "4540481",
-        "home": "Exeter City U2",
-        "away": "Reading U21",
-        "firstHalf": "2 - 2",
-        "finalScore": "4 - 3",
-        "prediction": "Double Chance 12",
-        "ihtimal": "73.46",
-        "odds": "1.10",
-        "matchCount": "162",
-        "matchLink": "4540481",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "19/162",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "02.11.2026 18:30",
-        "patternScore": 70.16,
-        "patternText": "256.066/364.964",
-        "patternInfo": {
-            "m": 58,
-            "s": 0,
-            "f": 0,
-            "e": 85,
-            "b": 83.33
-        },
-        "aiScore": 70
-    },
-    {
-        "date": "02.11.2026 19:00",
-        "league": "İNPLK",
-        "matchCode": "4540481",
-        "home": "Exeter City U2",
-        "away": "Reading U21",
-        "firstHalf": "2 - 2",
-        "finalScore": "4 - 3",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "72.22",
-        "odds": "1.25",
-        "matchCount": "162",
-        "matchLink": "4540481",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "19/162",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "02.11.2026 18:30",
-        "patternScore": 68.36,
-        "patternText": "190.534/278.732",
-        "patternInfo": {
-            "m": 48,
-            "s": 1,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 59
     },
     {
         "date": "03.11.2026 00:15",
@@ -8337,7 +7557,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "02.11.2026 19:30",
@@ -8487,7 +7707,7 @@
             "e": 85,
             "b": 93.75
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "02.11.2026 19:45",
@@ -8727,7 +7947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "02.11.2026 20:00",
@@ -8817,7 +8037,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "02.11.2026 20:00",
@@ -8997,7 +8217,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "02.11.2026 20:00",
@@ -9027,7 +8247,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "02.11.2026 20:00",
@@ -9087,7 +8307,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "02.11.2026 20:00",
@@ -9117,7 +8337,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "02.11.2026 20:00",
@@ -9237,7 +8457,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "02.11.2026 23:00",
@@ -9267,7 +8487,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "02.11.2026 23:00",
@@ -9387,7 +8607,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "02.11.2026 21:05",
@@ -9477,7 +8697,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "03.11.2026 01:00",
@@ -9537,7 +8757,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "02.11.2026 22:00",
@@ -9717,7 +8937,7 @@
             "e": 85,
             "b": 75.0
         },
-        "aiScore": 51
+        "aiScore": 52
     },
     {
         "date": "02.11.2026 22:00",
@@ -10017,7 +9237,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "03.11.2026 00:15",
@@ -10137,7 +9357,7 @@
             "e": 85,
             "b": 84.78
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "02.11.2026 23:30",
@@ -10317,7 +9537,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "03.11.2026 05:50",
@@ -10347,7 +9567,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "03.11.2026 05:50",
@@ -10437,7 +9657,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "03.11.2026 04:55",
@@ -10587,7 +9807,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "03.11.2026 05:00",
@@ -10647,7 +9867,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "03.11.2026 05:00",
@@ -10677,7 +9897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "03.11.2026 05:00",
@@ -10707,7 +9927,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "03.11.2026 05:00",
@@ -10737,7 +9957,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 94
     },
     {
         "date": "03.11.2026 05:00",
@@ -10827,7 +10047,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "03.11.2026 05:00",
@@ -10917,7 +10137,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "03.11.2026 05:00",
@@ -10947,7 +10167,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "03.11.2026 05:00",
@@ -11127,7 +10347,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "04.11.2026 10:00",
@@ -11277,7 +10497,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "03.11.2026 07:45",
@@ -11667,7 +10887,7 @@
             "e": 85,
             "b": 91.89
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "03.11.2026 10:00",
@@ -11727,7 +10947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "03.11.2026 15:00",
@@ -11817,7 +11037,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "03.11.2026 10:00",
@@ -11937,7 +11157,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "04.11.2026 17:00",
@@ -11997,7 +11217,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "05.11.2026 08:30",
@@ -12237,7 +11457,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "03.11.2026 13:00",
@@ -12297,7 +11517,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "03.11.2026 12:00",
@@ -12357,7 +11577,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "03.11.2026 12:00",
@@ -12417,7 +11637,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "03.11.2026 12:15",
@@ -12477,7 +11697,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "03.11.2026 12:15",
@@ -12537,7 +11757,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "03.11.2026 17:00",
@@ -12597,7 +11817,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "03.11.2026 17:00",
@@ -12657,7 +11877,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "03.11.2026 17:00",
@@ -12717,7 +11937,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "03.11.2026 17:00",
@@ -12747,7 +11967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "03.11.2026 17:00",
@@ -12777,7 +11997,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "03.11.2026 17:00",
@@ -12807,7 +12027,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "03.11.2026 12:15",
@@ -12837,7 +12057,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "03.11.2026 12:15",
@@ -12867,7 +12087,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "03.11.2026 12:15",
@@ -12897,7 +12117,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "03.11.2026 12:25",
@@ -12957,7 +12177,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "03.11.2026 13:45",
@@ -12987,7 +12207,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "03.11.2026 13:45",
@@ -13017,7 +12237,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "04.11.2026 07:45",
@@ -13107,7 +12327,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "04.11.2026 16:00",
@@ -13137,7 +12357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "04.11.2026 16:00",
@@ -13197,7 +12417,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "05.11.2026 15:20",
@@ -13257,7 +12477,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "03.11.2026 12:35",
@@ -13317,7 +12537,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "03.11.2026 13:00",
@@ -13407,7 +12627,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "04.11.2026 13:00",
@@ -13437,7 +12657,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "05.11.2026 13:00",
@@ -13467,7 +12687,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 96
     },
     {
         "date": "05.11.2026 14:15",
@@ -13557,7 +12777,7 @@
             "e": 85,
             "b": 87.88
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "04.11.2026 10:00",
@@ -13587,7 +12807,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "04.11.2026 10:00",
@@ -13647,7 +12867,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 53
+        "aiScore": 54
     },
     {
         "date": "04.11.2026 10:00",
@@ -13677,7 +12897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "04.11.2026 10:00",
@@ -13887,7 +13107,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "03.11.2026 19:00",
@@ -13947,7 +13167,7 @@
             "e": 85,
             "b": 95.83
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "03.11.2026 19:00",
@@ -14037,7 +13257,7 @@
             "e": 85,
             "b": 88.24
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "03.11.2026 19:00",
@@ -14187,7 +13407,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 97
     },
     {
         "date": "04.11.2026 16:00",
@@ -14247,7 +13467,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "03.11.2026 15:00",
@@ -14277,7 +13497,7 @@
             "e": 85,
             "b": 88.46
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "03.11.2026 19:30",
@@ -14307,7 +13527,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "04.11.2026 18:15",
@@ -14367,7 +13587,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "03.11.2026 19:45",
@@ -14427,7 +13647,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "03.11.2026 19:45",
@@ -14547,7 +13767,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "03.11.2026 19:45",
@@ -14637,7 +13857,7 @@
             "e": 85,
             "b": 94.12
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "03.11.2026 19:45",
@@ -14697,7 +13917,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "03.11.2026 19:45",
@@ -14727,7 +13947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "03.11.2026 19:45",
@@ -14757,7 +13977,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "03.11.2026 19:45",
@@ -14787,7 +14007,7 @@
             "e": 85,
             "b": 86.67
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "03.11.2026 19:45",
@@ -15027,7 +14247,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "05.11.2026 01:00",
@@ -15177,7 +14397,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "03.11.2026 15:00",
@@ -15267,7 +14487,7 @@
             "e": 85,
             "b": 85.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "03.11.2026 16:00",
@@ -15327,7 +14547,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "03.11.2026 16:00",
@@ -15357,7 +14577,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "03.11.2026 16:00",
@@ -15417,7 +14637,7 @@
             "e": 85,
             "b": 86.96
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "03.11.2026 16:00",
@@ -15477,7 +14697,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "03.11.2026 21:30",
@@ -15507,7 +14727,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "03.11.2026 21:30",
@@ -15537,7 +14757,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "03.11.2026 19:45",
@@ -15957,7 +15177,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "03.11.2026 22:30",
@@ -16137,7 +15357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "03.11.2026 19:45",
@@ -16167,7 +15387,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "03.11.2026 17:45",
@@ -16197,7 +15417,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "03.11.2026 17:45",
@@ -16227,7 +15447,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "03.11.2026 17:45",
@@ -16287,7 +15507,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "03.11.2026 17:45",
@@ -16317,7 +15537,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "03.11.2026 17:45",
@@ -16497,7 +15717,7 @@
             "e": 85,
             "b": 89.47
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "03.11.2026 17:45",
@@ -16557,7 +15777,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "03.11.2026 18:00",
@@ -16647,7 +15867,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "03.11.2026 18:00",
@@ -16677,7 +15897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "03.11.2026 18:00",
@@ -16947,7 +16167,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "03.11.2026 19:45",
@@ -16977,7 +16197,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "03.11.2026 19:45",
@@ -17007,7 +16227,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "03.11.2026 19:45",
@@ -17037,7 +16257,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "03.11.2026 19:45",
@@ -17097,7 +16317,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "03.11.2026 19:00",
@@ -17127,7 +16347,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "03.11.2026 19:00",
@@ -17157,7 +16377,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "03.11.2026 19:00",
@@ -17307,7 +16527,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "03.11.2026 19:00",
@@ -17337,7 +16557,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "03.11.2026 19:00",
@@ -17457,7 +16677,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "03.11.2026 20:00",
@@ -17517,7 +16737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "03.11.2026 20:00",
@@ -17547,7 +16767,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "03.11.2026 20:00",
@@ -17697,7 +16917,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "03.11.2026 19:45",
@@ -17787,7 +17007,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "03.11.2026 20:00",
@@ -17817,7 +17037,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "03.11.2026 20:00",
@@ -17937,7 +17157,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "05.11.2026 00:30",
@@ -17997,7 +17217,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "03.11.2026 19:45",
@@ -18027,7 +17247,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "03.11.2026 19:45",
@@ -18117,7 +17337,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "03.11.2026 19:45",
@@ -18267,7 +17487,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "03.11.2026 19:45",
@@ -18537,7 +17757,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "03.11.2026 19:45",
@@ -18657,7 +17877,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "03.11.2026 19:45",
@@ -18687,7 +17907,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "03.11.2026 19:45",
@@ -19017,7 +18237,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "04.11.2026 00:30",
@@ -19287,7 +18507,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "04.11.2026 05:00",
@@ -19317,7 +18537,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "04.11.2026 05:00",
