@@ -177,7 +177,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "04.11.2026 20:00",
@@ -237,7 +237,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "04.11.2026 20:00",
@@ -897,7 +897,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 57
+        "aiScore": 56
     },
     {
         "date": "05.11.2026 17:45",
@@ -1167,7 +1167,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "05.11.2026 17:45",
@@ -1887,7 +1887,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 69
     },
     {
         "date": "05.11.2026 17:45",
@@ -2457,7 +2457,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "05.11.2026 20:00",
@@ -4797,7 +4797,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "04.11.2026 13:00",
@@ -6207,7 +6207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "03.11.2026 22:30",
@@ -6807,7 +6807,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "03.11.2026 17:45",
@@ -8037,7 +8037,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 71
+        "aiScore": 70
     },
     {
         "date": "03.11.2026 19:45",
@@ -8127,7 +8127,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "03.11.2026 19:45",
@@ -8157,7 +8157,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "03.11.2026 20:00",
@@ -8727,7 +8727,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "03.11.2026 19:45",
@@ -9867,7 +9867,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 63
+        "aiScore": 62
     },
     {
         "date": "04.11.2026 05:00",
@@ -10317,7 +10317,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "04.11.2026 12:00",
@@ -11517,7 +11517,7 @@
             "e": 85,
             "b": 94.12
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "04.11.2026 20:00",
@@ -13137,7 +13137,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "04.11.2026 20:00",
@@ -13497,7 +13497,7 @@
             "e": 85,
             "b": 86.96
         },
-        "aiScore": 64
+        "aiScore": 63
     },
     {
         "date": "04.11.2026 19:45",
@@ -13948,36 +13948,6 @@
             "b": 93.75
         },
         "aiScore": 97
-    },
-    {
-        "date": "05.11.2026 01:00",
-        "league": "ELSAL",
-        "matchCode": "4504364",
-        "home": "Club Deportivo Firpo",
-        "away": "Alianza FC",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "70.97",
-        "odds": "1.25",
-        "matchCount": "93",
-        "matchLink": "4504364",
-        "status": "Pending",
-        "predictedScore": "0-0",
-        "predictedScoreText": "15/132",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "04.11.2026 23:22",
-        "patternScore": 68.33,
-        "patternText": "169.105/247.493",
-        "patternInfo": {
-            "m": 52,
-            "s": 4,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 62
     },
     {
         "date": "04.11.2026 23:30",
@@ -14488,5 +14458,65 @@
             "b": 100.0
         },
         "aiScore": 88
+    },
+    {
+        "date": "05.11.2026 01:00",
+        "league": "ELSAL",
+        "matchCode": "4504364",
+        "home": "Club Deportivo Firpo",
+        "away": "Alianza FC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "70.45",
+        "odds": "1.09",
+        "matchCount": "132",
+        "matchLink": "4504364",
+        "status": "Pending",
+        "predictedScore": "0-0",
+        "predictedScoreText": "15/132",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "04.11.2026 23:22",
+        "patternScore": 71.13,
+        "patternText": "233.112/327.707",
+        "patternInfo": {
+            "m": 62,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 92.31
+        },
+        "aiScore": 76
+    },
+    {
+        "date": "05.11.2026 01:00",
+        "league": "ELSAL",
+        "matchCode": "4504364",
+        "home": "Club Deportivo Firpo",
+        "away": "Alianza FC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "73.48",
+        "odds": "1.27",
+        "matchCount": "132",
+        "matchLink": "4504364",
+        "status": "Pending",
+        "predictedScore": "0-0",
+        "predictedScoreText": "15/132",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "04.11.2026 23:22",
+        "patternScore": 67.98,
+        "patternText": "162.835/239.529",
+        "patternInfo": {
+            "m": 50,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 90.0
+        },
+        "aiScore": 58
     }
 ]
