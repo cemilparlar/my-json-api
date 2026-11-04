@@ -27,7 +27,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "04.11.2026 20:00",
@@ -1077,7 +1077,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "05.11.2026 17:45",
@@ -1827,7 +1827,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 55
+        "aiScore": 54
     },
     {
         "date": "05.11.2026 17:45",
@@ -4497,7 +4497,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "04.11.2026 17:00",
@@ -4797,7 +4797,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "03.11.2026 17:00",
@@ -6447,7 +6447,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "03.11.2026 19:45",
@@ -7137,7 +7137,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "03.11.2026 17:45",
@@ -7917,7 +7917,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "03.11.2026 19:45",
@@ -7947,7 +7947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "03.11.2026 19:45",
@@ -8097,7 +8097,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 60
+        "aiScore": 59
     },
     {
         "date": "03.11.2026 19:00",
@@ -8637,7 +8637,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "03.11.2026 19:45",
@@ -9897,7 +9897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 58
     },
     {
         "date": "04.11.2026 00:30",
@@ -10317,7 +10317,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 60
     },
     {
         "date": "04.11.2026 14:00",
@@ -11727,7 +11727,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 83
+        "aiScore": 82
     },
     {
         "date": "04.11.2026 20:00",
@@ -12147,7 +12147,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 61
     },
     {
         "date": "04.11.2026 16:30",
@@ -12267,7 +12267,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "04.11.2026 17:00",
@@ -12597,7 +12597,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "04.11.2026 17:45",
@@ -14487,7 +14487,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "04.11.2026 20:00",
@@ -14998,5 +14998,125 @@
             "b": 100.0
         },
         "aiScore": 61
+    },
+    {
+        "date": "04.11.2026 23:30",
+        "league": "KOL",
+        "matchCode": "4513987",
+        "home": "Cucuta Deportivo",
+        "away": "Independiente Santa Fe",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "73.63",
+        "odds": "1.15",
+        "matchCount": "182",
+        "matchLink": "4513987",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "21/182",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 70.25,
+        "patternText": "223.216/317.764",
+        "patternInfo": {
+            "m": 58,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 90.91
+        },
+        "aiScore": 69
+    },
+    {
+        "date": "04.11.2026 23:30",
+        "league": "KOL",
+        "matchCode": "4513987",
+        "home": "Cucuta Deportivo",
+        "away": "Independiente Santa Fe",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "77.47",
+        "odds": "1.12",
+        "matchCount": "182",
+        "matchLink": "4513987",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "21/182",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 69.82,
+        "patternText": "181.341/259.735",
+        "patternInfo": {
+            "m": 49,
+            "s": 5,
+            "f": 0,
+            "e": 85,
+            "b": 94.74
+        },
+        "aiScore": 87
+    },
+    {
+        "date": "04.11.2026 23:30",
+        "league": "VEN",
+        "matchCode": "4576817",
+        "home": "Metropolitanos FC",
+        "away": "Carabobo FC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "71.64",
+        "odds": "1.22",
+        "matchCount": "134",
+        "matchLink": "4576817",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "19/134",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 69.09,
+        "patternText": "176.306/255.180",
+        "patternInfo": {
+            "m": 48,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 87.5
+        },
+        "aiScore": 62
+    },
+    {
+        "date": "04.11.2026 23:30",
+        "league": "VEN",
+        "matchCode": "4576817",
+        "home": "Metropolitanos FC",
+        "away": "Carabobo FC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "77.61",
+        "odds": "1.14",
+        "matchCount": "134",
+        "matchLink": "4576817",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "19/134",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 69.66,
+        "patternText": "180.370/258.928",
+        "patternInfo": {
+            "m": 54,
+            "s": 7,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 83
     }
 ]
