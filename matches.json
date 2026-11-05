@@ -627,7 +627,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "05.11.2026 17:45",
@@ -7437,7 +7437,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "04.11.2026 16:00",
@@ -7677,7 +7677,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "04.11.2026 17:00",
@@ -8517,7 +8517,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "04.11.2026 20:00",
@@ -8997,7 +8997,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "05.11.2026 00:30",
@@ -10288,5 +10288,65 @@
             "b": 88.89
         },
         "aiScore": 70
+    },
+    {
+        "date": "05.11.2026 10:00",
+        "league": "AFCŞL2",
+        "matchCode": "4550056",
+        "home": "Kitchee SC",
+        "away": "Phnom Penh Crow",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "71.51",
+        "odds": "1.12",
+        "matchCount": "179",
+        "matchLink": "4550056",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "25/179",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 70.41,
+        "patternText": "228.773/324.905",
+        "patternInfo": {
+            "m": 52,
+            "s": 5,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 75
+    },
+    {
+        "date": "05.11.2026 10:00",
+        "league": "AFCŞL2",
+        "matchCode": "4550056",
+        "home": "Kitchee SC",
+        "away": "Phnom Penh Crow",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "78.21",
+        "odds": "1.11",
+        "matchCount": "179",
+        "matchLink": "4550056",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "25/179",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 69.89,
+        "patternText": "187.091/267.689",
+        "patternInfo": {
+            "m": 45,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 90.91
+        },
+        "aiScore": 79
     }
 ]
