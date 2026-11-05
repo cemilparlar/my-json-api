@@ -1200,186 +1200,6 @@
         "aiScore": 77
     },
     {
-        "date": "04.11.2026 15:35",
-        "league": "AVL",
-        "matchCode": "4549607",
-        "home": "Stade Rennais",
-        "away": "Olympiakos",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "73.33",
-        "odds": "1.15",
-        "matchCount": "15",
-        "matchLink": "4549607",
-        "status": "Lost",
-        "predictedScore": "3-0",
-        "predictedScoreText": "3/15",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "04.11.2026 14:55",
-        "patternScore": 70.25,
-        "patternText": "286.254/407.462",
-        "patternInfo": {
-            "m": 70,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 90.48
-        },
-        "aiScore": 74
-    },
-    {
-        "date": "04.11.2026 15:35",
-        "league": "AVL",
-        "matchCode": "4549607",
-        "home": "Stade Rennais",
-        "away": "Olympiakos",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "73.33333333333333",
-        "odds": "1.17",
-        "matchCount": "15",
-        "matchLink": "4549607",
-        "status": "Won",
-        "predictedScore": "3-0",
-        "predictedScoreText": "3/15",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "04.11.2026 14:55",
-        "patternScore": 68.46,
-        "patternText": "206.484/301.628",
-        "patternInfo": {
-            "m": 58,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 90.0
-        },
-        "aiScore": 68
-    },
-    {
-        "date": "04.11.2026 15:35",
-        "league": "AVL",
-        "matchCode": "4549607",
-        "home": "Stade Rennais",
-        "away": "Olympiakos",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "80.0",
-        "odds": "1.08",
-        "matchCount": "15",
-        "matchLink": "4549607",
-        "status": "Lost",
-        "predictedScore": "3-0",
-        "predictedScoreText": "3/15",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "04.11.2026 14:55",
-        "patternScore": 70.62,
-        "patternText": "151.355/214.317",
-        "patternInfo": {
-            "m": 64,
-            "s": 6,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 95
-    },
-    {
-        "date": "04.11.2026 15:35",
-        "league": "AVL",
-        "matchCode": "4549607",
-        "home": "Stade Rennais",
-        "away": "Olympiakos",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "80.0",
-        "odds": "1.27",
-        "matchCount": "15",
-        "matchLink": "4549607",
-        "status": "Won",
-        "predictedScore": "3-0",
-        "predictedScoreText": "3/15",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "04.11.2026 14:55",
-        "patternScore": 69.13,
-        "patternText": "138.659/200.569",
-        "patternInfo": {
-            "m": 57,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 90.0
-        },
-        "aiScore": 63
-    },
-    {
-        "date": "04.11.2026 15:35",
-        "league": "AVL",
-        "matchCode": "4549607",
-        "home": "Stade Rennais",
-        "away": "Olympiakos",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "80.0",
-        "odds": "1.13",
-        "matchCount": "15",
-        "matchLink": "4549607",
-        "status": "Won",
-        "predictedScore": "3-0",
-        "predictedScoreText": "3/15",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "04.11.2026 14:55",
-        "patternScore": 70.5,
-        "patternText": "151.613/215.039",
-        "patternInfo": {
-            "m": 61,
-            "s": 6,
-            "f": 0,
-            "e": 85,
-            "b": 91.3
-        },
-        "aiScore": 91
-    },
-    {
-        "date": "04.11.2026 15:35",
-        "league": "AVL",
-        "matchCode": "4549607",
-        "home": "Stade Rennais",
-        "away": "Olympiakos",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "73.33",
-        "odds": "1.19",
-        "matchCount": "15",
-        "matchLink": "4549607",
-        "status": "Lost",
-        "predictedScore": "3-0",
-        "predictedScoreText": "3/15",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "04.11.2026 14:55",
-        "patternScore": 68.6,
-        "patternText": "218.811/318.981",
-        "patternInfo": {
-            "m": 61,
-            "s": 5,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 76
-    },
-    {
         "date": "04.11.2026 16:00",
         "league": "AFCŞL2",
         "matchCode": "4549996",
@@ -3537,7 +3357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 97
     },
     {
         "date": "05.11.2026 00:30",
@@ -3687,7 +3507,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 96
     },
     {
         "date": "04.11.2026 22:30",
@@ -4407,7 +4227,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 53
+        "aiScore": 54
     },
     {
         "date": "06.11.2026 17:00",
@@ -6807,7 +6627,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "07.11.2026 16:00",
@@ -10077,7 +9897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 95
     },
     {
         "date": "06.11.2026 17:00",
@@ -10947,7 +10767,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "06.11.2026 18:00",
@@ -11337,7 +11157,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "06.11.2026 18:00",
@@ -11577,7 +11397,7 @@
             "e": 85,
             "b": 95.65
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "06.11.2026 19:00",
@@ -11637,7 +11457,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "06.11.2026 19:00",
@@ -19737,7 +19557,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "07.11.2026 12:30",
@@ -21477,7 +21297,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 99
+        "aiScore": 98
     },
     {
         "date": "07.11.2026 13:30",
@@ -21717,7 +21537,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "07.11.2026 13:45",
@@ -21867,7 +21687,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "07.11.2026 13:45",
@@ -23397,7 +23217,7 @@
             "e": 85,
             "b": 95.65
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "07.11.2026 14:00",
@@ -29307,7 +29127,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "07.11.2026 15:00",
@@ -32067,7 +31887,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "08.11.2026 04:00",
@@ -34377,7 +34197,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "08.11.2026 12:00",
@@ -37017,7 +36837,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "08.11.2026 13:00",
@@ -37407,7 +37227,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "08.11.2026 13:30",
@@ -39837,7 +39657,7 @@
             "e": 85,
             "b": 88.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "08.11.2026 14:00",
@@ -41397,7 +41217,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 51
+        "aiScore": 52
     },
     {
         "date": "08.11.2026 15:30",
@@ -41637,7 +41457,7 @@
             "e": 85,
             "b": 88.46
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "08.11.2026 15:30",
@@ -43167,7 +42987,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "08.11.2026 16:00",
@@ -43347,7 +43167,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 52
+        "aiScore": 53
     },
     {
         "date": "08.11.2026 16:00",
@@ -43467,7 +43287,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 50
+        "aiScore": 51
     },
     {
         "date": "08.11.2026 16:00",
@@ -46677,7 +46497,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "08.11.2026 18:30",
@@ -50847,7 +50667,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "07.11.2026 17:30",
@@ -51027,7 +50847,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "07.11.2026 17:45",
@@ -51657,7 +51477,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "07.11.2026 19:00",
@@ -51687,7 +51507,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "07.11.2026 19:00",
@@ -52317,7 +52137,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "07.11.2026 19:45",
@@ -56547,7 +56367,7 @@
             "e": 85,
             "b": 86.67
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "07.11.2026 16:15",
@@ -57567,7 +57387,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "08.11.2026 13:45",
@@ -59967,7 +59787,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "08.11.2026 00:00",
@@ -60387,7 +60207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "08.11.2026 00:00",
@@ -61947,7 +61767,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "05.11.2026 20:00",
@@ -63537,7 +63357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "08.11.2026 12:00",
