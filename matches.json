@@ -477,7 +477,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "08.11.2026 12:30",
@@ -987,7 +987,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "08.11.2026 16:00",
@@ -1017,7 +1017,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "08.11.2026 16:00",
@@ -1197,7 +1197,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "08.11.2026 16:30",
@@ -1437,7 +1437,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "08.11.2026 18:15",
@@ -1587,7 +1587,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 99
+        "aiScore": 98
     },
     {
         "date": "08.11.2026 12:30",
@@ -2097,7 +2097,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "08.11.2026 12:00",
@@ -2727,7 +2727,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 93
     },
     {
         "date": "08.11.2026 16:00",
@@ -3120,426 +3120,6 @@
         "aiScore": 66
     },
     {
-        "date": "08.11.2026 11:15",
-        "league": "HOL",
-        "matchCode": "4481587",
-        "home": "SC Heerenveen",
-        "away": "Feyenoord",
-        "firstHalf": "1 - 2",
-        "finalScore": "5 - 3",
-        "prediction": "Double Chance X2",
-        "ihtimal": "100.0",
-        "odds": "1.08",
-        "matchCount": "1",
-        "matchLink": "4481587",
-        "status": "Lost",
-        "predictedScore": "2-2",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:38",
-        "patternScore": 58.88,
-        "patternText": "267.595/454.478",
-        "patternInfo": {
-            "m": 95,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 93.33
-        },
-        "aiScore": 75
-    },
-    {
-        "date": "08.11.2026 11:15",
-        "league": "HOL",
-        "matchCode": "4481587",
-        "home": "SC Heerenveen",
-        "away": "Feyenoord",
-        "firstHalf": "1 - 2",
-        "finalScore": "5 - 3",
-        "prediction": "Handicap (2:0) 1",
-        "ihtimal": "100.0",
-        "odds": "1.27",
-        "matchCount": "1",
-        "matchLink": "4481587",
-        "status": "Won",
-        "predictedScore": "2-2",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:38",
-        "patternScore": 57.72,
-        "patternText": "241.501/418.378",
-        "patternInfo": {
-            "m": 77,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 90.91
-        },
-        "aiScore": 56
-    },
-    {
-        "date": "08.11.2026 11:15",
-        "league": "HOL",
-        "matchCode": "4481587",
-        "home": "SC Heerenveen",
-        "away": "Feyenoord",
-        "firstHalf": "1 - 2",
-        "finalScore": "5 - 3",
-        "prediction": "Over 2.5 Goals",
-        "ihtimal": "100.0",
-        "odds": "1.25",
-        "matchCount": "1",
-        "matchLink": "4481587",
-        "status": "Won",
-        "predictedScore": "2-2",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:38",
-        "patternScore": 57.61,
-        "patternText": "247.831/430.166",
-        "patternInfo": {
-            "m": 91,
-            "s": 7,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 62
-    },
-    {
-        "date": "08.11.2026 11:15",
-        "league": "HOL",
-        "matchCode": "4481587",
-        "home": "SC Heerenveen",
-        "away": "Feyenoord",
-        "firstHalf": "1 - 2",
-        "finalScore": "5 - 3",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "100.0",
-        "odds": "1.18",
-        "matchCount": "1",
-        "matchLink": "4481587",
-        "status": "Lost",
-        "predictedScore": "2-2",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:38",
-        "patternScore": 58.36,
-        "patternText": "250.966/430.002",
-        "patternInfo": {
-            "m": 91,
-            "s": 9,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 66
-    },
-    {
-        "date": "08.11.2026 11:15",
-        "league": "HOL",
-        "matchCode": "4481587",
-        "home": "SC Heerenveen",
-        "away": "Feyenoord",
-        "firstHalf": "1 - 2",
-        "finalScore": "5 - 3",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "100.0",
-        "odds": "1.08",
-        "matchCount": "1",
-        "matchLink": "4481587",
-        "status": "Won",
-        "predictedScore": "2-2",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:38",
-        "patternScore": 59.17,
-        "patternText": "265.441/448.582",
-        "patternInfo": {
-            "m": 83,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 93.33
-        },
-        "aiScore": 80
-    },
-    {
-        "date": "08.11.2026 11:15",
-        "league": "HOL",
-        "matchCode": "4481587",
-        "home": "SC Heerenveen",
-        "away": "Feyenoord",
-        "firstHalf": "1 - 2",
-        "finalScore": "5 - 3",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "100.0",
-        "odds": "1.08",
-        "matchCount": "1",
-        "matchLink": "4481587",
-        "status": "Won",
-        "predictedScore": "2-2",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:38",
-        "patternScore": 59.49,
-        "patternText": "274.225/460.995",
-        "patternInfo": {
-            "m": 96,
-            "s": 9,
-            "f": 0,
-            "e": 85,
-            "b": 93.33
-        },
-        "aiScore": 91
-    },
-    {
-        "date": "08.11.2026 11:15",
-        "league": "HOL",
-        "matchCode": "4481587",
-        "home": "SC Heerenveen",
-        "away": "Feyenoord",
-        "firstHalf": "1 - 2",
-        "finalScore": "5 - 3",
-        "prediction": "1st Half Under 2.5",
-        "ihtimal": "100.0",
-        "odds": "1.08",
-        "matchCount": "1",
-        "matchLink": "4481587",
-        "status": "Lost",
-        "predictedScore": "2-2",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:38",
-        "patternScore": 58.72,
-        "patternText": "253.003/430.868",
-        "patternInfo": {
-            "m": 94,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 93.33
-        },
-        "aiScore": 84
-    },
-    {
-        "date": "08.11.2026 11:15",
-        "league": "POL1",
-        "matchCode": "4486245",
-        "home": "Polonia Bytom",
-        "away": "Lechia Gdansk",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "81.82",
-        "odds": "1.10",
-        "matchCount": "110",
-        "matchLink": "4486245",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "12/110",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:39",
-        "patternScore": 71.22,
-        "patternText": "209.929/294.762",
-        "patternInfo": {
-            "m": 62,
-            "s": 7,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 94
-    },
-    {
-        "date": "08.11.2026 11:15",
-        "league": "POL1",
-        "matchCode": "4486245",
-        "home": "Polonia Bytom",
-        "away": "Lechia Gdansk",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "75.45",
-        "odds": "1.10",
-        "matchCount": "110",
-        "matchLink": "4486245",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "12/110",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:39",
-        "patternScore": 69.32,
-        "patternText": "244.002/352.002",
-        "patternInfo": {
-            "m": 56,
-            "s": 9,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 91
-    },
-    {
-        "date": "08.11.2026 11:15",
-        "league": "HOL2",
-        "matchCode": "4481927",
-        "home": "Vitesse Arnhem",
-        "away": "De Graafschap",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "80.56",
-        "odds": "1.09",
-        "matchCount": "144",
-        "matchLink": "4481927",
-        "status": "HATA",
-        "predictedScore": "2-1",
-        "predictedScoreText": "17/161",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:39",
-        "patternScore": 71.56,
-        "patternText": "226.309/316.258",
-        "patternInfo": {
-            "m": 61,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 88
-    },
-    {
-        "date": "08.11.2026 11:15",
-        "league": "HOL2",
-        "matchCode": "4481927",
-        "home": "Vitesse Arnhem",
-        "away": "De Graafschap",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "70.13888888888889",
-        "odds": "1.13",
-        "matchCount": "144",
-        "matchLink": "4481927",
-        "status": "HATA",
-        "predictedScore": "2-1",
-        "predictedScoreText": "17/161",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:39",
-        "patternScore": 68.76,
-        "patternText": "245.520/357.063",
-        "patternInfo": {
-            "m": 52,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 67
-    },
-    {
-        "date": "08.11.2026 11:15",
-        "league": "HOL2",
-        "matchCode": "4481927",
-        "home": "Vitesse Arnhem",
-        "away": "De Graafschap",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "78.47",
-        "odds": "1.08",
-        "matchCount": "144",
-        "matchLink": "4481927",
-        "status": "HATA",
-        "predictedScore": "2-1",
-        "predictedScoreText": "17/161",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:39",
-        "patternScore": 69.25,
-        "patternText": "246.141/355.429",
-        "patternInfo": {
-            "m": 59,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 88.89
-        },
-        "aiScore": 79
-    },
-    {
-        "date": "08.11.2026 11:15",
-        "league": "HOL2",
-        "matchCode": "4481927",
-        "home": "Vitesse Arnhem",
-        "away": "De Graafschap",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "75.69",
-        "odds": "1.09",
-        "matchCount": "144",
-        "matchLink": "4481927",
-        "status": "HATA",
-        "predictedScore": "2-1",
-        "predictedScoreText": "17/161",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:39",
-        "patternScore": 70.18,
-        "patternText": "287.220/409.252",
-        "patternInfo": {
-            "m": 67,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 88.89
-        },
-        "aiScore": 77
-    },
-    {
-        "date": "08.11.2026 11:15",
-        "league": "HOL2",
-        "matchCode": "4481927",
-        "home": "Vitesse Arnhem",
-        "away": "De Graafschap",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "77.08",
-        "odds": "1.09",
-        "matchCount": "144",
-        "matchLink": "4481927",
-        "status": "HATA",
-        "predictedScore": "2-1",
-        "predictedScoreText": "17/161",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:39",
-        "patternScore": 69.5,
-        "patternText": "273.827/393.992",
-        "patternInfo": {
-            "m": 62,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 88.89
-        },
-        "aiScore": 81
-    },
-    {
         "date": "08.11.2026 12:00",
         "league": "NOR1",
         "matchCode": "4428758",
@@ -3657,7 +3237,7 @@
             "e": 85,
             "b": 88.24
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "08.11.2026 12:15",
@@ -3717,7 +3297,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "08.11.2026 12:15",
@@ -3927,7 +3507,7 @@
             "e": 85,
             "b": 95.65
         },
-        "aiScore": 85
+        "aiScore": 84
     },
     {
         "date": "08.11.2026 13:00",
@@ -4137,7 +3717,7 @@
             "e": 85,
             "b": 81.82
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "08.11.2026 13:30",
@@ -4617,7 +4197,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "08.11.2026 13:00",
@@ -5067,7 +4647,7 @@
             "e": 85,
             "b": 95.0
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "08.11.2026 13:00",
@@ -5127,7 +4707,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "08.11.2026 13:00",
@@ -5307,7 +4887,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "08.11.2026 12:00",
@@ -5517,7 +5097,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 94
     },
     {
         "date": "08.11.2026 13:30",
@@ -5997,7 +5577,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 96
     },
     {
         "date": "08.11.2026 14:00",
@@ -6777,7 +6357,7 @@
             "e": 85,
             "b": 88.0
         },
-        "aiScore": 83
+        "aiScore": 82
     },
     {
         "date": "08.11.2026 12:00",
@@ -7677,7 +7257,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 94
+        "aiScore": 93
     },
     {
         "date": "08.11.2026 11:30",
@@ -8517,7 +8097,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "08.11.2026 13:00",
@@ -8547,7 +8127,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "08.11.2026 13:00",
@@ -8967,7 +8547,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "08.11.2026 15:00",
@@ -8997,7 +8577,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 96
+        "aiScore": 95
     },
     {
         "date": "08.11.2026 15:00",
@@ -9657,7 +9237,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "08.11.2026 16:00",
@@ -10407,7 +9987,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 96
+        "aiScore": 95
     },
     {
         "date": "08.11.2026 12:00",
@@ -10437,7 +10017,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "08.11.2026 12:00",
@@ -10467,7 +10047,7 @@
             "e": 85,
             "b": 85.11
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "08.11.2026 12:00",
@@ -10737,7 +10317,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "08.11.2026 12:55",
@@ -11307,7 +10887,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "08.11.2026 17:00",
@@ -12207,7 +11787,7 @@
             "e": 85,
             "b": 88.24
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "08.11.2026 14:00",
@@ -12987,7 +12567,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 95
     },
     {
         "date": "08.11.2026 13:45",
@@ -13227,7 +12807,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "08.11.2026 14:00",
@@ -13377,7 +12957,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "08.11.2026 15:30",
@@ -13647,7 +13227,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "08.11.2026 16:30",
@@ -13767,7 +13347,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "08.11.2026 17:00",
@@ -14097,7 +13677,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "08.11.2026 14:00",
@@ -14637,7 +14217,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 92
     },
     {
         "date": "08.11.2026 14:00",
@@ -14907,7 +14487,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "08.11.2026 15:00",
@@ -15057,7 +14637,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "08.11.2026 15:30",
@@ -15207,7 +14787,7 @@
             "e": 85,
             "b": 86.11
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "08.11.2026 19:15",
@@ -15387,7 +14967,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "08.11.2026 15:00",
@@ -15867,7 +15447,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 53
+        "aiScore": 54
     },
     {
         "date": "08.11.2026 15:00",
@@ -15927,7 +15507,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "08.11.2026 15:30",
@@ -16617,7 +16197,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 92
     },
     {
         "date": "08.11.2026 15:00",
@@ -16947,7 +16527,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 94
     },
     {
         "date": "08.11.2026 15:15",
@@ -17157,7 +16737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "08.11.2026 15:20",
@@ -17427,7 +17007,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "08.11.2026 15:30",
@@ -17517,7 +17097,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "08.11.2026 15:30",
@@ -17817,7 +17397,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "08.11.2026 16:00",
@@ -17967,7 +17547,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "08.11.2026 16:00",
@@ -18297,7 +17877,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "08.11.2026 16:15",
@@ -19317,7 +18897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 92
     },
     {
         "date": "08.11.2026 17:00",
@@ -19467,7 +19047,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "08.11.2026 17:00",
@@ -19917,7 +19497,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "08.11.2026 17:15",
@@ -20427,7 +20007,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "08.11.2026 17:30",
@@ -20787,7 +20367,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "08.11.2026 17:30",
@@ -21177,7 +20757,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "08.11.2026 22:15",
@@ -21627,7 +21207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "08.11.2026 18:30",
@@ -22377,7 +21957,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "08.11.2026 19:00",
@@ -23067,7 +22647,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "08.11.2026 20:00",
@@ -23127,7 +22707,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "08.11.2026 20:00",
@@ -23157,7 +22737,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 85
+        "aiScore": 84
     },
     {
         "date": "08.11.2026 20:00",
@@ -23217,7 +22797,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "08.11.2026 21:15",
@@ -23413,8 +22993,8 @@
         "matchCount": "90",
         "matchLink": "4563366",
         "status": "HATA",
-        "predictedScore": "1-1",
-        "predictedScoreText": "5/27",
+        "predictedScore": "2-0",
+        "predictedScoreText": "5/16",
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "09.11.2026 16:23",
@@ -24717,7 +24297,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "14.11.2026 19:45",
@@ -25227,7 +24807,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "10.11.2026 19:00",
@@ -25377,7 +24957,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "10.11.2026 19:00",
@@ -26097,7 +25677,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "10.11.2026 19:30",
@@ -26397,7 +25977,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 97
     },
     {
         "date": "10.11.2026 19:45",
@@ -27237,7 +26817,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 94
     },
     {
         "date": "09.11.2026 13:15",
@@ -27853,11 +27433,11 @@
         "matchCount": "90",
         "matchLink": "4519210",
         "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "11/90",
+        "predictedScore": "1-0",
+        "predictedScoreText": "11/89",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "09.11.2026 17:17",
         "patternScore": 71.36,
         "patternText": "178.936/250.743",
         "patternInfo": {
@@ -28077,7 +27657,7 @@
             "e": 85,
             "b": 88.24
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "09.11.2026 19:30",
@@ -28303,8 +27883,8 @@
         "matchCount": "100",
         "matchLink": "4515961",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "11/100",
+        "predictedScore": "0-1",
+        "predictedScoreText": "8/56",
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "09.11.2026 15:47",
@@ -28333,8 +27913,8 @@
         "matchCount": "100",
         "matchLink": "4515961",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "11/100",
+        "predictedScore": "0-1",
+        "predictedScoreText": "8/56",
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "09.11.2026 15:47",
@@ -28797,7 +28377,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "09.11.2026 18:00",
@@ -28827,7 +28407,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "09.11.2026 18:00",
@@ -28903,8 +28483,8 @@
         "matchCount": "27",
         "matchLink": "4563366",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "5/27",
+        "predictedScore": "2-0",
+        "predictedScoreText": "5/16",
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "09.11.2026 16:23",
@@ -28980,36 +28560,6 @@
         "aiScore": 64
     },
     {
-        "date": "09.11.2026 18:00",
-        "league": "DAN1",
-        "matchCode": "4476298",
-        "home": "Hvidovre IF",
-        "away": "Aarhus Fremad",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (0:2) 2",
-        "ihtimal": "81.15942028985508",
-        "odds": "1.21",
-        "matchCount": "69",
-        "matchLink": "4476298",
-        "status": "Pending",
-        "predictedScore": "2-2",
-        "predictedScoreText": "11/69",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "09.11.2026 16:39",
-        "patternScore": 68.93,
-        "patternText": "119.596/173.512",
-        "patternInfo": {
-            "m": 44,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 76
-    },
-    {
         "date": "09.11.2026 19:30",
         "league": "FAK",
         "matchCode": "4576644",
@@ -29023,11 +28573,11 @@
         "matchCount": "111",
         "matchLink": "4576644",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "12/111",
+        "predictedScore": "0-1",
+        "predictedScoreText": "10/71",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "09.11.2026 16:56",
+        "tahminUpdatedAt": "09.11.2026 17:16",
         "patternScore": 71.29,
         "patternText": "171.931/241.176",
         "patternInfo": {
@@ -29338,5 +28888,51 @@
             "b": 86.67
         },
         "aiScore": 76
+    },
+    {
+        "date": "09.11.2026 18:00",
+        "league": "DAN1",
+        "matchCode": "4476298",
+        "home": "Hvidovre IF",
+        "away": "Aarhus Fremad",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "77.91",
+        "odds": "1.08",
+        "matchCount": "86",
+        "matchLink": "4476298",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "09.11.2026 17:15",
+        "patternScore": null,
+        "patternText": null,
+        "aiScore": 99
+    },
+    {
+        "date": "09.11.2026 18:00",
+        "league": "DAN1",
+        "matchCode": "4476298",
+        "home": "Hvidovre IF",
+        "away": "Aarhus Fremad",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "76.74",
+        "odds": "1.14",
+        "matchCount": "86",
+        "matchLink": "4476298",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "09.11.2026 17:15",
+        "patternScore": null,
+        "patternText": null,
+        "aiScore": 96
     }
 ]
