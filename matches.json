@@ -57,7 +57,7 @@
             "e": 85,
             "b": 88.24
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "08.11.2026 10:30",
@@ -537,7 +537,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "08.11.2026 11:00",
@@ -567,7 +567,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "08.11.2026 11:00",
@@ -657,7 +657,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "08.11.2026 11:00",
@@ -717,7 +717,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "08.11.2026 12:30",
@@ -837,7 +837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "08.11.2026 15:30",
@@ -1107,7 +1107,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 50
+        "aiScore": 51
     },
     {
         "date": "08.11.2026 15:30",
@@ -1527,7 +1527,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "08.11.2026 16:30",
@@ -1557,7 +1557,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "08.11.2026 16:30",
@@ -1587,7 +1587,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "08.11.2026 18:15",
@@ -1647,7 +1647,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "08.11.2026 18:15",
@@ -1887,7 +1887,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "09.11.2026 19:30",
@@ -2187,7 +2187,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "10.11.2026 00:30",
@@ -2217,7 +2217,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 53
+        "aiScore": 54
     },
     {
         "date": "10.11.2026 00:30",
@@ -2247,7 +2247,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "08.11.2026 12:30",
@@ -2367,7 +2367,7 @@
             "e": 85,
             "b": 86.67
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "08.11.2026 18:15",
@@ -2457,7 +2457,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "09.11.2026 18:00",
@@ -2577,7 +2577,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "09.11.2026 18:00",
@@ -2698,96 +2698,6 @@
             "b": 90.0
         },
         "aiScore": 84
-    },
-    {
-        "date": "09.11.2026 16:30",
-        "league": "RUS1",
-        "matchCode": "4498117",
-        "home": "Veles",
-        "away": "KAMAZ Naberezhnye Chelny",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "76.65",
-        "odds": "1.15",
-        "matchCount": "197",
-        "matchLink": "4498117",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "29/241",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "09.11.2026 10:50",
-        "patternScore": 70.08,
-        "patternText": "261.612/373.324",
-        "patternInfo": {
-            "m": 63,
-            "s": 11,
-            "f": 5,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 81
-    },
-    {
-        "date": "09.11.2026 16:30",
-        "league": "RUS1",
-        "matchCode": "4498117",
-        "home": "Veles",
-        "away": "KAMAZ Naberezhnye Chelny",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "72.08",
-        "odds": "1.08",
-        "matchCount": "197",
-        "matchLink": "4498117",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "29/241",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "09.11.2026 10:50",
-        "patternScore": 69.74,
-        "patternText": "217.434/311.782",
-        "patternInfo": {
-            "m": 57,
-            "s": 6,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 84
-    },
-    {
-        "date": "09.11.2026 16:30",
-        "league": "RUS1",
-        "matchCode": "4498117",
-        "home": "Veles",
-        "away": "KAMAZ Naberezhnye Chelny",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "71.07",
-        "odds": "1.31",
-        "matchCount": "197",
-        "matchLink": "4498117",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "29/241",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "09.11.2026 10:50",
-        "patternScore": 68.24,
-        "patternText": "192.502/282.106",
-        "patternInfo": {
-            "m": 49,
-            "s": 2,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 58
     },
     {
         "date": "08.11.2026 17:30",
@@ -3357,7 +3267,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "08.11.2026 11:30",
@@ -3388,156 +3298,6 @@
             "b": 100.0
         },
         "aiScore": 77
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "GKOR2",
-        "matchCode": "4442880",
-        "home": "Suwon Samsung Bluewings",
-        "away": "FC Yongin",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "Match Result 1",
-        "ihtimal": "72.22",
-        "odds": "1.18",
-        "matchCount": "18",
-        "matchLink": "4442880",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "3/13",
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 68.3,
-        "patternText": "236.749/346.641",
-        "patternInfo": {
-            "m": 62,
-            "s": 4,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 70
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "GKOR2",
-        "matchCode": "4442880",
-        "home": "Suwon Samsung Bluewings",
-        "away": "FC Yongin",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "1st Half Double Chance 12",
-        "ihtimal": "77.78",
-        "odds": "1.22",
-        "matchCount": "18",
-        "matchLink": "4442880",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "3/13",
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 68.23,
-        "patternText": "227.681/333.715",
-        "patternInfo": {
-            "m": 60,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 91.67
-        },
-        "aiScore": 64
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "GKOR2",
-        "matchCode": "4442881",
-        "home": "Cheonan City F",
-        "away": "Busan Ipark",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "75.33",
-        "odds": "1.11",
-        "matchCount": "150",
-        "matchLink": "4442881",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "18/150",
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 70.36,
-        "patternText": "296.413/421.258",
-        "patternInfo": {
-            "m": 67,
-            "s": 6,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 82
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "GKOR2",
-        "matchCode": "4442881",
-        "home": "Cheonan City F",
-        "away": "Busan Ipark",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "76.67",
-        "odds": "1.07",
-        "matchCount": "150",
-        "matchLink": "4442881",
-        "status": "Lost",
-        "predictedScore": "1-1",
-        "predictedScoreText": "18/150",
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 69.73,
-        "patternText": "242.157/347.288",
-        "patternInfo": {
-            "m": 58,
-            "s": 9,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 91
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "GKOR2",
-        "matchCode": "4442881",
-        "home": "Cheonan City F",
-        "away": "Busan Ipark",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "70.0",
-        "odds": "1.23",
-        "matchCount": "150",
-        "matchLink": "4442881",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "18/150",
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 68.77,
-        "patternText": "232.425/337.978",
-        "patternInfo": {
-            "m": 53,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 91.67
-        },
-        "aiScore": 61
     },
     {
         "date": "08.11.2026 12:00",
@@ -3657,7 +3417,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "08.11.2026 14:30",
@@ -3807,7 +3567,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "08.11.2026 14:30",
@@ -3867,7 +3627,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "08.11.2026 13:30",
@@ -3987,7 +3747,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "09.11.2026 19:30",
@@ -4197,7 +3957,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "08.11.2026 16:00",
@@ -4347,7 +4107,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "08.11.2026 10:00",
@@ -4527,7 +4287,7 @@
             "e": 85,
             "b": 86.67
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "08.11.2026 15:00",
@@ -4677,7 +4437,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "08.11.2026 16:00",
@@ -4797,97 +4557,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "JAP3",
-        "matchCode": "4488041",
-        "home": "AC Parceiro Nagano",
-        "away": "Kamatamare Sanuki",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "78.08",
-        "odds": "1.13",
-        "matchCount": "260",
-        "matchLink": "4488041",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "33/260",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 70.3,
-        "patternText": "294.113/418.351",
-        "patternInfo": {
-            "m": 63,
-            "s": 14,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 93
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "JAP3",
-        "matchCode": "4488041",
-        "home": "AC Parceiro Nagano",
-        "away": "Kamatamare Sanuki",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 1",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "78.08",
-        "odds": "1.11",
-        "matchCount": "260",
-        "matchLink": "4488041",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "33/260",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 69.75,
-        "patternText": "245.686/352.213",
-        "patternInfo": {
-            "m": 58,
-            "s": 9,
-            "f": 6,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 86
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "HK2",
-        "matchCode": "4555622",
-        "home": "Sham Shui Po",
-        "away": "Wse",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Match Result 2",
-        "ihtimal": "80.0",
-        "odds": "1.21",
-        "matchCount": "5",
-        "matchLink": "4555622",
-        "status": "Lost",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "07.11.2026 23:06",
-        "patternScore": 67.46,
-        "patternText": "167.614/248.466",
-        "patternInfo": {
-            "m": 58,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 70
+        "aiScore": 67
     },
     {
         "date": "08.11.2026 05:30",
@@ -4947,7 +4617,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 51
+        "aiScore": 52
     },
     {
         "date": "08.11.2026 07:30",
@@ -4978,126 +4648,6 @@
             "b": 100.0
         },
         "aiScore": 73
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487260",
-        "home": "FC Machida Zelvia",
-        "away": "Sanfrecce Hiroshima",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "100.0",
-        "odds": "1.17",
-        "matchCount": "10",
-        "matchLink": "4487260",
-        "status": "Lost",
-        "predictedScore": "1-0",
-        "predictedScoreText": "3/10",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 03:36",
-        "patternScore": 65.02,
-        "patternText": "191.404/294.365",
-        "patternInfo": {
-            "m": 68,
-            "s": 5,
-            "f": 0,
-            "e": 85,
-            "b": 93.33
-        },
-        "aiScore": 86
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487260",
-        "home": "FC Machida Zelvia",
-        "away": "Sanfrecce Hiroshima",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "70.0",
-        "odds": "1.22",
-        "matchCount": "10",
-        "matchLink": "4487260",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "3/10",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 03:36",
-        "patternScore": 68.29,
-        "patternText": "260.216/381.032",
-        "patternInfo": {
-            "m": 78,
-            "s": 9,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 66
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487260",
-        "home": "FC Machida Zelvia",
-        "away": "Sanfrecce Hiroshima",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "90.0",
-        "odds": "1.14",
-        "matchCount": "10",
-        "matchLink": "4487260",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "3/10",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 03:36",
-        "patternScore": 68.83,
-        "patternText": "111.225/161.593",
-        "patternInfo": {
-            "m": 65,
-            "s": 6,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 91
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487260",
-        "home": "FC Machida Zelvia",
-        "away": "Sanfrecce Hiroshima",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "70.0",
-        "odds": "1.30",
-        "matchCount": "10",
-        "matchLink": "4487260",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "3/10",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 03:36",
-        "patternScore": 67.69,
-        "patternText": "252.952/373.694",
-        "patternInfo": {
-            "m": 74,
-            "s": 8,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 59
     },
     {
         "date": "08.11.2026 06:30",
@@ -5277,97 +4827,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 79
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "JAP2",
-        "matchCode": "4487664",
-        "home": "Jubilo Iwata",
-        "away": "Shonan Bellmare",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "78.08",
-        "odds": "1.10",
-        "matchCount": "146",
-        "matchLink": "4487664",
-        "status": "Lost",
-        "predictedScore": "2-0",
-        "predictedScoreText": "15/146",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 03:56",
-        "patternScore": 70.55,
-        "patternText": "297.436/421.606",
-        "patternInfo": {
-            "m": 81,
-            "s": 20,
-            "f": 5,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 95
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "JAP2",
-        "matchCode": "4487664",
-        "home": "Jubilo Iwata",
-        "away": "Shonan Bellmare",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "79.45",
-        "odds": "1.07",
-        "matchCount": "146",
-        "matchLink": "4487664",
-        "status": "Won",
-        "predictedScore": "2-0",
-        "predictedScoreText": "15/146",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 03:56",
-        "patternScore": 69.77,
-        "patternText": "243.620/349.152",
-        "patternInfo": {
-            "m": 74,
-            "s": 6,
-            "f": 0,
-            "e": 85,
-            "b": 93.33
-        },
-        "aiScore": 90
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "JAP2",
-        "matchCode": "4487664",
-        "home": "Jubilo Iwata",
-        "away": "Shonan Bellmare",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "76.71",
-        "odds": "1.07",
-        "matchCount": "146",
-        "matchLink": "4487664",
-        "status": "Won",
-        "predictedScore": "2-0",
-        "predictedScoreText": "15/146",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 03:56",
-        "patternScore": 69.99,
-        "patternText": "248.981/355.747",
-        "patternInfo": {
-            "m": 74,
-            "s": 8,
-            "f": 0,
-            "e": 85,
-            "b": 93.33
-        },
-        "aiScore": 87
+        "aiScore": 80
     },
     {
         "date": "08.11.2026 07:30",
@@ -5430,696 +4890,6 @@
         "aiScore": 87
     },
     {
-        "date": "08.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487266",
-        "home": "Vissel Kobe",
-        "away": "Urawa Red Diamonds",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 2",
-        "prediction": "Double Chance 12",
-        "ihtimal": "73.33",
-        "odds": "1.15",
-        "matchCount": "15",
-        "matchLink": "4487266",
-        "status": "Lost",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:12",
-        "patternScore": 70.18,
-        "patternText": "326.501/465.264",
-        "patternInfo": {
-            "m": 87,
-            "s": 9,
-            "f": 5,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 78
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487266",
-        "home": "Vissel Kobe",
-        "away": "Urawa Red Diamonds",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 2",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "80.0",
-        "odds": "1.15",
-        "matchCount": "15",
-        "matchLink": "4487266",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:12",
-        "patternScore": 69.51,
-        "patternText": "160.507/230.918",
-        "patternInfo": {
-            "m": 70,
-            "s": 6,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 92
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487266",
-        "home": "Vissel Kobe",
-        "away": "Urawa Red Diamonds",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 2",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "93.33",
-        "odds": "1.08",
-        "matchCount": "15",
-        "matchLink": "4487266",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:12",
-        "patternScore": 70.1,
-        "patternText": "114.061/162.701",
-        "patternInfo": {
-            "m": 66,
-            "s": 12,
-            "f": 5,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 99
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487266",
-        "home": "Vissel Kobe",
-        "away": "Urawa Red Diamonds",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 2",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "73.33",
-        "odds": "1.12",
-        "matchCount": "15",
-        "matchLink": "4487266",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:12",
-        "patternScore": 69.58,
-        "patternText": "271.962/390.837",
-        "patternInfo": {
-            "m": 78,
-            "s": 10,
-            "f": 7,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 86
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487266",
-        "home": "Vissel Kobe",
-        "away": "Urawa Red Diamonds",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 2",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "86.67",
-        "odds": "1.19",
-        "matchCount": "15",
-        "matchLink": "4487266",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:12",
-        "patternScore": 69.45,
-        "patternText": "161.361/232.357",
-        "patternInfo": {
-            "m": 71,
-            "s": 9,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 87
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "JAP3",
-        "matchCode": "4488044",
-        "home": "Gainare Tottor",
-        "away": "Tochigi SC",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "76.36",
-        "odds": "1.14",
-        "matchCount": "165",
-        "matchLink": "4488044",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "22/165",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:12",
-        "patternScore": 70.17,
-        "patternText": "292.135/416.322",
-        "patternInfo": {
-            "m": 78,
-            "s": 10,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 85
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "JAP3",
-        "matchCode": "4488044",
-        "home": "Gainare Tottor",
-        "away": "Tochigi SC",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 1",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "75.76",
-        "odds": "1.09",
-        "matchCount": "165",
-        "matchLink": "4488044",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "22/165",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:12",
-        "patternScore": 69.9,
-        "patternText": "250.477/358.323",
-        "patternInfo": {
-            "m": 72,
-            "s": 7,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 83
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "GKOR",
-        "matchCode": "4578075",
-        "home": "Not FC Seoul - check data",
-        "away": "Ulsan Hyundai",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "76.92",
-        "odds": "1.15",
-        "matchCount": "26",
-        "matchLink": "4578075",
-        "status": "HATA",
-        "predictedScore": "2-1",
-        "predictedScoreText": "6/26",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:13",
-        "patternScore": 70.31,
-        "patternText": "324.572/461.598",
-        "patternInfo": {
-            "m": 81,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 85.71
-        },
-        "aiScore": 75
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "GKOR",
-        "matchCode": "4578075",
-        "home": "Not FC Seoul - check data",
-        "away": "Ulsan Hyundai",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (0:2) 2",
-        "ihtimal": "88.46153846153845",
-        "odds": "1.07",
-        "matchCount": "26",
-        "matchLink": "4578075",
-        "status": "HATA",
-        "predictedScore": "2-1",
-        "predictedScoreText": "6/26",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:13",
-        "patternScore": 70.38,
-        "patternText": "153.807/218.530",
-        "patternInfo": {
-            "m": 61,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 90.0
-        },
-        "aiScore": 95
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "GKOR",
-        "matchCode": "4578075",
-        "home": "Not FC Seoul - check data",
-        "away": "Ulsan Hyundai",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "76.92307692307693",
-        "odds": "1.20",
-        "matchCount": "26",
-        "matchLink": "4578075",
-        "status": "HATA",
-        "predictedScore": "2-1",
-        "predictedScoreText": "6/26",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:13",
-        "patternScore": 68.64,
-        "patternText": "234.708/341.950",
-        "patternInfo": {
-            "m": 72,
-            "s": 8,
-            "f": 5,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 72
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "GKOR",
-        "matchCode": "4578075",
-        "home": "Not FC Seoul - check data",
-        "away": "Ulsan Hyundai",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "76.92",
-        "odds": "1.37",
-        "matchCount": "26",
-        "matchLink": "4578075",
-        "status": "HATA",
-        "predictedScore": "2-1",
-        "predictedScoreText": "6/26",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:13",
-        "patternScore": 68.73,
-        "patternText": "249.060/362.354",
-        "patternInfo": {
-            "m": 67,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 85.71
-        },
-        "aiScore": 58
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "GKOR",
-        "matchCode": "4578075",
-        "home": "Not FC Seoul - check data",
-        "away": "Ulsan Hyundai",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "84.62",
-        "odds": "1.07",
-        "matchCount": "26",
-        "matchLink": "4578075",
-        "status": "HATA",
-        "predictedScore": "2-1",
-        "predictedScoreText": "6/26",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:13",
-        "patternScore": 70.67,
-        "patternText": "157.695/223.132",
-        "patternInfo": {
-            "m": 63,
-            "s": 4,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 96
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "GKOR",
-        "matchCode": "4578075",
-        "home": "Not FC Seoul - check data",
-        "away": "Ulsan Hyundai",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "73.08",
-        "odds": "1.15",
-        "matchCount": "26",
-        "matchLink": "4578075",
-        "status": "HATA",
-        "predictedScore": "2-1",
-        "predictedScoreText": "6/26",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:13",
-        "patternScore": 69.67,
-        "patternText": "272.263/390.790",
-        "patternInfo": {
-            "m": 73,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 85.71
-        },
-        "aiScore": 71
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "GKOR",
-        "matchCode": "4578075",
-        "home": "Not FC Seoul - check data",
-        "away": "Ulsan Hyundai",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "76.92",
-        "odds": "1.41",
-        "matchCount": "26",
-        "matchLink": "4578075",
-        "status": "HATA",
-        "predictedScore": "2-1",
-        "predictedScoreText": "6/26",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:13",
-        "patternScore": 68.18,
-        "patternText": "241.667/354.451",
-        "patternInfo": {
-            "m": 65,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 58
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "GKOR",
-        "matchCode": "4578074",
-        "home": "Daejeon Citizen",
-        "away": "Incheon United",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "74.07",
-        "odds": "1.15",
-        "matchCount": "27",
-        "matchLink": "4578074",
-        "status": "HATA",
-        "predictedScore": "1-1",
-        "predictedScoreText": "4/27",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:13",
-        "patternScore": 70.31,
-        "patternText": "324.344/461.296",
-        "patternInfo": {
-            "m": 79,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 85.71
-        },
-        "aiScore": 72
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "GKOR",
-        "matchCode": "4578074",
-        "home": "Daejeon Citizen",
-        "away": "Incheon United",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "74.07407407407408",
-        "odds": "1.10",
-        "matchCount": "27",
-        "matchLink": "4578074",
-        "status": "HATA",
-        "predictedScore": "1-1",
-        "predictedScoreText": "4/27",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:13",
-        "patternScore": 69.2,
-        "patternText": "246.104/355.636",
-        "patternInfo": {
-            "m": 70,
-            "s": 5,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 80
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "GKOR",
-        "matchCode": "4578074",
-        "home": "Daejeon Citizen",
-        "away": "Incheon United",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "74.07",
-        "odds": "1.15",
-        "matchCount": "27",
-        "matchLink": "4578074",
-        "status": "HATA",
-        "predictedScore": "1-1",
-        "predictedScoreText": "4/27",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:13",
-        "patternScore": 69.52,
-        "patternText": "268.146/385.710",
-        "patternInfo": {
-            "m": 79,
-            "s": 4,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 72
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "GKOR",
-        "matchCode": "4578074",
-        "home": "Daejeon Citizen",
-        "away": "Incheon United",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "81.48",
-        "odds": "1.17",
-        "matchCount": "27",
-        "matchLink": "4578074",
-        "status": "HATA",
-        "predictedScore": "1-1",
-        "predictedScoreText": "4/27",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:13",
-        "patternScore": 69.58,
-        "patternText": "160.877/231.200",
-        "patternInfo": {
-            "m": 68,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 86.67
-        },
-        "aiScore": 72
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "GKOR",
-        "matchCode": "4578074",
-        "home": "Daejeon Citizen",
-        "away": "Incheon United",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "74.07",
-        "odds": "1.08",
-        "matchCount": "27",
-        "matchLink": "4578074",
-        "status": "HATA",
-        "predictedScore": "1-1",
-        "predictedScoreText": "4/27",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:13",
-        "patternScore": 69.99,
-        "patternText": "272.398/389.172",
-        "patternInfo": {
-            "m": 74,
-            "s": 2,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 81
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "GKOR",
-        "matchCode": "4578074",
-        "home": "Daejeon Citizen",
-        "away": "Incheon United",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "85.19",
-        "odds": "1.26",
-        "matchCount": "27",
-        "matchLink": "4578074",
-        "status": "HATA",
-        "predictedScore": "1-1",
-        "predictedScoreText": "4/27",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:13",
-        "patternScore": 68.71,
-        "patternText": "151.539/220.534",
-        "patternInfo": {
-            "m": 65,
-            "s": 3,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 69
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "JAP3",
-        "matchCode": "4488039",
-        "home": "SC Sagamihara",
-        "away": "Kagoshima United",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "77.27",
-        "odds": "1.15",
-        "matchCount": "198",
-        "matchLink": "4488039",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "31/198",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:13",
-        "patternScore": 70.29,
-        "patternText": "298.331/424.407",
-        "patternInfo": {
-            "m": 79,
-            "s": 17,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 91
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "JAP3",
-        "matchCode": "4488039",
-        "home": "SC Sagamihara",
-        "away": "Kagoshima United",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "72.22",
-        "odds": "1.10",
-        "matchCount": "198",
-        "matchLink": "4488039",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "31/198",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:13",
-        "patternScore": 69.47,
-        "patternText": "235.899/339.551",
-        "patternInfo": {
-            "m": 75,
-            "s": 12,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 77
-    },
-    {
-        "date": "08.11.2026 05:00",
-        "league": "JAP3",
-        "matchCode": "4488039",
-        "home": "SC Sagamihara",
-        "away": "Kagoshima United",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "74.24",
-        "odds": "1.25",
-        "matchCount": "198",
-        "matchLink": "4488039",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "31/198",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 04:13",
-        "patternScore": 68.11,
-        "patternText": "224.057/328.975",
-        "patternInfo": {
-            "m": 63,
-            "s": 8,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 62
-    },
-    {
         "date": "08.11.2026 06:45",
         "league": "RUS1",
         "matchCode": "4498110",
@@ -6147,7 +4917,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "08.11.2026 06:45",
@@ -6717,7 +5487,7 @@
             "e": 85,
             "b": 94.12
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "08.11.2026 06:00",
@@ -6777,7 +5547,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "08.11.2026 06:00",
@@ -6837,7 +5607,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "08.11.2026 06:00",
@@ -7047,7 +5817,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "08.11.2026 11:00",
@@ -7137,7 +5907,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 52
+        "aiScore": 53
     },
     {
         "date": "08.11.2026 11:00",
@@ -7827,7 +6597,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "08.11.2026 11:15",
@@ -8067,7 +6837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "08.11.2026 11:15",
@@ -8097,7 +6867,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "08.11.2026 11:15",
@@ -8427,7 +7197,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "08.11.2026 07:30",
@@ -8457,7 +7227,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "08.11.2026 07:30",
@@ -8577,7 +7347,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "08.11.2026 07:30",
@@ -8847,7 +7617,7 @@
             "e": 85,
             "b": 75.39
         },
-        "aiScore": 53
+        "aiScore": 54
     },
     {
         "date": "08.11.2026 07:30",
@@ -9207,7 +7977,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "08.11.2026 07:30",
@@ -9357,7 +8127,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 52
+        "aiScore": 53
     },
     {
         "date": "08.11.2026 07:30",
@@ -9447,7 +8217,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "08.11.2026 08:00",
@@ -9567,7 +8337,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "08.11.2026 08:00",
@@ -9717,7 +8487,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "08.11.2026 12:15",
@@ -9987,7 +8757,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "08.11.2026 13:00",
@@ -10047,7 +8817,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 53
+        "aiScore": 54
     },
     {
         "date": "08.11.2026 13:00",
@@ -10287,7 +9057,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "08.11.2026 13:30",
@@ -10467,7 +9237,7 @@
             "e": 85,
             "b": 91.3
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "08.11.2026 13:30",
@@ -10587,7 +9357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "08.11.2026 13:30",
@@ -11427,7 +10197,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "08.11.2026 13:00",
@@ -11847,7 +10617,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 93
     },
     {
         "date": "08.11.2026 10:30",
@@ -11937,7 +10707,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 97
     },
     {
         "date": "08.11.2026 11:00",
@@ -11967,7 +10737,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "08.11.2026 11:00",
@@ -12087,7 +10857,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "08.11.2026 11:00",
@@ -12177,7 +10947,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "08.11.2026 11:00",
@@ -12327,7 +11097,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "08.11.2026 10:00",
@@ -12537,7 +11307,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "08.11.2026 11:00",
@@ -12597,7 +11367,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "08.11.2026 11:00",
@@ -12687,7 +11457,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "08.11.2026 11:30",
@@ -12747,7 +11517,7 @@
             "e": 85,
             "b": 85.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "08.11.2026 12:00",
@@ -12777,7 +11547,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "08.11.2026 12:00",
@@ -12987,7 +11757,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "08.11.2026 13:30",
@@ -13077,7 +11847,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "08.11.2026 13:30",
@@ -13137,7 +11907,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "08.11.2026 13:30",
@@ -13227,7 +11997,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "08.11.2026 13:30",
@@ -13257,7 +12027,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "08.11.2026 13:30",
@@ -14007,7 +12777,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "08.11.2026 11:00",
@@ -14037,7 +12807,7 @@
             "e": 85,
             "b": 95.83
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "08.11.2026 11:00",
@@ -14757,7 +13527,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "08.11.2026 12:00",
@@ -14967,7 +13737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "08.11.2026 12:15",
@@ -15507,7 +14277,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "08.11.2026 11:30",
@@ -15537,7 +14307,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "08.11.2026 11:30",
@@ -15717,7 +14487,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "08.11.2026 12:00",
@@ -15747,7 +14517,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "08.11.2026 12:00",
@@ -15897,7 +14667,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "08.11.2026 12:15",
@@ -15957,7 +14727,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 96
     },
     {
         "date": "08.11.2026 12:30",
@@ -16347,7 +15117,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "08.11.2026 13:00",
@@ -16647,7 +15417,7 @@
             "e": 85,
             "b": 87.1
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "08.11.2026 13:30",
@@ -17217,7 +15987,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "08.11.2026 15:30",
@@ -17367,7 +16137,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "08.11.2026 16:00",
@@ -17757,7 +16527,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "08.11.2026 16:15",
@@ -17817,7 +16587,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "08.11.2026 12:00",
@@ -17997,7 +16767,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "08.11.2026 12:00",
@@ -18237,7 +17007,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "08.11.2026 12:00",
@@ -18747,7 +17517,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "08.11.2026 13:00",
@@ -18807,7 +17577,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "08.11.2026 13:00",
@@ -19077,7 +17847,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "08.11.2026 16:30",
@@ -19257,7 +18027,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "08.11.2026 17:00",
@@ -19317,7 +18087,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "08.11.2026 17:15",
@@ -19377,7 +18147,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "08.11.2026 17:15",
@@ -19407,7 +18177,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "08.11.2026 12:55",
@@ -19557,7 +18327,7 @@
             "e": 85,
             "b": 80.0
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "08.11.2026 13:00",
@@ -20067,7 +18837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "08.11.2026 13:00",
@@ -20187,7 +18957,7 @@
             "e": 85,
             "b": 88.24
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "08.11.2026 14:00",
@@ -20307,7 +19077,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "08.11.2026 15:30",
@@ -20577,7 +19347,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "08.11.2026 16:15",
@@ -20637,7 +19407,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "09.11.2026 19:00",
@@ -20817,7 +19587,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "18.11.2026 19:45",
@@ -20967,7 +19737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "08.11.2026 13:30",
@@ -21297,7 +20067,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "08.11.2026 14:00",
@@ -21417,7 +20187,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "08.11.2026 15:00",
@@ -21477,7 +20247,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "08.11.2026 15:00",
@@ -21837,7 +20607,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "08.11.2026 16:30",
@@ -22197,7 +20967,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "08.11.2026 15:00",
@@ -22347,7 +21117,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "08.11.2026 14:00",
@@ -22377,7 +21147,7 @@
             "e": 85,
             "b": 81.82
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "08.11.2026 14:00",
@@ -22437,7 +21207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "08.11.2026 14:00",
@@ -22587,7 +21357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "08.11.2026 14:00",
@@ -22647,7 +21417,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "08.11.2026 14:00",
@@ -23157,7 +21927,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "08.11.2026 15:30",
@@ -23757,7 +22527,7 @@
             "e": 85,
             "b": 92.59
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "08.11.2026 14:30",
@@ -24327,7 +23097,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "08.11.2026 16:00",
@@ -24657,7 +23427,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "08.11.2026 20:00",
@@ -24777,7 +23547,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "08.11.2026 15:00",
@@ -25047,7 +23817,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "08.11.2026 15:15",
@@ -25737,7 +24507,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "08.11.2026 15:30",
@@ -25857,7 +24627,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "08.11.2026 15:30",
@@ -26097,7 +24867,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "08.11.2026 16:00",
@@ -26217,7 +24987,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "08.11.2026 16:00",
@@ -26367,7 +25137,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "08.11.2026 16:30",
@@ -26517,7 +25287,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "08.11.2026 16:15",
@@ -26847,7 +25617,7 @@
             "e": 85,
             "b": 80.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "08.11.2026 16:30",
@@ -27057,7 +25827,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "08.11.2026 16:30",
@@ -27567,7 +26337,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "08.11.2026 17:00",
@@ -27777,7 +26547,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "08.11.2026 17:00",
@@ -27897,7 +26667,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "08.11.2026 17:00",
@@ -28017,7 +26787,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 95
     },
     {
         "date": "08.11.2026 17:15",
@@ -28137,7 +26907,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "08.11.2026 17:15",
@@ -28437,7 +27207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "08.11.2026 17:30",
@@ -28707,7 +27477,7 @@
             "e": 85,
             "b": 95.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "08.11.2026 17:30",
@@ -28797,7 +27567,7 @@
             "e": 85,
             "b": 95.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "08.11.2026 17:30",
@@ -29127,7 +27897,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "08.11.2026 18:00",
@@ -29187,7 +27957,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "08.11.2026 18:45",
@@ -29667,7 +28437,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "08.11.2026 18:30",
@@ -29847,7 +28617,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "08.11.2026 18:30",
@@ -29907,7 +28677,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "08.11.2026 18:30",
@@ -29997,7 +28767,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "08.11.2026 18:30",
@@ -30237,7 +29007,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "09.11.2026 00:00",
@@ -30357,7 +29127,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "08.11.2026 19:00",
@@ -30387,7 +29157,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "08.11.2026 19:00",
@@ -30477,7 +29247,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "08.11.2026 19:00",
@@ -30567,7 +29337,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "08.11.2026 19:15",
@@ -30597,7 +29367,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "08.11.2026 21:00",
@@ -31827,7 +30597,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "12.11.2026 17:00",
@@ -32097,7 +30867,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "12.11.2026 19:45",
@@ -32217,7 +30987,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "13.11.2026 19:45",
@@ -32307,7 +31077,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 51
+        "aiScore": 52
     },
     {
         "date": "13.11.2026 19:45",
@@ -32337,7 +31107,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "13.11.2026 19:45",
@@ -32607,7 +31377,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "14.11.2026 19:45",
@@ -32757,7 +31527,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "14.11.2026 19:45",
@@ -33537,7 +32307,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "10.11.2026 19:00",
@@ -33747,7 +32517,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "10.11.2026 19:00",
@@ -33777,7 +32547,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "10.11.2026 19:00",
@@ -33927,7 +32697,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "10.11.2026 19:00",
@@ -34647,7 +33417,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "10.11.2026 19:45",
@@ -34677,7 +33447,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "10.11.2026 19:45",
@@ -35277,7 +34047,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "10.11.2026 19:45",
@@ -35368,5 +34138,65 @@
             "b": 100.0
         },
         "aiScore": 95
+    },
+    {
+        "date": "09.11.2026 16:30",
+        "league": "RUS1",
+        "matchCode": "4498117",
+        "home": "Veles",
+        "away": "KAMAZ Naberezhnye Chelny",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "73.86",
+        "odds": "1.15",
+        "matchCount": "241",
+        "matchLink": "4498117",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "29/241",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "09.11.2026 10:50",
+        "patternScore": 70.06,
+        "patternText": "260.556/371.924",
+        "patternInfo": {
+            "m": 53,
+            "s": 8,
+            "f": 4,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 75
+    },
+    {
+        "date": "09.11.2026 16:30",
+        "league": "RUS1",
+        "matchCode": "4498117",
+        "home": "Veles",
+        "away": "KAMAZ Naberezhnye Chelny",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "77.59",
+        "odds": "1.08",
+        "matchCount": "241",
+        "matchLink": "4498117",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "29/241",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "09.11.2026 10:50",
+        "patternScore": 69.73,
+        "patternText": "216.554/310.582",
+        "patternInfo": {
+            "m": 52,
+            "s": 5,
+            "f": 4,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 91
     }
 ]
