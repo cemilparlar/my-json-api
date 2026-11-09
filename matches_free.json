@@ -867,7 +867,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 57
     },
     {
         "date": "08.11.2026 15:30",
@@ -2127,7 +2127,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "09.11.2026 20:15",
@@ -2337,7 +2337,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 59
     },
     {
         "date": "07.11.2026 19:30",
@@ -2637,7 +2637,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "08.11.2026 18:15",
@@ -3447,7 +3447,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 58
+        "aiScore": 57
     },
     {
         "date": "09.11.2026 19:30",
@@ -3717,7 +3717,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "07.11.2026 19:10",
@@ -4017,7 +4017,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 70
+        "aiScore": 69
     },
     {
         "date": "07.11.2026 20:00",
@@ -4198,36 +4198,6 @@
             "b": 90.91
         },
         "aiScore": 59
-    },
-    {
-        "date": "07.11.2026 19:00",
-        "league": "BEL2",
-        "matchCode": "4491020",
-        "home": "Excelsior Virt",
-        "away": "Beerschot",
-        "firstHalf": "0 - 1",
-        "finalScore": "1 - 2",
-        "prediction": "Double Chance 12",
-        "ihtimal": "73.81",
-        "odds": "1.08",
-        "matchCount": "42",
-        "matchLink": "4491020",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "6/42",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 70.1,
-        "patternText": "374.304/533.976",
-        "patternInfo": {
-            "m": 66,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 88.89
-        },
-        "aiScore": 80
     },
     {
         "date": "07.11.2026 19:45",
@@ -4950,336 +4920,6 @@
         "aiScore": 90
     },
     {
-        "date": "07.11.2026 19:00",
-        "league": "FR2",
-        "matchCode": "4476915",
-        "home": "Pau FC",
-        "away": "FC Nantes",
-        "firstHalf": "0 - 1",
-        "finalScore": "0 - 2",
-        "prediction": "Double Chance 12",
-        "ihtimal": "70.59",
-        "odds": "1.21",
-        "matchCount": "17",
-        "matchLink": "4476915",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "4/17",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "07.11.2026 16:33",
-        "patternScore": 69.39,
-        "patternText": "376.707/542.909",
-        "patternInfo": {
-            "m": 79,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 69
-    },
-    {
-        "date": "07.11.2026 19:00",
-        "league": "FR2",
-        "matchCode": "4476915",
-        "home": "Pau FC",
-        "away": "FC Nantes",
-        "firstHalf": "0 - 1",
-        "finalScore": "0 - 2",
-        "prediction": "Handicap (0:1) 2",
-        "ihtimal": "70.58823529411765",
-        "odds": "1.23",
-        "matchCount": "17",
-        "matchLink": "4476915",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "4/17",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "07.11.2026 16:33",
-        "patternScore": 67.83,
-        "patternText": "291.122/429.213",
-        "patternInfo": {
-            "m": 66,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 59
-    },
-    {
-        "date": "07.11.2026 19:00",
-        "league": "FR2",
-        "matchCode": "4476915",
-        "home": "Pau FC",
-        "away": "FC Nantes",
-        "firstHalf": "0 - 1",
-        "finalScore": "0 - 2",
-        "prediction": "Under 2.5 Goals",
-        "ihtimal": "70.59",
-        "odds": "1.45",
-        "matchCount": "17",
-        "matchLink": "4476915",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "4/17",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "07.11.2026 16:33",
-        "patternScore": 67.62,
-        "patternText": "279.666/413.575",
-        "patternInfo": {
-            "m": 60,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 92.31
-        },
-        "aiScore": 54
-    },
-    {
-        "date": "07.11.2026 19:00",
-        "league": "FR2",
-        "matchCode": "4476915",
-        "home": "Pau FC",
-        "away": "FC Nantes",
-        "firstHalf": "0 - 1",
-        "finalScore": "0 - 2",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "82.35",
-        "odds": "1.08",
-        "matchCount": "17",
-        "matchLink": "4476915",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "4/17",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "07.11.2026 16:33",
-        "patternScore": 69.11,
-        "patternText": "227.915/329.764",
-        "patternInfo": {
-            "m": 74,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 92.31
-        },
-        "aiScore": 87
-    },
-    {
-        "date": "07.11.2026 19:00",
-        "league": "FR2",
-        "matchCode": "4476915",
-        "home": "Pau FC",
-        "away": "FC Nantes",
-        "firstHalf": "0 - 1",
-        "finalScore": "0 - 2",
-        "prediction": "Both Teams to Score - No",
-        "ihtimal": "76.47",
-        "odds": "1.65",
-        "matchCount": "17",
-        "matchLink": "4476915",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "4/17",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "07.11.2026 16:33",
-        "patternScore": 67.4,
-        "patternText": "278.800/413.659",
-        "patternInfo": {
-            "m": 56,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 92.31
-        },
-        "aiScore": 53
-    },
-    {
-        "date": "07.11.2026 19:00",
-        "league": "FR2",
-        "matchCode": "4476915",
-        "home": "Pau FC",
-        "away": "FC Nantes",
-        "firstHalf": "0 - 1",
-        "finalScore": "0 - 2",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "88.24",
-        "odds": "1.15",
-        "matchCount": "17",
-        "matchLink": "4476915",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "4/17",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "07.11.2026 16:33",
-        "patternScore": 69.01,
-        "patternText": "219.896/318.659",
-        "patternInfo": {
-            "m": 75,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 92.31
-        },
-        "aiScore": 82
-    },
-    {
-        "date": "07.11.2026 19:00",
-        "league": "FR2",
-        "matchCode": "4476915",
-        "home": "Pau FC",
-        "away": "FC Nantes",
-        "firstHalf": "0 - 1",
-        "finalScore": "0 - 2",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "82.35",
-        "odds": "1.18",
-        "matchCount": "17",
-        "matchLink": "4476915",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "4/17",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "07.11.2026 16:33",
-        "patternScore": 67.91,
-        "patternText": "207.194/305.113",
-        "patternInfo": {
-            "m": 68,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 76
-    },
-    {
-        "date": "07.11.2026 19:00",
-        "league": "FR2",
-        "matchCode": "4476916",
-        "home": "AS Saint-Etienne",
-        "away": "Stade Lavalois",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "100.0",
-        "odds": "1.30",
-        "matchCount": "1",
-        "matchLink": "4476916",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "07.11.2026 17:06",
-        "patternScore": 58.85,
-        "patternText": "303.533/515.736",
-        "patternInfo": {
-            "m": 106,
-            "s": 0,
-            "f": 0,
-            "e": 85,
-            "b": 80.0
-        },
-        "aiScore": 56
-    },
-    {
-        "date": "07.11.2026 19:00",
-        "league": "FR2",
-        "matchCode": "4476916",
-        "home": "AS Saint-Etienne",
-        "away": "Stade Lavalois",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "Both Teams to Score - No",
-        "ihtimal": "100.0",
-        "odds": "1.60",
-        "matchCount": "1",
-        "matchLink": "4476916",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "07.11.2026 17:06",
-        "patternScore": 57.49,
-        "patternText": "279.883/486.802",
-        "patternInfo": {
-            "m": 99,
-            "s": 0,
-            "f": 0,
-            "e": 85,
-            "b": 71.88
-        },
-        "aiScore": 51
-    },
-    {
-        "date": "07.11.2026 19:00",
-        "league": "FR2",
-        "matchCode": "4476916",
-        "home": "AS Saint-Etienne",
-        "away": "Stade Lavalois",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "100.0",
-        "odds": "1.15",
-        "matchCount": "1",
-        "matchLink": "4476916",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "07.11.2026 17:06",
-        "patternScore": 59.62,
-        "patternText": "315.173/528.617",
-        "patternInfo": {
-            "m": 114,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 67
-    },
-    {
-        "date": "07.11.2026 19:00",
-        "league": "BOLİ",
-        "matchCode": "4577011",
-        "home": "Gualberto Vill",
-        "away": "Real Oruro",
-        "firstHalf": "0 - 1",
-        "finalScore": "1 - 3",
-        "prediction": "Double Chance 12",
-        "ihtimal": "82.35",
-        "odds": "1.08",
-        "matchCount": "34",
-        "matchLink": "4577011",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "07.11.2026 17:28",
-        "patternScore": 70.74,
-        "patternText": "261.877/370.196",
-        "patternInfo": {
-            "m": 65,
-            "s": 5,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 94
-    },
-    {
         "date": "07.11.2026 19:15",
         "league": "POL",
         "matchCode": "4484409",
@@ -5457,7 +5097,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 55
+        "aiScore": 54
     },
     {
         "date": "08.11.2026 00:00",
@@ -5607,7 +5247,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "08.11.2026 00:00",
@@ -6357,7 +5997,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 63
     },
     {
         "date": "08.11.2026 00:00",
@@ -6807,7 +6447,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 62
+        "aiScore": 61
     },
     {
         "date": "08.11.2026 00:00",
@@ -7857,7 +7497,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 66
     },
     {
         "date": "07.11.2026 21:00",
@@ -10227,7 +9867,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 92
     },
     {
         "date": "07.11.2026 23:30",
@@ -12507,7 +12147,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 93
     },
     {
         "date": "08.11.2026 04:00",
@@ -13227,7 +12867,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "08.11.2026 05:00",
@@ -13467,7 +13107,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "08.11.2026 05:00",
@@ -15207,7 +14847,7 @@
             "e": 85,
             "b": 84.09
         },
-        "aiScore": 71
+        "aiScore": 70
     },
     {
         "date": "08.11.2026 07:30",
@@ -15477,7 +15117,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "08.11.2026 11:15",
@@ -15537,7 +15177,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 85
+        "aiScore": 84
     },
     {
         "date": "08.11.2026 11:15",
@@ -15957,7 +15597,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "08.11.2026 07:30",
@@ -16107,7 +15747,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 55
+        "aiScore": 54
     },
     {
         "date": "08.11.2026 07:30",
@@ -16527,7 +16167,7 @@
             "e": 85,
             "b": 80.62
         },
-        "aiScore": 64
+        "aiScore": 63
     },
     {
         "date": "08.11.2026 07:30",
@@ -16617,7 +16257,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 69
     },
     {
         "date": "08.11.2026 07:30",
@@ -16677,7 +16317,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 54
+        "aiScore": 53
     },
     {
         "date": "08.11.2026 07:30",
@@ -17847,7 +17487,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "08.11.2026 11:00",
@@ -18567,7 +18207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "08.11.2026 13:00",
@@ -18717,7 +18357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "08.11.2026 14:00",
@@ -18897,7 +18537,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "08.11.2026 14:00",
@@ -19077,7 +18717,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 61
+        "aiScore": 60
     },
     {
         "date": "08.11.2026 13:00",
@@ -19197,7 +18837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "08.11.2026 10:30",
@@ -19227,7 +18867,7 @@
             "e": 85,
             "b": 95.24
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "08.11.2026 10:30",
@@ -19437,7 +19077,7 @@
             "e": 85,
             "b": 95.24
         },
-        "aiScore": 57
+        "aiScore": 56
     },
     {
         "date": "08.11.2026 10:30",
@@ -20517,7 +20157,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "08.11.2026 13:00",
@@ -24387,7 +24027,7 @@
             "e": 85,
             "b": 87.1
         },
-        "aiScore": 63
+        "aiScore": 62
     },
     {
         "date": "08.11.2026 13:30",
@@ -25347,7 +24987,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "08.11.2026 16:00",
@@ -25377,7 +25017,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 94
     },
     {
         "date": "08.11.2026 16:00",
@@ -25767,7 +25407,7 @@
             "e": 85,
             "b": 94.12
         },
-        "aiScore": 71
+        "aiScore": 70
     },
     {
         "date": "08.11.2026 12:00",
@@ -27147,7 +26787,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "08.11.2026 12:55",
@@ -27267,7 +26907,7 @@
             "e": 85,
             "b": 82.35
         },
-        "aiScore": 63
+        "aiScore": 62
     },
     {
         "date": "08.11.2026 13:00",
@@ -27357,7 +26997,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 96
+        "aiScore": 95
     },
     {
         "date": "08.11.2026 13:00",
@@ -27387,7 +27027,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 96
     },
     {
         "date": "08.11.2026 13:00",
@@ -29247,7 +28887,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 82
     },
     {
         "date": "08.11.2026 14:00",
@@ -29607,7 +29247,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 85
+        "aiScore": 84
     },
     {
         "date": "08.11.2026 16:30",
@@ -30117,7 +29757,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "08.11.2026 14:00",
@@ -30417,7 +30057,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "08.11.2026 14:00",
@@ -30687,7 +30327,7 @@
             "e": 85,
             "b": 86.96
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "08.11.2026 14:00",
@@ -30777,7 +30417,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "08.11.2026 14:00",
@@ -31167,7 +30807,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "08.11.2026 16:15",
@@ -32007,7 +31647,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "08.11.2026 15:45",
@@ -32127,7 +31767,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 82
     },
     {
         "date": "08.11.2026 16:00",
@@ -33027,7 +32667,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "08.11.2026 15:15",
@@ -33837,7 +33477,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 52
+        "aiScore": 51
     },
     {
         "date": "08.11.2026 16:00",
@@ -35577,7 +35217,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "08.11.2026 17:00",
@@ -36237,7 +35877,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 57
+        "aiScore": 56
     },
     {
         "date": "08.11.2026 17:45",
@@ -36267,7 +35907,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 60
+        "aiScore": 59
     },
     {
         "date": "08.11.2026 17:45",
@@ -36807,7 +36447,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 59
+        "aiScore": 58
     },
     {
         "date": "08.11.2026 17:30",
@@ -37467,7 +37107,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 56
+        "aiScore": 55
     },
     {
         "date": "08.11.2026 18:30",
@@ -37887,7 +37527,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "08.11.2026 18:30",
@@ -38127,7 +37767,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "09.11.2026 00:00",
@@ -38187,7 +37827,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "08.11.2026 19:00",
@@ -38307,7 +37947,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 62
+        "aiScore": 61
     },
     {
         "date": "08.11.2026 19:00",
@@ -39057,7 +38697,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "08.11.2026 20:00",
@@ -39207,7 +38847,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 61
+        "aiScore": 60
     },
     {
         "date": "08.11.2026 21:15",
@@ -39477,7 +39117,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "09.11.2026 02:00",
@@ -39627,7 +39267,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "09.11.2026 01:15",
