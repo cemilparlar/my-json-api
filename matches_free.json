@@ -147,7 +147,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 51
+        "aiScore": 52
     },
     {
         "date": "08.11.2026 18:00",
@@ -448,156 +448,6 @@
             "b": 100.0
         },
         "aiScore": 85
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "LET",
-        "matchCode": "4446812",
-        "home": "Riga Fc",
-        "away": "Daugava Riga",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "72.16",
-        "odds": "1.21",
-        "matchCount": "176",
-        "matchLink": "4446812",
-        "status": "HATA",
-        "predictedScore": "1-1",
-        "predictedScoreText": "27/176",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 68.99,
-        "patternText": "265.496/384.828",
-        "patternInfo": {
-            "m": 61,
-            "s": 6,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 65
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "LET",
-        "matchCode": "4446812",
-        "home": "Riga Fc",
-        "away": "Daugava Riga",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "74.43",
-        "odds": "1.13",
-        "matchCount": "176",
-        "matchLink": "4446812",
-        "status": "HATA",
-        "predictedScore": "1-1",
-        "predictedScoreText": "27/176",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 69.58,
-        "patternText": "268.556/385.976",
-        "patternInfo": {
-            "m": 61,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 88.24
-        },
-        "aiScore": 70
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "POR2",
-        "matchCode": "4517348",
-        "home": "FC Porto B",
-        "away": "Portimonense SC",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "72.31",
-        "odds": "1.15",
-        "matchCount": "130",
-        "matchLink": "4517348",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "18/130",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 70.06,
-        "patternText": "320.021/456.758",
-        "patternInfo": {
-            "m": 76,
-            "s": 6,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 70
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "POR2",
-        "matchCode": "4517348",
-        "home": "FC Porto B",
-        "away": "Portimonense SC",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 1",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "74.62",
-        "odds": "1.10",
-        "matchCount": "130",
-        "matchLink": "4517348",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "18/130",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 69.16,
-        "patternText": "262.852/380.075",
-        "patternInfo": {
-            "m": 67,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 75
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "POR2",
-        "matchCode": "4517348",
-        "home": "FC Porto B",
-        "away": "Portimonense SC",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 1",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "76.15",
-        "odds": "1.08",
-        "matchCount": "130",
-        "matchLink": "4517348",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "18/130",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 69.35,
-        "patternText": "256.182/369.394",
-        "patternInfo": {
-            "m": 62,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 85.71
-        },
-        "aiScore": 76
     },
     {
         "date": "08.11.2026 12:30",
@@ -1107,7 +957,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "08.11.2026 15:30",
@@ -1557,7 +1407,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "08.11.2026 18:15",
@@ -1920,36 +1770,6 @@
         "aiScore": 68
     },
     {
-        "date": "08.11.2026 11:00",
-        "league": "TAY",
-        "matchCode": "4539106",
-        "home": "BG Pathum United",
-        "away": "Rayong FC",
-        "firstHalf": "2 - 0",
-        "finalScore": "3 - 0",
-        "prediction": "Match Result 1",
-        "ihtimal": "71.43",
-        "odds": "1.31",
-        "matchCount": "56",
-        "matchLink": "4539106",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 68.22,
-        "patternText": "232.012/340.082",
-        "patternInfo": {
-            "m": 59,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 90.0
-        },
-        "aiScore": 56
-    },
-    {
         "date": "08.11.2026 17:30",
         "league": "ARNV",
         "matchCode": "4523679",
@@ -1980,36 +1800,6 @@
         "aiScore": 57
     },
     {
-        "date": "08.11.2026 11:00",
-        "league": "HIR2",
-        "matchCode": "4526837",
-        "home": "NK Dugopolje",
-        "away": "Dubrava Zagred",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "78.67",
-        "odds": "1.09",
-        "matchCount": "75",
-        "matchLink": "4526837",
-        "status": "HATA",
-        "predictedScore": "1-0",
-        "predictedScoreText": "11/75",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 70.71,
-        "patternText": "343.068/485.146",
-        "patternInfo": {
-            "m": 67,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 92.86
-        },
-        "aiScore": 87
-    },
-    {
         "date": "08.11.2026 12:45",
         "league": "IRAN",
         "matchCode": "4571551",
@@ -2037,7 +1827,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 82
     },
     {
         "date": "08.11.2026 13:00",
@@ -2127,7 +1917,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "08.11.2026 20:30",
@@ -2217,7 +2007,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 52
+        "aiScore": 53
     },
     {
         "date": "08.11.2026 20:30",
@@ -2246,66 +2036,6 @@
             "f": 3,
             "e": 85,
             "b": 100.0
-        },
-        "aiScore": 89
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "POR3",
-        "matchCode": "4516907",
-        "home": "Louletano",
-        "away": "Sporting Covilha",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "72.02",
-        "odds": "1.14",
-        "matchCount": "193",
-        "matchLink": "4516907",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "32/193",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 69.97,
-        "patternText": "308.914/441.484",
-        "patternInfo": {
-            "m": 58,
-            "s": 0,
-            "f": 0,
-            "e": 85,
-            "b": 83.33
-        },
-        "aiScore": 68
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "ÖZB",
-        "matchCode": "4447651",
-        "home": "Neftchi Fargon",
-        "away": "Otmk Olmaliq",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "76.19",
-        "odds": "1.06",
-        "matchCount": "84",
-        "matchLink": "4447651",
-        "status": "HATA",
-        "predictedScore": "3-0",
-        "predictedScoreText": "8/59",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 70.88,
-        "patternText": "401.945/567.084",
-        "patternInfo": {
-            "m": 72,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 90.0
         },
         "aiScore": 89
     },
@@ -2367,7 +2097,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "08.11.2026 12:00",
@@ -2547,7 +2277,7 @@
             "e": 85,
             "b": 72.63
         },
-        "aiScore": 50
+        "aiScore": 51
     },
     {
         "date": "08.11.2026 14:30",
@@ -2697,7 +2427,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "08.11.2026 13:30",
@@ -2787,7 +2517,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "08.11.2026 14:00",
@@ -3058,66 +2788,6 @@
             "b": 88.89
         },
         "aiScore": 68
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İS4",
-        "matchCode": "4494904",
-        "home": "Linares Deportivo",
-        "away": "Sevilla B",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "76.54",
-        "odds": "1.15",
-        "matchCount": "179",
-        "matchLink": "4494904",
-        "status": "HATA",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 70.09,
-        "patternText": "323.622/461.708",
-        "patternInfo": {
-            "m": 89,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 95.83
-        },
-        "aiScore": 72
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İS4",
-        "matchCode": "4494904",
-        "home": "Linares Deportivo",
-        "away": "Sevilla B",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "72.07",
-        "odds": "1.16",
-        "matchCount": "179",
-        "matchLink": "4494904",
-        "status": "HATA",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 68.91,
-        "patternText": "251.084/364.370",
-        "patternInfo": {
-            "m": 72,
-            "s": 8,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 73
     },
     {
         "date": "08.11.2026 11:55",
@@ -3450,576 +3120,6 @@
         "aiScore": 66
     },
     {
-        "date": "08.11.2026 11:00",
-        "league": "POL2",
-        "matchCode": "4486714",
-        "home": "Legia Warsaw",
-        "away": "Olimpia Grudziadz",
-        "firstHalf": "1 - 1",
-        "finalScore": "2 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "71.43",
-        "odds": "1.11",
-        "matchCount": "119",
-        "matchLink": "4486714",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "14/119",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:15",
-        "patternScore": 70.22,
-        "patternText": "318.729/453.872",
-        "patternInfo": {
-            "m": 67,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 74
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "POL2",
-        "matchCode": "4486714",
-        "home": "Legia Warsaw",
-        "away": "Olimpia Grudziadz",
-        "firstHalf": "1 - 1",
-        "finalScore": "2 - 1",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "73.11",
-        "odds": "1.08",
-        "matchCount": "119",
-        "matchLink": "4486714",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "14/119",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:15",
-        "patternScore": 69.3,
-        "patternText": "243.839/351.850",
-        "patternInfo": {
-            "m": 54,
-            "s": 6,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 79
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "ÖZB",
-        "matchCode": "4447652",
-        "home": "Buxoro",
-        "away": "Nasaf Qarshi",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "77.59",
-        "odds": "1.14",
-        "matchCount": "116",
-        "matchLink": "4447652",
-        "status": "HATA",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:16",
-        "patternScore": 70.03,
-        "patternText": "318.106/454.252",
-        "patternInfo": {
-            "m": 64,
-            "s": 4,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 79
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "ÖZB",
-        "matchCode": "4447652",
-        "home": "Buxoro",
-        "away": "Nasaf Qarshi",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "82.76",
-        "odds": "1.06",
-        "matchCount": "116",
-        "matchLink": "4447652",
-        "status": "HATA",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:16",
-        "patternScore": 70.51,
-        "patternText": "170.314/241.548",
-        "patternInfo": {
-            "m": 53,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 91.67
-        },
-        "aiScore": 94
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "TAY",
-        "matchCode": "4539105",
-        "home": "Rasi Salai Uni",
-        "away": "Bangkok United",
-        "firstHalf": "0 - 2",
-        "finalScore": "0 - 3",
-        "prediction": "Match Result 2",
-        "ihtimal": "85.71",
-        "odds": "1.20",
-        "matchCount": "7",
-        "matchLink": "4539105",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:17",
-        "patternScore": 67.16,
-        "patternText": "178.698/266.076",
-        "patternInfo": {
-            "m": 55,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 87.88
-        },
-        "aiScore": 74
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "TAY",
-        "matchCode": "4539105",
-        "home": "Rasi Salai Uni",
-        "away": "Bangkok United",
-        "firstHalf": "0 - 2",
-        "finalScore": "0 - 3",
-        "prediction": "Handicap (1:0) 2",
-        "ihtimal": "85.71428571428571",
-        "odds": "1.71",
-        "matchCount": "7",
-        "matchLink": "4539105",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:17",
-        "patternScore": 67.09,
-        "patternText": "167.684/249.928",
-        "patternInfo": {
-            "m": 40,
-            "s": 0,
-            "f": 0,
-            "e": 85,
-            "b": 83.33
-        },
-        "aiScore": 52
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "TAY",
-        "matchCode": "4539105",
-        "home": "Rasi Salai Uni",
-        "away": "Bangkok United",
-        "firstHalf": "0 - 2",
-        "finalScore": "0 - 3",
-        "prediction": "1st Half Result 2",
-        "ihtimal": "85.71",
-        "odds": "1.57",
-        "matchCount": "7",
-        "matchLink": "4539105",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:17",
-        "patternScore": 66.94,
-        "patternText": "168.660/251.960",
-        "patternInfo": {
-            "m": 43,
-            "s": 0,
-            "f": 0,
-            "e": 85,
-            "b": 83.33
-        },
-        "aiScore": 53
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "TAY",
-        "matchCode": "4539105",
-        "home": "Rasi Salai Uni",
-        "away": "Bangkok United",
-        "firstHalf": "0 - 2",
-        "finalScore": "0 - 3",
-        "prediction": "1st Half Double Chance 12",
-        "ihtimal": "85.71",
-        "odds": "1.22",
-        "matchCount": "7",
-        "matchLink": "4539105",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:17",
-        "patternScore": 67.18,
-        "patternText": "177.568/264.326",
-        "patternInfo": {
-            "m": 54,
-            "s": 0,
-            "f": 0,
-            "e": 85,
-            "b": 83.33
-        },
-        "aiScore": 63
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "TAY",
-        "matchCode": "4539105",
-        "home": "Rasi Salai Uni",
-        "away": "Bangkok United",
-        "firstHalf": "0 - 2",
-        "finalScore": "0 - 3",
-        "prediction": "1st Half Over 1.5",
-        "ihtimal": "85.71",
-        "odds": "1.89",
-        "matchCount": "7",
-        "matchLink": "4539105",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:17",
-        "patternScore": 66.79,
-        "patternText": "169.010/253.062",
-        "patternInfo": {
-            "m": 43,
-            "s": 0,
-            "f": 0,
-            "e": 85,
-            "b": 83.33
-        },
-        "aiScore": 51
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İSKPR",
-        "matchCode": "4528011",
-        "home": "Logrones Women",
-        "away": "Sevilla Women",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 2",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "76.37",
-        "odds": "1.15",
-        "matchCount": "237",
-        "matchLink": "4528011",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "42/237",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:18",
-        "patternScore": 69.26,
-        "patternText": "270.708/390.842",
-        "patternInfo": {
-            "m": 47,
-            "s": 7,
-            "f": 0,
-            "e": 85,
-            "b": 94.12
-        },
-        "aiScore": 75
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İSKPR",
-        "matchCode": "4528011",
-        "home": "Logrones Women",
-        "away": "Sevilla Women",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 2",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "75.95",
-        "odds": "1.08",
-        "matchCount": "237",
-        "matchLink": "4528011",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "42/237",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:18",
-        "patternScore": 69.75,
-        "patternText": "264.918/379.824",
-        "patternInfo": {
-            "m": 47,
-            "s": 8,
-            "f": 0,
-            "e": 85,
-            "b": 94.12
-        },
-        "aiScore": 90
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İSKPR",
-        "matchCode": "4528011",
-        "home": "Logrones Women",
-        "away": "Sevilla Women",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 2",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "75.95",
-        "odds": "1.22",
-        "matchCount": "237",
-        "matchLink": "4528011",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "42/237",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:18",
-        "patternScore": 67.89,
-        "patternText": "238.946/351.982",
-        "patternInfo": {
-            "m": 43,
-            "s": 5,
-            "f": 0,
-            "e": 85,
-            "b": 94.12
-        },
-        "aiScore": 65
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İS3",
-        "matchCode": "4493625",
-        "home": "Europa",
-        "away": "Atletico Madrid B",
-        "firstHalf": "0 - 2",
-        "finalScore": "3 - 2",
-        "prediction": "Double Chance 12",
-        "ihtimal": "78.95",
-        "odds": "1.13",
-        "matchCount": "152",
-        "matchLink": "4493625",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:19",
-        "patternScore": 70.1,
-        "patternText": "316.876/452.040",
-        "patternInfo": {
-            "m": 77,
-            "s": 10,
-            "f": 6,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 85
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İS3",
-        "matchCode": "4493625",
-        "home": "Europa",
-        "away": "Atletico Madrid B",
-        "firstHalf": "0 - 2",
-        "finalScore": "3 - 2",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "71.05",
-        "odds": "1.15",
-        "matchCount": "152",
-        "matchLink": "4493625",
-        "status": "Lost",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:19",
-        "patternScore": 69.54,
-        "patternText": "269.575/387.659",
-        "patternInfo": {
-            "m": 73,
-            "s": 9,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 70
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İS4",
-        "matchCode": "4494903",
-        "home": "Estepona CF",
-        "away": "Tamaraceite",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "80.65",
-        "odds": "1.36",
-        "matchCount": "31",
-        "matchLink": "4494903",
-        "status": "HATA",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:19",
-        "patternScore": 68.31,
-        "patternText": "160.135/234.409",
-        "patternInfo": {
-            "m": 56,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 90.91
-        },
-        "aiScore": 60
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İS4",
-        "matchCode": "4494906",
-        "home": "Marbella FC",
-        "away": "UD Las Palmas B",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "75.64",
-        "odds": "1.10",
-        "matchCount": "78",
-        "matchLink": "4494906",
-        "status": "HATA",
-        "predictedScore": "1-0",
-        "predictedScoreText": "16/78",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:20",
-        "patternScore": 70.42,
-        "patternText": "328.178/466.004",
-        "patternInfo": {
-            "m": 89,
-            "s": 5,
-            "f": 0,
-            "e": 85,
-            "b": 90.0
-        },
-        "aiScore": 80
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "LET",
-        "matchCode": "4446808",
-        "home": "Fs Jelgava",
-        "away": "Ogre United",
-        "firstHalf": "2 - 0",
-        "finalScore": "4 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "72.17",
-        "odds": "1.09",
-        "matchCount": "115",
-        "matchLink": "4446808",
-        "status": "Won",
-        "predictedScore": "2-1",
-        "predictedScoreText": "15/115",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:21",
-        "patternScore": 70.7,
-        "patternText": "335.037/473.882",
-        "patternInfo": {
-            "m": 73,
-            "s": 16,
-            "f": 7,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 90
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İS3",
-        "matchCode": "4493629",
-        "home": "Villarreal B",
-        "away": "Juventud Torrem",
-        "firstHalf": "1 - 1",
-        "finalScore": "1 - 1",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "82.93",
-        "odds": "1.06",
-        "matchCount": "41",
-        "matchLink": "4493629",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "7/41",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 70.8,
-        "patternText": "180.127/254.401",
-        "patternInfo": {
-            "m": 69,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 96
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İS3",
-        "matchCode": "4493629",
-        "home": "Villarreal B",
-        "away": "Juventud Torrem",
-        "firstHalf": "1 - 1",
-        "finalScore": "1 - 1",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "80.49",
-        "odds": "1.06",
-        "matchCount": "41",
-        "matchLink": "4493629",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "7/41",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 70.6,
-        "patternText": "166.180/235.378",
-        "patternInfo": {
-            "m": 65,
-            "s": 4,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 94
-    },
-    {
         "date": "08.11.2026 11:15",
         "league": "HOL",
         "matchCode": "4481587",
@@ -4077,7 +3177,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "08.11.2026 11:15",
@@ -4107,7 +3207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "08.11.2026 11:15",
@@ -4137,7 +3237,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "08.11.2026 11:15",
@@ -4437,37 +3537,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 82
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "TAY1",
-        "matchCode": "4539372",
-        "home": "Satun",
-        "away": "Chiangmai Unite",
-        "firstHalf": "0 - 1",
-        "finalScore": "1 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "80.43",
-        "odds": "1.07",
-        "matchCount": "92",
-        "matchLink": "4539372",
-        "status": "Lost",
-        "predictedScore": "1-0",
-        "predictedScoreText": "13/92",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 05:55",
-        "patternScore": 71.45,
-        "patternText": "219.458/307.168",
-        "patternInfo": {
-            "m": 61,
-            "s": 4,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 92
+        "aiScore": 81
     },
     {
         "date": "08.11.2026 12:00",
@@ -4497,7 +3567,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "08.11.2026 11:30",
@@ -4617,7 +3687,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "08.11.2026 12:15",
@@ -4767,7 +3837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "08.11.2026 12:30",
@@ -4827,7 +3897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "08.11.2026 13:00",
@@ -4977,127 +4047,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "HK1",
-        "matchCode": "4527599",
-        "home": "Eastern District FC",
-        "away": "Wofoo Tai Po",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 3",
-        "prediction": "Double Chance 12",
-        "ihtimal": "72.04",
-        "odds": "1.11",
-        "matchCount": "93",
-        "matchLink": "4527599",
-        "status": "Won",
-        "predictedScore": "0-0",
-        "predictedScoreText": "9/93",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 07:20",
-        "patternScore": 70.35,
-        "patternText": "329.751/468.701",
-        "patternInfo": {
-            "m": 65,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 73
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "HK1",
-        "matchCode": "4527599",
-        "home": "Eastern District FC",
-        "away": "Wofoo Tai Po",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 3",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "70.97",
-        "odds": "1.21",
-        "matchCount": "93",
-        "matchLink": "4527599",
-        "status": "Won",
-        "predictedScore": "0-0",
-        "predictedScoreText": "9/93",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 07:20",
-        "patternScore": 69.39,
-        "patternText": "269.099/387.791",
-        "patternInfo": {
-            "m": 56,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 93.33
-        },
-        "aiScore": 65
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İS4",
-        "matchCode": "4495213",
-        "home": "CD Numancia",
-        "away": "Calvo Sotelo",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Match Result 1",
-        "ihtimal": "70.37",
-        "odds": "1.34",
-        "matchCount": "27",
-        "matchLink": "4495213",
-        "status": "HATA",
-        "predictedScore": "2-2",
-        "predictedScoreText": "3/14",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 07:21",
-        "patternScore": 68.32,
-        "patternText": "245.893/359.925",
-        "patternInfo": {
-            "m": 61,
-            "s": 3,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 56
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İS4",
-        "matchCode": "4495213",
-        "home": "CD Numancia",
-        "away": "Calvo Sotelo",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "81.48",
-        "odds": "1.07",
-        "matchCount": "27",
-        "matchLink": "4495213",
-        "status": "HATA",
-        "predictedScore": "2-2",
-        "predictedScoreText": "3/14",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 07:21",
-        "patternScore": 71.45,
-        "patternText": "230.129/322.077",
-        "patternInfo": {
-            "m": 80,
-            "s": 5,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 96
+        "aiScore": 74
     },
     {
         "date": "08.11.2026 13:30",
@@ -5307,7 +4257,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "08.11.2026 13:30",
@@ -5487,7 +4437,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "08.11.2026 13:30",
@@ -5757,7 +4707,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "08.11.2026 13:00",
@@ -5787,7 +4737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "08.11.2026 14:00",
@@ -6147,7 +5097,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "08.11.2026 13:00",
@@ -6210,366 +5160,6 @@
         "aiScore": 73
     },
     {
-        "date": "08.11.2026 11:00",
-        "league": "LET",
-        "matchCode": "4446811",
-        "home": "Grobina",
-        "away": "Liepaja",
-        "firstHalf": "1 - 1",
-        "finalScore": "1 - 2",
-        "prediction": "Double Chance 12",
-        "ihtimal": "80.0",
-        "odds": "1.08",
-        "matchCount": "40",
-        "matchLink": "4446811",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 09:01",
-        "patternScore": 71.4,
-        "patternText": "219.900/307.977",
-        "patternInfo": {
-            "m": 69,
-            "s": 14,
-            "f": 7,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 97
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "RUS",
-        "matchCode": "4485913",
-        "home": "Krylya Sovetov",
-        "away": "FC Orenburg",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "72.73",
-        "odds": "1.27",
-        "matchCount": "22",
-        "matchLink": "4485913",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 09:02",
-        "patternScore": 68.78,
-        "patternText": "278.664/405.168",
-        "patternInfo": {
-            "m": 68,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 85.71
-        },
-        "aiScore": 61
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "RUS",
-        "matchCode": "4485913",
-        "home": "Krylya Sovetov",
-        "away": "FC Orenburg",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "72.72727272727273",
-        "odds": "1.25",
-        "matchCount": "22",
-        "matchLink": "4485913",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 09:02",
-        "patternScore": 68.27,
-        "patternText": "248.170/363.488",
-        "patternInfo": {
-            "m": 64,
-            "s": 7,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 63
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "RUS",
-        "matchCode": "4485913",
-        "home": "Krylya Sovetov",
-        "away": "FC Orenburg",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "81.82",
-        "odds": "1.15",
-        "matchCount": "22",
-        "matchLink": "4485913",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 09:02",
-        "patternScore": 69.79,
-        "patternText": "183.661/263.152",
-        "patternInfo": {
-            "m": 72,
-            "s": 8,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 86
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "RUS",
-        "matchCode": "4485913",
-        "home": "Krylya Sovetov",
-        "away": "FC Orenburg",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "77.27",
-        "odds": "1.21",
-        "matchCount": "22",
-        "matchLink": "4485913",
-        "status": "Lost",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 09:02",
-        "patternScore": 68.66,
-        "patternText": "266.396/387.998",
-        "patternInfo": {
-            "m": 69,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 88.89
-        },
-        "aiScore": 67
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "RUS",
-        "matchCode": "4485913",
-        "home": "Krylya Sovetov",
-        "away": "FC Orenburg",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "72.73",
-        "odds": "1.24",
-        "matchCount": "22",
-        "matchLink": "4485913",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 09:02",
-        "patternScore": 68.36,
-        "patternText": "263.418/385.344",
-        "patternInfo": {
-            "m": 71,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 85.71
-        },
-        "aiScore": 61
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "RUS",
-        "matchCode": "4485913",
-        "home": "Krylya Sovetov",
-        "away": "FC Orenburg",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "81.82",
-        "odds": "1.27",
-        "matchCount": "22",
-        "matchLink": "4485913",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 09:02",
-        "patternScore": 68.16,
-        "patternText": "168.123/246.669",
-        "patternInfo": {
-            "m": 69,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 85.71
-        },
-        "aiScore": 62
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "LET",
-        "matchCode": "4446809",
-        "home": "Fk Tukums 2000",
-        "away": "Auda",
-        "firstHalf": "0 - 1",
-        "finalScore": "1 - 2",
-        "prediction": "1st Half Double Chance 12",
-        "ihtimal": "70.0",
-        "odds": "1.23",
-        "matchCount": "20",
-        "matchLink": "4446809",
-        "status": "Won",
-        "predictedScore": "2-1",
-        "predictedScoreText": "4/20",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 09:02",
-        "patternScore": 68.18,
-        "patternText": "242.706/355.974",
-        "patternInfo": {
-            "m": 61,
-            "s": 9,
-            "f": 0,
-            "e": 85,
-            "b": 93.33
-        },
-        "aiScore": 61
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "POL2",
-        "matchCode": "4486559",
-        "home": "Rekord Bielsko",
-        "away": "Chojniczanka Chojnice",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 2",
-        "prediction": "Double Chance 12",
-        "ihtimal": "79.81",
-        "odds": "1.11",
-        "matchCount": "104",
-        "matchLink": "4486559",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "13/104",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 09:03",
-        "patternScore": 67.57,
-        "patternText": "382.032/565.411",
-        "patternInfo": {
-            "m": 76,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 92.31
-        },
-        "aiScore": 76
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "POL2",
-        "matchCode": "4486559",
-        "home": "Rekord Bielsko",
-        "away": "Chojniczanka Chojnice",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 2",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "72.12",
-        "odds": "1.32",
-        "matchCount": "104",
-        "matchLink": "4486559",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "13/104",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 09:03",
-        "patternScore": 65.5,
-        "patternText": "305.888/466.981",
-        "patternInfo": {
-            "m": 55,
-            "s": 0,
-            "f": 0,
-            "e": 85,
-            "b": 80.0
-        },
-        "aiScore": 55
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "POL2",
-        "matchCode": "4486559",
-        "home": "Rekord Bielsko",
-        "away": "Chojniczanka Chojnice",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 2",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "82.69",
-        "odds": "1.08",
-        "matchCount": "104",
-        "matchLink": "4486559",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "13/104",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 09:03",
-        "patternScore": 65.55,
-        "patternText": "216.821/330.760",
-        "patternInfo": {
-            "m": 63,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 88.89
-        },
-        "aiScore": 78
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "POL2",
-        "matchCode": "4486559",
-        "home": "Rekord Bielsko",
-        "away": "Chojniczanka Chojnice",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 2",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "74.04",
-        "odds": "1.11",
-        "matchCount": "104",
-        "matchLink": "4486559",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "13/104",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 09:03",
-        "patternScore": 66.28,
-        "patternText": "316.114/476.970",
-        "patternInfo": {
-            "m": 72,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 72
-    },
-    {
         "date": "08.11.2026 12:00",
         "league": "TAY",
         "matchCode": "4539108",
@@ -6628,156 +5218,6 @@
             "b": 100.0
         },
         "aiScore": 66
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İS4",
-        "matchCode": "4494902",
-        "home": "Don Benito",
-        "away": "CD Puente Genil",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "72.3",
-        "odds": "1.15",
-        "matchCount": "148",
-        "matchLink": "4494902",
-        "status": "HATA",
-        "predictedScore": "1-1",
-        "predictedScoreText": "22/148",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 09:24",
-        "patternScore": 70.08,
-        "patternText": "324.677/463.263",
-        "patternInfo": {
-            "m": 82,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 85.71
-        },
-        "aiScore": 67
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İS4",
-        "matchCode": "4563511",
-        "home": "Utebo",
-        "away": "Osasuna B",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "77.27",
-        "odds": "1.10",
-        "matchCount": "264",
-        "matchLink": "4563511",
-        "status": "HATA",
-        "predictedScore": "1-1",
-        "predictedScoreText": "43/264",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 09:25",
-        "patternScore": 69.77,
-        "patternText": "268.605/385.008",
-        "patternInfo": {
-            "m": 66,
-            "s": 5,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 80
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İS4",
-        "matchCode": "4551931",
-        "home": "Mallorca B",
-        "away": "Yeclano",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "77.46",
-        "odds": "1.16",
-        "matchCount": "142",
-        "matchLink": "4551931",
-        "status": "HATA",
-        "predictedScore": "1-2",
-        "predictedScoreText": "20/142",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 09:25",
-        "patternScore": 69.77,
-        "patternText": "312.352/447.666",
-        "patternInfo": {
-            "m": 85,
-            "s": 4,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 80
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İS4",
-        "matchCode": "4551931",
-        "home": "Mallorca B",
-        "away": "Yeclano",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "73.24",
-        "odds": "1.11",
-        "matchCount": "142",
-        "matchLink": "4551931",
-        "status": "HATA",
-        "predictedScore": "1-2",
-        "predictedScoreText": "20/142",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 09:25",
-        "patternScore": 69.67,
-        "patternText": "272.124/390.576",
-        "patternInfo": {
-            "m": 79,
-            "s": 7,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 75
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İS4",
-        "matchCode": "4551928",
-        "home": "Atletico Baleares",
-        "away": "La Nucia",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "79.66",
-        "odds": "1.08",
-        "matchCount": "59",
-        "matchLink": "4551928",
-        "status": "HATA",
-        "predictedScore": "2-0",
-        "predictedScoreText": "10/59",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 09:26",
-        "patternScore": 70.42,
-        "patternText": "330.150/468.852",
-        "patternInfo": {
-            "m": 85,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 93
     },
     {
         "date": "08.11.2026 11:30",
@@ -7257,7 +5697,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 84
     },
     {
         "date": "08.11.2026 13:30",
@@ -7317,7 +5757,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "08.11.2026 13:30",
@@ -7467,7 +5907,7 @@
             "e": 85,
             "b": 86.67
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "08.11.2026 14:00",
@@ -7497,7 +5937,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "08.11.2026 14:00",
@@ -7737,7 +6177,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "08.11.2026 14:30",
@@ -7827,7 +6267,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "08.11.2026 14:30",
@@ -8130,576 +6570,6 @@
         "aiScore": 71
     },
     {
-        "date": "08.11.2026 11:00",
-        "league": "AZERPL",
-        "matchCode": "4523907",
-        "home": "Imisli Fk",
-        "away": "FK Sumgayit",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "74.52",
-        "odds": "1.15",
-        "matchCount": "157",
-        "matchLink": "4523907",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 10:03",
-        "patternScore": 69.45,
-        "patternText": "267.499/385.191",
-        "patternInfo": {
-            "m": 66,
-            "s": 2,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 73
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "TAY1",
-        "matchCode": "4539371",
-        "home": "Nakhon Pathom",
-        "away": "Mahasarakham Un",
-        "firstHalf": "0 - 2",
-        "finalScore": "6 - 2",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "70.59",
-        "odds": "1.21",
-        "matchCount": "153",
-        "matchLink": "4539371",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "25/153",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 10:04",
-        "patternScore": 68.97,
-        "patternText": "262.378/380.442",
-        "patternInfo": {
-            "m": 56,
-            "s": 6,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 64
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "UKR",
-        "matchCode": "4508205",
-        "home": "Zoria Luhansk",
-        "away": "LNZ Cherkasy",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "72.16",
-        "odds": "1.15",
-        "matchCount": "176",
-        "matchLink": "4508205",
-        "status": "Pending",
-        "predictedScore": "0-1",
-        "predictedScoreText": "31/176",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 10:04",
-        "patternScore": 70.08,
-        "patternText": "321.800/459.201",
-        "patternInfo": {
-            "m": 67,
-            "s": 5,
-            "f": 0,
-            "e": 85,
-            "b": 95.83
-        },
-        "aiScore": 70
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "UKR",
-        "matchCode": "4508205",
-        "home": "Zoria Luhansk",
-        "away": "LNZ Cherkasy",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "77.27",
-        "odds": "1.08",
-        "matchCount": "176",
-        "matchLink": "4508205",
-        "status": "Pending",
-        "predictedScore": "0-1",
-        "predictedScoreText": "31/176",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 10:04",
-        "patternScore": 69.38,
-        "patternText": "257.917/371.754",
-        "patternInfo": {
-            "m": 55,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 89
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İS3",
-        "matchCode": "4493241",
-        "home": "Arenas De Getx",
-        "away": "Fabril do Barreiro",
-        "firstHalf": "1 - 1",
-        "finalScore": "2 - 1",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "73.2",
-        "odds": "1.16",
-        "matchCount": "250",
-        "matchLink": "4493241",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "38/250",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 10:05",
-        "patternScore": 68.99,
-        "patternText": "262.070/379.886",
-        "patternInfo": {
-            "m": 61,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 91.67
-        },
-        "aiScore": 67
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İS3",
-        "matchCode": "4493241",
-        "home": "Arenas De Getx",
-        "away": "Fabril do Barreiro",
-        "firstHalf": "1 - 1",
-        "finalScore": "2 - 1",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "76.0",
-        "odds": "1.08",
-        "matchCount": "250",
-        "matchLink": "4493241",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "38/250",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 10:05",
-        "patternScore": 69.45,
-        "patternText": "259.012/372.962",
-        "patternInfo": {
-            "m": 63,
-            "s": 5,
-            "f": 0,
-            "e": 85,
-            "b": 94.44
-        },
-        "aiScore": 83
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İS3",
-        "matchCode": "4493241",
-        "home": "Arenas De Getx",
-        "away": "Fabril do Barreiro",
-        "firstHalf": "1 - 1",
-        "finalScore": "2 - 1",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "72.8",
-        "odds": "1.20",
-        "matchCount": "250",
-        "matchLink": "4493241",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "38/250",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 10:05",
-        "patternScore": 68.51,
-        "patternText": "246.944/360.438",
-        "patternInfo": {
-            "m": 55,
-            "s": 6,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 66
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İS3",
-        "matchCode": "4493241",
-        "home": "Arenas De Getx",
-        "away": "Fabril do Barreiro",
-        "firstHalf": "1 - 1",
-        "finalScore": "2 - 1",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "75.6",
-        "odds": "1.09",
-        "matchCount": "250",
-        "matchLink": "4493241",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "38/250",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 10:05",
-        "patternScore": 70.15,
-        "patternText": "279.990/399.120",
-        "patternInfo": {
-            "m": 63,
-            "s": 6,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 83
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "İS4",
-        "matchCode": "4495212",
-        "home": "Dep. Guadalaja",
-        "away": "CD Navalcarnero",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "75.44",
-        "odds": "1.06",
-        "matchCount": "171",
-        "matchLink": "4495212",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "23/171",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 10:05",
-        "patternScore": 70.04,
-        "patternText": "273.067/389.872",
-        "patternInfo": {
-            "m": 80,
-            "s": 12,
-            "f": 8,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 92
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "DAN",
-        "matchCode": "4474518",
-        "home": "FC Copenhagen",
-        "away": "Brondby IF",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "81.82",
-        "odds": "1.10",
-        "matchCount": "33",
-        "matchLink": "4474518",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 10:06",
-        "patternScore": 70.24,
-        "patternText": "185.566/264.204",
-        "patternInfo": {
-            "m": 66,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 88.89
-        },
-        "aiScore": 88
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "DAN",
-        "matchCode": "4474518",
-        "home": "FC Copenhagen",
-        "away": "Brondby IF",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "81.81818181818183",
-        "odds": "1.08",
-        "matchCount": "33",
-        "matchLink": "4474518",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 10:06",
-        "patternScore": 69.67,
-        "patternText": "165.702/237.834",
-        "patternInfo": {
-            "m": 63,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 87.5
-        },
-        "aiScore": 92
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "DAN",
-        "matchCode": "4474518",
-        "home": "FC Copenhagen",
-        "away": "Brondby IF",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "78.79",
-        "odds": "1.13",
-        "matchCount": "33",
-        "matchLink": "4474518",
-        "status": "Lost",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 10:06",
-        "patternScore": 69.32,
-        "patternText": "274.648/396.225",
-        "patternInfo": {
-            "m": 67,
-            "s": 1,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 79
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "DAN",
-        "matchCode": "4474518",
-        "home": "FC Copenhagen",
-        "away": "Brondby IF",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "72.73",
-        "odds": "1.20",
-        "matchCount": "33",
-        "matchLink": "4474518",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 10:06",
-        "patternScore": 68.63,
-        "patternText": "264.177/384.925",
-        "patternInfo": {
-            "m": 68,
-            "s": 4,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 64
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "DAN",
-        "matchCode": "4474518",
-        "home": "FC Copenhagen",
-        "away": "Brondby IF",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "93.94",
-        "odds": "1.07",
-        "matchCount": "33",
-        "matchLink": "4474518",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 10:06",
-        "patternScore": 70.25,
-        "patternText": "120.436/171.430",
-        "patternInfo": {
-            "m": 56,
-            "s": 6,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 99
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "DAN",
-        "matchCode": "4474518",
-        "home": "FC Copenhagen",
-        "away": "Brondby IF",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "75.76",
-        "odds": "1.22",
-        "matchCount": "33",
-        "matchLink": "4474518",
-        "status": "Lost",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 10:06",
-        "patternScore": 68.55,
-        "patternText": "257.056/374.987",
-        "patternInfo": {
-            "m": 65,
-            "s": 8,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 75
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "LET",
-        "matchCode": "4446810",
-        "home": "Super Nova",
-        "away": "Bfc Daugavpils",
-        "firstHalf": "0 - 1",
-        "finalScore": "1 - 1",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "72.59",
-        "odds": "1.09",
-        "matchCount": "332",
-        "matchLink": "4446810",
-        "status": "Lost",
-        "predictedScore": "1-1",
-        "predictedScoreText": "46/332",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 10:06",
-        "patternScore": 70.15,
-        "patternText": "278.868/397.540",
-        "patternInfo": {
-            "m": 45,
-            "s": 11,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 89
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "POR2",
-        "matchCode": "4517346",
-        "home": "CD Feirense",
-        "away": "Lusitania de Lourosa",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "71.11",
-        "odds": "1.15",
-        "matchCount": "90",
-        "matchLink": "4517346",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "15/90",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 10:06",
-        "patternScore": 70.25,
-        "patternText": "332.566/473.389",
-        "patternInfo": {
-            "m": 77,
-            "s": 6,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 72
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "POR2",
-        "matchCode": "4517346",
-        "home": "CD Feirense",
-        "away": "Lusitania de Lourosa",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "77.78",
-        "odds": "1.08",
-        "matchCount": "90",
-        "matchLink": "4517346",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "15/90",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 10:06",
-        "patternScore": 69.36,
-        "patternText": "274.500/395.777",
-        "patternInfo": {
-            "m": 74,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 81
-    },
-    {
-        "date": "08.11.2026 11:00",
-        "league": "POR2",
-        "matchCode": "4517346",
-        "home": "CD Feirense",
-        "away": "Lusitania de Lourosa",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "78.89",
-        "odds": "1.09",
-        "matchCount": "90",
-        "matchLink": "4517346",
-        "status": "Lost",
-        "predictedScore": "1-1",
-        "predictedScoreText": "15/90",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 10:06",
-        "patternScore": 69.97,
-        "patternText": "281.712/402.591",
-        "patternInfo": {
-            "m": 70,
-            "s": 2,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 93
-    },
-    {
         "date": "08.11.2026 11:30",
         "league": "İTKSA",
         "matchCode": "4534579",
@@ -8997,7 +6867,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "08.11.2026 12:00",
@@ -9057,7 +6927,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "08.11.2026 12:00",
@@ -9207,7 +7077,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "08.11.2026 12:30",
@@ -9417,7 +7287,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 92
     },
     {
         "date": "08.11.2026 13:00",
@@ -9687,7 +7557,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "08.11.2026 11:30",
@@ -9747,7 +7617,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "08.11.2026 11:30",
@@ -10437,7 +8307,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "08.11.2026 13:00",
@@ -10497,7 +8367,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "08.11.2026 13:00",
@@ -10827,7 +8697,7 @@
             "e": 85,
             "b": 87.1
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "08.11.2026 13:30",
@@ -11307,7 +9177,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "08.11.2026 15:00",
@@ -11667,7 +9537,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "08.11.2026 16:00",
@@ -12207,7 +10077,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 52
+        "aiScore": 53
     },
     {
         "date": "08.11.2026 12:00",
@@ -12717,7 +10587,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "08.11.2026 12:00",
@@ -12867,7 +10737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "08.11.2026 12:55",
@@ -12897,7 +10767,7 @@
             "e": 85,
             "b": 88.46
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "08.11.2026 13:00",
@@ -12957,7 +10827,7 @@
             "e": 85,
             "b": 86.67
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "08.11.2026 13:00",
@@ -13017,7 +10887,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "08.11.2026 13:00",
@@ -13287,7 +11157,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "08.11.2026 16:30",
@@ -13347,7 +11217,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "08.11.2026 16:35",
@@ -13377,7 +11247,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "08.11.2026 16:45",
@@ -13467,7 +11337,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "08.11.2026 17:15",
@@ -14007,7 +11877,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "08.11.2026 13:00",
@@ -14067,7 +11937,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "08.11.2026 13:00",
@@ -14307,7 +12177,7 @@
             "e": 85,
             "b": 94.12
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "08.11.2026 14:00",
@@ -14667,7 +12537,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "08.11.2026 16:00",
@@ -14877,7 +12747,7 @@
             "e": 85,
             "b": 75.0
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "08.11.2026 13:30",
@@ -14937,7 +12807,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "08.11.2026 13:30",
@@ -14967,7 +12837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "08.11.2026 13:30",
@@ -15597,7 +13467,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "08.11.2026 15:30",
@@ -15807,7 +13677,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "08.11.2026 16:30",
@@ -16437,7 +14307,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "08.11.2026 14:00",
@@ -16527,7 +14397,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "08.11.2026 14:00",
@@ -16917,7 +14787,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "08.11.2026 14:00",
@@ -17007,7 +14877,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "08.11.2026 15:00",
@@ -17637,7 +15507,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "08.11.2026 19:30",
@@ -17817,7 +15687,7 @@
             "e": 85,
             "b": 92.59
         },
-        "aiScore": 53
+        "aiScore": 54
     },
     {
         "date": "08.11.2026 14:30",
@@ -18147,7 +16017,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "08.11.2026 15:45",
@@ -18237,7 +16107,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "08.11.2026 16:00",
@@ -18417,7 +16287,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "08.11.2026 16:30",
@@ -18837,7 +16707,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 94
     },
     {
         "date": "08.11.2026 15:00",
@@ -18897,7 +16767,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 95
     },
     {
         "date": "08.11.2026 15:00",
@@ -19197,7 +17067,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "08.11.2026 15:15",
@@ -19437,7 +17307,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 53
+        "aiScore": 54
     },
     {
         "date": "08.11.2026 15:30",
@@ -20307,7 +18177,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "08.11.2026 16:30",
@@ -20577,7 +18447,7 @@
             "e": 85,
             "b": 75.68
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "08.11.2026 16:15",
@@ -20607,7 +18477,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "08.11.2026 16:15",
@@ -21027,7 +18897,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "08.11.2026 16:30",
@@ -21567,7 +19437,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "08.11.2026 17:00",
@@ -21897,7 +19767,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "08.11.2026 17:00",
@@ -22077,7 +19947,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "08.11.2026 17:15",
@@ -22227,7 +20097,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "08.11.2026 17:30",
@@ -22317,7 +20187,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "08.11.2026 17:45",
@@ -22917,7 +20787,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "08.11.2026 17:30",
@@ -23217,7 +21087,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "08.11.2026 18:45",
@@ -23307,7 +21177,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "08.11.2026 22:15",
@@ -23337,7 +21207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "08.11.2026 18:00",
@@ -23457,7 +21327,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 93
     },
     {
         "date": "08.11.2026 18:00",
@@ -23727,7 +21597,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "08.11.2026 18:30",
@@ -23967,7 +21837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "08.11.2026 18:30",
@@ -23997,7 +21867,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 84
     },
     {
         "date": "08.11.2026 18:30",
@@ -24057,7 +21927,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "08.11.2026 18:30",
@@ -24087,7 +21957,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "08.11.2026 18:30",
@@ -25077,7 +22947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "08.11.2026 19:45",
@@ -25317,7 +23187,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "08.11.2026 20:00",
@@ -25587,7 +23457,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "09.11.2026 00:00",
@@ -25617,7 +23487,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "09.11.2026 02:00",
@@ -25707,7 +23577,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "09.11.2026 01:15",
@@ -26907,7 +24777,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 96
     },
     {
         "date": "14.11.2026 19:45",
@@ -27057,7 +24927,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "14.11.2026 19:45",
@@ -27087,7 +24957,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "14.11.2026 19:45",
@@ -27237,7 +25107,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "10.11.2026 19:00",
@@ -27387,7 +25257,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "10.11.2026 19:00",
@@ -27447,7 +25317,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "10.11.2026 19:00",
@@ -27597,7 +25467,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "10.11.2026 19:00",
@@ -27687,7 +25557,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "10.11.2026 19:00",
@@ -28287,7 +26157,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "10.11.2026 19:30",
@@ -28377,7 +26247,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "10.11.2026 19:30",
@@ -28407,7 +26277,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "10.11.2026 19:30",
@@ -28497,7 +26367,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 82
     },
     {
         "date": "10.11.2026 19:45",
@@ -28647,7 +26517,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "10.11.2026 19:45",
@@ -29217,7 +27087,7 @@
             "e": 85,
             "b": 86.67
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "13.11.2026 19:45",
@@ -29547,7 +27417,7 @@
             "e": 85,
             "b": 94.74
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "09.11.2026 18:00",
@@ -29877,7 +27747,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "09.11.2026 19:30",
@@ -29907,7 +27777,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "09.11.2026 19:30",
@@ -29967,7 +27837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 94
     },
     {
         "date": "09.11.2026 19:45",
@@ -30208,96 +28078,6 @@
             "b": 88.24
         },
         "aiScore": 62
-    },
-    {
-        "date": "09.11.2026 19:30",
-        "league": "İTC",
-        "matchCode": "4535944",
-        "home": "AZ Picerno",
-        "away": "SSC Bari",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "72.45",
-        "odds": "1.15",
-        "matchCount": "98",
-        "matchLink": "4535944",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "18/89",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "09.11.2026 16:56",
-        "patternScore": 70.04,
-        "patternText": "271.593/387.760",
-        "patternInfo": {
-            "m": 87,
-            "s": 7,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 70
-    },
-    {
-        "date": "09.11.2026 19:30",
-        "league": "İTC",
-        "matchCode": "4535944",
-        "home": "AZ Picerno",
-        "away": "SSC Bari",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "73.47",
-        "odds": "1.08",
-        "matchCount": "98",
-        "matchLink": "4535944",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "18/89",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "09.11.2026 16:56",
-        "patternScore": 69.16,
-        "patternText": "223.237/322.761",
-        "patternInfo": {
-            "m": 83,
-            "s": 9,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 83
-    },
-    {
-        "date": "09.11.2026 19:30",
-        "league": "İTC",
-        "matchCode": "4535944",
-        "home": "AZ Picerno",
-        "away": "SSC Bari",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "72.45",
-        "odds": "1.06",
-        "matchCount": "98",
-        "matchLink": "4535944",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "18/89",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "09.11.2026 16:56",
-        "patternScore": 69.51,
-        "patternText": "215.278/309.719",
-        "patternInfo": {
-            "m": 71,
-            "s": 5,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 81
     },
     {
         "date": "09.11.2026 19:30",
@@ -30687,7 +28467,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "09.11.2026 20:15",
@@ -30807,7 +28587,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 97
+        "aiScore": 96
     },
     {
         "date": "12.11.2026 19:45",
@@ -31237,10 +29017,10 @@
         "away": "Berkhamsted",
         "firstHalf": "-",
         "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "82.95",
-        "odds": "1.06",
-        "matchCount": "88",
+        "prediction": "Double Chance 12",
+        "ihtimal": "83.78",
+        "odds": "1.08",
+        "matchCount": "111",
         "matchLink": "4576644",
         "status": "Pending",
         "predictedScore": "1-0",
@@ -31248,15 +29028,315 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "09.11.2026 16:56",
-        "patternScore": 70.81,
-        "patternText": "146.141/206.395",
+        "patternScore": 71.29,
+        "patternText": "171.931/241.176",
         "patternInfo": {
-            "m": 56,
-            "s": 11,
-            "f": 3,
+            "m": 52,
+            "s": 10,
+            "f": 5,
             "e": 85,
             "b": 100.0
         },
         "aiScore": 99
+    },
+    {
+        "date": "09.11.2026 19:30",
+        "league": "İTC",
+        "matchCode": "4535944",
+        "home": "AZ Picerno",
+        "away": "SSC Bari",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance X2",
+        "ihtimal": "75.28",
+        "odds": "1.11",
+        "matchCount": "89",
+        "matchLink": "4535944",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "18/89",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "09.11.2026 16:56",
+        "patternScore": 68.84,
+        "patternText": "213.216/309.735",
+        "patternInfo": {
+            "m": 70,
+            "s": 4,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 72
+    },
+    {
+        "date": "09.11.2026 19:30",
+        "league": "İTC",
+        "matchCode": "4535944",
+        "home": "AZ Picerno",
+        "away": "SSC Bari",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "77.53",
+        "odds": "1.19",
+        "matchCount": "89",
+        "matchLink": "4535944",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "18/89",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "09.11.2026 16:56",
+        "patternScore": 69.02,
+        "patternText": "211.124/305.886",
+        "patternInfo": {
+            "m": 72,
+            "s": 5,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 71
+    },
+    {
+        "date": "09.11.2026 19:30",
+        "league": "İTC",
+        "matchCode": "4535944",
+        "home": "AZ Picerno",
+        "away": "SSC Bari",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "78.65",
+        "odds": "1.08",
+        "matchCount": "89",
+        "matchLink": "4535944",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "18/89",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "09.11.2026 16:56",
+        "patternScore": 69.2,
+        "patternText": "224.319/324.163",
+        "patternInfo": {
+            "m": 84,
+            "s": 4,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 86
+    },
+    {
+        "date": "09.11.2026 19:30",
+        "league": "İTC",
+        "matchCode": "4535944",
+        "home": "AZ Picerno",
+        "away": "SSC Bari",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "79.78",
+        "odds": "1.06",
+        "matchCount": "89",
+        "matchLink": "4535944",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "18/89",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "09.11.2026 16:56",
+        "patternScore": 69.54,
+        "patternText": "216.392/311.161",
+        "patternInfo": {
+            "m": 72,
+            "s": 5,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 90
+    },
+    {
+        "date": "09.11.2026 20:00",
+        "league": "İSKPR",
+        "matchCode": "4528010",
+        "home": "Deportivo La Coruna",
+        "away": "Valencia Women",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "78.67",
+        "odds": "1.08",
+        "matchCount": "75",
+        "matchLink": "4528010",
+        "status": "Pending",
+        "predictedScore": "2-0",
+        "predictedScoreText": "12/75",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 70.53,
+        "patternText": "241.885/342.931",
+        "patternInfo": {
+            "m": 54,
+            "s": 4,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 91
+    },
+    {
+        "date": "09.11.2026 20:00",
+        "league": "İSKPR",
+        "matchCode": "4528010",
+        "home": "Deportivo La Coruna",
+        "away": "Valencia Women",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "76.0",
+        "odds": "1.23",
+        "matchCount": "75",
+        "matchLink": "4528010",
+        "status": "Pending",
+        "predictedScore": "2-0",
+        "predictedScoreText": "12/75",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 68.54,
+        "patternText": "182.625/266.433",
+        "patternInfo": {
+            "m": 51,
+            "s": 1,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 69
+    },
+    {
+        "date": "09.11.2026 22:30",
+        "league": "JAM",
+        "matchCode": "4562928",
+        "home": "Chapelton",
+        "away": "Racing United",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "70.49",
+        "odds": "1.22",
+        "matchCount": "61",
+        "matchLink": "4562928",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "15/61",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 68.24,
+        "patternText": "178.928/262.204",
+        "patternInfo": {
+            "m": 46,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        },
+        "aiScore": 60
+    },
+    {
+        "date": "10.11.2026 01:00",
+        "league": "JAM",
+        "matchCode": "4562929",
+        "home": "Arnett Gardens",
+        "away": "Waterhouse",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "74.82",
+        "odds": "1.13",
+        "matchCount": "139",
+        "matchLink": "4562929",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "25/139",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 70.6,
+        "patternText": "230.334/326.230",
+        "patternInfo": {
+            "m": 50,
+            "s": 7,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 80
+    },
+    {
+        "date": "10.11.2026 01:00",
+        "league": "JAM",
+        "matchCode": "4562929",
+        "home": "Arnett Gardens",
+        "away": "Waterhouse",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "74.1",
+        "odds": "1.09",
+        "matchCount": "139",
+        "matchLink": "4562929",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "25/139",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 70.21,
+        "patternText": "190.314/271.062",
+        "patternInfo": {
+            "m": 44,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 85.71
+        },
+        "aiScore": 78
+    },
+    {
+        "date": "10.11.2026 11:00",
+        "league": "PORU23",
+        "matchCode": "4523091",
+        "home": "CD Santa Clara U23",
+        "away": "Torreense U23",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "78.15",
+        "odds": "1.12",
+        "matchCount": "119",
+        "matchLink": "4523091",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "11/119",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 70.54,
+        "patternText": "253.838/359.860",
+        "patternInfo": {
+            "m": 63,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 86.67
+        },
+        "aiScore": 76
     }
 ]
