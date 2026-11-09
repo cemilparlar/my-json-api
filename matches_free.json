@@ -657,7 +657,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "08.11.2026 15:30",
@@ -897,7 +897,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 53
+        "aiScore": 52
     },
     {
         "date": "08.11.2026 16:00",
@@ -1617,7 +1617,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "08.11.2026 16:00",
@@ -1647,7 +1647,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "08.11.2026 16:00",
@@ -2067,7 +2067,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "08.11.2026 15:30",
@@ -2097,7 +2097,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "08.11.2026 15:30",
@@ -2547,7 +2547,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "08.11.2026 16:00",
@@ -2697,7 +2697,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "08.11.2026 16:30",
@@ -2817,7 +2817,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "08.11.2026 16:30",
@@ -3477,7 +3477,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "18.11.2026 19:45",
@@ -3567,7 +3567,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "08.11.2026 15:30",
@@ -3687,7 +3687,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "08.11.2026 15:45",
@@ -3837,7 +3837,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "08.11.2026 16:30",
@@ -5007,7 +5007,7 @@
             "e": 85,
             "b": 86.67
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "08.11.2026 17:00",
@@ -5160,276 +5160,6 @@
         "aiScore": 76
     },
     {
-        "date": "08.11.2026 15:15",
-        "league": "İS2",
-        "matchCode": "4492816",
-        "home": "Girona FC",
-        "away": "UD Almeria",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "76.92",
-        "odds": "1.15",
-        "matchCount": "13",
-        "matchLink": "4492816",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 14:26",
-        "patternScore": 69.74,
-        "patternText": "375.602/538.544",
-        "patternInfo": {
-            "m": 100,
-            "s": 3,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 77
-    },
-    {
-        "date": "08.11.2026 15:15",
-        "league": "İS2",
-        "matchCode": "4492816",
-        "home": "Girona FC",
-        "away": "UD Almeria",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 1",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "92.3076923076923",
-        "odds": "1.12",
-        "matchCount": "13",
-        "matchLink": "4492816",
-        "status": "Lost",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 14:26",
-        "patternScore": 68.21,
-        "patternText": "131.695/193.084",
-        "patternInfo": {
-            "m": 74,
-            "s": 9,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 95
-    },
-    {
-        "date": "08.11.2026 15:15",
-        "league": "İS2",
-        "matchCode": "4492816",
-        "home": "Girona FC",
-        "away": "UD Almeria",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 1",
-        "prediction": "Both Teams to Score - No",
-        "ihtimal": "76.92",
-        "odds": "1.93",
-        "matchCount": "13",
-        "matchLink": "4492816",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 14:26",
-        "patternScore": 67.34,
-        "patternText": "263.319/391.044",
-        "patternInfo": {
-            "m": 70,
-            "s": 0,
-            "f": 0,
-            "e": 85,
-            "b": 81.25
-        },
-        "aiScore": 52
-    },
-    {
-        "date": "08.11.2026 15:15",
-        "league": "İS2",
-        "matchCode": "4492816",
-        "home": "Girona FC",
-        "away": "UD Almeria",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 1",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "84.62",
-        "odds": "1.10",
-        "matchCount": "13",
-        "matchLink": "4492816",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 14:26",
-        "patternScore": 69.89,
-        "patternText": "215.048/307.710",
-        "patternInfo": {
-            "m": 85,
-            "s": 6,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 92
-    },
-    {
-        "date": "08.11.2026 15:15",
-        "league": "İS1",
-        "matchCode": "4492375",
-        "home": "Real Sociedad",
-        "away": "Rayo Vallecano",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "85.71",
-        "odds": "1.12",
-        "matchCount": "14",
-        "matchLink": "4492375",
-        "status": "Won",
-        "predictedScore": "0-0",
-        "predictedScoreText": "4/14",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 14:27",
-        "patternScore": 69.48,
-        "patternText": "216.439/311.508",
-        "patternInfo": {
-            "m": 81,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 91.67
-        },
-        "aiScore": 88
-    },
-    {
-        "date": "08.11.2026 15:15",
-        "league": "İS1",
-        "matchCode": "4492375",
-        "home": "Real Sociedad",
-        "away": "Rayo Vallecano",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Handicap (0:2) 2",
-        "ihtimal": "78.57142857142857",
-        "odds": "1.16",
-        "matchCount": "14",
-        "matchLink": "4492375",
-        "status": "Won",
-        "predictedScore": "0-0",
-        "predictedScoreText": "4/14",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 14:27",
-        "patternScore": 68.09,
-        "patternText": "280.043/411.307",
-        "patternInfo": {
-            "m": 80,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 85.71
-        },
-        "aiScore": 71
-    },
-    {
-        "date": "08.11.2026 15:15",
-        "league": "İS1",
-        "matchCode": "4492375",
-        "home": "Real Sociedad",
-        "away": "Rayo Vallecano",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "85.71428571428571",
-        "odds": "1.09",
-        "matchCount": "14",
-        "matchLink": "4492375",
-        "status": "Won",
-        "predictedScore": "0-0",
-        "predictedScoreText": "4/14",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 14:27",
-        "patternScore": 69.51,
-        "patternText": "207.515/298.553",
-        "patternInfo": {
-            "m": 82,
-            "s": 7,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 98
-    },
-    {
-        "date": "08.11.2026 15:15",
-        "league": "İS1",
-        "matchCode": "4492375",
-        "home": "Real Sociedad",
-        "away": "Rayo Vallecano",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "78.57",
-        "odds": "1.08",
-        "matchCount": "14",
-        "matchLink": "4492375",
-        "status": "Won",
-        "predictedScore": "0-0",
-        "predictedScoreText": "4/14",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 14:27",
-        "patternScore": 69.27,
-        "patternText": "318.557/459.900",
-        "patternInfo": {
-            "m": 86,
-            "s": 7,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 93
-    },
-    {
-        "date": "08.11.2026 15:15",
-        "league": "İS1",
-        "matchCode": "4492375",
-        "home": "Real Sociedad",
-        "away": "Rayo Vallecano",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "78.57",
-        "odds": "1.41",
-        "matchCount": "14",
-        "matchLink": "4492375",
-        "status": "Won",
-        "predictedScore": "0-0",
-        "predictedScoreText": "4/14",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 14:27",
-        "patternScore": 67.51,
-        "patternText": "286.714/424.715",
-        "patternInfo": {
-            "m": 80,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 62
-    },
-    {
         "date": "08.11.2026 15:20",
         "league": "SUUD1",
         "matchCode": "4538731",
@@ -5457,7 +5187,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "08.11.2026 15:30",
@@ -5667,7 +5397,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "08.11.2026 15:30",
@@ -5727,7 +5457,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "08.11.2026 15:30",
@@ -6537,7 +6267,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "08.11.2026 16:15",
@@ -6657,7 +6387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "08.11.2026 16:15",
@@ -6867,7 +6597,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "08.11.2026 16:15",
@@ -7497,7 +7227,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "08.11.2026 16:30",
@@ -7557,7 +7287,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "08.11.2026 17:00",
@@ -7767,7 +7497,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "08.11.2026 17:00",
@@ -7827,7 +7557,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "08.11.2026 17:00",
@@ -7917,7 +7647,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "08.11.2026 17:00",
@@ -8247,7 +7977,7 @@
             "e": 85,
             "b": 94.74
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "08.11.2026 17:15",
@@ -8307,7 +8037,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "08.11.2026 17:30",
@@ -9057,7 +8787,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "08.11.2026 17:30",
@@ -9507,7 +9237,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "08.11.2026 18:00",
@@ -9897,7 +9627,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "08.11.2026 18:30",
@@ -10497,7 +10227,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "08.11.2026 19:00",
@@ -10857,7 +10587,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "08.11.2026 20:00",
@@ -11127,7 +10857,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 96
     },
     {
         "date": "08.11.2026 19:45",
@@ -13017,7 +12747,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "14.11.2026 19:45",
@@ -13407,7 +13137,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "10.11.2026 19:00",
@@ -13797,7 +13527,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "10.11.2026 19:00",
@@ -14007,7 +13737,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "10.11.2026 19:00",
@@ -14097,7 +13827,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "10.11.2026 19:00",
@@ -14697,7 +14427,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "10.11.2026 19:45",
@@ -14907,7 +14637,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 97
     },
     {
         "date": "10.11.2026 19:45",
@@ -15087,7 +14817,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "12.11.2026 17:45",
@@ -15117,7 +14847,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "12.11.2026 17:45",
@@ -15297,7 +15027,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "13.11.2026 19:45",
@@ -15567,7 +15297,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "10.11.2026 13:00",
@@ -16017,7 +15747,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "09.11.2026 16:00",
@@ -16077,7 +15807,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "09.11.2026 16:30",
@@ -16437,7 +16167,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 98
     },
     {
         "date": "13.11.2026 19:45",
@@ -16497,7 +16227,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "09.11.2026 18:00",
@@ -17097,7 +16827,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "10.11.2026 19:45",
@@ -17367,7 +17097,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "10.11.2026 20:00",
@@ -17457,7 +17187,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "10.11.2026 20:00",
@@ -17667,7 +17397,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "09.11.2026 19:30",
@@ -17757,7 +17487,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "10.11.2026 14:00",
@@ -17892,7 +17622,7 @@
         "odds": "1.16",
         "matchCount": "15",
         "matchLink": "4540493",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": "2-1",
         "predictedScoreText": "5/15",
         "mbs": 3,
@@ -17922,7 +17652,7 @@
         "odds": "1.16",
         "matchCount": "15",
         "matchLink": "4540493",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": "2-1",
         "predictedScoreText": "5/15",
         "mbs": 3,
@@ -17997,7 +17727,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "09.11.2026 20:30",
@@ -18207,7 +17937,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "09.11.2026 19:30",
@@ -18297,7 +18027,7 @@
             "e": 85,
             "b": 86.36
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "10.11.2026 17:30",
@@ -18447,7 +18177,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "09.11.2026 20:00",
@@ -18644,10 +18374,10 @@
         "matchLink": "4562928",
         "status": "Pending",
         "predictedScore": "0-2",
-        "predictedScoreText": "3/6",
+        "predictedScoreText": "4/7",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "09.11.2026 19:59",
+        "tahminUpdatedAt": "09.11.2026 21:15",
         "patternScore": 67.06,
         "patternText": "117.804/175.670",
         "patternInfo": {
@@ -18674,10 +18404,10 @@
         "matchLink": "4562928",
         "status": "Pending",
         "predictedScore": "0-2",
-        "predictedScoreText": "3/6",
+        "predictedScoreText": "4/7",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "09.11.2026 19:59",
+        "tahminUpdatedAt": "09.11.2026 21:15",
         "patternScore": 66.86,
         "patternText": "114.694/171.538",
         "patternInfo": {
@@ -18687,7 +18417,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 54
+        "aiScore": 53
     },
     {
         "date": "09.11.2026 22:30",
@@ -18704,10 +18434,10 @@
         "matchLink": "4562928",
         "status": "Pending",
         "predictedScore": "0-2",
-        "predictedScoreText": "3/6",
+        "predictedScoreText": "4/7",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "09.11.2026 19:59",
+        "tahminUpdatedAt": "09.11.2026 21:15",
         "patternScore": 66.31,
         "patternText": "116.032/174.974",
         "patternInfo": {
@@ -18734,10 +18464,10 @@
         "matchLink": "4562928",
         "status": "Pending",
         "predictedScore": "0-2",
-        "predictedScoreText": "3/6",
+        "predictedScoreText": "4/7",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "09.11.2026 19:59",
+        "tahminUpdatedAt": "09.11.2026 21:15",
         "patternScore": 67.04,
         "patternText": "132.032/196.956",
         "patternInfo": {
@@ -18807,7 +18537,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "10.11.2026 19:00",
@@ -19107,7 +18837,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "10.11.2026 19:00",
@@ -19137,7 +18867,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "10.11.2026 19:00",
