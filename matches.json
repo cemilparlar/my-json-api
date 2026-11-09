@@ -447,7 +447,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "08.11.2026 18:00",
@@ -687,7 +687,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "08.11.2026 12:30",
@@ -1167,7 +1167,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "08.11.2026 15:30",
@@ -3597,7 +3597,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "08.11.2026 20:30",
@@ -3897,7 +3897,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "08.11.2026 00:00",
@@ -4077,7 +4077,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "08.11.2026 00:00",
@@ -4107,7 +4107,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "08.11.2026 00:00",
@@ -5970,66 +5970,6 @@
         "aiScore": 52
     },
     {
-        "date": "07.11.2026 23:00",
-        "league": "MEK",
-        "matchCode": "4476489",
-        "home": "Atlas FC",
-        "away": "CF Pachuca",
-        "firstHalf": "0 - 2",
-        "finalScore": "1 - 4",
-        "prediction": "Double Chance 12",
-        "ihtimal": "76.67",
-        "odds": "1.13",
-        "matchCount": "150",
-        "matchLink": "4476489",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "16/150",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "07.11.2026 19:42",
-        "patternScore": 70.11,
-        "patternText": "293.537/418.655",
-        "patternInfo": {
-            "m": 73,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 92.86
-        },
-        "aiScore": 76
-    },
-    {
-        "date": "07.11.2026 23:00",
-        "league": "MEK",
-        "matchCode": "4476489",
-        "home": "Atlas FC",
-        "away": "CF Pachuca",
-        "firstHalf": "0 - 2",
-        "finalScore": "1 - 4",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "81.33",
-        "odds": "1.15",
-        "matchCount": "150",
-        "matchLink": "4476489",
-        "status": "Lost",
-        "predictedScore": "1-0",
-        "predictedScoreText": "16/150",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "07.11.2026 19:42",
-        "patternScore": 70.22,
-        "patternText": "154.886/220.584",
-        "patternInfo": {
-            "m": 52,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 82
-    },
-    {
         "date": "08.11.2026 13:30",
         "league": "FRU19",
         "matchCode": "4561920",
@@ -7440,96 +7380,6 @@
         "aiScore": 67
     },
     {
-        "date": "07.11.2026 23:00",
-        "league": "MEK",
-        "matchCode": "4476490",
-        "home": "Tigres UANL",
-        "away": "Cruz Azul",
-        "firstHalf": "1 - 1",
-        "finalScore": "2 - 3",
-        "prediction": "Double Chance 12",
-        "ihtimal": "79.41",
-        "odds": "1.10",
-        "matchCount": "68",
-        "matchLink": "4476490",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "10/68",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "07.11.2026 22:23",
-        "patternScore": 70.43,
-        "patternText": "302.382/429.353",
-        "patternInfo": {
-            "m": 83,
-            "s": 0,
-            "f": 0,
-            "e": 85,
-            "b": 84.69
-        },
-        "aiScore": 84
-    },
-    {
-        "date": "07.11.2026 23:00",
-        "league": "MEK",
-        "matchCode": "4476490",
-        "home": "Tigres UANL",
-        "away": "Cruz Azul",
-        "firstHalf": "1 - 1",
-        "finalScore": "2 - 3",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "73.53",
-        "odds": "1.08",
-        "matchCount": "68",
-        "matchLink": "4476490",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "10/68",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "07.11.2026 22:23",
-        "patternScore": 69.4,
-        "patternText": "242.631/349.635",
-        "patternInfo": {
-            "m": 71,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 88.89
-        },
-        "aiScore": 73
-    },
-    {
-        "date": "07.11.2026 23:00",
-        "league": "MEK",
-        "matchCode": "4476490",
-        "home": "Tigres UANL",
-        "away": "Cruz Azul",
-        "firstHalf": "1 - 1",
-        "finalScore": "2 - 3",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "73.53",
-        "odds": "1.14",
-        "matchCount": "68",
-        "matchLink": "4476490",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "10/68",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "07.11.2026 22:23",
-        "patternScore": 68.82,
-        "patternText": "240.291/349.161",
-        "patternInfo": {
-            "m": 70,
-            "s": 0,
-            "f": 0,
-            "e": 85,
-            "b": 83.33
-        },
-        "aiScore": 66
-    },
-    {
         "date": "08.11.2026 00:00",
         "league": "ABD",
         "matchCode": "4419849",
@@ -8547,7 +8397,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "08.11.2026 00:00",
@@ -8757,7 +8607,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 51
+        "aiScore": 52
     },
     {
         "date": "08.11.2026 04:00",
@@ -8937,7 +8787,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 94
     },
     {
         "date": "08.11.2026 04:00",
@@ -9567,7 +9417,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "08.11.2026 09:15",
@@ -10137,7 +9987,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "08.11.2026 05:00",
@@ -11667,7 +11517,7 @@
             "e": 85,
             "b": 94.12
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "08.11.2026 11:00",
@@ -11967,7 +11817,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "08.11.2026 07:30",
@@ -12957,7 +12807,7 @@
             "e": 85,
             "b": 91.18
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "08.11.2026 07:30",
@@ -13677,7 +13527,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "08.11.2026 07:30",
@@ -15477,7 +15327,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "08.11.2026 13:00",
@@ -17397,7 +17247,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "08.11.2026 13:30",
@@ -17817,7 +17667,7 @@
             "e": 85,
             "b": 86.67
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "08.11.2026 14:00",
@@ -20217,7 +20067,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "08.11.2026 12:00",
@@ -20547,7 +20397,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "08.11.2026 12:30",
@@ -21297,7 +21147,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 92
     },
     {
         "date": "08.11.2026 13:30",
@@ -22227,7 +22077,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 84
     },
     {
         "date": "08.11.2026 16:10",
@@ -23757,7 +23607,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "08.11.2026 17:00",
@@ -24297,7 +24147,7 @@
             "e": 85,
             "b": 95.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "08.11.2026 13:00",
@@ -25527,7 +25377,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "08.11.2026 13:30",
@@ -25917,7 +25767,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "08.11.2026 14:00",
@@ -25977,7 +25827,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "08.11.2026 15:00",
@@ -26457,7 +26307,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "08.11.2026 17:00",
@@ -27987,7 +27837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 97
     },
     {
         "date": "08.11.2026 15:00",
@@ -28437,7 +28287,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "08.11.2026 14:30",
@@ -32547,7 +32397,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "08.11.2026 17:15",
@@ -34707,7 +34557,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "08.11.2026 23:30",
@@ -35367,7 +35217,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "08.11.2026 20:00",
