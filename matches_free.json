@@ -27,7 +27,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "18.11.2026 19:45",
@@ -87,7 +87,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "12.11.2026 17:00",
@@ -237,7 +237,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "12.11.2026 19:45",
@@ -327,7 +327,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "12.11.2026 19:45",
@@ -357,7 +357,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "12.11.2026 19:45",
@@ -477,7 +477,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "13.11.2026 19:45",
@@ -507,7 +507,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "13.11.2026 19:45",
@@ -537,7 +537,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 70
     },
     {
         "date": "13.11.2026 19:45",
@@ -717,7 +717,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "14.11.2026 17:00",
@@ -777,7 +777,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "14.11.2026 17:00",
@@ -987,7 +987,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "14.11.2026 19:45",
@@ -1257,7 +1257,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "14.11.2026 19:45",
@@ -1287,7 +1287,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 67
+        "aiScore": 66
     },
     {
         "date": "14.11.2026 19:45",
@@ -1622,66 +1622,6 @@
     {
         "date": "10.11.2026 19:30",
         "league": "İNTK",
-        "matchCode": "4527891",
-        "home": "Crawley Town",
-        "away": "Brentford U21",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Over 2.5 Goals",
-        "ihtimal": "75.0",
-        "odds": "1.13",
-        "matchCount": "20",
-        "matchLink": "4527891",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "7/20",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 68.28,
-        "patternText": "218.870/320.560",
-        "patternInfo": {
-            "m": 57,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 95.0
-        },
-        "aiScore": 68
-    },
-    {
-        "date": "10.11.2026 19:30",
-        "league": "İNTK",
-        "matchCode": "4527891",
-        "home": "Crawley Town",
-        "away": "Brentford U21",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "70.0",
-        "odds": "1.25",
-        "matchCount": "20",
-        "matchLink": "4527891",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "7/20",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 68.57,
-        "patternText": "207.314/302.344",
-        "patternInfo": {
-            "m": 58,
-            "s": 9,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 72
-    },
-    {
-        "date": "10.11.2026 19:30",
-        "league": "İNTK",
         "matchCode": "4527818",
         "home": "Bradford City",
         "away": "York",
@@ -1693,11 +1633,11 @@
         "matchCount": "47",
         "matchLink": "4527818",
         "status": "Pending",
-        "predictedScore": "0-1",
-        "predictedScoreText": "6/47",
+        "predictedScore": "2-0",
+        "predictedScoreText": "6/41",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "10.11.2026 13:34",
         "patternScore": 71.55,
         "patternText": "181.735/254.002",
         "patternInfo": {
@@ -1723,11 +1663,11 @@
         "matchCount": "47",
         "matchLink": "4527818",
         "status": "Pending",
-        "predictedScore": "0-1",
-        "predictedScoreText": "6/47",
+        "predictedScore": "2-0",
+        "predictedScoreText": "6/41",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "10.11.2026 13:34",
         "patternScore": 69.39,
         "patternText": "211.274/304.463",
         "patternInfo": {
@@ -1753,11 +1693,11 @@
         "matchCount": "47",
         "matchLink": "4527818",
         "status": "Pending",
-        "predictedScore": "0-1",
-        "predictedScoreText": "6/47",
+        "predictedScore": "2-0",
+        "predictedScoreText": "6/41",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "10.11.2026 13:34",
         "patternScore": 69.89,
         "patternText": "231.371/331.047",
         "patternInfo": {
@@ -1917,7 +1857,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "10.11.2026 19:45",
@@ -1977,7 +1917,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 97
     },
     {
         "date": "10.11.2026 19:45",
@@ -2007,7 +1947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "10.11.2026 19:45",
@@ -2247,7 +2187,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 96
     },
     {
         "date": "10.11.2026 19:45",
@@ -2277,7 +2217,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "10.11.2026 19:45",
@@ -2367,7 +2307,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "10.11.2026 19:45",
@@ -2457,7 +2397,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 70
+        "aiScore": 69
     },
     {
         "date": "12.11.2026 17:45",
@@ -2517,7 +2457,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "13.11.2026 19:45",
@@ -2547,7 +2487,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "13.11.2026 19:45",
@@ -2697,7 +2637,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "10.11.2026 19:45",
@@ -3027,7 +2967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "09.11.2026 18:00",
@@ -3087,7 +3027,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "12.11.2026 06:00",
@@ -3297,7 +3237,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "09.11.2026 16:30",
@@ -3327,7 +3267,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "09.11.2026 18:00",
@@ -3357,7 +3297,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "09.11.2026 18:00",
@@ -3387,7 +3327,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "09.11.2026 18:00",
@@ -3417,7 +3357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 69
     },
     {
         "date": "12.11.2026 19:45",
@@ -3717,7 +3657,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "09.11.2026 18:00",
@@ -3837,7 +3777,7 @@
             "e": 85,
             "b": 89.47
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "10.11.2026 21:30",
@@ -3897,7 +3837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "09.11.2026 19:30",
@@ -3987,7 +3927,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "09.11.2026 18:00",
@@ -4017,7 +3957,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 92
     },
     {
         "date": "09.11.2026 18:00",
@@ -4077,7 +4017,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 92
     },
     {
         "date": "10.11.2026 17:45",
@@ -4107,7 +4047,7 @@
             "e": 85,
             "b": 91.3
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "10.11.2026 17:45",
@@ -4227,7 +4167,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "10.11.2026 19:45",
@@ -4287,7 +4227,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 82
     },
     {
         "date": "10.11.2026 19:45",
@@ -4317,7 +4257,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "10.11.2026 19:45",
@@ -4527,7 +4467,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "10.11.2026 19:45",
@@ -4587,7 +4527,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 83
+        "aiScore": 82
     },
     {
         "date": "10.11.2026 20:00",
@@ -4707,7 +4647,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "10.11.2026 20:00",
@@ -4737,7 +4677,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 100
+        "aiScore": 99
     },
     {
         "date": "10.11.2026 20:00",
@@ -4767,7 +4707,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 84
     },
     {
         "date": "09.11.2026 20:15",
@@ -4857,7 +4797,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "09.11.2026 19:30",
@@ -4887,7 +4827,7 @@
             "e": 85,
             "b": 91.3
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "09.11.2026 19:30",
@@ -4977,7 +4917,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "09.11.2026 19:00",
@@ -5097,7 +5037,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 99
+        "aiScore": 98
     },
     {
         "date": "09.11.2026 20:30",
@@ -5217,7 +5157,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "09.11.2026 19:30",
@@ -5247,7 +5187,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "09.11.2026 19:30",
@@ -5277,7 +5217,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "09.11.2026 19:30",
@@ -5307,7 +5247,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "09.11.2026 19:30",
@@ -5517,7 +5457,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "10.11.2026 19:00",
@@ -5577,7 +5517,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "10.11.2026 19:00",
@@ -5697,7 +5637,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "11.11.2026 01:00",
@@ -6267,7 +6207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "10.11.2026 00:30",
@@ -6357,7 +6297,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "10.11.2026 13:00",
@@ -6447,7 +6387,7 @@
             "e": 85,
             "b": 88.64
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "10.11.2026 12:00",
@@ -6507,7 +6447,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "10.11.2026 17:30",
@@ -6597,7 +6537,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "10.11.2026 19:00",
@@ -6717,7 +6657,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "10.11.2026 19:00",
@@ -6747,7 +6687,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "10.11.2026 19:00",
@@ -6777,7 +6717,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "10.11.2026 19:00",
@@ -6808,126 +6748,6 @@
             "b": 100.0
         },
         "aiScore": 70
-    },
-    {
-        "date": "10.11.2026 19:00",
-        "league": "İNTK",
-        "matchCode": "4527885",
-        "home": "Northampton Town",
-        "away": "Gillingham",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "79.13",
-        "odds": "1.12",
-        "matchCount": "206",
-        "matchLink": "4527885",
-        "status": "Pending",
-        "predictedScore": "2-0",
-        "predictedScoreText": "24/206",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "10.11.2026 13:16",
-        "patternScore": 70.18,
-        "patternText": "266.480/379.716",
-        "patternInfo": {
-            "m": 53,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 90.0
-        },
-        "aiScore": 77
-    },
-    {
-        "date": "10.11.2026 19:00",
-        "league": "İNTK",
-        "matchCode": "4527885",
-        "home": "Northampton Town",
-        "away": "Gillingham",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "81.07",
-        "odds": "1.08",
-        "matchCount": "206",
-        "matchLink": "4527885",
-        "status": "Pending",
-        "predictedScore": "2-0",
-        "predictedScoreText": "24/206",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "10.11.2026 13:16",
-        "patternScore": 70.41,
-        "patternText": "136.113/193.322",
-        "patternInfo": {
-            "m": 46,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 85.71
-        },
-        "aiScore": 85
-    },
-    {
-        "date": "10.11.2026 19:00",
-        "league": "İNTK",
-        "matchCode": "4527885",
-        "home": "Northampton Town",
-        "away": "Gillingham",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "70.39",
-        "odds": "1.20",
-        "matchCount": "206",
-        "matchLink": "4527885",
-        "status": "Pending",
-        "predictedScore": "2-0",
-        "predictedScoreText": "24/206",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "10.11.2026 13:16",
-        "patternScore": 68.56,
-        "patternText": "208.544/304.195",
-        "patternInfo": {
-            "m": 51,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 92.86
-        },
-        "aiScore": 65
-    },
-    {
-        "date": "10.11.2026 19:00",
-        "league": "İNTK",
-        "matchCode": "4527885",
-        "home": "Northampton Town",
-        "away": "Gillingham",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "78.64",
-        "odds": "1.10",
-        "matchCount": "206",
-        "matchLink": "4527885",
-        "status": "Pending",
-        "predictedScore": "2-0",
-        "predictedScoreText": "24/206",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "10.11.2026 13:16",
-        "patternScore": 69.75,
-        "patternText": "222.001/318.261",
-        "patternInfo": {
-            "m": 54,
-            "s": 7,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 93
     },
     {
         "date": "10.11.2026 19:00",
@@ -6973,8 +6793,8 @@
         "matchCount": "75",
         "matchLink": "4527835",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "13/75",
+        "predictedScore": "3-1",
+        "predictedScoreText": "6/69",
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "10.11.2026 13:17",
@@ -7003,8 +6823,8 @@
         "matchCount": "75",
         "matchLink": "4527835",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "13/75",
+        "predictedScore": "3-1",
+        "predictedScoreText": "6/69",
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "10.11.2026 13:17",
@@ -7033,8 +6853,8 @@
         "matchCount": "75",
         "matchLink": "4527835",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "13/75",
+        "predictedScore": "3-1",
+        "predictedScoreText": "6/69",
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "10.11.2026 13:17",
@@ -7137,7 +6957,7 @@
             "e": 85,
             "b": 90.48
         },
-        "aiScore": 71
+        "aiScore": 70
     },
     {
         "date": "10.11.2026 19:00",
@@ -7227,7 +7047,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "10.11.2026 19:00",
@@ -7287,7 +7107,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "10.11.2026 19:00",
@@ -7317,7 +7137,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "10.11.2026 19:00",
@@ -7347,7 +7167,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "10.11.2026 19:00",
@@ -7412,22 +7232,82 @@
     {
         "date": "10.11.2026 19:00",
         "league": "İNTK",
+        "matchCode": "4527885",
+        "home": "Northampton Town",
+        "away": "Gillingham",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "74.87",
+        "odds": "1.12",
+        "matchCount": "195",
+        "matchLink": "4527885",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "25/195",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "10.11.2026 13:32",
+        "patternScore": 70.18,
+        "patternText": "266.480/379.716",
+        "patternInfo": {
+            "m": 53,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 90.0
+        },
+        "aiScore": 71
+    },
+    {
+        "date": "10.11.2026 19:00",
+        "league": "İNTK",
+        "matchCode": "4527885",
+        "home": "Northampton Town",
+        "away": "Gillingham",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "80.0",
+        "odds": "1.08",
+        "matchCount": "195",
+        "matchLink": "4527885",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "25/195",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "10.11.2026 13:32",
+        "patternScore": 70.41,
+        "patternText": "136.113/193.322",
+        "patternInfo": {
+            "m": 46,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 85.71
+        },
+        "aiScore": 84
+    },
+    {
+        "date": "10.11.2026 19:00",
+        "league": "İNTK",
         "matchCode": "4527824",
         "home": "Mansfield Town",
         "away": "Chesterfield",
         "firstHalf": "-",
         "finalScore": "-",
         "prediction": "Double Chance 1X",
-        "ihtimal": "80.65",
+        "ihtimal": "86.21",
         "odds": "1.11",
-        "matchCount": "62",
+        "matchCount": "29",
         "matchLink": "4527824",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "11/62",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "10.11.2026 13:20",
+        "tahminUpdatedAt": "10.11.2026 13:33",
         "patternScore": 70.16,
         "patternText": "145.306/207.108",
         "patternInfo": {
@@ -7437,7 +7317,30 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 93
+    },
+    {
+        "date": "10.11.2026 19:00",
+        "league": "İNTK",
+        "matchCode": "4527824",
+        "home": "Mansfield Town",
+        "away": "Chesterfield",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "79.31",
+        "odds": "1.07",
+        "matchCount": "29",
+        "matchLink": "4527824",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "10.11.2026 13:33",
+        "patternScore": null,
+        "patternText": null,
+        "aiScore": 100
     },
     {
         "date": "10.11.2026 19:00",
@@ -7448,16 +7351,16 @@
         "firstHalf": "-",
         "finalScore": "-",
         "prediction": "Under 4.5 Goals",
-        "ihtimal": "79.03",
+        "ihtimal": "82.76",
         "odds": "1.13",
-        "matchCount": "62",
+        "matchCount": "29",
         "matchLink": "4527824",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "11/62",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "10.11.2026 13:20",
+        "tahminUpdatedAt": "10.11.2026 13:33",
         "patternScore": 69.1,
         "patternText": "208.804/302.164",
         "patternInfo": {
@@ -7467,7 +7370,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 74
+        "aiScore": 80
     },
     {
         "date": "10.11.2026 19:00",
@@ -7478,16 +7381,16 @@
         "firstHalf": "-",
         "finalScore": "-",
         "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "79.03",
+        "ihtimal": "86.21",
         "odds": "1.08",
-        "matchCount": "62",
+        "matchCount": "29",
         "matchLink": "4527824",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "11/62",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "10.11.2026 13:20",
+        "tahminUpdatedAt": "10.11.2026 13:33",
         "patternScore": 69.82,
         "patternText": "233.091/333.838",
         "patternInfo": {
@@ -7497,6 +7400,158 @@
             "e": 85,
             "b": 100.0
         },
+        "aiScore": 92
+    },
+    {
+        "date": "10.11.2026 19:30",
+        "league": "İNTK",
+        "matchCode": "4527891",
+        "home": "Crawley Town",
+        "away": "Brentford U21",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 1",
+        "ihtimal": "81.82",
+        "odds": "1.24",
+        "matchCount": "11",
+        "matchLink": "4527891",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/11",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "10.11.2026 13:33",
+        "patternScore": null,
+        "patternText": null,
+        "aiScore": 91
+    },
+    {
+        "date": "10.11.2026 19:30",
+        "league": "İNTK",
+        "matchCode": "4527891",
+        "home": "Crawley Town",
+        "away": "Brentford U21",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 2.5 Goals",
+        "ihtimal": "90.91",
+        "odds": "1.11",
+        "matchCount": "11",
+        "matchLink": "4527891",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/11",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "10.11.2026 13:33",
+        "patternScore": 68.28,
+        "patternText": "218.870/320.560",
+        "patternInfo": {
+            "m": 57,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 95.0
+        },
         "aiScore": 84
+    },
+    {
+        "date": "10.11.2026 19:30",
+        "league": "İNTK",
+        "matchCode": "4527891",
+        "home": "Crawley Town",
+        "away": "Brentford U21",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 4.5 Goals",
+        "ihtimal": "72.73",
+        "odds": "1.28",
+        "matchCount": "11",
+        "matchLink": "4527891",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/11",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "10.11.2026 13:33",
+        "patternScore": 68.57,
+        "patternText": "207.314/302.344",
+        "patternInfo": {
+            "m": 58,
+            "s": 9,
+            "f": 4,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 73
+    },
+    {
+        "date": "10.11.2026 19:30",
+        "league": "İNTK",
+        "matchCode": "4527891",
+        "home": "Crawley Town",
+        "away": "Brentford U21",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Both Teams to Score - Yes",
+        "ihtimal": "72.73",
+        "odds": "1.24",
+        "matchCount": "11",
+        "matchLink": "4527891",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/11",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "10.11.2026 13:33",
+        "patternScore": null,
+        "patternText": null,
+        "aiScore": 77
+    },
+    {
+        "date": "10.11.2026 19:30",
+        "league": "İNTK",
+        "matchCode": "4527891",
+        "home": "Crawley Town",
+        "away": "Brentford U21",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 12",
+        "ihtimal": "72.73",
+        "odds": "1.17",
+        "matchCount": "11",
+        "matchLink": "4527891",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/11",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "10.11.2026 13:33",
+        "patternScore": null,
+        "patternText": null,
+        "aiScore": 93
+    },
+    {
+        "date": "10.11.2026 19:30",
+        "league": "İNTK",
+        "matchCode": "4527891",
+        "home": "Crawley Town",
+        "away": "Brentford U21",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 1.5",
+        "ihtimal": "72.73",
+        "odds": "1.55",
+        "matchCount": "11",
+        "matchLink": "4527891",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/11",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "10.11.2026 13:33",
+        "patternScore": null,
+        "patternText": null,
+        "aiScore": 54
     }
 ]
