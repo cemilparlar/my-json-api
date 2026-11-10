@@ -6177,7 +6177,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "09.11.2026 19:30",
@@ -7628,9 +7628,9 @@
         "firstHalf": "-",
         "finalScore": "-",
         "prediction": "Double Chance 12",
-        "ihtimal": "86.67",
+        "ihtimal": "84.0",
         "odds": "1.06",
-        "matchCount": "15",
+        "matchCount": "25",
         "matchLink": "4540673",
         "status": "Pending",
         "predictedScore": null,
@@ -7638,12 +7638,12 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "10.11.2026 07:30",
-        "patternScore": 71.82,
-        "patternText": "191.842/267.130",
+        "patternScore": 72.12,
+        "patternText": "184.882/256.342",
         "patternInfo": {
-            "m": 74,
-            "s": 3,
-            "f": 1,
+            "m": 73,
+            "s": 6,
+            "f": 2,
             "e": 85,
             "b": 100.0
         },
@@ -7660,7 +7660,7 @@
         "prediction": "1st Half Double Chance 1X",
         "ihtimal": "80.0",
         "odds": "1.08",
-        "matchCount": "15",
+        "matchCount": "25",
         "matchLink": "4540673",
         "status": "Pending",
         "predictedScore": null,
@@ -7668,15 +7668,15 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "10.11.2026 07:30",
-        "patternScore": 70.71,
-        "patternText": "155.420/219.798",
+        "patternScore": 71.08,
+        "patternText": "149.140/209.834",
         "patternInfo": {
-            "m": 69,
+            "m": 68,
             "s": 1,
             "f": 0,
             "e": 85,
-            "b": 95.45
+            "b": 92.31
         },
-        "aiScore": 88
+        "aiScore": 87
     }
 ]
