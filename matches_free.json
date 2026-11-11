@@ -477,7 +477,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "13.11.2026 19:45",
@@ -1467,7 +1467,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "12.11.2026 17:45",
@@ -1737,7 +1737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "12.11.2026 06:00",
@@ -1887,7 +1887,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "12.11.2026 19:45",
@@ -1977,7 +1977,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "13.11.2026 19:45",
@@ -2067,7 +2067,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 92
     },
     {
         "date": "10.11.2026 17:45",
@@ -2097,7 +2097,7 @@
             "e": 85,
             "b": 91.3
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "10.11.2026 17:45",
@@ -2448,16 +2448,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "11.11.2026 15:43",
-        "patternScore": 69.25,
-        "patternText": "334.237/482.672",
+        "patternScore": 69.22,
+        "patternText": "201.359/290.900",
         "patternInfo": {
-            "m": 54,
-            "s": 6,
-            "f": 0,
+            "m": 49,
+            "s": 9,
+            "f": 2,
             "e": 85,
-            "b": 93.75
+            "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 94
     },
     {
         "date": "10.11.2026 19:00",
@@ -2480,7 +2480,7 @@
         "tahminUpdatedAt": "11.11.2026 15:43",
         "patternScore": null,
         "patternText": null,
-        "aiScore": 94
+        "aiScore": 93
     },
     {
         "date": "10.11.2026 19:00",
@@ -2990,7 +2990,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "10.11.2026 13:00",
@@ -3110,7 +3110,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "10.11.2026 14:00",
@@ -3380,7 +3380,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "10.11.2026 19:45",
@@ -3560,7 +3560,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "10.11.2026 19:45",
@@ -4010,7 +4010,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "10.11.2026 19:00",
@@ -4160,7 +4160,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "10.11.2026 19:00",
@@ -4520,7 +4520,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "10.11.2026 19:45",
@@ -4760,7 +4760,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "10.11.2026 20:00",
@@ -5600,7 +5600,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "10.11.2026 21:30",
@@ -5691,66 +5691,6 @@
             "b": 100.0
         },
         "aiScore": 60
-    },
-    {
-        "date": "11.11.2026 21:30",
-        "league": "ELSAL",
-        "matchCode": "4504421",
-        "home": "Fuerte San Fra",
-        "away": "Alianza FC",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "75.41",
-        "odds": "1.12",
-        "matchCount": "61",
-        "matchLink": "4504421",
-        "status": "Pending",
-        "predictedScore": "0-2",
-        "predictedScoreText": "10/60",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "11.11.2026 15:44",
-        "patternScore": 70.61,
-        "patternText": "236.070/334.318",
-        "patternInfo": {
-            "m": 64,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 90.0
-        },
-        "aiScore": 75
-    },
-    {
-        "date": "11.11.2026 21:30",
-        "league": "ELSAL",
-        "matchCode": "4504421",
-        "home": "Fuerte San Fra",
-        "away": "Alianza FC",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "73.77",
-        "odds": "1.24",
-        "matchCount": "61",
-        "matchLink": "4504421",
-        "status": "Pending",
-        "predictedScore": "0-2",
-        "predictedScoreText": "10/60",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "11.11.2026 15:44",
-        "patternScore": 68.18,
-        "patternText": "173.874/255.030",
-        "patternInfo": {
-            "m": 54,
-            "s": 4,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 63
     },
     {
         "date": "12.11.2026 00:00",
@@ -6410,7 +6350,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "11.11.2026 10:00",
@@ -6890,7 +6830,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "11.11.2026 19:00",
@@ -6911,9 +6851,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "11.11.2026 15:43",
-        "patternScore": null,
-        "patternText": null,
-        "aiScore": 84
+        "patternScore": 69.05,
+        "patternText": "216.523/313.592",
+        "patternInfo": {
+            "m": 54,
+            "s": 4,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 77
     },
     {
         "date": "11.11.2026 19:00",
@@ -6934,16 +6881,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "11.11.2026 15:43",
-        "patternScore": 69.25,
-        "patternText": "334.237/482.672",
+        "patternScore": 69.22,
+        "patternText": "201.359/290.900",
         "patternInfo": {
-            "m": 54,
-            "s": 6,
-            "f": 0,
+            "m": 49,
+            "s": 9,
+            "f": 2,
             "e": 85,
-            "b": 93.75
+            "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 92
     },
     {
         "date": "11.11.2026 19:00",
@@ -6964,16 +6911,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "11.11.2026 15:43",
-        "patternScore": 69.58,
-        "patternText": "365.319/525.000",
+        "patternScore": 69.56,
+        "patternText": "223.031/320.648",
         "patternInfo": {
-            "m": 61,
-            "s": 5,
-            "f": 0,
+            "m": 57,
+            "s": 7,
+            "f": 1,
             "e": 85,
-            "b": 90.0
+            "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 81
     },
     {
         "date": "11.11.2026 19:00",
@@ -6994,16 +6941,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "11.11.2026 15:43",
-        "patternScore": 70.22,
-        "patternText": "263.672/375.514",
+        "patternScore": 70.26,
+        "patternText": "261.754/372.576",
         "patternInfo": {
-            "m": 53,
-            "s": 3,
-            "f": 0,
+            "m": 49,
+            "s": 5,
+            "f": 2,
             "e": 85,
-            "b": 90.0
+            "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 84
     },
     {
         "date": "11.11.2026 19:00",
@@ -7024,8 +6971,75 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "11.11.2026 15:43",
-        "patternScore": null,
-        "patternText": null,
-        "aiScore": 92
+        "patternScore": 69.0,
+        "patternText": "206.774/299.652",
+        "patternInfo": {
+            "m": 47,
+            "s": 5,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 70
+    },
+    {
+        "date": "11.11.2026 21:30",
+        "league": "ELSAL",
+        "matchCode": "4504421",
+        "home": "Fuerte San Fra",
+        "away": "Alianza FC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "80.0",
+        "odds": "1.12",
+        "matchCount": "60",
+        "matchLink": "4504421",
+        "status": "Pending",
+        "predictedScore": "0-2",
+        "predictedScoreText": "10/60",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "11.11.2026 15:44",
+        "patternScore": 71.92,
+        "patternText": "143.662/199.750",
+        "patternInfo": {
+            "m": 57,
+            "s": 6,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 90
+    },
+    {
+        "date": "11.11.2026 21:30",
+        "league": "ELSAL",
+        "matchCode": "4504421",
+        "home": "Fuerte San Fra",
+        "away": "Alianza FC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "70.0",
+        "odds": "1.28",
+        "matchCount": "60",
+        "matchLink": "4504421",
+        "status": "Pending",
+        "predictedScore": "0-2",
+        "predictedScoreText": "10/60",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "11.11.2026 15:44",
+        "patternScore": 69.51,
+        "patternText": "178.498/256.780",
+        "patternInfo": {
+            "m": 47,
+            "s": 4,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 63
     }
 ]
