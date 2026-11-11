@@ -87,7 +87,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 84
     },
     {
         "date": "12.11.2026 17:00",
@@ -357,7 +357,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "12.11.2026 19:45",
@@ -537,7 +537,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "13.11.2026 19:45",
@@ -687,7 +687,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 60
     },
     {
         "date": "13.11.2026 19:45",
@@ -717,7 +717,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "14.11.2026 17:00",
@@ -1257,7 +1257,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "14.11.2026 19:45",
@@ -1767,7 +1767,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "12.11.2026 19:45",
@@ -2067,7 +2067,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "10.11.2026 17:45",
@@ -2127,7 +2127,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "10.11.2026 17:45",
@@ -2277,7 +2277,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "10.11.2026 20:00",
@@ -2448,16 +2448,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "11.11.2026 15:20",
-        "patternScore": 68.87,
-        "patternText": "200.777/291.514",
+        "patternScore": 69.25,
+        "patternText": "334.237/482.672",
         "patternInfo": {
-            "m": 51,
-            "s": 3,
-            "f": 1,
+            "m": 54,
+            "s": 6,
+            "f": 0,
             "e": 85,
-            "b": 100.0
+            "b": 93.75
         },
-        "aiScore": 81
+        "aiScore": 89
     },
     {
         "date": "10.11.2026 19:00",
@@ -2478,16 +2478,9 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "11.11.2026 15:20",
-        "patternScore": 68.28,
-        "patternText": "201.022/294.405",
-        "patternInfo": {
-            "m": 59,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 90.0
-        },
-        "aiScore": 64
+        "patternScore": null,
+        "patternText": null,
+        "aiScore": 94
     },
     {
         "date": "10.11.2026 19:00",
@@ -3027,7 +3020,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "10.11.2026 12:00",
@@ -3057,7 +3050,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "10.11.2026 12:00",
@@ -3207,7 +3200,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "10.11.2026 19:45",
@@ -3237,7 +3230,7 @@
             "e": 85,
             "b": 84.21
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "10.11.2026 19:45",
@@ -3327,7 +3320,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "10.11.2026 19:45",
@@ -3417,7 +3410,7 @@
             "e": 85,
             "b": 95.24
         },
-        "aiScore": 60
+        "aiScore": 59
     },
     {
         "date": "10.11.2026 19:45",
@@ -3447,7 +3440,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 82
     },
     {
         "date": "10.11.2026 19:45",
@@ -3477,7 +3470,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "10.11.2026 17:45",
@@ -3687,7 +3680,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "10.11.2026 18:00",
@@ -3837,7 +3830,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "10.11.2026 19:00",
@@ -3897,7 +3890,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 70
+        "aiScore": 69
     },
     {
         "date": "10.11.2026 19:00",
@@ -3987,7 +3980,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 83
+        "aiScore": 82
     },
     {
         "date": "10.11.2026 19:00",
@@ -4737,7 +4730,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "10.11.2026 19:45",
@@ -4887,7 +4880,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "10.11.2026 19:00",
@@ -4917,7 +4910,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "10.11.2026 19:00",
@@ -5037,7 +5030,7 @@
             "e": 85,
             "b": 91.3
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "10.11.2026 19:00",
@@ -5217,7 +5210,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "10.11.2026 19:30",
@@ -5277,7 +5270,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "10.11.2026 19:30",
@@ -5457,7 +5450,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "10.11.2026 19:45",
@@ -5637,7 +5630,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "11.11.2026 01:00",
@@ -5667,7 +5660,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "11.11.2026 01:00",
@@ -5817,7 +5810,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "12.11.2026 00:00",
@@ -5847,7 +5840,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "12.11.2026 00:00",
@@ -5877,7 +5870,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "12.11.2026 00:00",
@@ -5967,7 +5960,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "12.11.2026 00:00",
@@ -5997,7 +5990,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "12.11.2026 00:00",
@@ -6027,7 +6020,7 @@
             "e": 85,
             "b": 94.74
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "12.11.2026 08:30",
@@ -6087,7 +6080,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "12.11.2026 08:30",
@@ -6297,7 +6290,7 @@
             "e": 85,
             "b": 95.65
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "11.11.2026 10:00",
@@ -6447,7 +6440,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "11.11.2026 10:00",
@@ -6597,7 +6590,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 56
     },
     {
         "date": "11.11.2026 17:45",
@@ -6807,7 +6800,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "11.11.2026 17:00",
@@ -6927,7 +6920,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "11.11.2026 19:00",
@@ -6938,9 +6931,9 @@
         "firstHalf": "-",
         "finalScore": "-",
         "prediction": "Double Chance 12",
-        "ihtimal": "79.63",
-        "odds": "1.06",
-        "matchCount": "54",
+        "ihtimal": "74.29",
+        "odds": "1.08",
+        "matchCount": "70",
         "matchLink": "4527809",
         "status": "Pending",
         "predictedScore": null,
@@ -6948,16 +6941,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "11.11.2026 15:20",
-        "patternScore": 70.46,
-        "patternText": "266.811/378.676",
+        "patternScore": 70.23,
+        "patternText": "424.267/604.090",
         "patternInfo": {
-            "m": 57,
-            "s": 5,
-            "f": 2,
+            "m": 62,
+            "s": 2,
+            "f": 0,
             "e": 85,
-            "b": 100.0
+            "b": 90.0
         },
-        "aiScore": 94
+        "aiScore": 81
     },
     {
         "date": "11.11.2026 19:00",
@@ -6968,9 +6961,9 @@
         "firstHalf": "-",
         "finalScore": "-",
         "prediction": "Under 4.5 Goals",
-        "ihtimal": "72.22",
-        "odds": "1.13",
-        "matchCount": "54",
+        "ihtimal": "78.57",
+        "odds": "1.11",
+        "matchCount": "70",
         "matchLink": "4527809",
         "status": "Pending",
         "predictedScore": null,
@@ -6978,15 +6971,75 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "11.11.2026 15:20",
-        "patternScore": 68.87,
-        "patternText": "200.777/291.514",
+        "patternScore": 69.25,
+        "patternText": "334.237/482.672",
         "patternInfo": {
-            "m": 51,
-            "s": 3,
-            "f": 1,
+            "m": 54,
+            "s": 6,
+            "f": 0,
             "e": 85,
-            "b": 100.0
+            "b": 93.75
         },
-        "aiScore": 71
+        "aiScore": 89
+    },
+    {
+        "date": "11.11.2026 19:00",
+        "league": "İNTK",
+        "matchCode": "4527809",
+        "home": "Sheffield Wednesday",
+        "away": "Accrington Stanley",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Both Teams to Score - Yes",
+        "ihtimal": "75.71",
+        "odds": "1.24",
+        "matchCount": "70",
+        "matchLink": "4527809",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "11.11.2026 15:20",
+        "patternScore": 68.06,
+        "patternText": "317.837/466.996",
+        "patternInfo": {
+            "m": 53,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 90.0
+        },
+        "aiScore": 62
+    },
+    {
+        "date": "11.11.2026 19:00",
+        "league": "İNTK",
+        "matchCode": "4527809",
+        "home": "Sheffield Wednesday",
+        "away": "Accrington Stanley",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "78.57",
+        "odds": "1.12",
+        "matchCount": "70",
+        "matchLink": "4527809",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "11.11.2026 15:20",
+        "patternScore": 69.58,
+        "patternText": "365.319/525.000",
+        "patternInfo": {
+            "m": 61,
+            "s": 5,
+            "f": 0,
+            "e": 85,
+            "b": 90.0
+        },
+        "aiScore": 82
     }
 ]
