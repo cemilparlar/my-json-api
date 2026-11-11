@@ -147,7 +147,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 82
     },
     {
         "date": "12.11.2026 17:00",
@@ -297,7 +297,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "12.11.2026 19:45",
@@ -417,7 +417,7 @@
             "e": 85,
             "b": 87.1
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "13.11.2026 17:00",
@@ -627,7 +627,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "13.11.2026 19:45",
@@ -987,7 +987,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "14.11.2026 19:45",
@@ -1017,7 +1017,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "14.11.2026 19:45",
@@ -1227,7 +1227,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "14.11.2026 19:45",
@@ -1497,7 +1497,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 92
     },
     {
         "date": "13.11.2026 19:45",
@@ -2307,7 +2307,7 @@
             "e": 85,
             "b": 91.3
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "10.11.2026 17:45",
@@ -2457,7 +2457,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 85
+        "aiScore": 84
     },
     {
         "date": "10.11.2026 20:00",
@@ -2607,7 +2607,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "09.11.2026 20:15",
@@ -2637,7 +2637,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "09.11.2026 19:30",
@@ -2727,127 +2727,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 66
-    },
-    {
-        "date": "09.11.2026 19:00",
-        "league": "INGPL2",
-        "matchCode": "4544171",
-        "home": "Middlesbrough",
-        "away": "Derby County U21",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "74.07",
-        "odds": "1.11",
-        "matchCount": "27",
-        "matchLink": "4544171",
-        "status": "HATA",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "09.11.2026 18:10",
-        "patternScore": 69.42,
-        "patternText": "242.737/349.677",
-        "patternInfo": {
-            "m": 66,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 88.89
-        },
-        "aiScore": 83
-    },
-    {
-        "date": "09.11.2026 19:00",
-        "league": "INGPL2",
-        "matchCode": "4544171",
-        "home": "Middlesbrough",
-        "away": "Derby County U21",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Both Teams to Score - Yes",
-        "ihtimal": "77.78",
-        "odds": "1.16",
-        "matchCount": "27",
-        "matchLink": "4544171",
-        "status": "HATA",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "09.11.2026 18:10",
-        "patternScore": 68.0,
-        "patternText": "210.435/309.481",
-        "patternInfo": {
-            "m": 58,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 71
-    },
-    {
-        "date": "09.11.2026 19:00",
-        "league": "İNPLK",
-        "matchCode": "4540493",
-        "home": "West Bromwich Albion U21",
-        "away": "Bromley U21",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Match Result 1",
-        "ihtimal": "93.33",
-        "odds": "1.16",
-        "matchCount": "15",
-        "matchLink": "4540493",
-        "status": "HATA",
-        "predictedScore": "2-1",
-        "predictedScoreText": "5/15",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "09.11.2026 18:28",
-        "patternScore": 67.29,
-        "patternText": "79.257/117.792",
-        "patternInfo": {
-            "m": 52,
-            "s": 1,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 75
-    },
-    {
-        "date": "09.11.2026 19:00",
-        "league": "İNPLK",
-        "matchCode": "4540493",
-        "home": "West Bromwich Albion U21",
-        "away": "Bromley U21",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 12",
-        "ihtimal": "80.0",
-        "odds": "1.16",
-        "matchCount": "15",
-        "matchLink": "4540493",
-        "status": "HATA",
-        "predictedScore": "2-1",
-        "predictedScoreText": "5/15",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "09.11.2026 18:28",
-        "patternScore": 68.56,
-        "patternText": "130.164/189.845",
-        "patternInfo": {
-            "m": 57,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 71
+        "aiScore": 67
     },
     {
         "date": "09.11.2026 19:30",
@@ -2907,7 +2787,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "09.11.2026 20:30",
@@ -2967,7 +2847,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "09.11.2026 19:30",
@@ -3057,7 +2937,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "09.11.2026 19:30",
@@ -3087,7 +2967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "09.11.2026 19:30",
@@ -3387,7 +3267,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "10.11.2026 19:00",
@@ -3747,7 +3627,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 51
+        "aiScore": 52
     },
     {
         "date": "14.11.2026 17:00",
@@ -3927,7 +3807,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "09.11.2026 22:30",
@@ -4197,7 +4077,7 @@
             "e": 85,
             "b": 88.64
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "10.11.2026 12:00",
@@ -4287,7 +4167,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "10.11.2026 17:30",
@@ -4647,7 +4527,7 @@
             "e": 85,
             "b": 76.92
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "10.11.2026 20:00",
@@ -5247,7 +5127,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "10.11.2026 19:00",
@@ -5307,7 +5187,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "10.11.2026 19:00",
@@ -5337,7 +5217,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "10.11.2026 19:00",
@@ -5487,7 +5367,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "10.11.2026 19:00",
@@ -5517,7 +5397,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "10.11.2026 19:00",
@@ -5547,7 +5427,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "10.11.2026 19:00",
@@ -5577,7 +5457,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "10.11.2026 19:00",
@@ -6147,7 +6027,7 @@
             "e": 85,
             "b": 91.3
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "10.11.2026 19:00",
@@ -6207,7 +6087,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 98
+        "aiScore": 97
     },
     {
         "date": "10.11.2026 19:00",
@@ -6477,7 +6357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "10.11.2026 19:30",
@@ -6537,7 +6417,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 95
+        "aiScore": 94
     },
     {
         "date": "10.11.2026 19:45",
@@ -6657,7 +6537,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "10.11.2026 19:45",
@@ -6807,7 +6687,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "11.11.2026 15:00",
@@ -6867,7 +6747,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "11.11.2026 01:00",
@@ -6897,6 +6777,6 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     }
 ]
