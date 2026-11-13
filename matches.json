@@ -1617,7 +1617,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "14.11.2026 17:00",
@@ -9237,7 +9237,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "14.11.2026 15:00",
@@ -12057,7 +12057,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "14.11.2026 17:30",
@@ -24327,7 +24327,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "12.11.2026 17:00",
@@ -26132,66 +26132,6 @@
     {
         "date": "13.11.2026 08:30",
         "league": "AVC",
-        "matchCode": "4573656",
-        "home": "Oakleigh Cannons",
-        "away": "Marconi Stallions",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "74.65",
-        "odds": "1.06",
-        "matchCount": "71",
-        "matchLink": "4573656",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "13/101",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "13.11.2026 03:55",
-        "patternScore": 70.54,
-        "patternText": "424.789/602.155",
-        "patternInfo": {
-            "m": 70,
-            "s": 7,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 93
-    },
-    {
-        "date": "13.11.2026 08:30",
-        "league": "AVC",
-        "matchCode": "4573656",
-        "home": "Oakleigh Cannons",
-        "away": "Marconi Stallions",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "74.65",
-        "odds": "1.12",
-        "matchCount": "71",
-        "matchLink": "4573656",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "13/101",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "13.11.2026 03:55",
-        "patternScore": 69.15,
-        "patternText": "354.331/512.395",
-        "patternInfo": {
-            "m": 73,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 75
-    },
-    {
-        "date": "13.11.2026 08:30",
-        "league": "AVC",
         "matchCode": "4573668",
         "home": "Preston Lions",
         "away": "Queensland Lions",
@@ -26308,5 +26248,65 @@
             "b": 90.91
         },
         "aiScore": 77
+    },
+    {
+        "date": "13.11.2026 08:30",
+        "league": "AVC",
+        "matchCode": "4573656",
+        "home": "Oakleigh Cannons",
+        "away": "Marconi Stallions",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "76.24",
+        "odds": "1.06",
+        "matchCount": "101",
+        "matchLink": "4573656",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "13/101",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "13.11.2026 03:55",
+        "patternScore": 67.86,
+        "patternText": "320.268/471.934",
+        "patternInfo": {
+            "m": 64,
+            "s": 6,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 89
+    },
+    {
+        "date": "13.11.2026 08:30",
+        "league": "AVC",
+        "matchCode": "4573656",
+        "home": "Oakleigh Cannons",
+        "away": "Marconi Stallions",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "77.23",
+        "odds": "1.12",
+        "matchCount": "101",
+        "matchLink": "4573656",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "13/101",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "13.11.2026 03:55",
+        "patternScore": 66.0,
+        "patternText": "265.828/402.786",
+        "patternInfo": {
+            "m": 63,
+            "s": 2,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 75
     }
 ]
