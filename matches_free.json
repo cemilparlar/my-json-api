@@ -297,7 +297,7 @@
             "e": 85,
             "b": 66.24
         },
-        "aiScore": 51
+        "aiScore": 50
     },
     {
         "date": "13.11.2026 19:45",
@@ -597,7 +597,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "14.11.2026 17:00",
@@ -777,7 +777,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "14.11.2026 19:45",
@@ -1257,7 +1257,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "14.11.2026 19:45",
@@ -1707,7 +1707,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "14.11.2026 17:00",
@@ -1947,7 +1947,7 @@
             "e": 85,
             "b": 93.94
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "14.11.2026 13:00",
@@ -2101,426 +2101,6 @@
     },
     {
         "date": "14.11.2026 15:00",
-        "league": "İN2",
-        "matchCode": "4489955",
-        "home": "Crewe",
-        "away": "Newport County",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "73.96",
-        "odds": "1.13",
-        "matchCount": "265",
-        "matchLink": "4489955",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "36/251",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 09:41",
-        "patternScore": 70.2,
-        "patternText": "383.972/547.002",
-        "patternInfo": {
-            "m": 72,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 92.31
-        },
-        "aiScore": 75
-    },
-    {
-        "date": "14.11.2026 15:00",
-        "league": "İN2",
-        "matchCode": "4489955",
-        "home": "Crewe",
-        "away": "Newport County",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (0:2) 2",
-        "ihtimal": "81.13207547169812",
-        "odds": "1.06",
-        "matchCount": "265",
-        "matchLink": "4489955",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "36/251",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 09:41",
-        "patternScore": 69.83,
-        "patternText": "195.547/280.036",
-        "patternInfo": {
-            "m": 50,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 92
-    },
-    {
-        "date": "14.11.2026 15:00",
-        "league": "İN2",
-        "matchCode": "4489955",
-        "home": "Crewe",
-        "away": "Newport County",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "71.69811320754717",
-        "odds": "1.11",
-        "matchCount": "265",
-        "matchLink": "4489955",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "36/251",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 09:41",
-        "patternScore": 68.8,
-        "patternText": "298.598/434.036",
-        "patternInfo": {
-            "m": 64,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 85.71
-        },
-        "aiScore": 62
-    },
-    {
-        "date": "14.11.2026 15:00",
-        "league": "İN2",
-        "matchCode": "4489955",
-        "home": "Crewe",
-        "away": "Newport County",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "76.98",
-        "odds": "1.15",
-        "matchCount": "265",
-        "matchLink": "4489955",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "36/251",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 09:41",
-        "patternScore": 68.95,
-        "patternText": "323.874/469.708",
-        "patternInfo": {
-            "m": 74,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 88.46
-        },
-        "aiScore": 69
-    },
-    {
-        "date": "14.11.2026 15:00",
-        "league": "İN2",
-        "matchCode": "4489955",
-        "home": "Crewe",
-        "away": "Newport County",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "77.74",
-        "odds": "1.07",
-        "matchCount": "265",
-        "matchLink": "4489955",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "36/251",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 09:41",
-        "patternScore": 69.75,
-        "patternText": "324.490/465.223",
-        "patternInfo": {
-            "m": 63,
-            "s": 3,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 83
-    },
-    {
-        "date": "14.11.2026 15:00",
-        "league": "İNGNLP",
-        "matchCode": "4519229",
-        "home": "Needham Market",
-        "away": "Banbury United",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "85.71",
-        "odds": "1.07",
-        "matchCount": "42",
-        "matchLink": "4519229",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "14/111",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 09:41",
-        "patternScore": 71.21,
-        "patternText": "272.779/383.079",
-        "patternInfo": {
-            "m": 84,
-            "s": 10,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 98
-    },
-    {
-        "date": "14.11.2026 15:00",
-        "league": "İN1",
-        "matchCode": "4489410",
-        "home": "Stockport County",
-        "away": "Reading",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "81.21",
-        "odds": "1.09",
-        "matchCount": "149",
-        "matchLink": "4489410",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "13/100",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 09:43",
-        "patternScore": 71.32,
-        "patternText": "277.814/389.546",
-        "patternInfo": {
-            "m": 74,
-            "s": 7,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 94
-    },
-    {
-        "date": "14.11.2026 15:00",
-        "league": "İN1",
-        "matchCode": "4489410",
-        "home": "Stockport County",
-        "away": "Reading",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (0:2) 2",
-        "ihtimal": "74.49664429530202",
-        "odds": "1.14",
-        "matchCount": "149",
-        "matchLink": "4489410",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "13/100",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 09:43",
-        "patternScore": 68.8,
-        "patternText": "292.979/425.833",
-        "patternInfo": {
-            "m": 63,
-            "s": 4,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 65
-    },
-    {
-        "date": "14.11.2026 15:00",
-        "league": "İN1",
-        "matchCode": "4489410",
-        "home": "Stockport County",
-        "away": "Reading",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "72.48322147651007",
-        "odds": "1.08",
-        "matchCount": "149",
-        "matchLink": "4489410",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "13/100",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 09:43",
-        "patternScore": 69.05,
-        "patternText": "303.045/438.900",
-        "patternInfo": {
-            "m": 71,
-            "s": 7,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 79
-    },
-    {
-        "date": "14.11.2026 15:00",
-        "league": "İN1",
-        "matchCode": "4489410",
-        "home": "Stockport County",
-        "away": "Reading",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "73.83",
-        "odds": "1.06",
-        "matchCount": "149",
-        "matchLink": "4489410",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "13/100",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 09:43",
-        "patternScore": 70.07,
-        "patternText": "333.337/475.744",
-        "patternInfo": {
-            "m": 79,
-            "s": 11,
-            "f": 5,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 90
-    },
-    {
-        "date": "14.11.2026 15:00",
-        "league": "İN1",
-        "matchCode": "4489410",
-        "home": "Stockport County",
-        "away": "Reading",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "78.52",
-        "odds": "1.13",
-        "matchCount": "149",
-        "matchLink": "4489410",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "13/100",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 09:43",
-        "patternScore": 68.92,
-        "patternText": "317.695/460.931",
-        "patternInfo": {
-            "m": 75,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 90.91
-        },
-        "aiScore": 71
-    },
-    {
-        "date": "14.11.2026 15:00",
-        "league": "İN1",
-        "matchCode": "4489406",
-        "home": "MK Dons",
-        "away": "Burton Albion",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "77.91",
-        "odds": "1.08",
-        "matchCount": "86",
-        "matchLink": "4489406",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "14/66",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 09:43",
-        "patternScore": 70.51,
-        "patternText": "393.632/558.238",
-        "patternInfo": {
-            "m": 97,
-            "s": 21,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 97
-    },
-    {
-        "date": "14.11.2026 15:00",
-        "league": "İN1",
-        "matchCode": "4489406",
-        "home": "MK Dons",
-        "away": "Burton Albion",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (0:2) 2",
-        "ihtimal": "72.09302325581395",
-        "odds": "1.21",
-        "matchCount": "86",
-        "matchLink": "4489406",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "14/66",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 09:43",
-        "patternScore": 68.66,
-        "patternText": "293.524/427.534",
-        "patternInfo": {
-            "m": 71,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 87.5
-        },
-        "aiScore": 60
-    },
-    {
-        "date": "14.11.2026 15:00",
-        "league": "İN1",
-        "matchCode": "4489406",
-        "home": "MK Dons",
-        "away": "Burton Albion",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "74.42",
-        "odds": "1.13",
-        "matchCount": "86",
-        "matchLink": "4489406",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "14/66",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 09:43",
-        "patternScore": 69.02,
-        "patternText": "323.424/468.592",
-        "patternInfo": {
-            "m": 80,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 85.71
-        },
-        "aiScore": 66
-    },
-    {
-        "date": "14.11.2026 15:00",
         "league": "İBSL",
         "matchCode": "4515034",
         "home": "Sutton United",
@@ -2607,7 +2187,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "14.11.2026 15:00",
@@ -3267,7 +2847,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "14.11.2026 15:00",
@@ -3537,7 +3117,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "14.11.2026 15:30",
@@ -3597,7 +3177,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "14.11.2026 15:30",
@@ -4107,7 +3687,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "14.11.2026 17:30",
@@ -4287,7 +3867,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "14.11.2026 17:30",
@@ -4317,7 +3897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "14.11.2026 17:30",
@@ -4467,7 +4047,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "14.11.2026 17:30",
@@ -4737,7 +4317,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "14.11.2026 17:45",
@@ -5217,7 +4797,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "14.11.2026 19:00",
@@ -5397,7 +4977,7 @@
             "e": 85,
             "b": 88.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "14.11.2026 19:30",
@@ -5697,7 +5277,7 @@
             "e": 85,
             "b": 93.75
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "14.11.2026 19:30",
@@ -5817,7 +5397,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "14.11.2026 20:00",
@@ -6237,7 +5817,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "15.11.2026 04:00",
@@ -6297,7 +5877,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "15.11.2026 04:00",
@@ -6327,7 +5907,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "15.11.2026 04:00",
@@ -6837,7 +6417,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "15.11.2026 11:30",
@@ -7107,7 +6687,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "15.11.2026 13:30",
@@ -7557,7 +7137,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "15.11.2026 15:15",
@@ -7887,7 +7467,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "15.11.2026 15:30",
@@ -8037,7 +7617,7 @@
             "e": 85,
             "b": 88.24
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "15.11.2026 16:30",
@@ -8097,7 +7677,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "15.11.2026 16:30",
@@ -8457,7 +8037,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "15.11.2026 17:30",
@@ -9177,7 +8757,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "15.11.2026 19:45",
@@ -9237,7 +8817,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "16.11.2026 19:30",
@@ -9267,7 +8847,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 98
     },
     {
         "date": "16.11.2026 19:30",
@@ -9537,7 +9117,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "16.11.2026 19:45",
@@ -9597,7 +9177,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "14.11.2026 17:00",
@@ -9927,7 +9507,7 @@
             "e": 85,
             "b": 94.12
         },
-        "aiScore": 96
+        "aiScore": 97
     },
     {
         "date": "14.11.2026 23:30",
@@ -10257,7 +9837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "15.11.2026 05:00",
@@ -10347,7 +9927,7 @@
             "e": 85,
             "b": 93.55
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "15.11.2026 07:00",
@@ -10587,7 +10167,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "15.11.2026 12:30",
@@ -10767,7 +10347,7 @@
             "e": 85,
             "b": 89.29
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "15.11.2026 12:30",
@@ -11127,7 +10707,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "14.11.2026 17:30",
@@ -11427,7 +11007,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "14.11.2026 19:00",
@@ -11728,36 +11308,6 @@
             "b": 90.91
         },
         "aiScore": 55
-    },
-    {
-        "date": "14.11.2026 15:00",
-        "league": "İNFAT",
-        "matchCode": "4579459",
-        "home": "Radcliffe Boro",
-        "away": "Marine",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "72.73",
-        "odds": "1.12",
-        "matchCount": "341",
-        "matchLink": "4579459",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "11/118",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 09:43",
-        "patternScore": 70.21,
-        "patternText": "382.964/545.477",
-        "patternInfo": {
-            "m": 46,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 90.0
-        },
-        "aiScore": 71
     },
     {
         "date": "14.11.2026 15:00",
@@ -12207,7 +11757,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "15.11.2026 16:30",
@@ -12417,7 +11967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "14.11.2026 17:00",
@@ -12897,7 +12447,7 @@
             "e": 85,
             "b": 86.36
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "15.11.2026 11:00",
@@ -12927,7 +12477,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "15.11.2026 11:00",
@@ -13077,7 +12627,7 @@
             "e": 85,
             "b": 94.44
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "15.11.2026 12:00",
@@ -13107,7 +12657,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "15.11.2026 12:00",
@@ -13437,7 +12987,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "15.11.2026 16:00",
@@ -13617,7 +13167,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "15.11.2026 17:00",
@@ -13767,7 +13317,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "15.11.2026 15:30",
@@ -14127,7 +13677,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "13.11.2026 08:30",
@@ -14187,7 +13737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "13.11.2026 12:00",
@@ -14277,7 +13827,7 @@
             "e": 85,
             "b": 88.24
         },
-        "aiScore": 52
+        "aiScore": 51
     },
     {
         "date": "13.11.2026 08:30",
@@ -14307,7 +13857,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "13.11.2026 08:30",
@@ -15837,7 +15387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "13.11.2026 16:00",
@@ -16617,7 +16167,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "13.11.2026 19:45",
@@ -16887,7 +16437,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "13.11.2026 16:00",
@@ -17217,7 +16767,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "13.11.2026 17:00",
@@ -17667,7 +17217,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "13.11.2026 17:30",
@@ -17757,7 +17307,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "13.11.2026 18:00",
@@ -17817,7 +17367,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "13.11.2026 18:00",
@@ -17847,7 +17397,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 98
     },
     {
         "date": "13.11.2026 18:00",
@@ -18177,7 +17727,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "13.11.2026 19:30",
@@ -19287,7 +18837,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 54
+        "aiScore": 53
     },
     {
         "date": "13.11.2026 19:45",
@@ -20007,7 +19557,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 53
+        "aiScore": 52
     },
     {
         "date": "14.11.2026 04:00",
@@ -20038,36 +19588,6 @@
             "b": 88.89
         },
         "aiScore": 53
-    },
-    {
-        "date": "14.11.2026 15:00",
-        "league": "İNFAT",
-        "matchCode": "4579484",
-        "home": "Billericay Tow",
-        "away": "Waltham Abbey",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Match Result 1",
-        "ihtimal": "100.0",
-        "odds": "1.06",
-        "matchCount": "2",
-        "matchLink": "4579484",
-        "status": "Pending",
-        "predictedScore": "3-0",
-        "predictedScoreText": "3/7",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 09:42",
-        "patternScore": 59.87,
-        "patternText": "313.977/524.430",
-        "patternInfo": {
-            "m": 67,
-            "s": 5,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 93
     },
     {
         "date": "14.11.2026 15:00",
@@ -20217,7 +19737,7 @@
             "e": 85,
             "b": 94.12
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "14.11.2026 05:00",
@@ -20277,7 +19797,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "14.11.2026 05:00",
@@ -20577,7 +20097,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "14.11.2026 12:00",
@@ -20997,7 +20517,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "14.11.2026 13:00",
@@ -21627,7 +21147,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "14.11.2026 13:30",
@@ -21807,7 +21327,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "14.11.2026 13:30",
@@ -21987,7 +21507,7 @@
             "e": 85,
             "b": 88.24
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "14.11.2026 13:30",
@@ -22497,7 +22017,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "14.11.2026 10:15",
@@ -22887,7 +22407,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "14.11.2026 15:00",
@@ -22917,7 +22437,7 @@
             "e": 85,
             "b": 94.74
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "14.11.2026 15:00",
@@ -23037,7 +22557,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "14.11.2026 15:00",
@@ -23487,7 +23007,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "14.11.2026 15:00",
@@ -24027,7 +23547,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 96
     },
     {
         "date": "14.11.2026 15:00",
@@ -24057,7 +23577,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "14.11.2026 15:00",
@@ -24657,7 +24177,7 @@
             "e": 85,
             "b": 85.9
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "14.11.2026 15:00",
@@ -25407,7 +24927,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "14.11.2026 15:00",
@@ -26148,16 +25668,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "14.11.2026 09:39",
-        "patternScore": 70.5,
-        "patternText": "394.953/560.211",
+        "patternScore": 71.08,
+        "patternText": "264.098/371.550",
         "patternInfo": {
-            "m": 78,
-            "s": 10,
-            "f": 1,
+            "m": 63,
+            "s": 12,
+            "f": 2,
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 97
     },
     {
         "date": "14.11.2026 15:00",
@@ -26178,16 +25698,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "14.11.2026 09:39",
-        "patternScore": 69.52,
-        "patternText": "310.604/446.786",
+        "patternScore": 70.17,
+        "patternText": "207.213/295.283",
         "patternInfo": {
-            "m": 73,
-            "s": 15,
-            "f": 0,
+            "m": 72,
+            "s": 22,
+            "f": 2,
             "e": 85,
-            "b": 90.91
+            "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 99
     },
     {
         "date": "14.11.2026 15:00",
@@ -26208,16 +25728,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "14.11.2026 09:39",
-        "patternScore": 69.01,
-        "patternText": "325.907/472.262",
+        "patternScore": 69.54,
+        "patternText": "343.321/493.704",
         "patternInfo": {
-            "m": 74,
-            "s": 8,
+            "m": 75,
+            "s": 10,
             "f": 0,
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 72
+        "aiScore": 82
     },
     {
         "date": "14.11.2026 15:00",
@@ -26238,16 +25758,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "14.11.2026 09:40",
-        "patternScore": 70.02,
-        "patternText": "377.753/539.525",
+        "patternScore": 70.03,
+        "patternText": "378.719/540.759",
         "patternInfo": {
-            "m": 77,
-            "s": 18,
+            "m": 81,
+            "s": 26,
             "f": 8,
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 92
     },
     {
         "date": "14.11.2026 15:00",
@@ -26268,16 +25788,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "14.11.2026 09:40",
-        "patternScore": 68.59,
-        "patternText": "307.259/447.995",
+        "patternScore": 68.91,
+        "patternText": "202.910/294.463",
         "patternInfo": {
-            "m": 61,
-            "s": 8,
+            "m": 55,
+            "s": 9,
             "f": 0,
             "e": 85,
-            "b": 90.0
+            "b": 90.91
         },
-        "aiScore": 73
+        "aiScore": 77
     },
     {
         "date": "14.11.2026 15:00",
@@ -26298,9 +25818,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "14.11.2026 09:40",
-        "patternScore": null,
-        "patternText": null,
-        "aiScore": 84
+        "patternScore": 69.51,
+        "patternText": "328.224/472.181",
+        "patternInfo": {
+            "m": 67,
+            "s": 10,
+            "f": 0,
+            "e": 85,
+            "b": 90.91
+        },
+        "aiScore": 71
     },
     {
         "date": "14.11.2026 15:00",
@@ -26321,9 +25848,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "14.11.2026 09:40",
-        "patternScore": null,
-        "patternText": null,
-        "aiScore": 71
+        "patternScore": 68.5,
+        "patternText": "300.852/439.194",
+        "patternInfo": {
+            "m": 57,
+            "s": 8,
+            "f": 0,
+            "e": 85,
+            "b": 90.0
+        },
+        "aiScore": 61
     },
     {
         "date": "14.11.2026 15:00",
@@ -26344,9 +25878,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "14.11.2026 09:40",
-        "patternScore": null,
-        "patternText": null,
-        "aiScore": 63
+        "patternScore": 68.09,
+        "patternText": "298.248/438.034",
+        "patternInfo": {
+            "m": 59,
+            "s": 8,
+            "f": 0,
+            "e": 85,
+            "b": 90.0
+        },
+        "aiScore": 58
     },
     {
         "date": "14.11.2026 15:00",
@@ -26367,16 +25908,16 @@
         "mbs": 2,
         "tahminUpdated": true,
         "tahminUpdatedAt": "14.11.2026 09:40",
-        "patternScore": 68.96,
-        "patternText": "322.317/467.371",
+        "patternScore": 69.24,
+        "patternText": "208.308/300.860",
         "patternInfo": {
-            "m": 68,
-            "s": 1,
+            "m": 52,
+            "s": 5,
             "f": 1,
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 84
     },
     {
         "date": "14.11.2026 15:00",
@@ -26397,16 +25938,16 @@
         "mbs": 2,
         "tahminUpdated": true,
         "tahminUpdatedAt": "14.11.2026 09:40",
-        "patternScore": 69.76,
-        "patternText": "328.423/470.811",
+        "patternScore": 70.1,
+        "patternText": "343.349/489.789",
         "patternInfo": {
-            "m": 80,
+            "m": 61,
             "s": 6,
-            "f": 4,
+            "f": 2,
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 82
     },
     {
         "date": "14.11.2026 15:00",
@@ -26427,8 +25968,555 @@
         "mbs": 2,
         "tahminUpdated": true,
         "tahminUpdatedAt": "14.11.2026 09:40",
-        "patternScore": null,
-        "patternText": null,
-        "aiScore": 68
+        "patternScore": 68.16,
+        "patternText": "299.541/439.484",
+        "patternInfo": {
+            "m": 57,
+            "s": 4,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 60
+    },
+    {
+        "date": "14.11.2026 15:00",
+        "league": "İN2",
+        "matchCode": "4489955",
+        "home": "Crewe",
+        "away": "Newport County",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "72.51",
+        "odds": "1.13",
+        "matchCount": "251",
+        "matchLink": "4489955",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "36/251",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 09:41",
+        "patternScore": 70.2,
+        "patternText": "384.120/547.180",
+        "patternInfo": {
+            "m": 76,
+            "s": 5,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        },
+        "aiScore": 73
+    },
+    {
+        "date": "14.11.2026 15:00",
+        "league": "İN2",
+        "matchCode": "4489955",
+        "home": "Crewe",
+        "away": "Newport County",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (1:0) 1",
+        "ihtimal": "71.31474103585657",
+        "odds": "1.12",
+        "matchCount": "251",
+        "matchLink": "4489955",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "36/251",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 09:41",
+        "patternScore": 68.8,
+        "patternText": "298.972/434.562",
+        "patternInfo": {
+            "m": 64,
+            "s": 9,
+            "f": 4,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 73
+    },
+    {
+        "date": "14.11.2026 15:00",
+        "league": "İN2",
+        "matchCode": "4489955",
+        "home": "Crewe",
+        "away": "Newport County",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "70.92",
+        "odds": "1.12",
+        "matchCount": "251",
+        "matchLink": "4489955",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "36/251",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 09:41",
+        "patternScore": 69.34,
+        "patternText": "320.243/461.855",
+        "patternInfo": {
+            "m": 73,
+            "s": 8,
+            "f": 6,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 69
+    },
+    {
+        "date": "14.11.2026 15:00",
+        "league": "İN2",
+        "matchCode": "4489955",
+        "home": "Crewe",
+        "away": "Newport County",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "75.7",
+        "odds": "1.15",
+        "matchCount": "251",
+        "matchLink": "4489955",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "36/251",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 09:41",
+        "patternScore": 68.96,
+        "patternText": "324.000/469.840",
+        "patternInfo": {
+            "m": 76,
+            "s": 5,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 73
+    },
+    {
+        "date": "14.11.2026 15:00",
+        "league": "İN2",
+        "matchCode": "4489955",
+        "home": "Crewe",
+        "away": "Newport County",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "81.67",
+        "odds": "1.08",
+        "matchCount": "251",
+        "matchLink": "4489955",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "36/251",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 09:41",
+        "patternScore": 70.23,
+        "patternText": "219.182/312.077",
+        "patternInfo": {
+            "m": 59,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        },
+        "aiScore": 89
+    },
+    {
+        "date": "14.11.2026 15:00",
+        "league": "İNGNLP",
+        "matchCode": "4519229",
+        "home": "Needham Market",
+        "away": "Banbury United",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "75.68",
+        "odds": "1.08",
+        "matchCount": "111",
+        "matchLink": "4519229",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "14/111",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 09:41",
+        "patternScore": 70.43,
+        "patternText": "390.218/554.042",
+        "patternInfo": {
+            "m": 90,
+            "s": 18,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 95
+    },
+    {
+        "date": "14.11.2026 15:00",
+        "league": "İNFAT",
+        "matchCode": "4579484",
+        "home": "Billericay Tow",
+        "away": "Waltham Abbey",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 1",
+        "ihtimal": "71.43",
+        "odds": "1.15",
+        "matchCount": "7",
+        "matchLink": "4579484",
+        "status": "Pending",
+        "predictedScore": "3-0",
+        "predictedScoreText": "3/7",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 09:42",
+        "patternScore": 67.88,
+        "patternText": "343.572/506.150",
+        "patternInfo": {
+            "m": 65,
+            "s": 6,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 80
+    },
+    {
+        "date": "14.11.2026 15:00",
+        "league": "İNFAT",
+        "matchCode": "4579459",
+        "home": "Radcliffe Boro",
+        "away": "Marine",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "79.66",
+        "odds": "1.11",
+        "matchCount": "118",
+        "matchLink": "4579459",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "11/118",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 09:43",
+        "patternScore": 70.29,
+        "patternText": "390.734/555.853",
+        "patternInfo": {
+            "m": 76,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 90.0
+        },
+        "aiScore": 82
+    },
+    {
+        "date": "14.11.2026 15:00",
+        "league": "İN1",
+        "matchCode": "4489410",
+        "home": "Stockport County",
+        "away": "Reading",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "74.0",
+        "odds": "1.08",
+        "matchCount": "100",
+        "matchLink": "4489410",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "13/100",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 09:43",
+        "patternScore": 68.03,
+        "patternText": "458.604/674.119",
+        "patternInfo": {
+            "m": 94,
+            "s": 6,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 81
+    },
+    {
+        "date": "14.11.2026 15:00",
+        "league": "İN1",
+        "matchCode": "4489410",
+        "home": "Stockport County",
+        "away": "Reading",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "74.0",
+        "odds": "1.16",
+        "matchCount": "100",
+        "matchLink": "4489410",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "13/100",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 09:43",
+        "patternScore": 66.03,
+        "patternText": "357.083/540.820",
+        "patternInfo": {
+            "m": 70,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 90.0
+        },
+        "aiScore": 61
+    },
+    {
+        "date": "14.11.2026 15:00",
+        "league": "İN1",
+        "matchCode": "4489410",
+        "home": "Stockport County",
+        "away": "Reading",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (1:0) 1",
+        "ihtimal": "82.0",
+        "odds": "1.07",
+        "matchCount": "100",
+        "matchLink": "4489410",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "13/100",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 09:43",
+        "patternScore": 65.55,
+        "patternText": "263.304/401.659",
+        "patternInfo": {
+            "m": 68,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 90.0
+        },
+        "aiScore": 82
+    },
+    {
+        "date": "14.11.2026 15:00",
+        "league": "İN1",
+        "matchCode": "4489410",
+        "home": "Stockport County",
+        "away": "Reading",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 4.5 Goals",
+        "ihtimal": "84.0",
+        "odds": "1.08",
+        "matchCount": "100",
+        "matchLink": "4489410",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "13/100",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 09:43",
+        "patternScore": 66.01,
+        "patternText": "267.580/405.377",
+        "patternInfo": {
+            "m": 75,
+            "s": 6,
+            "f": 0,
+            "e": 85,
+            "b": 90.0
+        },
+        "aiScore": 91
+    },
+    {
+        "date": "14.11.2026 15:00",
+        "league": "İN1",
+        "matchCode": "4489410",
+        "home": "Stockport County",
+        "away": "Reading",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "86.0",
+        "odds": "1.06",
+        "matchCount": "100",
+        "matchLink": "4489410",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "13/100",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 09:43",
+        "patternScore": 66.84,
+        "patternText": "292.470/437.535",
+        "patternInfo": {
+            "m": 78,
+            "s": 6,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 93
+    },
+    {
+        "date": "14.11.2026 15:00",
+        "league": "İN1",
+        "matchCode": "4489410",
+        "home": "Stockport County",
+        "away": "Reading",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "71.0",
+        "odds": "1.41",
+        "matchCount": "100",
+        "matchLink": "4489410",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "13/100",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 09:43",
+        "patternScore": 65.51,
+        "patternText": "363.711/555.226",
+        "patternInfo": {
+            "m": 72,
+            "s": 3,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 54
+    },
+    {
+        "date": "14.11.2026 15:00",
+        "league": "İN1",
+        "matchCode": "4489406",
+        "home": "MK Dons",
+        "away": "Burton Albion",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 1",
+        "ihtimal": "71.21",
+        "odds": "1.36",
+        "matchCount": "66",
+        "matchLink": "4489406",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "14/66",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 09:43",
+        "patternScore": 68.37,
+        "patternText": "287.798/420.920",
+        "patternInfo": {
+            "m": 56,
+            "s": 4,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 56
+    },
+    {
+        "date": "14.11.2026 15:00",
+        "league": "İN1",
+        "matchCode": "4489406",
+        "home": "MK Dons",
+        "away": "Burton Albion",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "71.21",
+        "odds": "1.35",
+        "matchCount": "66",
+        "matchLink": "4489406",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "14/66",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 09:43",
+        "patternScore": 68.64,
+        "patternText": "311.774/454.189",
+        "patternInfo": {
+            "m": 72,
+            "s": 5,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 57
+    },
+    {
+        "date": "14.11.2026 15:00",
+        "league": "İN1",
+        "matchCode": "4489406",
+        "home": "MK Dons",
+        "away": "Burton Albion",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 4.5 Goals",
+        "ihtimal": "81.82",
+        "odds": "1.06",
+        "matchCount": "66",
+        "matchLink": "4489406",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "14/66",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 09:43",
+        "patternScore": 70.36,
+        "patternText": "209.046/297.112",
+        "patternInfo": {
+            "m": 72,
+            "s": 11,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 97
+    },
+    {
+        "date": "14.11.2026 15:00",
+        "league": "İN1",
+        "matchCode": "4489406",
+        "home": "MK Dons",
+        "away": "Burton Albion",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "80.3",
+        "odds": "1.09",
+        "matchCount": "66",
+        "matchLink": "4489406",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "14/66",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 09:43",
+        "patternScore": 69.99,
+        "patternText": "227.406/324.906",
+        "patternInfo": {
+            "m": 73,
+            "s": 6,
+            "f": 0,
+            "e": 85,
+            "b": 93.33
+        },
+        "aiScore": 89
     }
 ]
