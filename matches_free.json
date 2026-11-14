@@ -147,7 +147,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 69
     },
     {
         "date": "13.11.2026 19:45",
@@ -537,7 +537,7 @@
             "e": 85,
             "b": 93.75
         },
-        "aiScore": 67
+        "aiScore": 66
     },
     {
         "date": "14.11.2026 17:00",
@@ -597,7 +597,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "14.11.2026 17:00",
@@ -1227,7 +1227,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 67
+        "aiScore": 66
     },
     {
         "date": "14.11.2026 19:45",
@@ -1347,7 +1347,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 63
+        "aiScore": 62
     },
     {
         "date": "14.11.2026 19:45",
@@ -1737,7 +1737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 51
+        "aiScore": 52
     },
     {
         "date": "14.11.2026 17:00",
@@ -1917,157 +1917,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
-    },
-    {
-        "date": "14.11.2026 05:00",
-        "league": "JAP2",
-        "matchCode": "4487674",
-        "home": "Fujieda MYFC",
-        "away": "Kofu",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "80.0",
-        "odds": "1.10",
-        "matchCount": "180",
-        "matchLink": "4487674",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "19/128",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 04:09",
-        "patternScore": 70.09,
-        "patternText": "187.336/267.297",
-        "patternInfo": {
-            "m": 65,
-            "s": 9,
-            "f": 6,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 91
-    },
-    {
-        "date": "14.11.2026 05:00",
-        "league": "JAP2",
-        "matchCode": "4487674",
-        "home": "Fujieda MYFC",
-        "away": "Kofu",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "71.11",
-        "odds": "1.13",
-        "matchCount": "180",
-        "matchLink": "4487674",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "19/128",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 04:09",
-        "patternScore": 69.4,
-        "patternText": "283.799/408.961",
-        "patternInfo": {
-            "m": 92,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 85.71
-        },
-        "aiScore": 64
-    },
-    {
-        "date": "14.11.2026 05:00",
-        "league": "JAP2",
-        "matchCode": "4487674",
-        "home": "Fujieda MYFC",
-        "away": "Kofu",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "71.11",
-        "odds": "1.13",
-        "matchCount": "180",
-        "matchLink": "4487674",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "19/128",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 04:09",
-        "patternScore": 69.05,
-        "patternText": "285.179/412.996",
-        "patternInfo": {
-            "m": 94,
-            "s": 10,
-            "f": 0,
-            "e": 85,
-            "b": 94.12
-        },
-        "aiScore": 76
-    },
-    {
-        "date": "14.11.2026 05:00",
-        "league": "JAP2",
-        "matchCode": "4487674",
-        "home": "Fujieda MYFC",
-        "away": "Kofu",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "79.44",
-        "odds": "1.06",
-        "matchCount": "180",
-        "matchLink": "4487674",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "19/128",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 04:09",
-        "patternScore": 70.08,
-        "patternText": "292.077/416.757",
-        "patternInfo": {
-            "m": 87,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 90.91
-        },
-        "aiScore": 89
-    },
-    {
-        "date": "14.11.2026 05:00",
-        "league": "JAP2",
-        "matchCode": "4487674",
-        "home": "Fujieda MYFC",
-        "away": "Kofu",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "72.22",
-        "odds": "1.21",
-        "matchCount": "180",
-        "matchLink": "4487674",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "19/128",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 04:09",
-        "patternScore": 68.19,
-        "patternText": "271.281/397.860",
-        "patternInfo": {
-            "m": 74,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 85.71
-        },
-        "aiScore": 60
+        "aiScore": 88
     },
     {
         "date": "14.11.2026 10:15",
@@ -2517,7 +2367,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 61
     },
     {
         "date": "14.11.2026 12:30",
@@ -3117,7 +2967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 61
     },
     {
         "date": "14.11.2026 13:30",
@@ -3417,7 +3267,7 @@
             "e": 85,
             "b": 85.0
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "14.11.2026 13:30",
@@ -3477,7 +3327,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "14.11.2026 13:30",
@@ -3597,7 +3447,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "14.11.2026 14:00",
@@ -4437,7 +4287,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "14.11.2026 15:00",
@@ -4647,7 +4497,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 97
     },
     {
         "date": "14.11.2026 15:00",
@@ -5997,7 +5847,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "14.11.2026 15:00",
@@ -6237,7 +6087,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "14.11.2026 15:00",
@@ -7227,7 +7077,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "14.11.2026 15:00",
@@ -7647,7 +7497,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 71
+        "aiScore": 70
     },
     {
         "date": "14.11.2026 15:00",
@@ -7707,7 +7557,7 @@
             "e": 85,
             "b": 90.48
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "14.11.2026 15:00",
@@ -8187,7 +8037,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "14.11.2026 15:30",
@@ -8517,7 +8367,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "14.11.2026 16:30",
@@ -9087,7 +8937,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 96
     },
     {
         "date": "14.11.2026 17:30",
@@ -9477,7 +9327,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "14.11.2026 17:45",
@@ -9627,7 +9477,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "14.11.2026 19:00",
@@ -9927,7 +9777,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "14.11.2026 19:00",
@@ -9987,7 +9837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 69
     },
     {
         "date": "14.11.2026 19:30",
@@ -10017,7 +9867,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "14.11.2026 19:30",
@@ -10167,7 +10017,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 60
+        "aiScore": 59
     },
     {
         "date": "14.11.2026 19:30",
@@ -10287,7 +10137,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "14.11.2026 19:30",
@@ -10557,7 +10407,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 57
+        "aiScore": 56
     },
     {
         "date": "14.11.2026 20:00",
@@ -10917,7 +10767,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 63
     },
     {
         "date": "15.11.2026 04:00",
@@ -11667,7 +11517,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "15.11.2026 12:00",
@@ -11907,7 +11757,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "15.11.2026 13:30",
@@ -12837,7 +12687,7 @@
             "e": 85,
             "b": 89.47
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "15.11.2026 16:30",
@@ -12927,7 +12777,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "15.11.2026 16:30",
@@ -13257,7 +13107,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "15.11.2026 17:30",
@@ -13527,7 +13377,7 @@
             "e": 85,
             "b": 89.47
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "15.11.2026 19:45",
@@ -14187,7 +14037,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 60
     },
     {
         "date": "16.11.2026 19:45",
@@ -14397,7 +14247,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 59
+        "aiScore": 58
     },
     {
         "date": "13.11.2026 00:00",
@@ -14757,7 +14607,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "14.11.2026 21:30",
@@ -15387,7 +15237,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 59
     },
     {
         "date": "15.11.2026 11:30",
@@ -15417,7 +15267,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "14.11.2026 11:00",
@@ -15537,7 +15387,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 70
+        "aiScore": 69
     },
     {
         "date": "14.11.2026 13:00",
@@ -16137,7 +15987,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "15.11.2026 15:00",
@@ -16887,7 +16737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 61
     },
     {
         "date": "14.11.2026 19:00",
@@ -17007,7 +16857,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "15.11.2026 15:00",
@@ -17847,7 +17697,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "14.11.2026 15:00",
@@ -18057,7 +17907,7 @@
             "e": 85,
             "b": 90.48
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "15.11.2026 16:00",
@@ -18177,7 +18027,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "15.11.2026 16:30",
@@ -18387,7 +18237,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 61
+        "aiScore": 60
     },
     {
         "date": "14.11.2026 15:00",
@@ -18597,7 +18447,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "15.11.2026 10:30",
@@ -19527,7 +19377,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "15.11.2026 16:00",
@@ -20307,7 +20157,7 @@
             "e": 85,
             "b": 86.96
         },
-        "aiScore": 63
+        "aiScore": 62
     },
     {
         "date": "12.11.2026 23:00",
@@ -20397,7 +20247,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "12.11.2026 23:00",
@@ -20487,7 +20337,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "13.11.2026 00:00",
@@ -21087,7 +20937,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "13.11.2026 19:30",
@@ -21147,7 +20997,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "14.11.2026 12:00",
@@ -21567,7 +21417,7 @@
             "e": 85,
             "b": 93.75
         },
-        "aiScore": 56
+        "aiScore": 55
     },
     {
         "date": "13.11.2026 17:00",
@@ -22467,7 +22317,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "13.11.2026 16:00",
@@ -23157,7 +23007,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "14.11.2026 13:00",
@@ -23337,7 +23187,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "13.11.2026 16:00",
@@ -23907,7 +23757,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 60
     },
     {
         "date": "13.11.2026 17:00",
@@ -23967,7 +23817,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "13.11.2026 17:00",
@@ -24357,7 +24207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "13.11.2026 18:00",
@@ -24417,7 +24267,7 @@
             "e": 85,
             "b": 80.33
         },
-        "aiScore": 58
+        "aiScore": 57
     },
     {
         "date": "13.11.2026 17:30",
@@ -24507,7 +24357,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "13.11.2026 17:30",
@@ -26217,7 +26067,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 59
+        "aiScore": 58
     },
     {
         "date": "14.11.2026 02:00",
@@ -26400,66 +26250,6 @@
         "aiScore": 98
     },
     {
-        "date": "14.11.2026 05:00",
-        "league": "JAP3",
-        "matchCode": "4488047",
-        "home": "Fukushima Unit",
-        "away": "SC Sagamihara",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance X2",
-        "ihtimal": "75.25",
-        "odds": "1.21",
-        "matchCount": "101",
-        "matchLink": "4488047",
-        "status": "Pending",
-        "predictedScore": "0-0",
-        "predictedScoreText": "14/105",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 04:09",
-        "patternScore": 65.8,
-        "patternText": "330.315/502.013",
-        "patternInfo": {
-            "m": 70,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 86.3
-        },
-        "aiScore": 59
-    },
-    {
-        "date": "14.11.2026 05:00",
-        "league": "JAP3",
-        "matchCode": "4488047",
-        "home": "Fukushima Unit",
-        "away": "SC Sagamihara",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "72.28",
-        "odds": "1.21",
-        "matchCount": "101",
-        "matchLink": "4488047",
-        "status": "Pending",
-        "predictedScore": "0-0",
-        "predictedScoreText": "14/105",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 04:09",
-        "patternScore": 66.53,
-        "patternText": "343.841/516.811",
-        "patternInfo": {
-            "m": 71,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 61
-    },
-    {
         "date": "14.11.2026 06:00",
         "league": "AVUSTW",
         "matchCode": "4551575",
@@ -26637,7 +26427,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "14.11.2026 02:00",
@@ -27117,7 +26907,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "14.11.2026 08:30",
@@ -27147,7 +26937,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "14.11.2026 08:30",
@@ -27272,62 +27062,32 @@
     {
         "date": "14.11.2026 05:00",
         "league": "JAP2",
-        "matchCode": "4487670",
-        "home": "Omiya Ardija",
-        "away": "Montedio Yamagata",
+        "matchCode": "4487671",
+        "home": "Shonan Bellmare",
+        "away": "Yokohama FC",
         "firstHalf": "-",
         "finalScore": "-",
-        "prediction": "Match Result 1",
-        "ihtimal": "75.68",
-        "odds": "1.33",
-        "matchCount": "37",
-        "matchLink": "4487670",
+        "prediction": "Double Chance 12",
+        "ihtimal": "76.19",
+        "odds": "1.09",
+        "matchCount": "63",
+        "matchLink": "4487671",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "6/49",
+        "predictedScore": "1-2",
+        "predictedScoreText": "12/63",
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 04:09",
-        "patternScore": 68.43,
-        "patternText": "259.421/379.081",
+        "tahminUpdatedAt": "14.11.2026 04:08",
+        "patternScore": 70.89,
+        "patternText": "373.438/526.753",
         "patternInfo": {
-            "m": 59,
-            "s": 2,
-            "f": 0,
+            "m": 98,
+            "s": 11,
+            "f": 4,
             "e": 85,
-            "b": 90.91
+            "b": 100.0
         },
-        "aiScore": 56
-    },
-    {
-        "date": "14.11.2026 05:00",
-        "league": "JAP2",
-        "matchCode": "4487670",
-        "home": "Omiya Ardija",
-        "away": "Montedio Yamagata",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "72.97",
-        "odds": "1.39",
-        "matchCount": "37",
-        "matchLink": "4487670",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "6/49",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 04:09",
-        "patternScore": 68.72,
-        "patternText": "280.039/407.533",
-        "patternInfo": {
-            "m": 74,
-            "s": 6,
-            "f": 0,
-            "e": 85,
-            "b": 94.12
-        },
-        "aiScore": 59
+        "aiScore": 87
     },
     {
         "date": "14.11.2026 05:00",
@@ -27338,9 +27098,9 @@
         "firstHalf": "-",
         "finalScore": "-",
         "prediction": "Under 4.5 Goals",
-        "ihtimal": "91.89",
+        "ihtimal": "79.59",
         "odds": "1.08",
-        "matchCount": "37",
+        "matchCount": "49",
         "matchLink": "4487670",
         "status": "Pending",
         "predictedScore": "1-0",
@@ -27348,106 +27108,166 @@
         "mbs": 2,
         "tahminUpdated": true,
         "tahminUpdatedAt": "14.11.2026 04:09",
-        "patternScore": 69.9,
-        "patternText": "116.698/166.947",
+        "patternScore": 69.56,
+        "patternText": "274.473/394.601",
         "patternInfo": {
-            "m": 48,
-            "s": 7,
-            "f": 2,
+            "m": 66,
+            "s": 6,
+            "f": 0,
             "e": 85,
-            "b": 100.0
+            "b": 91.67
         },
-        "aiScore": 98
+        "aiScore": 89
     },
     {
         "date": "14.11.2026 05:00",
         "league": "JAP2",
-        "matchCode": "4487670",
-        "home": "Omiya Ardija",
-        "away": "Montedio Yamagata",
+        "matchCode": "4487674",
+        "home": "Fujieda MYFC",
+        "away": "Kofu",
         "firstHalf": "-",
         "finalScore": "-",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "78.38",
-        "odds": "1.43",
-        "matchCount": "37",
-        "matchLink": "4487670",
+        "prediction": "Double Chance 12",
+        "ihtimal": "70.31",
+        "odds": "1.11",
+        "matchCount": "128",
+        "matchLink": "4487674",
         "status": "Pending",
         "predictedScore": "1-0",
-        "predictedScoreText": "6/49",
+        "predictedScoreText": "19/128",
         "mbs": 2,
         "tahminUpdated": true,
         "tahminUpdatedAt": "14.11.2026 04:09",
-        "patternScore": 68.27,
-        "patternText": "271.101/397.127",
+        "patternScore": 70.39,
+        "patternText": "346.504/492.261",
         "patternInfo": {
-            "m": 63,
-            "s": 1,
+            "m": 97,
+            "s": 6,
+            "f": 0,
+            "e": 85,
+            "b": 90.91
+        },
+        "aiScore": 70
+    },
+    {
+        "date": "14.11.2026 05:00",
+        "league": "JAP2",
+        "matchCode": "4487674",
+        "home": "Fujieda MYFC",
+        "away": "Kofu",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "75.0",
+        "odds": "1.15",
+        "matchCount": "128",
+        "matchLink": "4487674",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "19/128",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 04:09",
+        "patternScore": 69.13,
+        "patternText": "291.205/421.244",
+        "patternInfo": {
+            "m": 95,
+            "s": 12,
+            "f": 0,
+            "e": 85,
+            "b": 94.12
+        },
+        "aiScore": 81
+    },
+    {
+        "date": "14.11.2026 05:00",
+        "league": "JAP3",
+        "matchCode": "4488047",
+        "home": "Fukushima Unit",
+        "away": "SC Sagamihara",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance X2",
+        "ihtimal": "73.33",
+        "odds": "1.21",
+        "matchCount": "105",
+        "matchLink": "4488047",
+        "status": "Pending",
+        "predictedScore": "0-0",
+        "predictedScoreText": "14/105",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 04:09",
+        "patternScore": 68.59,
+        "patternText": "269.343/392.699",
+        "patternInfo": {
+            "m": 66,
+            "s": 6,
+            "f": 4,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 61
+    },
+    {
+        "date": "14.11.2026 05:00",
+        "league": "JAP3",
+        "matchCode": "4488047",
+        "home": "Fukushima Unit",
+        "away": "SC Sagamihara",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "78.1",
+        "odds": "1.13",
+        "matchCount": "105",
+        "matchLink": "4488047",
+        "status": "Pending",
+        "predictedScore": "0-0",
+        "predictedScoreText": "14/105",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 04:09",
+        "patternScore": 69.32,
+        "patternText": "280.509/404.661",
+        "patternInfo": {
+            "m": 80,
+            "s": 14,
+            "f": 4,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 82
+    },
+    {
+        "date": "14.11.2026 05:00",
+        "league": "JAP2",
+        "matchCode": "4487672",
+        "home": "Albirex Niigata",
+        "away": "Tegevajaro Miyazaki",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance X2",
+        "ihtimal": "72.26",
+        "odds": "1.14",
+        "matchCount": "155",
+        "matchLink": "4487672",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "27/155",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 04:10",
+        "patternScore": 68.72,
+        "patternText": "270.603/393.796",
+        "patternInfo": {
+            "m": 72,
+            "s": 2,
             "f": 0,
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 55
-    },
-    {
-        "date": "14.11.2026 05:00",
-        "league": "JAP2",
-        "matchCode": "4487671",
-        "home": "Shonan Bellmare",
-        "away": "Yokohama FC",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "74.29",
-        "odds": "1.10",
-        "matchCount": "70",
-        "matchLink": "4487671",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "12/63",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 04:08",
-        "patternScore": 70.4,
-        "patternText": "545.935/775.464",
-        "patternInfo": {
-            "m": 119,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 87.5
-        },
-        "aiScore": 76
-    },
-    {
-        "date": "14.11.2026 05:00",
-        "league": "JAP2",
-        "matchCode": "4487671",
-        "home": "Shonan Bellmare",
-        "away": "Yokohama FC",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "71.43",
-        "odds": "1.07",
-        "matchCount": "70",
-        "matchLink": "4487671",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "12/63",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 04:08",
-        "patternScore": 69.5,
-        "patternText": "449.016/646.109",
-        "patternInfo": {
-            "m": 105,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 73
+        "aiScore": 62
     },
     {
         "date": "14.11.2026 05:00",
@@ -27458,9 +27278,9 @@
         "firstHalf": "-",
         "finalScore": "-",
         "prediction": "Under 3.5 Goals",
-        "ihtimal": "76.43",
-        "odds": "1.08",
-        "matchCount": "140",
+        "ihtimal": "74.84",
+        "odds": "1.13",
+        "matchCount": "155",
         "matchLink": "4487672",
         "status": "Pending",
         "predictedScore": "1-1",
@@ -27468,16 +27288,16 @@
         "mbs": 2,
         "tahminUpdated": true,
         "tahminUpdatedAt": "14.11.2026 04:10",
-        "patternScore": 69.28,
-        "patternText": "288.506/416.406",
+        "patternScore": 69.06,
+        "patternText": "286.269/414.532",
         "patternInfo": {
-            "m": 86,
-            "s": 13,
-            "f": 0,
+            "m": 89,
+            "s": 10,
+            "f": 4,
             "e": 85,
-            "b": 94.12
+            "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 82
     },
     {
         "date": "14.11.2026 05:00",
@@ -27488,9 +27308,9 @@
         "firstHalf": "-",
         "finalScore": "-",
         "prediction": "1st Half Double Chance X2",
-        "ihtimal": "79.29",
-        "odds": "1.09",
-        "matchCount": "140",
+        "ihtimal": "76.77",
+        "odds": "1.08",
+        "matchCount": "155",
         "matchLink": "4487672",
         "status": "Pending",
         "predictedScore": "1-1",
@@ -27498,15 +27318,45 @@
         "mbs": 2,
         "tahminUpdated": true,
         "tahminUpdatedAt": "14.11.2026 04:10",
-        "patternScore": 69.84,
-        "patternText": "293.709/420.573",
+        "patternScore": 69.44,
+        "patternText": "278.822/401.541",
         "patternInfo": {
-            "m": 77,
-            "s": 3,
-            "f": 2,
+            "m": 84,
+            "s": 8,
+            "f": 0,
             "e": 85,
-            "b": 100.0
+            "b": 91.67
         },
-        "aiScore": 84
+        "aiScore": 83
+    },
+    {
+        "date": "14.11.2026 06:00",
+        "league": "JWEL",
+        "matchCode": "4488315",
+        "home": "Ntv Beleza Women",
+        "away": "Albirex Niigata",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 1",
+        "ihtimal": "78.05",
+        "odds": "1.27",
+        "matchCount": "41",
+        "matchLink": "4488315",
+        "status": "Pending",
+        "predictedScore": "3-1",
+        "predictedScoreText": "7/41",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 68.22,
+        "patternText": "250.612/367.340",
+        "patternInfo": {
+            "m": 49,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 86.67
+        },
+        "aiScore": 59
     }
 ]
