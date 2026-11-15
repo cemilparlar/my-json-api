@@ -447,7 +447,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "14.11.2026 20:00",
@@ -537,7 +537,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "15.11.2026 11:00",
@@ -553,11 +553,11 @@
         "matchCount": "164",
         "matchLink": "4517351",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "19/164",
+        "predictedScore": "1-1",
+        "predictedScoreText": "28/157",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:12",
         "patternScore": 70.53,
         "patternText": "178.091/252.505",
         "patternInfo": {
@@ -584,10 +584,10 @@
         "matchLink": "4493635",
         "status": "Pending",
         "predictedScore": "1-0",
-        "predictedScoreText": "18/99",
+        "predictedScoreText": "15/112",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:14",
         "patternScore": 70.18,
         "patternText": "329.818/469.966",
         "patternInfo": {
@@ -614,10 +614,10 @@
         "matchLink": "4493635",
         "status": "Pending",
         "predictedScore": "1-0",
-        "predictedScoreText": "18/99",
+        "predictedScoreText": "15/112",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:14",
         "patternScore": 68.86,
         "patternText": "268.695/390.184",
         "patternInfo": {
@@ -643,11 +643,11 @@
         "matchCount": "91",
         "matchLink": "4493632",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "2-1",
+        "predictedScoreText": "6/25",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:17",
         "patternScore": 70.68,
         "patternText": "336.611/476.276",
         "patternInfo": {
@@ -673,11 +673,11 @@
         "matchCount": "91",
         "matchLink": "4493632",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "2-1",
+        "predictedScoreText": "6/25",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:17",
         "patternScore": 70.5,
         "patternText": "181.964/258.096",
         "patternInfo": {
@@ -704,10 +704,10 @@
         "matchLink": "4493254",
         "status": "Pending",
         "predictedScore": "1-0",
-        "predictedScoreText": "25/172",
+        "predictedScoreText": "29/196",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:15",
         "patternScore": 70.1,
         "patternText": "322.963/460.735",
         "patternInfo": {
@@ -734,10 +734,10 @@
         "matchLink": "4493254",
         "status": "Pending",
         "predictedScore": "1-0",
-        "predictedScoreText": "25/172",
+        "predictedScoreText": "29/196",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:15",
         "patternScore": 69.54,
         "patternText": "168.542/242.353",
         "patternInfo": {
@@ -837,7 +837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "15.11.2026 11:30",
@@ -1767,7 +1767,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "15.11.2026 15:30",
@@ -1872,7 +1872,7 @@
         "odds": "1.10",
         "matchCount": "4",
         "matchLink": "4565380",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 3,
@@ -2097,7 +2097,7 @@
             "e": 85,
             "b": 89.47
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "15.11.2026 16:30",
@@ -2187,7 +2187,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "15.11.2026 16:30",
@@ -2397,7 +2397,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "15.11.2026 17:30",
@@ -2637,7 +2637,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "15.11.2026 18:30",
@@ -2877,7 +2877,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "15.11.2026 19:45",
@@ -4197,7 +4197,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "14.11.2026 15:00",
@@ -4467,7 +4467,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "15.11.2026 16:30",
@@ -4560,36 +4560,6 @@
         "aiScore": 62
     },
     {
-        "date": "15.11.2026 10:30",
-        "league": "İS4",
-        "matchCode": "4551939",
-        "home": "Cieza",
-        "away": "Pena Deportiva",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "83.33",
-        "odds": "1.12",
-        "matchCount": "54",
-        "matchLink": "4551939",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "17/135",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 71.01,
-        "patternText": "209.770/295.395",
-        "patternInfo": {
-            "m": 74,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 89
-    },
-    {
         "date": "15.11.2026 11:00",
         "league": "İS4",
         "matchCode": "4563515",
@@ -4603,11 +4573,11 @@
         "matchCount": "113",
         "matchLink": "4563515",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "0-1",
+        "predictedScoreText": "11/70",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:13",
         "patternScore": 70.05,
         "patternText": "323.724/462.135",
         "patternInfo": {
@@ -4633,11 +4603,11 @@
         "matchCount": "113",
         "matchLink": "4563515",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "0-1",
+        "predictedScoreText": "11/70",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:13",
         "patternScore": 69.69,
         "patternText": "265.638/381.159",
         "patternInfo": {
@@ -4663,11 +4633,11 @@
         "matchCount": "233",
         "matchLink": "4563514",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "27/233",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:14",
         "patternScore": 70.07,
         "patternText": "320.732/457.716",
         "patternInfo": {
@@ -4693,11 +4663,11 @@
         "matchCount": "233",
         "matchLink": "4563514",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "27/233",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:14",
         "patternScore": 69.57,
         "patternText": "270.352/388.616",
         "patternInfo": {
@@ -4737,7 +4707,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "15.11.2026 11:00",
@@ -4783,11 +4753,11 @@
         "matchCount": "194",
         "matchLink": "4494909",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "29/194",
+        "predictedScore": "1-0",
+        "predictedScoreText": "28/221",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:13",
         "patternScore": 69.43,
         "patternText": "276.135/397.735",
         "patternInfo": {
@@ -4813,11 +4783,11 @@
         "matchCount": "194",
         "matchLink": "4494909",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "29/194",
+        "predictedScore": "1-0",
+        "predictedScoreText": "28/221",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:13",
         "patternScore": 70.07,
         "patternText": "275.035/392.517",
         "patternInfo": {
@@ -4844,10 +4814,10 @@
         "matchLink": "4563520",
         "status": "Pending",
         "predictedScore": "1-0",
-        "predictedScoreText": "12/86",
+        "predictedScoreText": "11/65",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:16",
         "patternScore": 70.47,
         "patternText": "330.756/469.349",
         "patternInfo": {
@@ -4857,7 +4827,7 @@
             "e": 85,
             "b": 96.0
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "15.11.2026 11:00",
@@ -4933,11 +4903,11 @@
         "matchCount": "27",
         "matchLink": "4495221",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-0",
+        "predictedScoreText": "16/107",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:15",
         "patternScore": 68.23,
         "patternText": "246.005/360.571",
         "patternInfo": {
@@ -4963,11 +4933,11 @@
         "matchCount": "27",
         "matchLink": "4495221",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-0",
+        "predictedScoreText": "16/107",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:15",
         "patternScore": 71.09,
         "patternText": "230.104/323.685",
         "patternInfo": {
@@ -4993,11 +4963,11 @@
         "matchCount": "27",
         "matchLink": "4495221",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-0",
+        "predictedScoreText": "16/107",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:15",
         "patternScore": 68.99,
         "patternText": "267.513/387.773",
         "patternInfo": {
@@ -5023,11 +4993,11 @@
         "matchCount": "27",
         "matchLink": "4495221",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-0",
+        "predictedScoreText": "16/107",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:15",
         "patternScore": 68.87,
         "patternText": "261.897/380.301",
         "patternInfo": {
@@ -5367,7 +5337,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "15.11.2026 16:00",
@@ -5667,7 +5637,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "15.11.2026 15:30",
@@ -5803,8 +5773,8 @@
         "matchCount": "253",
         "matchLink": "4529495",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "30/253",
+        "predictedScore": "1-1",
+        "predictedScoreText": "31/202",
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -5834,10 +5804,10 @@
         "matchLink": "4529497",
         "status": "Pending",
         "predictedScore": "1-0",
-        "predictedScoreText": "33/253",
+        "predictedScoreText": "35/222",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:16",
         "patternScore": 70.05,
         "patternText": "322.702/460.674",
         "patternInfo": {
@@ -6164,10 +6134,10 @@
         "matchLink": "4528020",
         "status": "Pending",
         "predictedScore": "1-1",
-        "predictedScoreText": "20/153",
+        "predictedScoreText": "38/236",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:15",
         "patternScore": 70.2,
         "patternText": "323.084/460.254",
         "patternInfo": {
@@ -6194,10 +6164,10 @@
         "matchLink": "4528020",
         "status": "Pending",
         "predictedScore": "1-1",
-        "predictedScoreText": "20/153",
+        "predictedScoreText": "38/236",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:15",
         "patternScore": 69.83,
         "patternText": "271.845/389.288",
         "patternInfo": {
@@ -6223,11 +6193,11 @@
         "matchCount": "244",
         "matchLink": "4528018",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "33/244",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:12",
         "patternScore": 70.12,
         "patternText": "320.011/456.348",
         "patternInfo": {
@@ -6253,11 +6223,11 @@
         "matchCount": "244",
         "matchLink": "4528018",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "33/244",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:12",
         "patternScore": 69.78,
         "patternText": "271.574/389.159",
         "patternInfo": {
@@ -6837,7 +6807,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "14.11.2026 13:00",
@@ -7227,7 +7197,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "14.11.2026 01:30",
@@ -7677,7 +7647,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "14.11.2026 05:00",
@@ -7977,7 +7947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "14.11.2026 11:00",
@@ -8517,7 +8487,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "14.11.2026 13:30",
@@ -9417,7 +9387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "14.11.2026 15:00",
@@ -9507,7 +9477,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "14.11.2026 15:00",
@@ -10467,7 +10437,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "14.11.2026 15:00",
@@ -10647,7 +10617,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "14.11.2026 15:00",
@@ -11667,7 +11637,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "14.11.2026 15:00",
@@ -11937,7 +11907,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "14.11.2026 12:30",
@@ -12267,7 +12237,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "14.11.2026 15:00",
@@ -12507,7 +12477,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "14.11.2026 15:00",
@@ -13347,7 +13317,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "14.11.2026 13:00",
@@ -13647,7 +13617,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "14.11.2026 17:30",
@@ -13677,7 +13647,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "14.11.2026 17:30",
@@ -13797,7 +13767,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "14.11.2026 17:45",
@@ -14037,7 +14007,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 98
     },
     {
         "date": "24.11.2026 19:45",
@@ -14247,7 +14217,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "24.11.2026 19:45",
@@ -14697,7 +14667,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "14.11.2026 15:00",
@@ -14847,7 +14817,7 @@
             "e": 85,
             "b": 94.74
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "14.11.2026 14:00",
@@ -14937,7 +14907,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "14.11.2026 14:00",
@@ -16797,7 +16767,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "14.11.2026 15:15",
@@ -17847,7 +17817,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "14.11.2026 16:55",
@@ -18147,7 +18117,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "16.11.2026 13:00",
@@ -18177,7 +18147,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "15.11.2026 12:05",
@@ -19017,7 +18987,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "14.11.2026 17:30",
@@ -19707,7 +19677,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "14.11.2026 19:30",
@@ -20037,7 +20007,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "14.11.2026 19:00",
@@ -21117,7 +21087,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "15.11.2026 00:00",
@@ -21567,7 +21537,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "14.11.2026 23:30",
@@ -22137,7 +22107,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "15.11.2026 04:00",
@@ -22167,7 +22137,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "15.11.2026 04:00",
@@ -22197,7 +22167,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "15.11.2026 05:00",
@@ -22347,7 +22317,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "15.11.2026 05:00",
@@ -22377,7 +22347,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "15.11.2026 05:00",
@@ -22418,9 +22388,9 @@
         "firstHalf": "-",
         "finalScore": "-",
         "prediction": "Double Chance 12",
-        "ihtimal": "78.62",
-        "odds": "1.13",
-        "matchCount": "159",
+        "ihtimal": "72.05",
+        "odds": "1.12",
+        "matchCount": "161",
         "matchLink": "4488056",
         "status": "Pending",
         "predictedScore": "1-1",
@@ -22428,16 +22398,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "15.11.2026 05:10",
-        "patternScore": 70.2,
-        "patternText": "296.933/422.960",
+        "patternScore": 70.29,
+        "patternText": "297.441/423.158",
         "patternInfo": {
             "m": 71,
-            "s": 14,
-            "f": 6,
+            "s": 8,
+            "f": 0,
             "e": 85,
-            "b": 100.0
+            "b": 93.55
         },
-        "aiScore": 90
+        "aiScore": 77
     },
     {
         "date": "15.11.2026 07:00",
@@ -22448,9 +22418,9 @@
         "firstHalf": "-",
         "finalScore": "-",
         "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "74.84",
-        "odds": "1.15",
-        "matchCount": "159",
+        "ihtimal": "74.53",
+        "odds": "1.14",
+        "matchCount": "161",
         "matchLink": "4488056",
         "status": "Pending",
         "predictedScore": "1-1",
@@ -22458,106 +22428,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "15.11.2026 05:10",
-        "patternScore": 69.54,
-        "patternText": "250.479/360.179",
+        "patternScore": 69.42,
+        "patternText": "243.545/350.845",
         "patternInfo": {
-            "m": 65,
-            "s": 9,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 71
-    },
-    {
-        "date": "15.11.2026 10:30",
-        "league": "HK2",
-        "matchCode": "4555635",
-        "home": "Lucky Mile FC",
-        "away": "Metro Gallery",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "95.45",
-        "odds": "1.06",
-        "matchCount": "22",
-        "matchLink": "4555635",
-        "status": "Pending",
-        "predictedScore": "0-1",
-        "predictedScoreText": "5/31",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 05:11",
-        "patternScore": 71.1,
-        "patternText": "152.958/215.130",
-        "patternInfo": {
-            "m": 58,
-            "s": 1,
+            "m": 59,
+            "s": 4,
             "f": 0,
             "e": 85,
-            "b": 88.24
+            "b": 93.55
         },
-        "aiScore": 98
-    },
-    {
-        "date": "15.11.2026 10:30",
-        "league": "İS4",
-        "matchCode": "4551943",
-        "home": "Deportiva Minero",
-        "away": "SD Poblense",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "83.58",
-        "odds": "1.12",
-        "matchCount": "67",
-        "matchLink": "4551943",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "14/67",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 71.2,
-        "patternText": "208.949/293.481",
-        "patternInfo": {
-            "m": 71,
-            "s": 3,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 88
-    },
-    {
-        "date": "15.11.2026 10:30",
-        "league": "İS4",
-        "matchCode": "4551940",
-        "home": "Elche B",
-        "away": "Atletico Baleares",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "81.44",
-        "odds": "1.11",
-        "matchCount": "97",
-        "matchLink": "4551940",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "18/121",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 05:10",
-        "patternScore": 71.07,
-        "patternText": "205.804/289.576",
-        "patternInfo": {
-            "m": 78,
-            "s": 8,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 90
+        "aiScore": 67
     },
     {
         "date": "15.11.2026 10:30",
@@ -22568,9 +22448,9 @@
         "firstHalf": "-",
         "finalScore": "-",
         "prediction": "1st Half Double Chance X2",
-        "ihtimal": "70.1",
+        "ihtimal": "79.34",
         "odds": "1.08",
-        "matchCount": "97",
+        "matchCount": "121",
         "matchLink": "4551940",
         "status": "Pending",
         "predictedScore": "1-1",
@@ -22578,16 +22458,166 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "15.11.2026 05:10",
-        "patternScore": 69.4,
-        "patternText": "255.083/367.565",
+        "patternScore": 69.34,
+        "patternText": "253.065/364.945",
         "patternInfo": {
-            "m": 79,
-            "s": 6,
+            "m": 82,
+            "s": 5,
             "f": 2,
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 85
+    },
+    {
+        "date": "15.11.2026 10:30",
+        "league": "HK2",
+        "matchCode": "4555635",
+        "home": "Lucky Mile FC",
+        "away": "Metro Gallery",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "87.1",
+        "odds": "1.06",
+        "matchCount": "31",
+        "matchLink": "4555635",
+        "status": "Pending",
+        "predictedScore": "0-1",
+        "predictedScoreText": "5/31",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:11",
+        "patternScore": 71.66,
+        "patternText": "219.498/306.314",
+        "patternInfo": {
+            "m": 63,
+            "s": 4,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 97
+    },
+    {
+        "date": "15.11.2026 10:30",
+        "league": "İS4",
+        "matchCode": "4551943",
+        "home": "Deportiva Minero",
+        "away": "SD Poblense",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "77.65",
+        "odds": "1.12",
+        "matchCount": "85",
+        "matchLink": "4551943",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "19/85",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:11",
+        "patternScore": 70.28,
+        "patternText": "319.908/455.164",
+        "patternInfo": {
+            "m": 93,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 90.91
+        },
+        "aiScore": 79
+    },
+    {
+        "date": "15.11.2026 10:30",
+        "league": "İS4",
+        "matchCode": "4551943",
+        "home": "Deportiva Minero",
+        "away": "SD Poblense",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "70.59",
+        "odds": "1.29",
+        "matchCount": "85",
+        "matchLink": "4551943",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "19/85",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:11",
+        "patternScore": 68.48,
+        "patternText": "240.340/350.940",
+        "patternInfo": {
+            "m": 67,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        },
+        "aiScore": 55
+    },
+    {
+        "date": "15.11.2026 10:30",
+        "league": "İS4",
+        "matchCode": "4551939",
+        "home": "Cieza",
+        "away": "Pena Deportiva",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "80.65",
+        "odds": "1.08",
+        "matchCount": "62",
+        "matchLink": "4551939",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "14/62",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:11",
+        "patternScore": 71.39,
+        "patternText": "212.858/298.161",
+        "patternInfo": {
+            "m": 76,
+            "s": 7,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 92
+    },
+    {
+        "date": "15.11.2026 10:30",
+        "league": "İS4",
+        "matchCode": "4551939",
+        "home": "Cieza",
+        "away": "Pena Deportiva",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "77.42",
+        "odds": "1.23",
+        "matchCount": "62",
+        "matchLink": "4551939",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "14/62",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:11",
+        "patternScore": 68.16,
+        "patternText": "247.910/363.721",
+        "patternInfo": {
+            "m": 76,
+            "s": 12,
+            "f": 6,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 76
     },
     {
         "date": "15.11.2026 10:30",
@@ -22598,26 +22628,26 @@
         "firstHalf": "-",
         "finalScore": "-",
         "prediction": "Double Chance 12",
-        "ihtimal": "73.12",
+        "ihtimal": "82.93",
         "odds": "1.10",
-        "matchCount": "93",
+        "matchCount": "82",
         "matchLink": "4551942",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "14/93",
+        "predictedScore": "0-1",
+        "predictedScoreText": "14/82",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 70.51,
-        "patternText": "325.592/461.784",
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:12",
+        "patternScore": 71.53,
+        "patternText": "281.579/393.627",
         "patternInfo": {
-            "m": 88,
-            "s": 5,
-            "f": 2,
+            "m": 78,
+            "s": 8,
+            "f": 4,
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 93
     },
     {
         "date": "15.11.2026 10:30",
@@ -22628,25 +22658,25 @@
         "firstHalf": "-",
         "finalScore": "-",
         "prediction": "1st Half Under 1.5",
-        "ihtimal": "76.34",
-        "odds": "1.24",
-        "matchCount": "93",
+        "ihtimal": "71.95",
+        "odds": "1.23",
+        "matchCount": "82",
         "matchLink": "4551942",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "14/93",
+        "predictedScore": "0-1",
+        "predictedScoreText": "14/82",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 68.21,
-        "patternText": "248.998/365.058",
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:12",
+        "patternScore": 68.63,
+        "patternText": "306.538/446.646",
         "patternInfo": {
-            "m": 71,
-            "s": 7,
-            "f": 5,
+            "m": 82,
+            "s": 12,
+            "f": 7,
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 60
     }
 ]
