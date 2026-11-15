@@ -327,7 +327,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "14.11.2026 15:00",
@@ -2820,186 +2820,6 @@
         "aiScore": 68
     },
     {
-        "date": "14.11.2026 11:00",
-        "league": "İSKPR",
-        "matchCode": "4528017",
-        "home": "Espanyol Women",
-        "away": "CD Tenerife Women",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 3",
-        "prediction": "Double Chance 12",
-        "ihtimal": "71.6",
-        "odds": "1.15",
-        "matchCount": "169",
-        "matchLink": "4528017",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "30/169",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 05:07",
-        "patternScore": 70.03,
-        "patternText": "363.288/518.779",
-        "patternInfo": {
-            "m": 66,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 90.0
-        },
-        "aiScore": 63
-    },
-    {
-        "date": "14.11.2026 11:00",
-        "league": "İSKPR",
-        "matchCode": "4528017",
-        "home": "Espanyol Women",
-        "away": "CD Tenerife Women",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 3",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "73.37",
-        "odds": "1.12",
-        "matchCount": "169",
-        "matchLink": "4528017",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "30/169",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 05:07",
-        "patternScore": 69.49,
-        "patternText": "306.816/441.525",
-        "patternInfo": {
-            "m": 62,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 91.67
-        },
-        "aiScore": 69
-    },
-    {
-        "date": "14.11.2026 11:00",
-        "league": "POL2",
-        "matchCode": "4486566",
-        "home": "Gornik Leczna",
-        "away": "Hutnik Krakow",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "80.14",
-        "odds": "1.10",
-        "matchCount": "141",
-        "matchLink": "4486566",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "16/141",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 05:08",
-        "patternScore": 70.89,
-        "patternText": "242.181/341.622",
-        "patternInfo": {
-            "m": 56,
-            "s": 4,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 85
-    },
-    {
-        "date": "14.11.2026 11:00",
-        "league": "POL2",
-        "matchCode": "4486566",
-        "home": "Gornik Leczna",
-        "away": "Hutnik Krakow",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "72.34",
-        "odds": "1.28",
-        "matchCount": "141",
-        "matchLink": "4486566",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "16/141",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 05:08",
-        "patternScore": 68.44,
-        "patternText": "285.572/417.245",
-        "patternInfo": {
-            "m": 53,
-            "s": 4,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 57
-    },
-    {
-        "date": "14.11.2026 11:00",
-        "league": "POL2",
-        "matchCode": "4486566",
-        "home": "Gornik Leczna",
-        "away": "Hutnik Krakow",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "78.01",
-        "odds": "1.06",
-        "matchCount": "141",
-        "matchLink": "4486566",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "16/141",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 05:08",
-        "patternScore": 69.95,
-        "patternText": "311.944/445.925",
-        "patternInfo": {
-            "m": 66,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 88
-    },
-    {
-        "date": "14.11.2026 11:00",
-        "league": "POL2",
-        "matchCode": "4486566",
-        "home": "Gornik Leczna",
-        "away": "Hutnik Krakow",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "71.63",
-        "odds": "1.34",
-        "matchCount": "141",
-        "matchLink": "4486566",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "16/141",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 05:08",
-        "patternScore": 67.94,
-        "patternText": "276.782/407.378",
-        "patternInfo": {
-            "m": 51,
-            "s": 4,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 55
-    },
-    {
         "date": "14.11.2026 12:00",
         "league": "İS3",
         "matchCode": "4493251",
@@ -3778,66 +3598,6 @@
             "b": 100.0
         },
         "aiScore": 71
-    },
-    {
-        "date": "14.11.2026 11:00",
-        "league": "ALKB",
-        "matchCode": "4523505",
-        "home": "TSG Hoffenheim Women",
-        "away": "SC Freiburg Women",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "80.0",
-        "odds": "1.07",
-        "matchCount": "45",
-        "matchLink": "4523505",
-        "status": "Won",
-        "predictedScore": "2-1",
-        "predictedScoreText": "6/45",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 09:13",
-        "patternScore": 71.17,
-        "patternText": "252.369/354.603",
-        "patternInfo": {
-            "m": 67,
-            "s": 8,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 96
-    },
-    {
-        "date": "14.11.2026 11:00",
-        "league": "ALKB",
-        "matchCode": "4523505",
-        "home": "TSG Hoffenheim Women",
-        "away": "SC Freiburg Women",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "77.78",
-        "odds": "1.06",
-        "matchCount": "45",
-        "matchLink": "4523505",
-        "status": "Won",
-        "predictedScore": "2-1",
-        "predictedScoreText": "6/45",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 09:13",
-        "patternScore": 70.05,
-        "patternText": "321.502/458.935",
-        "patternInfo": {
-            "m": 62,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 90.0
-        },
-        "aiScore": 86
     },
     {
         "date": "14.11.2026 11:30",
@@ -4917,7 +4677,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 57
     },
     {
         "date": "14.11.2026 15:00",
@@ -5997,7 +5757,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "14.11.2026 15:00",
@@ -6957,7 +6717,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "14.11.2026 15:00",
@@ -7017,7 +6777,7 @@
             "e": 85,
             "b": 93.75
         },
-        "aiScore": 70
+        "aiScore": 69
     },
     {
         "date": "14.11.2026 15:00",
@@ -8277,7 +8037,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 64
+        "aiScore": 63
     },
     {
         "date": "14.11.2026 17:30",
@@ -8397,7 +8157,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 59
     },
     {
         "date": "14.11.2026 17:45",
@@ -10707,7 +10467,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "14.11.2026 15:00",
@@ -11787,7 +11547,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 53
+        "aiScore": 54
     },
     {
         "date": "14.11.2026 15:30",
@@ -11937,7 +11697,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 66
     },
     {
         "date": "14.11.2026 15:30",
@@ -12567,7 +12327,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "14.11.2026 17:00",
@@ -13647,7 +13407,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "14.11.2026 17:30",
@@ -14517,7 +14277,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "14.11.2026 19:00",
@@ -14907,7 +14667,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "14.11.2026 19:30",
@@ -15747,7 +15507,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "14.11.2026 20:30",
@@ -16257,7 +16017,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "15.11.2026 05:00",
@@ -17697,7 +17457,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "15.11.2026 07:00",
@@ -17727,7 +17487,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "15.11.2026 11:00",
@@ -19197,7 +18957,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "15.11.2026 16:30",
@@ -19797,7 +19557,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "15.11.2026 13:30",
@@ -20157,7 +19917,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "15.11.2026 13:00",
@@ -20877,7 +20637,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "15.11.2026 14:00",
@@ -21117,7 +20877,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "15.11.2026 15:00",
@@ -21287,7 +21047,7 @@
         "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 14:07",
+        "tahminUpdatedAt": "15.11.2026 16:59",
         "patternScore": 61.65,
         "patternText": "184.908/299.933",
         "patternInfo": {
@@ -21317,7 +21077,7 @@
         "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 14:07",
+        "tahminUpdatedAt": "15.11.2026 16:59",
         "patternScore": 65.28,
         "patternText": "247.225/378.715",
         "patternInfo": {
@@ -21347,7 +21107,7 @@
         "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 14:07",
+        "tahminUpdatedAt": "15.11.2026 16:59",
         "patternScore": 61.1,
         "patternText": "170.910/279.737",
         "patternInfo": {
@@ -21377,7 +21137,7 @@
         "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 14:07",
+        "tahminUpdatedAt": "15.11.2026 16:59",
         "patternScore": 61.13,
         "patternText": "170.300/278.583",
         "patternInfo": {
@@ -21407,7 +21167,7 @@
         "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 14:07",
+        "tahminUpdatedAt": "15.11.2026 16:59",
         "patternScore": 63.73,
         "patternText": "212.166/332.935",
         "patternInfo": {
@@ -21437,7 +21197,7 @@
         "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 14:07",
+        "tahminUpdatedAt": "15.11.2026 16:59",
         "patternScore": 61.23,
         "patternText": "180.026/294.029",
         "patternInfo": {
@@ -21467,7 +21227,7 @@
         "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 14:07",
+        "tahminUpdatedAt": "15.11.2026 16:59",
         "patternScore": 66.67,
         "patternText": "182.143/273.206",
         "patternInfo": {
@@ -21497,7 +21257,7 @@
         "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 14:07",
+        "tahminUpdatedAt": "15.11.2026 16:59",
         "patternScore": 66.87,
         "patternText": "180.311/269.646",
         "patternInfo": {
@@ -21527,7 +21287,7 @@
         "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 14:07",
+        "tahminUpdatedAt": "15.11.2026 16:59",
         "patternScore": 60.95,
         "patternText": "173.096/283.987",
         "patternInfo": {
@@ -21557,7 +21317,7 @@
         "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 14:07",
+        "tahminUpdatedAt": "15.11.2026 16:59",
         "patternScore": 61.41,
         "patternText": "177.946/289.751",
         "patternInfo": {
@@ -21587,7 +21347,7 @@
         "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 14:07",
+        "tahminUpdatedAt": "15.11.2026 16:59",
         "patternScore": 62.8,
         "patternText": "203.574/324.137",
         "patternInfo": {
@@ -22787,7 +22547,7 @@
         "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 16:37",
+        "tahminUpdatedAt": "15.11.2026 16:59",
         "patternScore": 69.03,
         "patternText": "253.271/366.898",
         "patternInfo": {
@@ -22817,7 +22577,7 @@
         "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 16:37",
+        "tahminUpdatedAt": "15.11.2026 16:59",
         "patternScore": 66.97,
         "patternText": "272.905/407.532",
         "patternInfo": {
@@ -22847,7 +22607,7 @@
         "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 16:37",
+        "tahminUpdatedAt": "15.11.2026 16:59",
         "patternScore": 67.71,
         "patternText": "295.064/435.766",
         "patternInfo": {
@@ -22877,7 +22637,7 @@
         "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 16:37",
+        "tahminUpdatedAt": "15.11.2026 16:59",
         "patternScore": 67.74,
         "patternText": "294.833/435.244",
         "patternInfo": {
@@ -22907,7 +22667,7 @@
         "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 16:37",
+        "tahminUpdatedAt": "15.11.2026 16:59",
         "patternScore": 67.37,
         "patternText": "217.688/323.106",
         "patternInfo": {
