@@ -327,7 +327,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "14.11.2026 15:00",
@@ -837,7 +837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 92
     },
     {
         "date": "16.11.2026 19:45",
@@ -2817,7 +2817,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "14.11.2026 13:00",
@@ -2997,7 +2997,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "14.11.2026 13:30",
@@ -3087,7 +3087,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "14.11.2026 13:30",
@@ -3237,7 +3237,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "14.11.2026 13:30",
@@ -3897,7 +3897,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "14.11.2026 15:00",
@@ -6090,96 +6090,6 @@
         "aiScore": 88
     },
     {
-        "date": "14.11.2026 12:30",
-        "league": "İN2",
-        "matchCode": "4489956",
-        "home": "Exeter City",
-        "away": "Cheltenham Town",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "76.55",
-        "odds": "1.12",
-        "matchCount": "145",
-        "matchLink": "4489956",
-        "status": "Won",
-        "predictedScore": "2-0",
-        "predictedScoreText": "19/145",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 09:58",
-        "patternScore": 70.23,
-        "patternText": "373.063/531.200",
-        "patternInfo": {
-            "m": 81,
-            "s": 9,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 80
-    },
-    {
-        "date": "14.11.2026 12:30",
-        "league": "İN2",
-        "matchCode": "4489956",
-        "home": "Exeter City",
-        "away": "Cheltenham Town",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "80.6896551724138",
-        "odds": "1.06",
-        "matchCount": "145",
-        "matchLink": "4489956",
-        "status": "Won",
-        "predictedScore": "2-0",
-        "predictedScoreText": "19/145",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 09:58",
-        "patternScore": 69.66,
-        "patternText": "191.190/274.458",
-        "patternInfo": {
-            "m": 59,
-            "s": 8,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 92
-    },
-    {
-        "date": "14.11.2026 12:30",
-        "league": "İN2",
-        "matchCode": "4489956",
-        "home": "Exeter City",
-        "away": "Cheltenham Town",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "77.93",
-        "odds": "1.15",
-        "matchCount": "145",
-        "matchLink": "4489956",
-        "status": "Won",
-        "predictedScore": "2-0",
-        "predictedScoreText": "19/145",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 09:58",
-        "patternScore": 68.94,
-        "patternText": "313.354/454.527",
-        "patternInfo": {
-            "m": 76,
-            "s": 9,
-            "f": 0,
-            "e": 85,
-            "b": 94.44
-        },
-        "aiScore": 75
-    },
-    {
         "date": "14.11.2026 14:00",
         "league": "DAN2",
         "matchCode": "4510866",
@@ -7050,36 +6960,6 @@
         "aiScore": 53
     },
     {
-        "date": "14.11.2026 12:30",
-        "league": "BULB",
-        "matchCode": "4505906",
-        "home": "Marek Dupnitza",
-        "away": "Chernomorets 19",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "71.78",
-        "odds": "1.17",
-        "matchCount": "163",
-        "matchLink": "4505906",
-        "status": "HATA",
-        "predictedScore": "1-1",
-        "predictedScoreText": "26/163",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 10:20",
-        "patternScore": 69.9,
-        "patternText": "353.472/505.670",
-        "patternInfo": {
-            "m": 57,
-            "s": 6,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 66
-    },
-    {
         "date": "14.11.2026 15:00",
         "league": "AVŞU19",
         "matchCode": "4579237",
@@ -7228,36 +7108,6 @@
             "b": 80.0
         },
         "aiScore": 53
-    },
-    {
-        "date": "14.11.2026 12:30",
-        "league": "DAN2",
-        "matchCode": "4510865",
-        "home": "VSK Arhus",
-        "away": "Middelfart",
-        "firstHalf": "2 - 0",
-        "finalScore": "2 - 2",
-        "prediction": "Double Chance 12",
-        "ihtimal": "78.12",
-        "odds": "1.13",
-        "matchCount": "192",
-        "matchLink": "4510865",
-        "status": "Lost",
-        "predictedScore": "1-1",
-        "predictedScoreText": "23/192",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 11:15",
-        "patternScore": 70.16,
-        "patternText": "368.131/524.668",
-        "patternInfo": {
-            "m": 73,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 92.86
-        },
-        "aiScore": 77
     },
     {
         "date": "14.11.2026 13:00",
@@ -8577,7 +8427,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "14.11.2026 13:30",
@@ -9057,7 +8907,7 @@
             "e": 85,
             "b": 80.85
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "14.11.2026 15:00",
@@ -10797,7 +10647,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "14.11.2026 15:00",
@@ -10977,7 +10827,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "14.11.2026 15:15",
@@ -12117,7 +11967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "14.11.2026 19:30",
@@ -12267,7 +12117,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "14.11.2026 17:00",
@@ -13137,7 +12987,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "14.11.2026 19:00",
@@ -13827,7 +13677,7 @@
             "e": 85,
             "b": 84.62
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "14.11.2026 19:00",
@@ -15687,7 +15537,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "15.11.2026 05:00",
@@ -17397,7 +17247,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "15.11.2026 13:15",
@@ -18747,7 +18597,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "15.11.2026 16:30",
@@ -19047,7 +18897,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "15.11.2026 12:30",
@@ -20097,7 +19947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "15.11.2026 15:15",
