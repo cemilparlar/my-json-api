@@ -2607,7 +2607,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "15.11.2026 16:30",
@@ -24271,36 +24271,6 @@
     },
     {
         "date": "15.11.2026 04:00",
-        "league": "AVUSTW",
-        "matchCode": "4551577",
-        "home": "Canberra United",
-        "away": "Brisbane Roar Women",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "78.67",
-        "odds": "1.08",
-        "matchCount": "75",
-        "matchLink": "4551577",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "9/53",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 00:09",
-        "patternScore": 70.51,
-        "patternText": "297.918/422.493",
-        "patternInfo": {
-            "m": 54,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 85.29
-        },
-        "aiScore": 86
-    },
-    {
-        "date": "15.11.2026 04:00",
         "league": "AVC",
         "matchCode": "4573645",
         "home": "Broadmeadow Ma",
@@ -24928,5 +24898,35 @@
             "b": 100.0
         },
         "aiScore": 97
+    },
+    {
+        "date": "15.11.2026 04:00",
+        "league": "AVUSTW",
+        "matchCode": "4551577",
+        "home": "Canberra United",
+        "away": "Brisbane Roar Women",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "73.58",
+        "odds": "1.07",
+        "matchCount": "53",
+        "matchLink": "4551577",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "9/53",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 00:09",
+        "patternScore": 70.37,
+        "patternText": "295.830/420.411",
+        "patternInfo": {
+            "m": 52,
+            "s": 6,
+            "f": 0,
+            "e": 85,
+            "b": 87.5
+        },
+        "aiScore": 87
     }
 ]
