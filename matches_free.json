@@ -327,7 +327,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "14.11.2026 15:00",
@@ -553,8 +553,8 @@
         "matchCount": "53",
         "matchLink": "4535572",
         "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "8/53",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -583,11 +583,11 @@
         "matchCount": "158",
         "matchLink": "4535951",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "23/158",
+        "predictedScore": "1-0",
+        "predictedScoreText": "31/197",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 07:44",
         "patternScore": 69.94,
         "patternText": "334.266/477.959",
         "patternInfo": {
@@ -597,7 +597,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "15.11.2026 13:30",
@@ -613,11 +613,11 @@
         "matchCount": "158",
         "matchLink": "4535951",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "23/158",
+        "predictedScore": "1-0",
+        "predictedScoreText": "31/197",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 07:44",
         "patternScore": 69.03,
         "patternText": "278.729/403.757",
         "patternInfo": {
@@ -627,7 +627,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "15.11.2026 13:30",
@@ -643,11 +643,11 @@
         "matchCount": "158",
         "matchLink": "4535951",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "23/158",
+        "predictedScore": "1-0",
+        "predictedScoreText": "31/197",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 07:44",
         "patternScore": 68.85,
         "patternText": "277.779/403.461",
         "patternInfo": {
@@ -673,11 +673,11 @@
         "matchCount": "158",
         "matchLink": "4535951",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "23/158",
+        "predictedScore": "1-0",
+        "predictedScoreText": "31/197",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 07:44",
         "patternScore": 69.83,
         "patternText": "285.302/408.571",
         "patternInfo": {
@@ -703,11 +703,11 @@
         "matchCount": "158",
         "matchLink": "4535951",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "23/158",
+        "predictedScore": "1-0",
+        "predictedScoreText": "31/197",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 07:44",
         "patternScore": 67.78,
         "patternText": "257.188/379.427",
         "patternInfo": {
@@ -853,11 +853,11 @@
         "matchCount": "134",
         "matchLink": "4535955",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "16/134",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 07:43",
         "patternScore": 69.85,
         "patternText": "332.269/475.675",
         "patternInfo": {
@@ -883,11 +883,11 @@
         "matchCount": "134",
         "matchLink": "4535955",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "16/134",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 07:43",
         "patternScore": 69.03,
         "patternText": "271.688/393.556",
         "patternInfo": {
@@ -1017,7 +1017,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "15.11.2026 15:15",
@@ -1167,7 +1167,7 @@
             "e": 85,
             "b": 94.44
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "15.11.2026 15:30",
@@ -1617,7 +1617,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "15.11.2026 16:30",
@@ -1647,7 +1647,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "15.11.2026 16:30",
@@ -2127,7 +2127,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "15.11.2026 18:30",
@@ -2924,10 +2924,10 @@
         "matchLink": "4505909",
         "status": "Pending",
         "predictedScore": "1-1",
-        "predictedScoreText": "25/185",
+        "predictedScoreText": "20/139",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 07:42",
         "patternScore": 70.04,
         "patternText": "330.350/471.688",
         "patternInfo": {
@@ -2954,10 +2954,10 @@
         "matchLink": "4505909",
         "status": "Pending",
         "predictedScore": "1-1",
-        "predictedScoreText": "25/185",
+        "predictedScoreText": "20/139",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 07:42",
         "patternScore": 69.13,
         "patternText": "265.814/384.496",
         "patternInfo": {
@@ -3597,7 +3597,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "15.11.2026 16:30",
@@ -3957,7 +3957,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "15.11.2026 16:00",
@@ -4107,7 +4107,7 @@
             "e": 85,
             "b": 86.67
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "15.11.2026 16:00",
@@ -5997,7 +5997,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "14.11.2026 05:00",
@@ -6147,7 +6147,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "14.11.2026 06:00",
@@ -6237,7 +6237,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "14.11.2026 11:00",
@@ -7017,7 +7017,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "14.11.2026 13:30",
@@ -7257,7 +7257,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 98
     },
     {
         "date": "14.11.2026 13:30",
@@ -7317,7 +7317,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "14.11.2026 10:15",
@@ -7557,7 +7557,7 @@
             "e": 85,
             "b": 93.75
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "14.11.2026 15:00",
@@ -7617,7 +7617,7 @@
             "e": 85,
             "b": 85.19
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "14.11.2026 15:00",
@@ -7707,7 +7707,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "14.11.2026 15:00",
@@ -7827,7 +7827,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "14.11.2026 15:00",
@@ -8337,7 +8337,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "14.11.2026 15:00",
@@ -8397,7 +8397,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "14.11.2026 15:00",
@@ -8937,7 +8937,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "14.11.2026 15:00",
@@ -9267,7 +9267,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 52
+        "aiScore": 51
     },
     {
         "date": "14.11.2026 15:00",
@@ -10137,7 +10137,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "14.11.2026 12:00",
@@ -10617,7 +10617,7 @@
             "e": 85,
             "b": 93.75
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "14.11.2026 15:00",
@@ -11787,7 +11787,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "14.11.2026 17:30",
@@ -11967,7 +11967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "14.11.2026 17:30",
@@ -12507,7 +12507,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "24.11.2026 19:45",
@@ -12687,7 +12687,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "14.11.2026 13:00",
@@ -12777,7 +12777,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "14.11.2026 13:30",
@@ -12837,7 +12837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "14.11.2026 13:30",
@@ -13317,7 +13317,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "14.11.2026 15:00",
@@ -13437,7 +13437,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "14.11.2026 20:00",
@@ -13527,7 +13527,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "14.11.2026 15:00",
@@ -13767,7 +13767,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "14.11.2026 15:00",
@@ -14397,7 +14397,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "14.11.2026 15:00",
@@ -14457,7 +14457,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "14.11.2026 15:00",
@@ -14487,7 +14487,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "14.11.2026 15:00",
@@ -15087,7 +15087,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "14.11.2026 15:15",
@@ -15117,7 +15117,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "14.11.2026 15:15",
@@ -15327,7 +15327,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "14.11.2026 15:30",
@@ -15627,7 +15627,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "14.11.2026 16:30",
@@ -17787,7 +17787,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "14.11.2026 23:00",
@@ -18267,7 +18267,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "14.11.2026 19:00",
@@ -18717,7 +18717,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "14.11.2026 19:30",
@@ -19467,7 +19467,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "15.11.2026 01:00",
@@ -19497,7 +19497,7 @@
             "e": 85,
             "b": 88.57
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "15.11.2026 01:00",
@@ -20427,7 +20427,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "15.11.2026 05:00",
@@ -20607,7 +20607,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "15.11.2026 10:30",
@@ -20757,7 +20757,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "15.11.2026 11:00",
@@ -21417,7 +21417,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "15.11.2026 11:30",
@@ -22107,7 +22107,7 @@
             "e": 85,
             "b": 88.24
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "15.11.2026 12:30",
@@ -22260,126 +22260,6 @@
         "aiScore": 94
     },
     {
-        "date": "15.11.2026 13:00",
-        "league": "İS2",
-        "matchCode": "4492831",
-        "home": "CD Tenerife",
-        "away": "AD Ceuta",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "81.82",
-        "odds": "1.15",
-        "matchCount": "11",
-        "matchLink": "4492831",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 07:04",
-        "patternScore": 70.26,
-        "patternText": "252.638/359.554",
-        "patternInfo": {
-            "m": 93,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 84
-    },
-    {
-        "date": "15.11.2026 13:00",
-        "league": "İS2",
-        "matchCode": "4492831",
-        "home": "CD Tenerife",
-        "away": "AD Ceuta",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (0:2) 2",
-        "ihtimal": "90.9090909090909",
-        "odds": "1.17",
-        "matchCount": "11",
-        "matchLink": "4492831",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 07:04",
-        "patternScore": 67.45,
-        "patternText": "118.268/175.352",
-        "patternInfo": {
-            "m": 67,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 85.71
-        },
-        "aiScore": 72
-    },
-    {
-        "date": "15.11.2026 13:00",
-        "league": "İS2",
-        "matchCode": "4492831",
-        "home": "CD Tenerife",
-        "away": "AD Ceuta",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "81.82",
-        "odds": "1.16",
-        "matchCount": "11",
-        "matchLink": "4492831",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 07:04",
-        "patternScore": 68.54,
-        "patternText": "200.058/291.894",
-        "patternInfo": {
-            "m": 83,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 70
-    },
-    {
-        "date": "15.11.2026 13:00",
-        "league": "İS2",
-        "matchCode": "4492831",
-        "home": "CD Tenerife",
-        "away": "AD Ceuta",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "72.73",
-        "odds": "1.39",
-        "matchCount": "11",
-        "matchLink": "4492831",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 07:04",
-        "patternScore": 68.11,
-        "patternText": "280.289/411.523",
-        "patternInfo": {
-            "m": 70,
-            "s": 3,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 55
-    },
-    {
         "date": "15.11.2026 11:00",
         "league": "İSKPR",
         "matchCode": "4528018",
@@ -22528,5 +22408,185 @@
             "b": 100.0
         },
         "aiScore": 90
+    },
+    {
+        "date": "15.11.2026 13:00",
+        "league": "İS2",
+        "matchCode": "4492831",
+        "home": "CD Tenerife",
+        "away": "AD Ceuta",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "80.0",
+        "odds": "1.15",
+        "matchCount": "15",
+        "matchLink": "4492831",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 07:42",
+        "patternScore": 70.6,
+        "patternText": "248.172/351.494",
+        "patternInfo": {
+            "m": 86,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 93.75
+        },
+        "aiScore": 79
+    },
+    {
+        "date": "15.11.2026 13:00",
+        "league": "İS2",
+        "matchCode": "4492831",
+        "home": "CD Tenerife",
+        "away": "AD Ceuta",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "73.33333333333333",
+        "odds": "1.17",
+        "matchCount": "15",
+        "matchLink": "4492831",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 07:42",
+        "patternScore": 68.27,
+        "patternText": "265.059/388.255",
+        "patternInfo": {
+            "m": 68,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 85.71
+        },
+        "aiScore": 61
+    },
+    {
+        "date": "15.11.2026 13:00",
+        "league": "İS2",
+        "matchCode": "4492831",
+        "home": "CD Tenerife",
+        "away": "AD Ceuta",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "73.33",
+        "odds": "1.15",
+        "matchCount": "15",
+        "matchLink": "4492831",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 07:42",
+        "patternScore": 68.96,
+        "patternText": "303.384/439.951",
+        "patternInfo": {
+            "m": 84,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        },
+        "aiScore": 64
+    },
+    {
+        "date": "15.11.2026 13:00",
+        "league": "İS2",
+        "matchCode": "4492831",
+        "home": "CD Tenerife",
+        "away": "AD Ceuta",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 12",
+        "ihtimal": "80.0",
+        "odds": "1.44",
+        "matchCount": "15",
+        "matchLink": "4492831",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 07:42",
+        "patternScore": 68.28,
+        "patternText": "165.936/243.012",
+        "patternInfo": {
+            "m": 61,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 93.75
+        },
+        "aiScore": 54
+    },
+    {
+        "date": "15.11.2026 13:00",
+        "league": "İS2",
+        "matchCode": "4492831",
+        "home": "CD Tenerife",
+        "away": "AD Ceuta",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "86.67",
+        "odds": "1.24",
+        "matchCount": "15",
+        "matchLink": "4492831",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 07:42",
+        "patternScore": 68.83,
+        "patternText": "186.122/270.410",
+        "patternInfo": {
+            "m": 75,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 93.75
+        },
+        "aiScore": 63
+    },
+    {
+        "date": "15.11.2026 13:00",
+        "league": "İS2",
+        "matchCode": "4492831",
+        "home": "CD Tenerife",
+        "away": "AD Ceuta",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "80.0",
+        "odds": "1.26",
+        "matchCount": "15",
+        "matchLink": "4492831",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 07:42",
+        "patternScore": 68.09,
+        "patternText": "182.596/268.154",
+        "patternInfo": {
+            "m": 74,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 93.75
+        },
+        "aiScore": 57
     }
 ]
