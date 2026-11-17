@@ -387,7 +387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "24.11.2026 19:45",
@@ -477,7 +477,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 96
     },
     {
         "date": "17.11.2026 13:00",
@@ -2637,7 +2637,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "19.11.2026 20:00",
@@ -3177,7 +3177,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 85
+        "aiScore": 84
     },
     {
         "date": "19.11.2026 00:30",
@@ -3447,7 +3447,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "19.11.2026 00:30",
@@ -4167,7 +4167,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 59
+        "aiScore": 58
     },
     {
         "date": "17.11.2026 16:00",
@@ -4737,7 +4737,7 @@
             "e": 85,
             "b": 89.13
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "17.11.2026 12:30",
@@ -4768,36 +4768,6 @@
             "b": 100.0
         },
         "aiScore": 87
-    },
-    {
-        "date": "17.11.2026 10:00",
-        "league": "AVŞU19",
-        "matchCode": "4579268",
-        "home": "Slovakia U19",
-        "away": "Estonia (U19)",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "73.81",
-        "odds": "1.09",
-        "matchCount": "126",
-        "matchLink": "4579268",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "24/177",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 71.1,
-        "patternText": "259.900/365.546",
-        "patternInfo": {
-            "m": 52,
-            "s": 5,
-            "f": 0,
-            "e": 85,
-            "b": 92.31
-        },
-        "aiScore": 83
     },
     {
         "date": "17.11.2026 12:00",
@@ -4857,7 +4827,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 97
     },
     {
         "date": "25.11.2026 19:00",
@@ -4887,7 +4857,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "16.11.2026 16:00",
@@ -5427,7 +5397,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 95
     },
     {
         "date": "16.11.2026 19:30",
@@ -5547,7 +5517,7 @@
             "e": 85,
             "b": 81.86
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "16.11.2026 15:00",
@@ -6057,7 +6027,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 92
     },
     {
         "date": "16.11.2026 17:00",
@@ -6207,7 +6177,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 94
+        "aiScore": 93
     },
     {
         "date": "17.11.2026 12:00",
@@ -6327,7 +6297,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "17.11.2026 14:00",
@@ -6417,7 +6387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "17.11.2026 15:00",
@@ -6687,7 +6657,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 94
     },
     {
         "date": "16.11.2026 18:00",
@@ -7047,7 +7017,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "17.11.2026 16:00",
@@ -7497,7 +7467,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "16.11.2026 19:30",
@@ -7647,7 +7617,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "16.11.2026 19:45",
@@ -8458,5 +8428,95 @@
             "b": 91.67
         },
         "aiScore": 57
+    },
+    {
+        "date": "17.11.2026 10:00",
+        "league": "AVŞU19",
+        "matchCode": "4579262",
+        "home": "Denmark U19",
+        "away": "Bosnia and Herzegovina U1",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 1",
+        "ihtimal": "70.59",
+        "odds": "1.19",
+        "matchCount": "34",
+        "matchLink": "4579262",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "17.11.2026 04:42",
+        "patternScore": 68.62,
+        "patternText": "182.202/265.510",
+        "patternInfo": {
+            "m": 46,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 90.0
+        },
+        "aiScore": 61
+    },
+    {
+        "date": "17.11.2026 10:00",
+        "league": "AVŞU19",
+        "matchCode": "4579268",
+        "home": "Slovakia U19",
+        "away": "Estonia (U19)",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "75.86",
+        "odds": "1.10",
+        "matchCount": "116",
+        "matchLink": "4579268",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "14/116",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "17.11.2026 04:42",
+        "patternScore": 70.8,
+        "patternText": "247.176/349.140",
+        "patternInfo": {
+            "m": 49,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 88.37
+        },
+        "aiScore": 84
+    },
+    {
+        "date": "17.11.2026 10:00",
+        "league": "AVŞU19",
+        "matchCode": "4579268",
+        "home": "Slovakia U19",
+        "away": "Estonia (U19)",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "86.21",
+        "odds": "1.08",
+        "matchCount": "116",
+        "matchLink": "4579268",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "14/116",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "17.11.2026 04:42",
+        "patternScore": 71.56,
+        "patternText": "123.220/172.200",
+        "patternInfo": {
+            "m": 47,
+            "s": 9,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 98
     }
 ]
