@@ -12150,36 +12150,6 @@
         "aiScore": 71
     },
     {
-        "date": "18.11.2026 04:00",
-        "league": "JWEL",
-        "matchCode": "4488321",
-        "home": "JEF United Women",
-        "away": "AC Parceiro Nagano",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "85.53",
-        "odds": "1.08",
-        "matchCount": "76",
-        "matchLink": "4488321",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "17/86",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "17.11.2026 22:40",
-        "patternScore": 72.49,
-        "patternText": "143.542/198.017",
-        "patternInfo": {
-            "m": 44,
-            "s": 7,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 98
-    },
-    {
         "date": "17.11.2026 23:00",
         "league": "HAZ",
         "matchCode": "4565373",
@@ -12238,5 +12208,35 @@
             "b": 92.86
         },
         "aiScore": 93
+    },
+    {
+        "date": "18.11.2026 04:00",
+        "league": "JWEL",
+        "matchCode": "4488321",
+        "home": "JEF United Women",
+        "away": "AC Parceiro Nagano",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "79.07",
+        "odds": "1.08",
+        "matchCount": "86",
+        "matchLink": "4488321",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "17/86",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "17.11.2026 22:40",
+        "patternScore": 71.08,
+        "patternText": "232.345/326.885",
+        "patternInfo": {
+            "m": 49,
+            "s": 13,
+            "f": 5,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 98
     }
 ]
