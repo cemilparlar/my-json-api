@@ -717,7 +717,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "18.11.2026 22:30",
@@ -1167,7 +1167,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "19.11.2026 00:30",
@@ -1917,7 +1917,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "17.11.2026 13:00",
@@ -1947,7 +1947,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "17.11.2026 13:00",
@@ -2337,7 +2337,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "17.11.2026 13:00",
@@ -2997,7 +2997,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 67
+        "aiScore": 66
     },
     {
         "date": "17.11.2026 10:00",
@@ -3177,7 +3177,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 57
     },
     {
         "date": "17.11.2026 12:00",
@@ -3657,7 +3657,7 @@
             "e": 85,
             "b": 92.59
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "18.11.2026 17:45",
@@ -3676,8 +3676,8 @@
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "18.11.2026 11:50",
         "patternScore": 67.04,
         "patternText": "157.199/234.473",
         "patternInfo": {
@@ -3706,8 +3706,8 @@
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "18.11.2026 11:50",
         "patternScore": 68.83,
         "patternText": "171.277/248.843",
         "patternInfo": {
@@ -5023,11 +5023,11 @@
         "matchCount": "10",
         "matchLink": "4580085",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "2/4",
+        "predictedScore": "2-2",
+        "predictedScoreText": "1/1",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "18.11.2026 11:48",
         "patternScore": 61.42,
         "patternText": "130.856/213.061",
         "patternInfo": {
@@ -5337,7 +5337,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "17.11.2026 14:10",
@@ -5517,7 +5517,7 @@
             "e": 85,
             "b": 95.45
         },
-        "aiScore": 96
+        "aiScore": 97
     },
     {
         "date": "17.11.2026 13:00",
@@ -6807,7 +6807,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "18.11.2026 19:45",
@@ -9597,7 +9597,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "17.11.2026 23:00",
@@ -10018,66 +10018,6 @@
             "b": 100.0
         },
         "aiScore": 98
-    },
-    {
-        "date": "18.11.2026 14:30",
-        "league": "SUUD1",
-        "matchCode": "4538724",
-        "home": "Al Adalah",
-        "away": "Al Orubah Club",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "78.57",
-        "odds": "1.14",
-        "matchCount": "252",
-        "matchLink": "4538724",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "39/252",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 08:34",
-        "patternScore": 69.44,
-        "patternText": "223.996/322.577",
-        "patternInfo": {
-            "m": 47,
-            "s": 13,
-            "f": 6,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 91
-    },
-    {
-        "date": "18.11.2026 14:30",
-        "league": "SUUD1",
-        "matchCode": "4538724",
-        "home": "Al Adalah",
-        "away": "Al Orubah Club",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "82.94",
-        "odds": "1.08",
-        "matchCount": "252",
-        "matchLink": "4538724",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "39/252",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 08:34",
-        "patternScore": 71.09,
-        "patternText": "139.855/196.723",
-        "patternInfo": {
-            "m": 41,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 94
     },
     {
         "date": "20.11.2026 17:00",
@@ -10797,7 +10737,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "20.11.2026 20:15",
@@ -11277,7 +11217,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "21.11.2026 12:30",
@@ -11517,7 +11457,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "21.11.2026 12:30",
@@ -12477,7 +12417,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 83
+        "aiScore": 82
     },
     {
         "date": "21.11.2026 13:00",
@@ -13393,8 +13333,8 @@
         "matchCount": "114",
         "matchLink": "4577304",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "18/114",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -13423,8 +13363,8 @@
         "matchCount": "114",
         "matchLink": "4577304",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "18/114",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -13453,11 +13393,11 @@
         "matchCount": "11",
         "matchLink": "4580324",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-1",
+        "predictedScoreText": "4/22",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 09:20",
+        "tahminUpdatedAt": "18.11.2026 11:46",
         "patternScore": 69.73,
         "patternText": "288.210/413.333",
         "patternInfo": {
@@ -13467,7 +13407,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "18.11.2026 15:00",
@@ -13483,11 +13423,11 @@
         "matchCount": "11",
         "matchLink": "4580324",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-1",
+        "predictedScoreText": "4/22",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 09:20",
+        "tahminUpdatedAt": "18.11.2026 11:46",
         "patternScore": 68.65,
         "patternText": "229.369/334.127",
         "patternInfo": {
@@ -13513,11 +13453,11 @@
         "matchCount": "11",
         "matchLink": "4580324",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-1",
+        "predictedScoreText": "4/22",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 09:20",
+        "tahminUpdatedAt": "18.11.2026 11:46",
         "patternScore": 69.7,
         "patternText": "152.423/218.698",
         "patternInfo": {
@@ -13543,11 +13483,11 @@
         "matchCount": "11",
         "matchLink": "4580324",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-1",
+        "predictedScoreText": "4/22",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 09:20",
+        "tahminUpdatedAt": "18.11.2026 11:46",
         "patternScore": 68.21,
         "patternText": "225.969/331.279",
         "patternInfo": {
@@ -13574,10 +13514,10 @@
         "matchLink": "4580777",
         "status": "Pending",
         "predictedScore": "2-1",
-        "predictedScoreText": "6/34",
+        "predictedScoreText": "11/67",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "18.11.2026 11:46",
         "patternScore": 68.47,
         "patternText": "198.197/289.475",
         "patternInfo": {
@@ -13604,10 +13544,10 @@
         "matchLink": "4580777",
         "status": "Pending",
         "predictedScore": "2-1",
-        "predictedScoreText": "6/34",
+        "predictedScoreText": "11/67",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "18.11.2026 11:46",
         "patternScore": 71.88,
         "patternText": "186.349/259.252",
         "patternInfo": {
@@ -15417,7 +15357,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 53
+        "aiScore": 52
     },
     {
         "date": "21.11.2026 13:00",
@@ -15657,7 +15597,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "21.11.2026 13:00",
@@ -15867,7 +15807,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "21.11.2026 13:00",
@@ -16047,7 +15987,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "21.11.2026 13:00",
@@ -20383,11 +20323,11 @@
         "matchCount": "6",
         "matchLink": "4580084",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-2",
+        "predictedScoreText": "3/7",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "18.11.2026 11:47",
         "patternScore": 67.3,
         "patternText": "149.486/222.118",
         "patternInfo": {
@@ -21207,7 +21147,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 63
     },
     {
         "date": "20.11.2026 19:30",
@@ -21657,7 +21597,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 63
+        "aiScore": 62
     },
     {
         "date": "21.11.2026 01:00",
@@ -22167,37 +22107,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
-    },
-    {
-        "date": "18.11.2026 12:30",
-        "league": "SLVNK",
-        "matchCode": "4580083",
-        "home": "Tolmin",
-        "away": "Nk Brinje Grosu",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Match Result 2",
-        "ihtimal": "77.78",
-        "odds": "1.13",
-        "matchCount": "9",
-        "matchLink": "4580083",
-        "status": "Pending",
-        "predictedScore": "1-3",
-        "predictedScoreText": "2/9",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 11:04",
-        "patternScore": 67.64,
-        "patternText": "215.252/318.230",
-        "patternInfo": {
-            "m": 46,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 86.96
-        },
-        "aiScore": 64
+        "aiScore": 77
     },
     {
         "date": "18.11.2026 16:45",
@@ -22304,10 +22214,10 @@
         "matchLink": "4546164",
         "status": "Pending",
         "predictedScore": "1-0",
-        "predictedScoreText": "33/220",
+        "predictedScoreText": "25/116",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 11:06",
+        "tahminUpdatedAt": "18.11.2026 11:49",
         "patternScore": 70.24,
         "patternText": "261.819/372.745",
         "patternInfo": {
@@ -23337,7 +23247,7 @@
             "e": 85,
             "b": 89.47
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "21.11.2026 05:00",
@@ -25288,5 +25198,125 @@
             "b": 86.67
         },
         "aiScore": 59
+    },
+    {
+        "date": "18.11.2026 12:30",
+        "league": "SLVNK",
+        "matchCode": "4580083",
+        "home": "Tolmin",
+        "away": "Nk Brinje Grosu",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 2",
+        "ihtimal": "100.0",
+        "odds": "1.09",
+        "matchCount": "6",
+        "matchLink": "4580083",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "18.11.2026 11:45",
+        "patternScore": 62.29,
+        "patternText": "143.834/230.916",
+        "patternInfo": {
+            "m": 46,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 89.58
+        },
+        "aiScore": 94
+    },
+    {
+        "date": "18.11.2026 12:30",
+        "league": "SLVNK",
+        "matchCode": "4580083",
+        "home": "Tolmin",
+        "away": "Nk Brinje Grosu",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 12",
+        "ihtimal": "100.0",
+        "odds": "1.16",
+        "matchCount": "6",
+        "matchLink": "4580083",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "18.11.2026 11:45",
+        "patternScore": 60.95,
+        "patternText": "130.184/213.590",
+        "patternInfo": {
+            "m": 44,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 67
+    },
+    {
+        "date": "18.11.2026 14:30",
+        "league": "SUUD1",
+        "matchCode": "4538724",
+        "home": "Al Adalah",
+        "away": "Al Orubah Club",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "70.68",
+        "odds": "1.13",
+        "matchCount": "249",
+        "matchLink": "4538724",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "34/249",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "18.11.2026 11:46",
+        "patternScore": 70.42,
+        "patternText": "270.350/383.908",
+        "patternInfo": {
+            "m": 54,
+            "s": 10,
+            "f": 6,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 84
+    },
+    {
+        "date": "18.11.2026 14:30",
+        "league": "SUUD1",
+        "matchCode": "4538724",
+        "home": "Al Adalah",
+        "away": "Al Orubah Club",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "71.49",
+        "odds": "1.08",
+        "matchCount": "249",
+        "matchLink": "4538724",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "34/249",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "18.11.2026 11:46",
+        "patternScore": 70.11,
+        "patternText": "225.890/322.205",
+        "patternInfo": {
+            "m": 51,
+            "s": 11,
+            "f": 4,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 86
     }
 ]
