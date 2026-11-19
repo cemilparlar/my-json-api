@@ -657,7 +657,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "18.11.2026 23:30",
@@ -1737,7 +1737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "19.11.2026 20:00",
@@ -1768,186 +1768,6 @@
             "b": 85.71
         },
         "aiScore": 70
-    },
-    {
-        "date": "19.11.2026 12:30",
-        "league": "MSR2",
-        "matchCode": "4538119",
-        "home": "Pharco FC",
-        "away": "El Harby",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "76.35",
-        "odds": "1.15",
-        "matchCount": "148",
-        "matchLink": "4538119",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "13/85",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "19.11.2026 06:41",
-        "patternScore": 70.34,
-        "patternText": "254.608/361.964",
-        "patternInfo": {
-            "m": 60,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 90.32
-        },
-        "aiScore": 73
-    },
-    {
-        "date": "19.11.2026 12:30",
-        "league": "MSR2",
-        "matchCode": "4538116",
-        "home": "La Viena Fc",
-        "away": "El Saka El Hadi",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "80.0",
-        "odds": "1.21",
-        "matchCount": "25",
-        "matchLink": "4538116",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "19.11.2026 06:41",
-        "patternScore": 69.92,
-        "patternText": "133.810/191.376",
-        "patternInfo": {
-            "m": 60,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 70
-    },
-    {
-        "date": "19.11.2026 12:30",
-        "league": "MSR2",
-        "matchCode": "4538116",
-        "home": "La Viena Fc",
-        "away": "El Saka El Hadi",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "80.0",
-        "odds": "1.21",
-        "matchCount": "25",
-        "matchLink": "4538116",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "19.11.2026 06:41",
-        "patternScore": 69.19,
-        "patternText": "115.523/166.967",
-        "patternInfo": {
-            "m": 54,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 73
-    },
-    {
-        "date": "19.11.2026 12:30",
-        "league": "MSR2",
-        "matchCode": "4538117",
-        "home": "Al Daklyeh",
-        "away": "Ismaily SC",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "70.59",
-        "odds": "1.21",
-        "matchCount": "34",
-        "matchLink": "4538117",
-        "status": "Pending",
-        "predictedScore": "0-0",
-        "predictedScoreText": "2/2",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "19.11.2026 06:42",
-        "patternScore": 70.01,
-        "patternText": "255.483/364.916",
-        "patternInfo": {
-            "m": 73,
-            "s": 3,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 63
-    },
-    {
-        "date": "19.11.2026 12:30",
-        "league": "MSR2",
-        "matchCode": "4538117",
-        "home": "Al Daklyeh",
-        "away": "Ismaily SC",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "70.59",
-        "odds": "1.31",
-        "matchCount": "34",
-        "matchLink": "4538117",
-        "status": "Pending",
-        "predictedScore": "0-0",
-        "predictedScoreText": "2/2",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "19.11.2026 06:42",
-        "patternScore": 69.04,
-        "patternText": "201.278/291.537",
-        "patternInfo": {
-            "m": 61,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 94.74
-        },
-        "aiScore": 60
-    },
-    {
-        "date": "19.11.2026 12:30",
-        "league": "MSR2",
-        "matchCode": "4538118",
-        "home": "Baladiyyat",
-        "away": "Haras El Hodood",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "73.33",
-        "odds": "1.21",
-        "matchCount": "75",
-        "matchLink": "4538118",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "19.11.2026 06:42",
-        "patternScore": 69.06,
-        "patternText": "209.686/303.615",
-        "patternInfo": {
-            "m": 61,
-            "s": 5,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 63
     },
     {
         "date": "18.11.2026 19:45",
@@ -3327,7 +3147,7 @@
             "e": 85,
             "b": 94.74
         },
-        "aiScore": 83
+        "aiScore": 82
     },
     {
         "date": "21.11.2026 10:30",
@@ -3657,7 +3477,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "21.11.2026 12:30",
@@ -5787,7 +5607,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "20.11.2026 17:30",
@@ -6057,7 +5877,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "20.11.2026 19:00",
@@ -6297,7 +6117,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "20.11.2026 19:00",
@@ -8217,7 +8037,7 @@
             "e": 85,
             "b": 96.0
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "21.11.2026 13:30",
@@ -11067,7 +10887,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "21.11.2026 15:00",
@@ -11277,7 +11097,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "21.11.2026 15:00",
@@ -12207,7 +12027,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "21.11.2026 15:00",
@@ -12447,7 +12267,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 95
     },
     {
         "date": "20.11.2026 10:00",
@@ -15357,7 +15177,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "21.11.2026 05:00",
@@ -21597,7 +21417,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "21.11.2026 13:00",
@@ -23487,7 +23307,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 83
+        "aiScore": 82
     },
     {
         "date": "18.11.2026 19:00",
@@ -23640,36 +23460,6 @@
         "aiScore": 81
     },
     {
-        "date": "19.11.2026 12:30",
-        "league": "AFCAKŞ",
-        "matchCode": "4478181",
-        "home": "Cand",
-        "away": "Johor Darul Tazim",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "80.0",
-        "odds": "1.08",
-        "matchCount": "55",
-        "matchLink": "4478181",
-        "status": "Pending",
-        "predictedScore": "0-0",
-        "predictedScoreText": "4/35",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "19.11.2026 06:43",
-        "patternScore": 71.88,
-        "patternText": "166.115/231.110",
-        "patternInfo": {
-            "m": 57,
-            "s": 8,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 95
-    },
-    {
         "date": "19.11.2026 13:00",
         "league": "ZAM",
         "matchCode": "4570527",
@@ -23697,7 +23487,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "19.11.2026 13:00",
@@ -24057,7 +23847,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "20.11.2026 11:35",
@@ -26577,7 +26367,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "21.11.2026 11:00",
@@ -26847,7 +26637,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "21.11.2026 12:30",
@@ -27447,7 +27237,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "21.11.2026 13:30",
@@ -28317,7 +28107,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "21.11.2026 11:30",
@@ -28917,7 +28707,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 99
+        "aiScore": 98
     },
     {
         "date": "18.11.2026 23:30",
@@ -29217,7 +29007,7 @@
             "e": 85,
             "b": 91.3
         },
-        "aiScore": 97
+        "aiScore": 96
     },
     {
         "date": "21.11.2026 14:00",
@@ -34767,7 +34557,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "21.11.2026 15:30",
@@ -35157,7 +34947,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "21.11.2026 15:30",
@@ -36537,7 +36327,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 63
     },
     {
         "date": "21.11.2026 16:30",
@@ -36747,7 +36537,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "21.11.2026 16:30",
@@ -39357,7 +39147,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "21.11.2026 17:30",
@@ -39957,7 +39747,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 63
     },
     {
         "date": "21.11.2026 17:45",
@@ -42807,7 +42597,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "21.11.2026 19:45",
@@ -46557,7 +46347,7 @@
             "e": 85,
             "b": 88.24
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "22.11.2026 07:30",
@@ -46647,7 +46437,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "22.11.2026 09:15",
@@ -48837,7 +48627,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "22.11.2026 12:00",
@@ -51297,7 +51087,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "22.11.2026 13:30",
@@ -51627,7 +51417,7 @@
             "e": 85,
             "b": 90.7
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "18.11.2026 22:30",
@@ -56457,7 +56247,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "22.11.2026 16:00",
@@ -56487,7 +56277,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 84
     },
     {
         "date": "22.11.2026 16:00",
@@ -58617,7 +58407,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "22.11.2026 17:30",
@@ -60027,7 +59817,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "22.11.2026 19:00",
@@ -61377,7 +61167,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "23.11.2026 15:00",
@@ -62337,7 +62127,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 52
+        "aiScore": 51
     },
     {
         "date": "23.11.2026 18:00",
@@ -65097,7 +64887,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "19.11.2026 13:45",
@@ -65548,36 +65338,6 @@
             "b": 100.0
         },
         "aiScore": 81
-    },
-    {
-        "date": "19.11.2026 12:00",
-        "league": "AFCAKŞ",
-        "matchCode": "4478182",
-        "home": "Pkr Svay Rieng",
-        "away": "Port FC",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "78.23",
-        "odds": "1.12",
-        "matchCount": "124",
-        "matchLink": "4478182",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "13/121",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "19.11.2026 06:41",
-        "patternScore": 70.47,
-        "patternText": "255.050/361.920",
-        "patternInfo": {
-            "m": 63,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 92.31
-        },
-        "aiScore": 77
     },
     {
         "date": "21.11.2026 12:40",
@@ -66237,7 +65997,7 @@
             "e": 85,
             "b": 91.3
         },
-        "aiScore": 85
+        "aiScore": 84
     },
     {
         "date": "22.11.2026 00:00",
@@ -66658,5 +66418,335 @@
             "b": 91.67
         },
         "aiScore": 75
+    },
+    {
+        "date": "19.11.2026 12:00",
+        "league": "AFCAKŞ",
+        "matchCode": "4478182",
+        "home": "Pkr Svay Rieng",
+        "away": "Port FC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "74.38",
+        "odds": "1.12",
+        "matchCount": "121",
+        "matchLink": "4478182",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "13/121",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "19.11.2026 06:41",
+        "patternScore": 70.47,
+        "patternText": "255.050/361.920",
+        "patternInfo": {
+            "m": 63,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 92.31
+        },
+        "aiScore": 73
+    },
+    {
+        "date": "19.11.2026 12:00",
+        "league": "AFCAKŞ",
+        "matchCode": "4478182",
+        "home": "Pkr Svay Rieng",
+        "away": "Port FC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "72.73",
+        "odds": "1.15",
+        "matchCount": "121",
+        "matchLink": "4478182",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "13/121",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "19.11.2026 06:41",
+        "patternScore": 69.69,
+        "patternText": "211.372/303.304",
+        "patternInfo": {
+            "m": 57,
+            "s": 3,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 69
+    },
+    {
+        "date": "19.11.2026 12:30",
+        "league": "MSR2",
+        "matchCode": "4538116",
+        "home": "La Viena Fc",
+        "away": "El Saka El Hadi",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "85.71",
+        "odds": "1.27",
+        "matchCount": "14",
+        "matchLink": "4538116",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "19.11.2026 06:41",
+        "patternScore": 70.29,
+        "patternText": "170.487/242.531",
+        "patternInfo": {
+            "m": 67,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 85.71
+        },
+        "aiScore": 69
+    },
+    {
+        "date": "19.11.2026 12:30",
+        "league": "MSR2",
+        "matchCode": "4538119",
+        "home": "Pharco FC",
+        "away": "El Harby",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "77.65",
+        "odds": "1.07",
+        "matchCount": "85",
+        "matchLink": "4538119",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "13/85",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "19.11.2026 06:41",
+        "patternScore": 69.81,
+        "patternText": "215.318/308.442",
+        "patternInfo": {
+            "m": 59,
+            "s": 4,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 88
+    },
+    {
+        "date": "19.11.2026 12:30",
+        "league": "MSR2",
+        "matchCode": "4538118",
+        "home": "Baladiyyat",
+        "away": "Haras El Hodood",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "74.07",
+        "odds": "1.22",
+        "matchCount": "27",
+        "matchLink": "4538118",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "19.11.2026 06:42",
+        "patternScore": 70.07,
+        "patternText": "252.587/360.465",
+        "patternInfo": {
+            "m": 65,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 68
+    },
+    {
+        "date": "19.11.2026 12:30",
+        "league": "SLVNK",
+        "matchCode": "4580087",
+        "home": "Dob",
+        "away": "Bistrica",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 2",
+        "ihtimal": "71.43",
+        "odds": "1.47",
+        "matchCount": "35",
+        "matchLink": "4580087",
+        "status": "Pending",
+        "predictedScore": "0-2",
+        "predictedScoreText": "7/35",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 68.17,
+        "patternText": "174.490/255.950",
+        "patternInfo": {
+            "m": 36,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 90.91
+        },
+        "aiScore": 54
+    },
+    {
+        "date": "19.11.2026 12:30",
+        "league": "SLVNK",
+        "matchCode": "4580087",
+        "home": "Dob",
+        "away": "Bistrica",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "88.57",
+        "odds": "1.08",
+        "matchCount": "35",
+        "matchLink": "4580087",
+        "status": "Pending",
+        "predictedScore": "0-2",
+        "predictedScoreText": "7/35",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 71.96,
+        "patternText": "170.310/236.666",
+        "patternInfo": {
+            "m": 54,
+            "s": 9,
+            "f": 4,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 99
+    },
+    {
+        "date": "19.11.2026 12:30",
+        "league": "MSR2",
+        "matchCode": "4538117",
+        "home": "Al Daklyeh",
+        "away": "Ismaily SC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance X2",
+        "ihtimal": "100.0",
+        "odds": "1.09",
+        "matchCount": "2",
+        "matchLink": "4538117",
+        "status": "Pending",
+        "predictedScore": "0-0",
+        "predictedScoreText": "2/2",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "19.11.2026 06:42",
+        "patternScore": 58.48,
+        "patternText": "229.122/391.811",
+        "patternInfo": {
+            "m": 82,
+            "s": 5,
+            "f": 4,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 86
+    },
+    {
+        "date": "19.11.2026 12:30",
+        "league": "SLVNK",
+        "matchCode": "4580086",
+        "home": "ND Beltinci",
+        "away": "NK Celje",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 2",
+        "ihtimal": "76.92",
+        "odds": "1.21",
+        "matchCount": "13",
+        "matchLink": "4580086",
+        "status": "Pending",
+        "predictedScore": "0-2",
+        "predictedScoreText": "3/13",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 67.72,
+        "patternText": "200.647/296.294",
+        "patternInfo": {
+            "m": 50,
+            "s": 2,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 59
+    },
+    {
+        "date": "19.11.2026 12:30",
+        "league": "AFCAKŞ",
+        "matchCode": "4478181",
+        "home": "Cand",
+        "away": "Johor Darul Tazim",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "71.43",
+        "odds": "1.08",
+        "matchCount": "35",
+        "matchLink": "4478181",
+        "status": "Pending",
+        "predictedScore": "0-0",
+        "predictedScoreText": "4/35",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "19.11.2026 06:43",
+        "patternScore": 70.73,
+        "patternText": "264.564/374.071",
+        "patternInfo": {
+            "m": 61,
+            "s": 6,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 87
+    },
+    {
+        "date": "19.11.2026 12:30",
+        "league": "AFCAKŞ",
+        "matchCode": "4478181",
+        "home": "Cand",
+        "away": "Johor Darul Tazim",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "74.29",
+        "odds": "1.35",
+        "matchCount": "35",
+        "matchLink": "4478181",
+        "status": "Pending",
+        "predictedScore": "0-0",
+        "predictedScoreText": "4/35",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "19.11.2026 06:43",
+        "patternScore": 69.33,
+        "patternText": "201.655/290.848",
+        "patternInfo": {
+            "m": 46,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 90.91
+        },
+        "aiScore": 61
     }
 ]
