@@ -960,36 +960,6 @@
         "aiScore": 73
     },
     {
-        "date": "18.11.2026 13:00",
-        "league": "UGA",
-        "matchCode": "4547674",
-        "home": "Mbarara City",
-        "away": "Lugazi Municipal FC",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "74.32",
-        "odds": "1.16",
-        "matchCount": "148",
-        "matchLink": "4547674",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "26/148",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 07:04",
-        "patternScore": 70.02,
-        "patternText": "252.003/359.898",
-        "patternInfo": {
-            "m": 68,
-            "s": 10,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 76
-    },
-    {
         "date": "20.11.2026 17:00",
         "league": "T1L",
         "matchCode": "4498879",
@@ -2997,7 +2967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "21.11.2026 13:00",
@@ -4048,36 +4018,6 @@
             "b": 92.31
         },
         "aiScore": 59
-    },
-    {
-        "date": "18.11.2026 13:00",
-        "league": "ZAM",
-        "matchCode": "4570576",
-        "home": "Roan United",
-        "away": "Chirundu United",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "74.36",
-        "odds": "1.11",
-        "matchCount": "78",
-        "matchLink": "4570576",
-        "status": "HATA",
-        "predictedScore": "1-1",
-        "predictedScoreText": "14/78",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 09:18",
-        "patternScore": 69.62,
-        "patternText": "224.920/323.046",
-        "patternInfo": {
-            "m": 54,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 94.44
-        },
-        "aiScore": 73
     },
     {
         "date": "18.11.2026 15:00",
@@ -6147,7 +6087,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 98
     },
     {
         "date": "21.11.2026 13:00",
@@ -9927,7 +9867,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "21.11.2026 15:00",
@@ -11697,7 +11637,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "20.11.2026 19:45",
@@ -19020,96 +18960,6 @@
         "aiScore": 61
     },
     {
-        "date": "18.11.2026 13:00",
-        "league": "INGPDL",
-        "matchCode": "4540681",
-        "home": "Peterborough United",
-        "away": "Bolton U21",
-        "firstHalf": "1 - 1",
-        "finalScore": "1 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "80.0",
-        "odds": "1.06",
-        "matchCount": "10",
-        "matchLink": "4540681",
-        "status": "Lost",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 12:31",
-        "patternScore": 71.51,
-        "patternText": "194.912/272.567",
-        "patternInfo": {
-            "m": 69,
-            "s": 10,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 99
-    },
-    {
-        "date": "18.11.2026 13:00",
-        "league": "INGPDL",
-        "matchCode": "4540681",
-        "home": "Peterborough United",
-        "away": "Bolton U21",
-        "firstHalf": "1 - 1",
-        "finalScore": "1 - 1",
-        "prediction": "Handicap (0:1) 2",
-        "ihtimal": "80.0",
-        "odds": "1.33",
-        "matchCount": "10",
-        "matchLink": "4540681",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 12:31",
-        "patternScore": 68.03,
-        "patternText": "123.784/181.961",
-        "patternInfo": {
-            "m": 56,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 92.31
-        },
-        "aiScore": 58
-    },
-    {
-        "date": "18.11.2026 13:00",
-        "league": "INGPDL",
-        "matchCode": "4540681",
-        "home": "Peterborough United",
-        "away": "Bolton U21",
-        "firstHalf": "1 - 1",
-        "finalScore": "1 - 1",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "80.0",
-        "odds": "1.20",
-        "matchCount": "10",
-        "matchLink": "4540681",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 12:31",
-        "patternScore": 69.05,
-        "patternText": "137.392/198.973",
-        "patternInfo": {
-            "m": 59,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 92.31
-        },
-        "aiScore": 68
-    },
-    {
         "date": "18.11.2026 18:00",
         "league": "İSTL",
         "matchCode": "4529768",
@@ -20637,7 +20487,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 99
     },
     {
         "date": "21.11.2026 14:00",
@@ -24117,7 +23967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "21.11.2026 02:00",
@@ -26355,7 +26205,7 @@
         "status": "Pending",
         "predictedScore": null,
         "predictedScoreText": null,
-        "mbs": 2,
+        "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.95,
@@ -26773,11 +26623,11 @@
         "matchCount": "18",
         "matchLink": "4581021",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "4/18",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "19.11.2026 18:59",
         "patternScore": 68.23,
         "patternText": "206.644/302.880",
         "patternInfo": {
@@ -26803,11 +26653,11 @@
         "matchCount": "18",
         "matchLink": "4581021",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "4/18",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "19.11.2026 18:59",
         "patternScore": 68.04,
         "patternText": "220.510/324.080",
         "patternInfo": {
@@ -28947,7 +28797,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 97
     },
     {
         "date": "21.11.2026 15:00",
@@ -33387,7 +33237,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "21.11.2026 16:00",
@@ -39267,7 +39117,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "21.11.2026 19:15",
@@ -39597,7 +39447,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "21.11.2026 19:30",
@@ -41577,7 +41427,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "21.11.2026 20:00",
@@ -42897,7 +42747,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "21.11.2026 23:00",
@@ -44367,7 +44217,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "22.11.2026 05:00",
@@ -44577,7 +44427,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "22.11.2026 08:30",
@@ -55377,7 +55227,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "22.11.2026 16:30",
@@ -56277,7 +56127,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "22.11.2026 17:00",
@@ -74294,7 +74144,7 @@
         "matchLink": "4580349",
         "status": "Pending",
         "predictedScore": "1-2",
-        "predictedScoreText": "5/23",
+        "predictedScoreText": "6/33",
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "19.11.2026 17:21",
@@ -74697,7 +74547,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "22.11.2026 15:30",
