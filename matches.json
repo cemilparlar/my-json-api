@@ -2997,7 +2997,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "21.11.2026 13:00",
@@ -6147,7 +6147,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 98
     },
     {
         "date": "21.11.2026 13:00",
@@ -9927,7 +9927,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "21.11.2026 15:00",
@@ -11697,7 +11697,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "20.11.2026 19:45",
@@ -20637,7 +20637,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 99
     },
     {
         "date": "21.11.2026 14:00",
@@ -24117,7 +24117,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "21.11.2026 02:00",
@@ -26355,7 +26355,7 @@
         "status": "Pending",
         "predictedScore": null,
         "predictedScoreText": null,
-        "mbs": 2,
+        "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
         "patternScore": 70.95,
@@ -26773,11 +26773,11 @@
         "matchCount": "18",
         "matchLink": "4581021",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "4/18",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "19.11.2026 18:59",
         "patternScore": 68.23,
         "patternText": "206.644/302.880",
         "patternInfo": {
@@ -26803,11 +26803,11 @@
         "matchCount": "18",
         "matchLink": "4581021",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "4/18",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "19.11.2026 18:59",
         "patternScore": 68.04,
         "patternText": "220.510/324.080",
         "patternInfo": {
@@ -28947,7 +28947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 97
     },
     {
         "date": "21.11.2026 15:00",
@@ -33387,7 +33387,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "21.11.2026 16:00",
@@ -39267,7 +39267,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "21.11.2026 19:15",
@@ -39597,7 +39597,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "21.11.2026 19:30",
@@ -41577,7 +41577,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "21.11.2026 20:00",
@@ -42897,7 +42897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "21.11.2026 23:00",
@@ -44367,7 +44367,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "22.11.2026 05:00",
@@ -44577,7 +44577,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "22.11.2026 08:30",
@@ -55377,7 +55377,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "22.11.2026 16:30",
@@ -56277,7 +56277,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "22.11.2026 17:00",
@@ -74294,7 +74294,7 @@
         "matchLink": "4580349",
         "status": "Pending",
         "predictedScore": "1-2",
-        "predictedScoreText": "5/23",
+        "predictedScoreText": "6/33",
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "19.11.2026 17:21",
@@ -74697,7 +74697,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "22.11.2026 15:30",
