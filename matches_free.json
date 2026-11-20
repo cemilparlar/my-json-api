@@ -897,7 +897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "20.11.2026 17:00",
@@ -2277,7 +2277,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "21.11.2026 12:30",
@@ -5877,7 +5877,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 98
     },
     {
         "date": "21.11.2026 13:00",
@@ -9747,7 +9747,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "21.11.2026 15:00",
@@ -12537,7 +12537,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "21.11.2026 05:00",
@@ -13467,7 +13467,7 @@
             "e": 85,
             "b": 86.67
         },
-        "aiScore": 93
+        "aiScore": 92
     },
     {
         "date": "21.11.2026 06:00",
@@ -16257,7 +16257,7 @@
             "e": 85,
             "b": 86.36
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "20.11.2026 17:30",
@@ -16287,7 +16287,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "20.11.2026 17:30",
@@ -17817,7 +17817,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "21.11.2026 05:00",
@@ -20997,7 +20997,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 99
     },
     {
         "date": "21.11.2026 15:00",
@@ -21058,156 +21058,6 @@
             "b": 90.0
         },
         "aiScore": 71
-    },
-    {
-        "date": "18.11.2026 19:00",
-        "league": "İS4",
-        "matchCode": "4493993",
-        "home": "Bergantinos",
-        "away": "Sestao River Club",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "71.56",
-        "odds": "1.26",
-        "matchCount": "211",
-        "matchLink": "4493993",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "36/211",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 68.69,
-        "patternText": "207.767/302.459",
-        "patternInfo": {
-            "m": 49,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 87.5
-        },
-        "aiScore": 59
-    },
-    {
-        "date": "18.11.2026 19:00",
-        "league": "İS4",
-        "matchCode": "4493993",
-        "home": "Bergantinos",
-        "away": "Sestao River Club",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "71.56398104265402",
-        "odds": "1.26",
-        "matchCount": "211",
-        "matchLink": "4493993",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "36/211",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 68.02,
-        "patternText": "184.635/271.429",
-        "patternInfo": {
-            "m": 43,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 86.36
-        },
-        "aiScore": 59
-    },
-    {
-        "date": "18.11.2026 19:00",
-        "league": "İS4",
-        "matchCode": "4493993",
-        "home": "Bergantinos",
-        "away": "Sestao River Club",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "70.14",
-        "odds": "1.14",
-        "matchCount": "211",
-        "matchLink": "4493993",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "36/211",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 69.28,
-        "patternText": "215.093/310.467",
-        "patternInfo": {
-            "m": 50,
-            "s": 0,
-            "f": 0,
-            "e": 85,
-            "b": 83.58
-        },
-        "aiScore": 64
-    },
-    {
-        "date": "18.11.2026 19:00",
-        "league": "İSTL",
-        "matchCode": "4529769",
-        "home": "Bunol",
-        "away": "Hercules Ii",
-        "firstHalf": "1 - 1",
-        "finalScore": "2 - 2",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "74.52",
-        "odds": "1.14",
-        "matchCount": "259",
-        "matchLink": "4529769",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "46/259",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 13:15",
-        "patternScore": 69.03,
-        "patternText": "218.190/316.064",
-        "patternInfo": {
-            "m": 45,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 85.19
-        },
-        "aiScore": 66
-    },
-    {
-        "date": "18.11.2026 19:00",
-        "league": "İSTL",
-        "matchCode": "4533441",
-        "home": "Atletico Pulpi",
-        "away": "Balsicas Atleti",
-        "firstHalf": "1 - 1",
-        "finalScore": "3 - 1",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "79.69",
-        "odds": "1.08",
-        "matchCount": "128",
-        "matchLink": "4533441",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "17/128",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 13:15",
-        "patternScore": 69.5,
-        "patternText": "226.650/326.124",
-        "patternInfo": {
-            "m": 57,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 88.89
-        },
-        "aiScore": 81
     },
     {
         "date": "19.11.2026 13:00",
@@ -23337,7 +23187,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "21.11.2026 07:30",
@@ -24567,7 +24417,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "21.11.2026 13:30",
@@ -25438,36 +25288,6 @@
             "b": 87.5
         },
         "aiScore": 75
-    },
-    {
-        "date": "18.11.2026 19:00",
-        "league": "İSPK",
-        "matchCode": "4574151",
-        "home": "Cd Badajoz",
-        "away": "CD Tenerife",
-        "firstHalf": "0 - 3",
-        "finalScore": "2 - 5",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "75.0",
-        "odds": "1.21",
-        "matchCount": "24",
-        "matchLink": "4574151",
-        "status": "Won",
-        "predictedScore": "0-3",
-        "predictedScoreText": "4/24",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 17:50",
-        "patternScore": 68.29,
-        "patternText": "226.293/331.353",
-        "patternInfo": {
-            "m": 63,
-            "s": 6,
-            "f": 5,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 67
     },
     {
         "date": "18.11.2026 19:30",
@@ -26997,7 +26817,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "21.11.2026 15:00",
@@ -27056,66 +26876,6 @@
             "f": 2,
             "e": 85,
             "b": 100.0
-        },
-        "aiScore": 85
-    },
-    {
-        "date": "18.11.2026 19:00",
-        "league": "İNPLK",
-        "matchCode": "4540450",
-        "home": "Nottingham Forest",
-        "away": "Newcastle United U21",
-        "firstHalf": "1 - 2",
-        "finalScore": "2 - 3",
-        "prediction": "Double Chance 12",
-        "ihtimal": "95.65",
-        "odds": "1.07",
-        "matchCount": "23",
-        "matchLink": "4540450",
-        "status": "Won",
-        "predictedScore": "0-2",
-        "predictedScoreText": "3/23",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 18:28",
-        "patternScore": 71.04,
-        "patternText": "122.455/172.384",
-        "patternInfo": {
-            "m": 60,
-            "s": 8,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 99
-    },
-    {
-        "date": "18.11.2026 19:00",
-        "league": "İNPLK",
-        "matchCode": "4540450",
-        "home": "Nottingham Forest",
-        "away": "Newcastle United U21",
-        "firstHalf": "1 - 2",
-        "finalScore": "2 - 3",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "82.61",
-        "odds": "1.12",
-        "matchCount": "23",
-        "matchLink": "4540450",
-        "status": "Lost",
-        "predictedScore": "0-2",
-        "predictedScoreText": "3/23",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 18:28",
-        "patternScore": 70.18,
-        "patternText": "151.353/215.650",
-        "patternInfo": {
-            "m": 58,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 90.91
         },
         "aiScore": 85
     },
@@ -27957,7 +27717,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "21.11.2026 15:00",
@@ -29787,7 +29547,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 67
+        "aiScore": 66
     },
     {
         "date": "21.11.2026 15:00",
@@ -30447,7 +30207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "21.11.2026 15:00",
@@ -32007,7 +31767,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "21.11.2026 16:00",
@@ -35157,7 +34917,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 66
     },
     {
         "date": "21.11.2026 17:30",
@@ -36627,7 +36387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "21.11.2026 17:45",
@@ -38667,7 +38427,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 69
     },
     {
         "date": "21.11.2026 19:45",
@@ -40077,7 +39837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "21.11.2026 20:00",
@@ -41457,7 +41217,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "21.11.2026 23:00",
@@ -43647,7 +43407,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "22.11.2026 11:00",
@@ -45897,7 +45657,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "22.11.2026 12:30",
@@ -45927,7 +45687,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 95
+        "aiScore": 96
     },
     {
         "date": "22.11.2026 12:30",
@@ -47247,7 +47007,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "22.11.2026 13:00",
@@ -47517,7 +47277,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "22.11.2026 13:00",
@@ -48057,7 +47817,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 97
     },
     {
         "date": "22.11.2026 13:30",
@@ -48627,7 +48387,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "22.11.2026 13:30",
@@ -58287,7 +58047,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "23.11.2026 17:00",
@@ -58767,7 +58527,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "23.11.2026 18:00",
@@ -61947,7 +61707,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "23.11.2026 23:00",
@@ -64197,7 +63957,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "20.11.2026 12:45",
@@ -66387,7 +66147,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "21.11.2026 12:00",
@@ -67857,7 +67617,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "22.11.2026 05:00",
@@ -71277,7 +71037,7 @@
             "e": 85,
             "b": 92.59
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "22.11.2026 16:00",
@@ -71457,7 +71217,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "19.11.2026 16:45",
@@ -73197,7 +72957,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 71
+        "aiScore": 70
     },
     {
         "date": "22.11.2026 11:00",
@@ -74577,7 +74337,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "19.11.2026 22:30",
