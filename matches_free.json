@@ -3747,7 +3747,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "21.11.2026 13:00",
@@ -3897,7 +3897,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 53
+        "aiScore": 52
     },
     {
         "date": "21.11.2026 13:00",
@@ -5637,7 +5637,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 54
+        "aiScore": 53
     },
     {
         "date": "21.11.2026 14:30",
@@ -6117,7 +6117,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "21.11.2026 14:30",
@@ -8067,7 +8067,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "21.11.2026 15:00",
@@ -8308,156 +8308,6 @@
             "b": 100.0
         },
         "aiScore": 69
-    },
-    {
-        "date": "21.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487276",
-        "home": "Sanfrecce Hiroshima",
-        "away": "Yokohama F. Marinos",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Match Result 1",
-        "ihtimal": "80.0",
-        "odds": "1.25",
-        "matchCount": "5",
-        "matchLink": "4487276",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 03:37",
-        "patternScore": 67.27,
-        "patternText": "201.770/299.953",
-        "patternInfo": {
-            "m": 74,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 88.89
-        },
-        "aiScore": 61
-    },
-    {
-        "date": "21.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487276",
-        "home": "Sanfrecce Hiroshima",
-        "away": "Yokohama F. Marinos",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "80.0",
-        "odds": "1.13",
-        "matchCount": "5",
-        "matchLink": "4487276",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 03:37",
-        "patternScore": 68.28,
-        "patternText": "214.287/313.849",
-        "patternInfo": {
-            "m": 77,
-            "s": 4,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 85
-    },
-    {
-        "date": "21.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487276",
-        "home": "Sanfrecce Hiroshima",
-        "away": "Yokohama F. Marinos",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 12",
-        "ihtimal": "80.0",
-        "odds": "1.26",
-        "matchCount": "5",
-        "matchLink": "4487276",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 03:37",
-        "patternScore": 67.12,
-        "patternText": "195.202/290.835",
-        "patternInfo": {
-            "m": 77,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 63
-    },
-    {
-        "date": "21.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487276",
-        "home": "Sanfrecce Hiroshima",
-        "away": "Yokohama F. Marinos",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "80.0",
-        "odds": "1.09",
-        "matchCount": "5",
-        "matchLink": "4487276",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 03:37",
-        "patternScore": 68.73,
-        "patternText": "240.293/349.607",
-        "patternInfo": {
-            "m": 87,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 89
-    },
-    {
-        "date": "21.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487276",
-        "home": "Sanfrecce Hiroshima",
-        "away": "Yokohama F. Marinos",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Under 2.5",
-        "ihtimal": "80.0",
-        "odds": "1.06",
-        "matchCount": "5",
-        "matchLink": "4487276",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 03:37",
-        "patternScore": 68.67,
-        "patternText": "211.691/308.261",
-        "patternInfo": {
-            "m": 76,
-            "s": 8,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 96
     },
     {
         "date": "21.11.2026 05:00",
@@ -11187,7 +11037,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "21.11.2026 12:45",
@@ -11787,7 +11637,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "21.11.2026 13:00",
@@ -13587,7 +13437,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 96
     },
     {
         "date": "21.11.2026 15:00",
@@ -16437,7 +16287,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "21.11.2026 15:00",
@@ -16707,7 +16557,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "21.11.2026 13:30",
@@ -21027,7 +20877,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "21.11.2026 15:30",
@@ -26127,7 +25977,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 61
     },
     {
         "date": "21.11.2026 18:00",
@@ -26697,7 +26547,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "21.11.2026 19:00",
@@ -27597,7 +27447,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 55
+        "aiScore": 54
     },
     {
         "date": "21.11.2026 19:45",
@@ -28347,7 +28197,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 56
+        "aiScore": 55
     },
     {
         "date": "21.11.2026 19:45",
@@ -29907,7 +29757,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 57
     },
     {
         "date": "21.11.2026 21:00",
@@ -30567,7 +30417,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "21.11.2026 23:00",
@@ -35187,7 +35037,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 63
     },
     {
         "date": "22.11.2026 12:30",
@@ -39207,7 +39057,7 @@
             "e": 85,
             "b": 85.0
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "22.11.2026 14:00",
@@ -39417,7 +39267,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "22.11.2026 14:30",
@@ -42567,7 +42417,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "22.11.2026 16:30",
@@ -43047,7 +42897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 96
     },
     {
         "date": "22.11.2026 16:30",
@@ -43737,7 +43587,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "22.11.2026 17:00",
@@ -45207,7 +45057,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 57
     },
     {
         "date": "22.11.2026 18:30",
@@ -48237,7 +48087,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 70
     },
     {
         "date": "23.11.2026 19:00",
@@ -52707,7 +52557,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 66
     },
     {
         "date": "21.11.2026 17:00",
@@ -55977,7 +55827,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 61
     },
     {
         "date": "22.11.2026 17:30",
@@ -56307,7 +56157,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 56
+        "aiScore": 55
     },
     {
         "date": "22.11.2026 19:00",
@@ -58047,7 +57897,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "22.11.2026 11:00",
@@ -59097,7 +58947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "22.11.2026 11:00",
@@ -59967,7 +59817,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 54
+        "aiScore": 53
     },
     {
         "date": "21.11.2026 12:00",
@@ -61257,7 +61107,7 @@
             "e": 85,
             "b": 89.47
         },
-        "aiScore": 57
+        "aiScore": 56
     },
     {
         "date": "20.11.2026 13:00",
@@ -64077,7 +63927,7 @@
             "e": 85,
             "b": 74.45
         },
-        "aiScore": 56
+        "aiScore": 55
     },
     {
         "date": "20.11.2026 13:30",
@@ -64227,7 +64077,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "20.11.2026 13:00",
@@ -65397,7 +65247,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 63
+        "aiScore": 62
     },
     {
         "date": "20.11.2026 13:00",
@@ -65817,7 +65667,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "20.11.2026 18:30",
@@ -65967,7 +65817,7 @@
             "e": 85,
             "b": 84.44
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "20.11.2026 12:45",
@@ -68097,7 +67947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "20.11.2026 19:30",
@@ -68847,7 +68697,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 55
+        "aiScore": 54
     },
     {
         "date": "22.11.2026 12:30",
@@ -69327,7 +69177,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 55
+        "aiScore": 54
     },
     {
         "date": "20.11.2026 19:45",
@@ -70377,7 +70227,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 69
     },
     {
         "date": "20.11.2026 15:30",
@@ -73227,7 +73077,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 57
+        "aiScore": 56
     },
     {
         "date": "20.11.2026 18:00",
@@ -76617,7 +76467,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "20.11.2026 20:00",
@@ -77397,7 +77247,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "21.11.2026 05:00",
@@ -77937,7 +77787,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "21.11.2026 05:00",
@@ -79831,276 +79681,6 @@
     },
     {
         "date": "21.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487270",
-        "home": "FC Machida Zelvia",
-        "away": "V-Varen Nagasaki",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Match Result 1",
-        "ihtimal": "80.0",
-        "odds": "1.33",
-        "matchCount": "10",
-        "matchLink": "4487270",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "2/5",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 03:36",
-        "patternScore": 68.26,
-        "patternText": "182.899/267.933",
-        "patternInfo": {
-            "m": 64,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 90.0
-        },
-        "aiScore": 59
-    },
-    {
-        "date": "21.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487270",
-        "home": "FC Machida Zelvia",
-        "away": "V-Varen Nagasaki",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "80.0",
-        "odds": "1.08",
-        "matchCount": "10",
-        "matchLink": "4487270",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "2/5",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 03:36",
-        "patternScore": 70.94,
-        "patternText": "263.532/371.483",
-        "patternInfo": {
-            "m": 83,
-            "s": 5,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 94
-    },
-    {
-        "date": "21.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487270",
-        "home": "FC Machida Zelvia",
-        "away": "V-Varen Nagasaki",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "HT/FT 1/1",
-        "ihtimal": "70.0",
-        "odds": "1.90",
-        "matchCount": "10",
-        "matchLink": "4487270",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "2/5",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 03:36",
-        "patternScore": 68.05,
-        "patternText": "264.171/388.196",
-        "patternInfo": {
-            "m": 51,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 94.44
-        },
-        "aiScore": 52
-    },
-    {
-        "date": "21.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487270",
-        "home": "FC Machida Zelvia",
-        "away": "V-Varen Nagasaki",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "90.0",
-        "odds": "1.12",
-        "matchCount": "10",
-        "matchLink": "4487270",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "2/5",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 03:36",
-        "patternScore": 69.21,
-        "patternText": "146.470/211.636",
-        "patternInfo": {
-            "m": 72,
-            "s": 4,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 91
-    },
-    {
-        "date": "21.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487270",
-        "home": "FC Machida Zelvia",
-        "away": "V-Varen Nagasaki",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "70.0",
-        "odds": "1.21",
-        "matchCount": "10",
-        "matchLink": "4487270",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "2/5",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 03:36",
-        "patternScore": 68.39,
-        "patternText": "313.957/459.072",
-        "patternInfo": {
-            "m": 87,
-            "s": 10,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 66
-    },
-    {
-        "date": "21.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487270",
-        "home": "FC Machida Zelvia",
-        "away": "V-Varen Nagasaki",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Both Teams to Score - No",
-        "ihtimal": "70.0",
-        "odds": "1.62",
-        "matchCount": "10",
-        "matchLink": "4487270",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "2/5",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 03:36",
-        "patternScore": 67.61,
-        "patternText": "270.121/399.556",
-        "patternInfo": {
-            "m": 62,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 94.44
-        },
-        "aiScore": 53
-    },
-    {
-        "date": "21.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487270",
-        "home": "FC Machida Zelvia",
-        "away": "V-Varen Nagasaki",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Result 1",
-        "ihtimal": "80.0",
-        "odds": "1.80",
-        "matchCount": "10",
-        "matchLink": "4487270",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "2/5",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 03:36",
-        "patternScore": 67.96,
-        "patternText": "170.267/250.551",
-        "patternInfo": {
-            "m": 53,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 89.47
-        },
-        "aiScore": 52
-    },
-    {
-        "date": "21.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487270",
-        "home": "FC Machida Zelvia",
-        "away": "V-Varen Nagasaki",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 12",
-        "ihtimal": "90.0",
-        "odds": "1.36",
-        "matchCount": "10",
-        "matchLink": "4487270",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "2/5",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 03:36",
-        "patternScore": 67.43,
-        "patternText": "115.573/171.391",
-        "patternInfo": {
-            "m": 54,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 61
-    },
-    {
-        "date": "21.11.2026 05:00",
-        "league": "JAP",
-        "matchCode": "4487270",
-        "home": "FC Machida Zelvia",
-        "away": "V-Varen Nagasaki",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "100.0",
-        "odds": "1.19",
-        "matchCount": "10",
-        "matchLink": "4487270",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "2/5",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 03:36",
-        "patternScore": 63.38,
-        "patternText": "185.597/292.844",
-        "patternInfo": {
-            "m": 67,
-            "s": 3,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 77
-    },
-    {
-        "date": "21.11.2026 05:00",
         "league": "GKOR2",
         "matchCode": "4442883",
         "home": "Suwon Samsung Bluewings",
@@ -80187,7 +79767,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "21.11.2026 05:00",
@@ -81218,9 +80798,9 @@
         "firstHalf": "-",
         "finalScore": "-",
         "prediction": "Double Chance 12",
-        "ihtimal": "77.04",
-        "odds": "1.11",
-        "matchCount": "135",
+        "ihtimal": "76.15",
+        "odds": "1.12",
+        "matchCount": "130",
         "matchLink": "4487682",
         "status": "Pending",
         "predictedScore": "1-1",
@@ -81229,15 +80809,15 @@
         "tahminUpdated": true,
         "tahminUpdatedAt": "21.11.2026 03:36",
         "patternScore": 70.47,
-        "patternText": "350.925/497.973",
+        "patternText": "353.463/501.567",
         "patternInfo": {
-            "m": 89,
-            "s": 17,
-            "f": 0,
+            "m": 90,
+            "s": 20,
+            "f": 3,
             "e": 85,
-            "b": 94.12
+            "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 89
     },
     {
         "date": "21.11.2026 05:00",
@@ -81248,9 +80828,9 @@
         "firstHalf": "-",
         "finalScore": "-",
         "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "70.37",
-        "odds": "1.15",
-        "matchCount": "135",
+        "ihtimal": "72.31",
+        "odds": "1.16",
+        "matchCount": "130",
         "matchLink": "4487682",
         "status": "Pending",
         "predictedScore": "1-1",
@@ -81258,15 +80838,255 @@
         "mbs": 2,
         "tahminUpdated": true,
         "tahminUpdatedAt": "21.11.2026 03:36",
-        "patternScore": 69.73,
-        "patternText": "298.114/427.506",
+        "patternScore": 69.54,
+        "patternText": "289.460/416.220",
         "patternInfo": {
-            "m": 87,
-            "s": 5,
-            "f": 2,
+            "m": 82,
+            "s": 3,
+            "f": 1,
             "e": 85,
             "b": 100.0
         },
         "aiScore": 66
+    },
+    {
+        "date": "21.11.2026 05:00",
+        "league": "JAP",
+        "matchCode": "4487270",
+        "home": "FC Machida Zelvia",
+        "away": "V-Varen Nagasaki",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 1",
+        "ihtimal": "80.0",
+        "odds": "1.31",
+        "matchCount": "5",
+        "matchLink": "4487270",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "2/5",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 03:36",
+        "patternScore": 67.19,
+        "patternText": "199.705/297.241",
+        "patternInfo": {
+            "m": 68,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        },
+        "aiScore": 58
+    },
+    {
+        "date": "21.11.2026 05:00",
+        "league": "JAP",
+        "matchCode": "4487270",
+        "home": "FC Machida Zelvia",
+        "away": "V-Varen Nagasaki",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "100.0",
+        "odds": "1.08",
+        "matchCount": "5",
+        "matchLink": "4487270",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "2/5",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 03:36",
+        "patternScore": 65.8,
+        "patternText": "252.970/384.452",
+        "patternInfo": {
+            "m": 80,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 95.45
+        },
+        "aiScore": 97
+    },
+    {
+        "date": "21.11.2026 05:00",
+        "league": "JAP",
+        "matchCode": "4487270",
+        "home": "FC Machida Zelvia",
+        "away": "V-Varen Nagasaki",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "80.0",
+        "odds": "1.37",
+        "matchCount": "5",
+        "matchLink": "4487270",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "2/5",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 03:36",
+        "patternScore": 67.37,
+        "patternText": "195.397/290.025",
+        "patternInfo": {
+            "m": 65,
+            "s": 2,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 58
+    },
+    {
+        "date": "21.11.2026 05:00",
+        "league": "JAP",
+        "matchCode": "4487270",
+        "home": "FC Machida Zelvia",
+        "away": "V-Varen Nagasaki",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.21",
+        "matchCount": "5",
+        "matchLink": "4487270",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "2/5",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 03:36",
+        "patternScore": 63.05,
+        "patternText": "206.226/327.081",
+        "patternInfo": {
+            "m": 77,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 91.67
+        },
+        "aiScore": 69
+    },
+    {
+        "date": "21.11.2026 05:00",
+        "league": "JAP",
+        "matchCode": "4487276",
+        "home": "Sanfrecce Hiroshima",
+        "away": "Yokohama F. Marinos",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 1",
+        "ihtimal": "75.0",
+        "odds": "1.28",
+        "matchCount": "8",
+        "matchLink": "4487276",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 03:37",
+        "patternScore": 67.47,
+        "patternText": "289.430/429.003",
+        "patternInfo": {
+            "m": 80,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 85.71
+        },
+        "aiScore": 59
+    },
+    {
+        "date": "21.11.2026 05:00",
+        "league": "JAP",
+        "matchCode": "4487276",
+        "home": "Sanfrecce Hiroshima",
+        "away": "Yokohama F. Marinos",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 4.5 Goals",
+        "ihtimal": "75.0",
+        "odds": "1.11",
+        "matchCount": "8",
+        "matchLink": "4487276",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 03:37",
+        "patternScore": 68.37,
+        "patternText": "305.647/447.049",
+        "patternInfo": {
+            "m": 78,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 80
+    },
+    {
+        "date": "21.11.2026 05:00",
+        "league": "JAP",
+        "matchCode": "4487276",
+        "home": "Sanfrecce Hiroshima",
+        "away": "Yokohama F. Marinos",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 12",
+        "ihtimal": "75.0",
+        "odds": "1.28",
+        "matchCount": "8",
+        "matchLink": "4487276",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 03:37",
+        "patternScore": 67.4,
+        "patternText": "282.210/418.699",
+        "patternInfo": {
+            "m": 79,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        },
+        "aiScore": 60
+    },
+    {
+        "date": "21.11.2026 05:00",
+        "league": "JAP",
+        "matchCode": "4487276",
+        "home": "Sanfrecce Hiroshima",
+        "away": "Yokohama F. Marinos",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "75.0",
+        "odds": "1.10",
+        "matchCount": "8",
+        "matchLink": "4487276",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 03:37",
+        "patternScore": 68.26,
+        "patternText": "322.357/472.228",
+        "patternInfo": {
+            "m": 85,
+            "s": 2,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 78
     }
 ]
