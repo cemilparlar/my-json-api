@@ -5007,7 +5007,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "21.11.2026 14:00",
@@ -7977,7 +7977,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "21.11.2026 15:00",
@@ -9657,7 +9657,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "21.11.2026 05:00",
@@ -10123,8 +10123,8 @@
         "matchCount": "153",
         "matchLink": "4572349",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "0-1",
+        "predictedScoreText": "17/160",
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -10167,7 +10167,7 @@
             "e": 85,
             "b": 89.47
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "21.11.2026 12:00",
@@ -14233,11 +14233,11 @@
         "matchCount": "265",
         "matchLink": "4539377",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "32/265",
+        "predictedScore": "1-0",
+        "predictedScoreText": "38/272",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 05:46",
         "patternScore": 69.95,
         "patternText": "358.402/512.364",
         "patternInfo": {
@@ -15387,7 +15387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "21.11.2026 15:00",
@@ -17457,7 +17457,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "21.11.2026 15:00",
@@ -20187,7 +20187,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "21.11.2026 15:30",
@@ -23637,7 +23637,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "21.11.2026 17:30",
@@ -24567,7 +24567,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "21.11.2026 17:45",
@@ -25287,7 +25287,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "21.11.2026 18:00",
@@ -26547,7 +26547,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "21.11.2026 19:30",
@@ -27507,7 +27507,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "21.11.2026 19:45",
@@ -28167,7 +28167,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "21.11.2026 20:00",
@@ -29067,7 +29067,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "21.11.2026 21:00",
@@ -31227,7 +31227,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "22.11.2026 05:00",
@@ -33147,7 +33147,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "22.11.2026 11:30",
@@ -34347,7 +34347,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "22.11.2026 12:30",
@@ -39657,7 +39657,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "22.11.2026 15:15",
@@ -40497,7 +40497,7 @@
             "e": 85,
             "b": 88.24
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "22.11.2026 16:00",
@@ -45987,7 +45987,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "23.11.2026 16:30",
@@ -47397,7 +47397,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "23.11.2026 19:00",
@@ -49257,7 +49257,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "21.11.2026 17:00",
@@ -51193,11 +51193,11 @@
         "matchCount": "15",
         "matchLink": "4538574",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-2",
+        "predictedScoreText": "4/18",
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 05:46",
         "patternScore": 70.91,
         "patternText": "276.851/390.413",
         "patternInfo": {
@@ -51223,11 +51223,11 @@
         "matchCount": "15",
         "matchLink": "4538574",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-2",
+        "predictedScoreText": "4/18",
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 05:46",
         "patternScore": 69.35,
         "patternText": "215.729/311.053",
         "patternInfo": {
@@ -53547,7 +53547,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "22.11.2026 02:00",
@@ -54387,7 +54387,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "22.11.2026 12:30",
@@ -55137,7 +55137,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "22.11.2026 17:30",
@@ -58977,7 +58977,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "22.11.2026 22:30",
@@ -60387,7 +60387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "21.11.2026 16:00",
@@ -63657,7 +63657,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "20.11.2026 14:00",
@@ -64137,7 +64137,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 53
+        "aiScore": 54
     },
     {
         "date": "20.11.2026 13:00",
@@ -64677,7 +64677,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 52
+        "aiScore": 53
     },
     {
         "date": "21.11.2026 11:00",
@@ -67437,7 +67437,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "22.11.2026 12:30",
@@ -69657,7 +69657,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "21.11.2026 15:00",
@@ -70407,7 +70407,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "20.11.2026 16:30",
@@ -71817,7 +71817,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "20.11.2026 18:00",
@@ -73497,7 +73497,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "20.11.2026 18:30",
@@ -80520,36 +80520,6 @@
         "aiScore": 73
     },
     {
-        "date": "21.11.2026 07:00",
-        "league": "HK1",
-        "matchCode": "4527601",
-        "home": "Wofoo Tai Po",
-        "away": "Kitchee SC",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 12",
-        "ihtimal": "78.26",
-        "odds": "1.20",
-        "matchCount": "23",
-        "matchLink": "4527601",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 05:10",
-        "patternScore": 68.24,
-        "patternText": "262.940/385.322",
-        "patternInfo": {
-            "m": 55,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 90.32
-        },
-        "aiScore": 62
-    },
-    {
         "date": "21.11.2026 11:00",
         "league": "POL2",
         "matchCode": "4486576",
@@ -80803,11 +80773,11 @@
         "matchCount": "29",
         "matchLink": "4486580",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-2",
+        "predictedScoreText": "6/41",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 05:12",
+        "tahminUpdatedAt": "21.11.2026 05:44",
         "patternScore": 68.11,
         "patternText": "280.893/412.415",
         "patternInfo": {
@@ -80833,11 +80803,11 @@
         "matchCount": "29",
         "matchLink": "4486580",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-2",
+        "predictedScoreText": "6/41",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 05:12",
+        "tahminUpdatedAt": "21.11.2026 05:44",
         "patternScore": 69.39,
         "patternText": "302.861/436.477",
         "patternInfo": {
@@ -80863,11 +80833,11 @@
         "matchCount": "29",
         "matchLink": "4486580",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-2",
+        "predictedScoreText": "6/41",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 05:12",
+        "tahminUpdatedAt": "21.11.2026 05:44",
         "patternScore": 68.24,
         "patternText": "282.873/414.507",
         "patternInfo": {
@@ -81433,11 +81403,11 @@
         "matchCount": "138",
         "matchLink": "4513346",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-1",
+        "predictedScoreText": "20/151",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 05:28",
+        "tahminUpdatedAt": "21.11.2026 05:44",
         "patternScore": 69.96,
         "patternText": "177.716/254.028",
         "patternInfo": {
@@ -81508,5 +81478,95 @@
             "b": 100.0
         },
         "aiScore": 66
+    },
+    {
+        "date": "21.11.2026 07:00",
+        "league": "HK1",
+        "matchCode": "4527601",
+        "home": "Wofoo Tai Po",
+        "away": "Kitchee SC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 3.5 Goals",
+        "ihtimal": "77.78",
+        "odds": "1.69",
+        "matchCount": "9",
+        "matchLink": "4527601",
+        "status": "Pending",
+        "predictedScore": "1-3",
+        "predictedScoreText": "3/9",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 05:44",
+        "patternScore": 67.17,
+        "patternText": "266.316/396.494",
+        "patternInfo": {
+            "m": 47,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 90.32
+        },
+        "aiScore": 52
+    },
+    {
+        "date": "21.11.2026 07:00",
+        "league": "HK1",
+        "matchCode": "4527601",
+        "home": "Wofoo Tai Po",
+        "away": "Kitchee SC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Result 2",
+        "ihtimal": "77.78",
+        "odds": "1.72",
+        "matchCount": "9",
+        "matchLink": "4527601",
+        "status": "Pending",
+        "predictedScore": "1-3",
+        "predictedScoreText": "3/9",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 05:44",
+        "patternScore": 67.24,
+        "patternText": "265.392/394.722",
+        "patternInfo": {
+            "m": 41,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 90.32
+        },
+        "aiScore": 53
+    },
+    {
+        "date": "21.11.2026 07:00",
+        "league": "HK1",
+        "matchCode": "4527601",
+        "home": "Wofoo Tai Po",
+        "away": "Kitchee SC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 12",
+        "ihtimal": "77.78",
+        "odds": "1.21",
+        "matchCount": "9",
+        "matchLink": "4527601",
+        "status": "Pending",
+        "predictedScore": "1-3",
+        "predictedScoreText": "3/9",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 05:44",
+        "patternScore": 67.42,
+        "patternText": "283.926/421.110",
+        "patternInfo": {
+            "m": 55,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 90.32
+        },
+        "aiScore": 63
     }
 ]
