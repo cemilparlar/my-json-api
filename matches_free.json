@@ -613,8 +613,8 @@
         "matchCount": "1",
         "matchLink": "4542758",
         "status": "Pending",
-        "predictedScore": "5-3",
-        "predictedScoreText": "1/1",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -643,8 +643,8 @@
         "matchCount": "1",
         "matchLink": "4542758",
         "status": "Pending",
-        "predictedScore": "5-3",
-        "predictedScoreText": "1/1",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -673,8 +673,8 @@
         "matchCount": "1",
         "matchLink": "4542758",
         "status": "Pending",
-        "predictedScore": "5-3",
-        "predictedScoreText": "1/1",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -688,396 +688,6 @@
             "b": 92.0
         },
         "aiScore": 80
-    },
-    {
-        "date": "21.11.2026 13:00",
-        "league": "İS1",
-        "matchCode": "4492379",
-        "home": "Deportivo Alaves",
-        "away": "Deportivo La Coruna",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "77.78",
-        "odds": "1.20",
-        "matchCount": "18",
-        "matchLink": "4492379",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "6/33",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 07:19",
-        "patternScore": 69.55,
-        "patternText": "392.165/563.899",
-        "patternInfo": {
-            "m": 87,
-            "s": 6,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 73
-    },
-    {
-        "date": "21.11.2026 13:00",
-        "league": "İS1",
-        "matchCode": "4492379",
-        "home": "Deportivo Alaves",
-        "away": "Deportivo La Coruna",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (0:1) 2",
-        "ihtimal": "72.22222222222221",
-        "odds": "1.44",
-        "matchCount": "18",
-        "matchLink": "4492379",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "6/33",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 07:19",
-        "patternScore": 67.78,
-        "patternText": "298.890/440.946",
-        "patternInfo": {
-            "m": 70,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 88.89
-        },
-        "aiScore": 55
-    },
-    {
-        "date": "21.11.2026 13:00",
-        "league": "İS1",
-        "matchCode": "4492379",
-        "home": "Deportivo Alaves",
-        "away": "Deportivo La Coruna",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "83.33",
-        "odds": "1.21",
-        "matchCount": "18",
-        "matchLink": "4492379",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "6/33",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 07:19",
-        "patternScore": 69.04,
-        "patternText": "226.710/328.380",
-        "patternInfo": {
-            "m": 79,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 88.89
-        },
-        "aiScore": 70
-    },
-    {
-        "date": "21.11.2026 13:00",
-        "league": "İS1",
-        "matchCode": "4492379",
-        "home": "Deportivo Alaves",
-        "away": "Deportivo La Coruna",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 12",
-        "ihtimal": "88.89",
-        "odds": "1.52",
-        "matchCount": "18",
-        "matchLink": "4492379",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "6/33",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 07:19",
-        "patternScore": 68.19,
-        "patternText": "194.248/284.883",
-        "patternInfo": {
-            "m": 58,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 88.89
-        },
-        "aiScore": 57
-    },
-    {
-        "date": "21.11.2026 13:00",
-        "league": "İS1",
-        "matchCode": "4492379",
-        "home": "Deportivo Alaves",
-        "away": "Deportivo La Coruna",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "88.89",
-        "odds": "1.30",
-        "matchCount": "18",
-        "matchLink": "4492379",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "6/33",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 07:19",
-        "patternScore": 68.45,
-        "patternText": "214.830/313.839",
-        "patternInfo": {
-            "m": 72,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 88.89
-        },
-        "aiScore": 64
-    },
-    {
-        "date": "21.11.2026 13:00",
-        "league": "TSL",
-        "matchCode": "4542755",
-        "home": "Amed SK",
-        "away": "Rizespor",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Match Result 1",
-        "ihtimal": "70.0",
-        "odds": "1.54",
-        "matchCount": "10",
-        "matchLink": "4542755",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "3/13",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 07:20",
-        "patternScore": 67.78,
-        "patternText": "306.968/452.869",
-        "patternInfo": {
-            "m": 72,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 92.86
-        },
-        "aiScore": 54
-    },
-    {
-        "date": "21.11.2026 13:00",
-        "league": "TSL",
-        "matchCode": "4542755",
-        "home": "Amed SK",
-        "away": "Rizespor",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "90.0",
-        "odds": "1.11",
-        "matchCount": "10",
-        "matchLink": "4542755",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "3/13",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 07:20",
-        "patternScore": 70.07,
-        "patternText": "211.144/301.327",
-        "patternInfo": {
-            "m": 80,
-            "s": 7,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 95
-    },
-    {
-        "date": "21.11.2026 13:00",
-        "league": "TSL",
-        "matchCode": "4542755",
-        "home": "Amed SK",
-        "away": "Rizespor",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (0:2) 2",
-        "ihtimal": "80.0",
-        "odds": "1.23",
-        "matchCount": "10",
-        "matchLink": "4542755",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "3/13",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 07:20",
-        "patternScore": 68.28,
-        "patternText": "206.474/302.379",
-        "patternInfo": {
-            "m": 71,
-            "s": 8,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 68
-    },
-    {
-        "date": "21.11.2026 13:00",
-        "league": "TSL",
-        "matchCode": "4542755",
-        "home": "Amed SK",
-        "away": "Rizespor",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Over 2.5 Goals",
-        "ihtimal": "70.0",
-        "odds": "1.41",
-        "matchCount": "10",
-        "matchLink": "4542755",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "3/13",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 07:20",
-        "patternScore": 67.53,
-        "patternText": "305.896/452.971",
-        "patternInfo": {
-            "m": 81,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 92.86
-        },
-        "aiScore": 55
-    },
-    {
-        "date": "21.11.2026 13:00",
-        "league": "TSL",
-        "matchCode": "4542755",
-        "home": "Amed SK",
-        "away": "Rizespor",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "70.0",
-        "odds": "1.08",
-        "matchCount": "10",
-        "matchLink": "4542755",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "3/13",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 07:20",
-        "patternScore": 68.86,
-        "patternText": "331.408/481.257",
-        "patternInfo": {
-            "m": 86,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 92.86
-        },
-        "aiScore": 83
-    },
-    {
-        "date": "21.11.2026 13:00",
-        "league": "TSL",
-        "matchCode": "4542755",
-        "home": "Amed SK",
-        "away": "Rizespor",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "80.0",
-        "odds": "1.07",
-        "matchCount": "10",
-        "matchLink": "4542755",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "3/13",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 07:20",
-        "patternScore": 69.8,
-        "patternText": "248.304/355.713",
-        "patternInfo": {
-            "m": 88,
-            "s": 12,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 97
-    },
-    {
-        "date": "21.11.2026 13:00",
-        "league": "TSL",
-        "matchCode": "4542755",
-        "home": "Amed SK",
-        "away": "Rizespor",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "90.0",
-        "odds": "1.14",
-        "matchCount": "10",
-        "matchLink": "4542755",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "3/13",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 07:20",
-        "patternScore": 67.95,
-        "patternText": "161.570/237.795",
-        "patternInfo": {
-            "m": 72,
-            "s": 5,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 84
-    },
-    {
-        "date": "21.11.2026 13:00",
-        "league": "TSL",
-        "matchCode": "4542755",
-        "home": "Amed SK",
-        "away": "Rizespor",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "80.0",
-        "odds": "1.43",
-        "matchCount": "10",
-        "matchLink": "4542755",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "3/13",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 07:20",
-        "patternScore": 67.67,
-        "patternText": "214.712/317.300",
-        "patternInfo": {
-            "m": 76,
-            "s": 6,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 56
     },
     {
         "date": "21.11.2026 15:00",
@@ -1663,11 +1273,11 @@
         "matchCount": "6",
         "matchLink": "4517727",
         "status": "Pending",
-        "predictedScore": "3-1",
-        "predictedScoreText": "2/6",
+        "predictedScore": "2-2",
+        "predictedScoreText": "2/10",
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:31",
         "patternScore": 67.81,
         "patternText": "254.858/375.845",
         "patternInfo": {
@@ -1693,11 +1303,11 @@
         "matchCount": "6",
         "matchLink": "4517727",
         "status": "Pending",
-        "predictedScore": "3-1",
-        "predictedScoreText": "2/6",
+        "predictedScore": "2-2",
+        "predictedScoreText": "2/10",
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:31",
         "patternScore": 67.56,
         "patternText": "242.500/358.951",
         "patternInfo": {
@@ -1723,11 +1333,11 @@
         "matchCount": "6",
         "matchLink": "4517727",
         "status": "Pending",
-        "predictedScore": "3-1",
-        "predictedScoreText": "2/6",
+        "predictedScore": "2-2",
+        "predictedScoreText": "2/10",
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:31",
         "patternScore": 68.31,
         "patternText": "244.756/358.291",
         "patternInfo": {
@@ -1753,11 +1363,11 @@
         "matchCount": "6",
         "matchLink": "4517727",
         "status": "Pending",
-        "predictedScore": "3-1",
-        "predictedScoreText": "2/6",
+        "predictedScore": "2-2",
+        "predictedScoreText": "2/10",
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:31",
         "patternScore": 67.88,
         "patternText": "254.278/374.624",
         "patternInfo": {
@@ -1917,7 +1527,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "21.11.2026 13:00",
@@ -2907,7 +2517,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 69
     },
     {
         "date": "21.11.2026 14:00",
@@ -4317,7 +3927,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 59
     },
     {
         "date": "21.11.2026 14:30",
@@ -6417,7 +6027,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "20.11.2026 19:30",
@@ -6477,7 +6087,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "21.11.2026 07:00",
@@ -6973,8 +6583,8 @@
         "matchCount": "126",
         "matchLink": "4498127",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "14/126",
+        "predictedScore": "0-1",
+        "predictedScoreText": "24/158",
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -7003,8 +6613,8 @@
         "matchCount": "126",
         "matchLink": "4498127",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "14/126",
+        "predictedScore": "0-1",
+        "predictedScoreText": "24/158",
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -8086,8 +7696,8 @@
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:30",
         "patternScore": 58.16,
         "patternText": "286.469/492.595",
         "patternInfo": {
@@ -8116,8 +7726,8 @@
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:30",
         "patternScore": 61.62,
         "patternText": "367.665/596.652",
         "patternInfo": {
@@ -8127,7 +7737,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "21.11.2026 13:00",
@@ -8146,8 +7756,8 @@
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:30",
         "patternScore": 59.12,
         "patternText": "304.919/515.763",
         "patternInfo": {
@@ -8176,8 +7786,8 @@
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:30",
         "patternScore": 57.96,
         "patternText": "277.441/478.659",
         "patternInfo": {
@@ -8206,8 +7816,8 @@
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:30",
         "patternScore": 58.11,
         "patternText": "276.249/475.423",
         "patternInfo": {
@@ -8236,8 +7846,8 @@
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:30",
         "patternScore": 58.05,
         "patternText": "277.003/477.157",
         "patternInfo": {
@@ -8266,8 +7876,8 @@
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:30",
         "patternScore": 58.44,
         "patternText": "295.957/506.391",
         "patternInfo": {
@@ -8296,8 +7906,8 @@
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:30",
         "patternScore": 57.86,
         "patternText": "281.795/487.061",
         "patternInfo": {
@@ -8326,8 +7936,8 @@
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:30",
         "patternScore": 57.88,
         "patternText": "279.855/483.509",
         "patternInfo": {
@@ -8356,8 +7966,8 @@
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:30",
         "patternScore": 59.77,
         "patternText": "314.229/525.723",
         "patternInfo": {
@@ -8386,8 +7996,8 @@
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:30",
         "patternScore": 60.04,
         "patternText": "323.300/538.514",
         "patternInfo": {
@@ -8413,11 +8023,11 @@
         "matchCount": "114",
         "matchLink": "4476308",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-0",
+        "predictedScoreText": "23/162",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:32",
         "patternScore": 68.94,
         "patternText": "290.251/421.003",
         "patternInfo": {
@@ -8443,11 +8053,11 @@
         "matchCount": "114",
         "matchLink": "4476308",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-0",
+        "predictedScoreText": "23/162",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:32",
         "patternScore": 68.41,
         "patternText": "302.860/442.711",
         "patternInfo": {
@@ -8473,11 +8083,11 @@
         "matchCount": "114",
         "matchLink": "4476308",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-0",
+        "predictedScoreText": "23/162",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:32",
         "patternScore": 68.71,
         "patternText": "314.145/457.235",
         "patternInfo": {
@@ -9147,7 +8757,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 67
+        "aiScore": 66
     },
     {
         "date": "21.11.2026 14:30",
@@ -9777,7 +9387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 99
     },
     {
         "date": "21.11.2026 15:00",
@@ -10483,11 +10093,11 @@
         "matchCount": "145",
         "matchLink": "4484026",
         "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "19/145",
+        "predictedScore": "1-1",
+        "predictedScoreText": "24/206",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:31",
         "patternScore": 69.99,
         "patternText": "383.858/548.409",
         "patternInfo": {
@@ -10528,66 +10138,6 @@
             "b": 90.0
         },
         "aiScore": 68
-    },
-    {
-        "date": "21.11.2026 13:00",
-        "league": "HOLTW",
-        "matchCode": "4541298",
-        "home": "Koninklijke HFC",
-        "away": "Hhc",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "80.72",
-        "odds": "1.09",
-        "matchCount": "83",
-        "matchLink": "4541298",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "12/118",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 07:20",
-        "patternScore": 71.42,
-        "patternText": "369.024/516.710",
-        "patternInfo": {
-            "m": 92,
-            "s": 8,
-            "f": 0,
-            "e": 85,
-            "b": 90.91
-        },
-        "aiScore": 90
-    },
-    {
-        "date": "21.11.2026 13:00",
-        "league": "HOLTW",
-        "matchCode": "4541298",
-        "home": "Koninklijke HFC",
-        "away": "Hhc",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "74.7",
-        "odds": "1.10",
-        "matchCount": "83",
-        "matchLink": "4541298",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "12/118",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 07:20",
-        "patternScore": 69.64,
-        "patternText": "392.452/563.558",
-        "patternInfo": {
-            "m": 83,
-            "s": 6,
-            "f": 0,
-            "e": 85,
-            "b": 90.0
-        },
-        "aiScore": 78
     },
     {
         "date": "21.11.2026 13:30",
@@ -11457,7 +11007,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "21.11.2026 14:00",
@@ -12957,7 +12507,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 97
     },
     {
         "date": "21.11.2026 15:00",
@@ -14667,7 +14217,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "21.11.2026 15:00",
@@ -15747,7 +15297,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "21.11.2026 15:00",
@@ -17187,7 +16737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "21.11.2026 15:45",
@@ -18687,7 +18237,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "21.11.2026 16:30",
@@ -21177,7 +20727,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "21.11.2026 17:30",
@@ -21237,7 +20787,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "21.11.2026 17:45",
@@ -21897,7 +21447,7 @@
             "e": 85,
             "b": 86.96
         },
-        "aiScore": 71
+        "aiScore": 70
     },
     {
         "date": "21.11.2026 17:45",
@@ -22107,7 +21657,7 @@
             "e": 85,
             "b": 94.74
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "21.11.2026 18:00",
@@ -23067,7 +22617,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "21.11.2026 19:15",
@@ -23997,7 +23547,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "21.11.2026 19:45",
@@ -24117,7 +23667,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "21.11.2026 19:45",
@@ -27747,7 +27297,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 96
     },
     {
         "date": "22.11.2026 05:00",
@@ -28197,7 +27747,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 57
     },
     {
         "date": "22.11.2026 05:00",
@@ -28467,7 +28017,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "22.11.2026 08:30",
@@ -28767,7 +28317,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 98
     },
     {
         "date": "22.11.2026 11:00",
@@ -29067,7 +28617,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "22.11.2026 11:00",
@@ -30657,7 +30207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "22.11.2026 12:00",
@@ -31347,7 +30897,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "22.11.2026 12:30",
@@ -31497,7 +31047,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 96
     },
     {
         "date": "22.11.2026 12:30",
@@ -32127,7 +31677,7 @@
             "e": 85,
             "b": 95.83
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "22.11.2026 13:00",
@@ -32277,7 +31827,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "22.11.2026 13:00",
@@ -34287,7 +33837,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 62
+        "aiScore": 61
     },
     {
         "date": "22.11.2026 14:00",
@@ -35157,7 +34707,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 64
+        "aiScore": 63
     },
     {
         "date": "22.11.2026 14:00",
@@ -36657,7 +36207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "22.11.2026 15:30",
@@ -37617,7 +37167,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 58
     },
     {
         "date": "22.11.2026 16:00",
@@ -38277,7 +37827,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "22.11.2026 16:15",
@@ -38817,7 +38367,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 60
+        "aiScore": 59
     },
     {
         "date": "22.11.2026 16:30",
@@ -38877,7 +38427,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 58
+        "aiScore": 57
     },
     {
         "date": "22.11.2026 16:30",
@@ -39147,7 +38697,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 97
     },
     {
         "date": "22.11.2026 16:30",
@@ -39567,7 +39117,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 59
+        "aiScore": 58
     },
     {
         "date": "22.11.2026 17:00",
@@ -39687,7 +39237,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 56
     },
     {
         "date": "22.11.2026 17:00",
@@ -40017,7 +39567,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "22.11.2026 17:30",
@@ -40767,7 +40317,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "22.11.2026 18:15",
@@ -40827,7 +40377,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "22.11.2026 18:15",
@@ -41097,7 +40647,7 @@
             "e": 85,
             "b": 88.24
         },
-        "aiScore": 63
+        "aiScore": 62
     },
     {
         "date": "22.11.2026 18:15",
@@ -41787,7 +41337,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "22.11.2026 19:45",
@@ -42057,7 +41607,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 56
     },
     {
         "date": "22.11.2026 20:00",
@@ -44307,7 +43857,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 60
     },
     {
         "date": "23.11.2026 19:00",
@@ -46017,7 +45567,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "23.11.2026 21:15",
@@ -48627,7 +48177,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 99
+        "aiScore": 100
     },
     {
         "date": "21.11.2026 13:00",
@@ -49617,7 +49167,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 66
     },
     {
         "date": "22.11.2026 22:00",
@@ -49857,7 +49407,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "23.11.2026 05:00",
@@ -50247,7 +49797,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "21.11.2026 19:00",
@@ -51117,7 +50667,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "22.11.2026 12:30",
@@ -52287,7 +51837,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "22.11.2026 19:00",
@@ -53487,7 +53037,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 58
     },
     {
         "date": "21.11.2026 15:00",
@@ -53727,7 +53277,7 @@
             "e": 85,
             "b": 86.49
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "22.11.2026 11:00",
@@ -55047,7 +54597,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 59
     },
     {
         "date": "22.11.2026 16:00",
@@ -55527,7 +55077,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 56
+        "aiScore": 55
     },
     {
         "date": "20.11.2026 12:00",
@@ -56427,7 +55977,7 @@
             "e": 85,
             "b": 82.98
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "20.11.2026 10:00",
@@ -57747,7 +57297,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "20.11.2026 13:30",
@@ -58227,7 +57777,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 70
     },
     {
         "date": "20.11.2026 11:35",
@@ -59397,7 +58947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 60
     },
     {
         "date": "20.11.2026 12:15",
@@ -59847,7 +59397,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "20.11.2026 17:30",
@@ -60897,7 +60447,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 64
+        "aiScore": 63
     },
     {
         "date": "20.11.2026 18:00",
@@ -61677,7 +61227,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 61
     },
     {
         "date": "20.11.2026 19:00",
@@ -61827,7 +61377,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "20.11.2026 19:00",
@@ -62877,7 +62427,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "20.11.2026 19:30",
@@ -62923,11 +62473,11 @@
         "matchCount": "13",
         "matchLink": "4570456",
         "status": "Pending",
-        "predictedScore": "0-1",
-        "predictedScoreText": "3/13",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:32",
         "patternScore": 70.3,
         "patternText": "289.184/411.365",
         "patternInfo": {
@@ -62953,8 +62503,8 @@
         "matchCount": "1",
         "matchLink": "4537653",
         "status": "Pending",
-        "predictedScore": "0-3",
-        "predictedScoreText": "1/1",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -62983,8 +62533,8 @@
         "matchCount": "1",
         "matchLink": "4537653",
         "status": "Pending",
-        "predictedScore": "0-3",
-        "predictedScoreText": "1/1",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -63013,8 +62563,8 @@
         "matchCount": "1",
         "matchLink": "4537653",
         "status": "Pending",
-        "predictedScore": "0-3",
-        "predictedScoreText": "1/1",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -63043,8 +62593,8 @@
         "matchCount": "1",
         "matchLink": "4537653",
         "status": "Pending",
-        "predictedScore": "0-3",
-        "predictedScoreText": "1/1",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -63073,8 +62623,8 @@
         "matchCount": "1",
         "matchLink": "4537653",
         "status": "Pending",
-        "predictedScore": "0-3",
-        "predictedScoreText": "1/1",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -63927,7 +63477,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 69
     },
     {
         "date": "20.11.2026 17:30",
@@ -64663,11 +64213,11 @@
         "matchCount": "12",
         "matchLink": "4547683",
         "status": "Pending",
-        "predictedScore": "0-2",
-        "predictedScoreText": "5/12",
+        "predictedScore": "1-1",
+        "predictedScoreText": "2/7",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:30",
         "patternScore": 69.95,
         "patternText": "210.950/301.560",
         "patternInfo": {
@@ -64693,11 +64243,11 @@
         "matchCount": "78",
         "matchLink": "4506414",
         "status": "Pending",
-        "predictedScore": "2-0",
-        "predictedScoreText": "11/78",
+        "predictedScore": "2-1",
+        "predictedScoreText": "12/70",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:30",
         "patternScore": 71.15,
         "patternText": "266.377/374.373",
         "patternInfo": {
@@ -64947,7 +64497,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "20.11.2026 17:00",
@@ -65400,66 +64950,6 @@
         "aiScore": 74
     },
     {
-        "date": "21.11.2026 13:00",
-        "league": "ÖZB",
-        "matchCode": "4447656",
-        "home": "Xorazm Urganch",
-        "away": "Buxoro",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "74.78",
-        "odds": "1.12",
-        "matchCount": "230",
-        "matchLink": "4447656",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "19/124",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 07:19",
-        "patternScore": 69.07,
-        "patternText": "324.527/469.859",
-        "patternInfo": {
-            "m": 48,
-            "s": 1,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 67
-    },
-    {
-        "date": "21.11.2026 13:00",
-        "league": "ÖZB",
-        "matchCode": "4447656",
-        "home": "Xorazm Urganch",
-        "away": "Buxoro",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "80.43",
-        "odds": "1.06",
-        "matchCount": "230",
-        "matchLink": "4447656",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "19/124",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 07:19",
-        "patternScore": 70.37,
-        "patternText": "219.024/311.265",
-        "patternInfo": {
-            "m": 42,
-            "s": 2,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 91
-    },
-    {
         "date": "21.11.2026 15:00",
         "league": "ISPU18",
         "matchCode": "4554112",
@@ -65667,7 +65157,7 @@
             "e": 85,
             "b": 95.45
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "20.11.2026 19:00",
@@ -67107,7 +66597,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "20.11.2026 19:45",
@@ -67527,7 +67017,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 57
     },
     {
         "date": "20.11.2026 17:30",
@@ -68397,7 +67887,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "21.11.2026 20:00",
@@ -68907,7 +68397,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "21.11.2026 17:15",
@@ -69507,7 +68997,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "20.11.2026 19:00",
@@ -70647,7 +70137,7 @@
             "e": 85,
             "b": 84.21
         },
-        "aiScore": 63
+        "aiScore": 62
     },
     {
         "date": "21.11.2026 01:00",
@@ -72087,7 +71577,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "21.11.2026 05:00",
@@ -72897,7 +72387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 98
     },
     {
         "date": "21.11.2026 04:00",
@@ -74637,7 +74127,7 @@
             "e": 85,
             "b": 84.62
         },
-        "aiScore": 58
+        "aiScore": 57
     },
     {
         "date": "21.11.2026 10:00",
@@ -78237,7 +77727,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "21.11.2026 11:00",
@@ -78387,7 +77877,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "21.11.2026 12:30",
@@ -79197,7 +78687,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 96
     },
     {
         "date": "21.11.2026 12:30",
@@ -80037,7 +79527,7 @@
             "e": 85,
             "b": 95.0
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "21.11.2026 12:30",
@@ -80563,11 +80053,11 @@
         "matchCount": "11",
         "matchLink": "4579968",
         "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "3/11",
+        "predictedScore": "1-0",
+        "predictedScoreText": "7/28",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:31",
         "patternScore": 67.82,
         "patternText": "310.044/457.160",
         "patternInfo": {
@@ -80593,11 +80083,11 @@
         "matchCount": "11",
         "matchLink": "4579968",
         "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "3/11",
+        "predictedScore": "1-0",
+        "predictedScoreText": "7/28",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:31",
         "patternScore": 69.92,
         "patternText": "412.318/589.718",
         "patternInfo": {
@@ -81147,7 +80637,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "21.11.2026 08:40",
@@ -81897,7 +81387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 60
     },
     {
         "date": "21.11.2026 12:45",
@@ -82398,9 +81888,16 @@
         "mbs": 2,
         "tahminUpdated": true,
         "tahminUpdatedAt": "21.11.2026 07:16",
-        "patternScore": null,
-        "patternText": null,
-        "aiScore": 92
+        "patternScore": 67.86,
+        "patternText": "307.651/453.372",
+        "patternInfo": {
+            "m": 63,
+            "s": 4,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 62
     },
     {
         "date": "21.11.2026 13:00",
@@ -82421,39 +81918,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "21.11.2026 07:17",
-        "patternScore": 69.84,
-        "patternText": "375.564/537.770",
+        "patternScore": 69.99,
+        "patternText": "381.292/544.808",
         "patternInfo": {
             "m": 63,
-            "s": 0,
+            "s": 7,
             "f": 0,
             "e": 85,
-            "b": 78.12
+            "b": 90.91
         },
-        "aiScore": 65
-    },
-    {
-        "date": "21.11.2026 13:00",
-        "league": "AZERPL",
-        "matchCode": "4523911",
-        "home": "Al Safa",
-        "away": "FK Qabala",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance X2",
-        "ihtimal": "72.63",
-        "odds": "1.15",
-        "matchCount": "190",
-        "matchLink": "4523911",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "27/190",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 07:17",
-        "patternScore": null,
-        "patternText": null,
-        "aiScore": 86
+        "aiScore": 74
     },
     {
         "date": "21.11.2026 13:00",
@@ -82474,16 +81948,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "21.11.2026 07:17",
-        "patternScore": 69.13,
-        "patternText": "311.012/449.926",
+        "patternScore": 69.19,
+        "patternText": "309.650/447.516",
         "patternInfo": {
-            "m": 54,
+            "m": 52,
             "s": 3,
             "f": 1,
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 78
     },
     {
         "date": "21.11.2026 13:00",
@@ -82504,9 +81978,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "21.11.2026 07:17",
-        "patternScore": null,
-        "patternText": null,
-        "aiScore": 98
+        "patternScore": 58.92,
+        "patternText": "304.460/516.777",
+        "patternInfo": {
+            "m": 63,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 63
     },
     {
         "date": "21.11.2026 13:00",
@@ -82527,16 +82008,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "21.11.2026 07:17",
-        "patternScore": 67.45,
-        "patternText": "199.952/296.455",
+        "patternScore": 58.3,
+        "patternText": "297.988/511.125",
         "patternInfo": {
             "m": 58,
-            "s": 2,
-            "f": 1,
+            "s": 1,
+            "f": 0,
             "e": 85,
-            "b": 100.0
+            "b": 85.0
         },
-        "aiScore": 62
+        "aiScore": 55
     },
     {
         "date": "21.11.2026 13:00",
@@ -82557,16 +82038,16 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "21.11.2026 07:17",
-        "patternScore": 69.84,
-        "patternText": "367.117/525.680",
+        "patternScore": 70.09,
+        "patternText": "393.539/561.456",
         "patternInfo": {
-            "m": 64,
-            "s": 9,
+            "m": 68,
+            "s": 5,
             "f": 1,
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 76
     },
     {
         "date": "21.11.2026 13:00",
@@ -82587,16 +82068,16 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "21.11.2026 07:18",
-        "patternScore": 68.75,
-        "patternText": "235.032/341.844",
+        "patternScore": 69.15,
+        "patternText": "225.724/326.434",
         "patternInfo": {
-            "m": 81,
+            "m": 76,
             "s": 5,
-            "f": 3,
+            "f": 2,
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "21.11.2026 13:00",
@@ -82617,16 +82098,16 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "21.11.2026 07:18",
-        "patternScore": 68.23,
-        "patternText": "212.343/311.212",
+        "patternScore": 68.87,
+        "patternText": "212.513/308.580",
         "patternInfo": {
-            "m": 74,
-            "s": 3,
-            "f": 3,
+            "m": 80,
+            "s": 4,
+            "f": 2,
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 79
     },
     {
         "date": "21.11.2026 13:00",
@@ -82647,16 +82128,16 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "21.11.2026 07:18",
-        "patternScore": 68.36,
-        "patternText": "332.859/486.928",
+        "patternScore": 69.04,
+        "patternText": "213.825/309.728",
         "patternInfo": {
-            "m": 78,
-            "s": 0,
-            "f": 0,
+            "m": 69,
+            "s": 4,
+            "f": 2,
             "e": 85,
-            "b": 83.33
+            "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 66
     },
     {
         "date": "21.11.2026 13:00",
@@ -82677,16 +82158,16 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "21.11.2026 07:18",
-        "patternScore": 68.7,
-        "patternText": "355.513/517.488",
+        "patternScore": 68.96,
+        "patternText": "345.285/500.716",
         "patternInfo": {
-            "m": 91,
-            "s": 4,
-            "f": 2,
+            "m": 85,
+            "s": 2,
+            "f": 0,
             "e": 85,
-            "b": 100.0
+            "b": 88.89
         },
-        "aiScore": 82
+        "aiScore": 75
     },
     {
         "date": "21.11.2026 13:00",
@@ -82707,8 +82188,375 @@
         "mbs": 1,
         "tahminUpdated": true,
         "tahminUpdatedAt": "21.11.2026 07:18",
-        "patternScore": null,
-        "patternText": null,
-        "aiScore": 100
+        "patternScore": 70.4,
+        "patternText": "252.201/358.262",
+        "patternInfo": {
+            "m": 79,
+            "s": 3,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 88
+    },
+    {
+        "date": "21.11.2026 13:00",
+        "league": "İS1",
+        "matchCode": "4492379",
+        "home": "Deportivo Alaves",
+        "away": "Deportivo La Coruna",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "75.76",
+        "odds": "1.19",
+        "matchCount": "33",
+        "matchLink": "4492379",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "6/33",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:19",
+        "patternScore": 69.78,
+        "patternText": "380.914/545.867",
+        "patternInfo": {
+            "m": 74,
+            "s": 5,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 69
+    },
+    {
+        "date": "21.11.2026 13:00",
+        "league": "İS1",
+        "matchCode": "4492379",
+        "home": "Deportivo Alaves",
+        "away": "Deportivo La Coruna",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "84.85",
+        "odds": "1.22",
+        "matchCount": "33",
+        "matchLink": "4492379",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "6/33",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:19",
+        "patternScore": 69.19,
+        "patternText": "208.487/301.312",
+        "patternInfo": {
+            "m": 66,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 72
+    },
+    {
+        "date": "21.11.2026 13:00",
+        "league": "İS1",
+        "matchCode": "4492379",
+        "home": "Deportivo Alaves",
+        "away": "Deportivo La Coruna",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "75.76",
+        "odds": "1.10",
+        "matchCount": "33",
+        "matchLink": "4492379",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "6/33",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:19",
+        "patternScore": 69.06,
+        "patternText": "336.836/487.743",
+        "patternInfo": {
+            "m": 75,
+            "s": 9,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 83
+    },
+    {
+        "date": "21.11.2026 13:00",
+        "league": "İS1",
+        "matchCode": "4492379",
+        "home": "Deportivo Alaves",
+        "away": "Deportivo La Coruna",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "81.82",
+        "odds": "1.31",
+        "matchCount": "33",
+        "matchLink": "4492379",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "6/33",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:19",
+        "patternScore": 68.67,
+        "patternText": "201.751/293.801",
+        "patternInfo": {
+            "m": 63,
+            "s": 4,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 64
+    },
+    {
+        "date": "21.11.2026 13:00",
+        "league": "TSL",
+        "matchCode": "4542755",
+        "home": "Amed SK",
+        "away": "Rizespor",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "84.62",
+        "odds": "1.13",
+        "matchCount": "13",
+        "matchLink": "4542755",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "3/13",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:20",
+        "patternScore": 70.26,
+        "patternText": "289.318/411.783",
+        "patternInfo": {
+            "m": 89,
+            "s": 11,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 95
+    },
+    {
+        "date": "21.11.2026 13:00",
+        "league": "TSL",
+        "matchCode": "4542755",
+        "home": "Amed SK",
+        "away": "Rizespor",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "76.92307692307693",
+        "odds": "1.17",
+        "matchCount": "13",
+        "matchLink": "4542755",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "3/13",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:20",
+        "patternScore": 68.15,
+        "patternText": "312.600/458.711",
+        "patternInfo": {
+            "m": 82,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 92.86
+        },
+        "aiScore": 68
+    },
+    {
+        "date": "21.11.2026 13:00",
+        "league": "TSL",
+        "matchCode": "4542755",
+        "home": "Amed SK",
+        "away": "Rizespor",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (1:0) 1",
+        "ihtimal": "84.61538461538461",
+        "odds": "1.09",
+        "matchCount": "13",
+        "matchLink": "4542755",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "3/13",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:20",
+        "patternScore": 69.24,
+        "patternText": "236.684/341.853",
+        "patternInfo": {
+            "m": 81,
+            "s": 11,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 94
+    },
+    {
+        "date": "21.11.2026 13:00",
+        "league": "TSL",
+        "matchCode": "4542755",
+        "home": "Amed SK",
+        "away": "Rizespor",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 4.5 Goals",
+        "ihtimal": "76.92",
+        "odds": "1.08",
+        "matchCount": "13",
+        "matchLink": "4542755",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "3/13",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:20",
+        "patternScore": 68.86,
+        "patternText": "331.408/481.257",
+        "patternInfo": {
+            "m": 86,
+            "s": 4,
+            "f": 0,
+            "e": 85,
+            "b": 92.86
+        },
+        "aiScore": 86
+    },
+    {
+        "date": "21.11.2026 13:00",
+        "league": "TSL",
+        "matchCode": "4542755",
+        "home": "Amed SK",
+        "away": "Rizespor",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "76.92",
+        "odds": "1.09",
+        "matchCount": "13",
+        "matchLink": "4542755",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "3/13",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:20",
+        "patternScore": 69.61,
+        "patternText": "375.854/539.911",
+        "patternInfo": {
+            "m": 86,
+            "s": 5,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 91
+    },
+    {
+        "date": "21.11.2026 13:00",
+        "league": "TSL",
+        "matchCode": "4542755",
+        "home": "Amed SK",
+        "away": "Rizespor",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "84.62",
+        "odds": "1.14",
+        "matchCount": "13",
+        "matchLink": "4542755",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "3/13",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:20",
+        "patternScore": 68.55,
+        "patternText": "229.502/334.817",
+        "patternInfo": {
+            "m": 81,
+            "s": 7,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 80
+    },
+    {
+        "date": "21.11.2026 13:00",
+        "league": "HOLTW",
+        "matchCode": "4541298",
+        "home": "Koninklijke HFC",
+        "away": "Hhc",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "76.27",
+        "odds": "1.10",
+        "matchCount": "118",
+        "matchLink": "4541298",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "12/118",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:20",
+        "patternScore": 70.31,
+        "patternText": "385.268/547.942",
+        "patternInfo": {
+            "m": 79,
+            "s": 10,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 86
+    },
+    {
+        "date": "21.11.2026 13:00",
+        "league": "HOLTW",
+        "matchCode": "4541298",
+        "home": "Koninklijke HFC",
+        "away": "Hhc",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "77.12",
+        "odds": "1.11",
+        "matchCount": "118",
+        "matchLink": "4541298",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "12/118",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 07:20",
+        "patternScore": 69.21,
+        "patternText": "314.056/453.782",
+        "patternInfo": {
+            "m": 70,
+            "s": 6,
+            "f": 0,
+            "e": 85,
+            "b": 91.67
+        },
+        "aiScore": 80
     }
 ]
