@@ -927,7 +927,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 71
+        "aiScore": 70
     },
     {
         "date": "21.11.2026 12:30",
@@ -2610,366 +2610,6 @@
         "aiScore": 59
     },
     {
-        "date": "21.11.2026 12:00",
-        "league": "AL2",
-        "matchCode": "4495842",
-        "home": "Nuremberg",
-        "away": "Eintracht Braunschweig",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Match Result 1",
-        "ihtimal": "85.71",
-        "odds": "1.49",
-        "matchCount": "7",
-        "matchLink": "4495842",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "3/6",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 06:13",
-        "patternScore": 67.05,
-        "patternText": "219.432/327.266",
-        "patternInfo": {
-            "m": 78,
-            "s": 1,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 57
-    },
-    {
-        "date": "21.11.2026 12:00",
-        "league": "AL2",
-        "matchCode": "4495842",
-        "home": "Nuremberg",
-        "away": "Eintracht Braunschweig",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "71.43",
-        "odds": "1.51",
-        "matchCount": "7",
-        "matchLink": "4495842",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "3/6",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 06:13",
-        "patternScore": 67.53,
-        "patternText": "332.265/492.055",
-        "patternInfo": {
-            "m": 85,
-            "s": 3,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 54
-    },
-    {
-        "date": "21.11.2026 12:00",
-        "league": "AL2",
-        "matchCode": "4495842",
-        "home": "Nuremberg",
-        "away": "Eintracht Braunschweig",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "85.71",
-        "odds": "1.14",
-        "matchCount": "7",
-        "matchLink": "4495842",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "3/6",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 06:13",
-        "patternScore": 67.95,
-        "patternText": "233.382/343.444",
-        "patternInfo": {
-            "m": 94,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 82
-    },
-    {
-        "date": "21.11.2026 12:00",
-        "league": "AL2",
-        "matchCode": "4495842",
-        "home": "Nuremberg",
-        "away": "Eintracht Braunschweig",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Both Teams to Score - No",
-        "ihtimal": "71.43",
-        "odds": "2.27",
-        "matchCount": "7",
-        "matchLink": "4495842",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "3/6",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 06:13",
-        "patternScore": 66.91,
-        "patternText": "301.243/450.197",
-        "patternInfo": {
-            "m": 70,
-            "s": 2,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 51
-    },
-    {
-        "date": "21.11.2026 12:00",
-        "league": "AL2",
-        "matchCode": "4495842",
-        "home": "Nuremberg",
-        "away": "Eintracht Braunschweig",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "100.0",
-        "odds": "1.07",
-        "matchCount": "7",
-        "matchLink": "4495842",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "3/6",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 06:13",
-        "patternScore": 64.33,
-        "patternText": "236.732/367.971",
-        "patternInfo": {
-            "m": 86,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 93.75
-        },
-        "aiScore": 95
-    },
-    {
-        "date": "21.11.2026 12:00",
-        "league": "AL2",
-        "matchCode": "4495842",
-        "home": "Nuremberg",
-        "away": "Eintracht Braunschweig",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Under 2.5",
-        "ihtimal": "100.0",
-        "odds": "1.06",
-        "matchCount": "7",
-        "matchLink": "4495842",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "3/6",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 06:13",
-        "patternScore": 63.75,
-        "patternText": "216.059/338.927",
-        "patternInfo": {
-            "m": 85,
-            "s": 9,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 97
-    },
-    {
-        "date": "21.11.2026 12:00",
-        "league": "AL2",
-        "matchCode": "4495837",
-        "home": "VfL Wolfsburg",
-        "away": "Holstein Kiel",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Match Result 1",
-        "ihtimal": "77.78",
-        "odds": "1.54",
-        "matchCount": "9",
-        "matchLink": "4495837",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 06:14",
-        "patternScore": 67.32,
-        "patternText": "310.009/460.482",
-        "patternInfo": {
-            "m": 71,
-            "s": 2,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 54
-    },
-    {
-        "date": "21.11.2026 12:00",
-        "league": "AL2",
-        "matchCode": "4495837",
-        "home": "VfL Wolfsburg",
-        "away": "Holstein Kiel",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "77.78",
-        "odds": "1.09",
-        "matchCount": "9",
-        "matchLink": "4495837",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 06:14",
-        "patternScore": 69.93,
-        "patternText": "439.264/628.108",
-        "patternInfo": {
-            "m": 90,
-            "s": 7,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 91
-    },
-    {
-        "date": "21.11.2026 12:00",
-        "league": "AL2",
-        "matchCode": "4495837",
-        "home": "VfL Wolfsburg",
-        "away": "Holstein Kiel",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "100.0",
-        "odds": "1.07",
-        "matchCount": "9",
-        "matchLink": "4495837",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 06:14",
-        "patternScore": 63.32,
-        "patternText": "219.859/347.223",
-        "patternInfo": {
-            "m": 81,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 92
-    },
-    {
-        "date": "21.11.2026 12:00",
-        "league": "AL2",
-        "matchCode": "4495837",
-        "home": "VfL Wolfsburg",
-        "away": "Holstein Kiel",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "88.89",
-        "odds": "1.08",
-        "matchCount": "9",
-        "matchLink": "4495837",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 06:14",
-        "patternScore": 68.87,
-        "patternText": "263.763/382.989",
-        "patternInfo": {
-            "m": 90,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 92
-    },
-    {
-        "date": "21.11.2026 12:00",
-        "league": "AL2",
-        "matchCode": "4495837",
-        "home": "VfL Wolfsburg",
-        "away": "Holstein Kiel",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "88.89",
-        "odds": "1.08",
-        "matchCount": "9",
-        "matchLink": "4495837",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 06:14",
-        "patternScore": 68.22,
-        "patternText": "252.732/370.483",
-        "patternInfo": {
-            "m": 91,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 88.24
-        },
-        "aiScore": 94
-    },
-    {
-        "date": "21.11.2026 12:00",
-        "league": "AL2",
-        "matchCode": "4495837",
-        "home": "VfL Wolfsburg",
-        "away": "Holstein Kiel",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Under 2.5",
-        "ihtimal": "88.89",
-        "odds": "1.08",
-        "matchCount": "9",
-        "matchLink": "4495837",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 06:14",
-        "patternScore": 68.16,
-        "patternText": "231.001/338.929",
-        "patternInfo": {
-            "m": 78,
-            "s": 5,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 94
-    },
-    {
         "date": "21.11.2026 13:00",
         "league": "AL3",
         "matchCode": "4517724",
@@ -3627,7 +3267,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 82
     },
     {
         "date": "21.11.2026 13:00",
@@ -4977,7 +4617,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "21.11.2026 14:00",
@@ -6657,7 +6297,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "21.11.2026 15:00",
@@ -7047,7 +6687,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "21.11.2026 15:00",
@@ -7257,7 +6897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 92
     },
     {
         "date": "21.11.2026 15:00",
@@ -7377,7 +7017,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 63
     },
     {
         "date": "21.11.2026 15:00",
@@ -8667,7 +8307,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "21.11.2026 12:15",
@@ -8967,7 +8607,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 62
     },
     {
         "date": "21.11.2026 14:00",
@@ -9747,7 +9387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "21.11.2026 05:00",
@@ -10108,156 +9748,6 @@
             "b": 100.0
         },
         "aiScore": 80
-    },
-    {
-        "date": "21.11.2026 12:00",
-        "league": "ENDL1",
-        "matchCode": "4550404",
-        "home": "PSM Makassar",
-        "away": "Persija Jakarta",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Match Result 2",
-        "ihtimal": "85.19",
-        "odds": "1.37",
-        "matchCount": "27",
-        "matchLink": "4550404",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 06:12",
-        "patternScore": 68.49,
-        "patternText": "181.815/265.470",
-        "patternInfo": {
-            "m": 46,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 89.47
-        },
-        "aiScore": 59
-    },
-    {
-        "date": "21.11.2026 12:00",
-        "league": "ENDL1",
-        "matchCode": "4550404",
-        "home": "PSM Makassar",
-        "away": "Persija Jakarta",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "92.59",
-        "odds": "1.06",
-        "matchCount": "27",
-        "matchLink": "4550404",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 06:12",
-        "patternScore": 71.26,
-        "patternText": "193.627/271.706",
-        "patternInfo": {
-            "m": 60,
-            "s": 11,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 100
-    },
-    {
-        "date": "21.11.2026 12:00",
-        "league": "ENDL1",
-        "matchCode": "4550404",
-        "home": "PSM Makassar",
-        "away": "Persija Jakarta",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Result 2",
-        "ihtimal": "70.37",
-        "odds": "1.80",
-        "matchCount": "27",
-        "matchLink": "4550404",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 06:12",
-        "patternScore": 68.25,
-        "patternText": "275.330/403.397",
-        "patternInfo": {
-            "m": 41,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 89.47
-        },
-        "aiScore": 52
-    },
-    {
-        "date": "21.11.2026 12:00",
-        "league": "ENDL1",
-        "matchCode": "4550404",
-        "home": "PSM Makassar",
-        "away": "Persija Jakarta",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 12",
-        "ihtimal": "77.78",
-        "odds": "1.28",
-        "matchCount": "27",
-        "matchLink": "4550404",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 06:12",
-        "patternScore": 68.36,
-        "patternText": "285.292/417.325",
-        "patternInfo": {
-            "m": 58,
-            "s": 5,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 64
-    },
-    {
-        "date": "21.11.2026 12:00",
-        "league": "ENDL1",
-        "matchCode": "4550404",
-        "home": "PSM Makassar",
-        "away": "Persija Jakarta",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "74.07",
-        "odds": "1.33",
-        "matchCount": "27",
-        "matchLink": "4550404",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 06:12",
-        "patternScore": 68.09,
-        "patternText": "307.980/452.313",
-        "patternInfo": {
-            "m": 67,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 62
     },
     {
         "date": "21.11.2026 12:30",
@@ -10647,7 +10137,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 53
+        "aiScore": 52
     },
     {
         "date": "21.11.2026 12:45",
@@ -12807,7 +12297,7 @@
             "e": 85,
             "b": 80.0
         },
-        "aiScore": 60
+        "aiScore": 59
     },
     {
         "date": "21.11.2026 15:00",
@@ -13108,66 +12598,6 @@
             "b": 100.0
         },
         "aiScore": 69
-    },
-    {
-        "date": "21.11.2026 12:00",
-        "league": "BOSN",
-        "matchCode": "4550896",
-        "home": "Bsk Banja Luka",
-        "away": "HFK Zrinjski Mostar",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "71.43",
-        "odds": "1.25",
-        "matchCount": "14",
-        "matchLink": "4550896",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "3/5",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 06:16",
-        "patternScore": 67.86,
-        "patternText": "323.425/476.574",
-        "patternInfo": {
-            "m": 61,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 63
-    },
-    {
-        "date": "21.11.2026 12:00",
-        "league": "ENDL1",
-        "matchCode": "4550405",
-        "home": "Bhayangkara Presisi Indonesia FC",
-        "away": "PSIM Yogyakarta",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (0:2) 2",
-        "ihtimal": "83.33333333333334",
-        "odds": "1.61",
-        "matchCount": "12",
-        "matchLink": "4550405",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "3/10",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 06:15",
-        "patternScore": 68.38,
-        "patternText": "195.326/285.644",
-        "patternInfo": {
-            "m": 44,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 56
     },
     {
         "date": "21.11.2026 12:30",
@@ -14307,7 +13737,7 @@
             "e": 85,
             "b": 88.24
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "21.11.2026 15:00",
@@ -15387,7 +14817,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 64
+        "aiScore": 63
     },
     {
         "date": "21.11.2026 15:00",
@@ -16677,7 +16107,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 63
+        "aiScore": 62
     },
     {
         "date": "21.11.2026 15:00",
@@ -16917,7 +16347,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 71
+        "aiScore": 70
     },
     {
         "date": "21.11.2026 15:00",
@@ -17067,7 +16497,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "21.11.2026 15:00",
@@ -17337,7 +16767,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "21.11.2026 15:00",
@@ -20067,7 +19497,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "21.11.2026 15:30",
@@ -20307,7 +19737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "21.11.2026 16:00",
@@ -20637,7 +20067,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "21.11.2026 16:00",
@@ -20937,7 +20367,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 54
+        "aiScore": 53
     },
     {
         "date": "21.11.2026 16:15",
@@ -21777,7 +21207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 66
     },
     {
         "date": "21.11.2026 16:30",
@@ -25647,7 +25077,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 58
+        "aiScore": 57
     },
     {
         "date": "21.11.2026 19:00",
@@ -27117,7 +26547,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 67
+        "aiScore": 66
     },
     {
         "date": "21.11.2026 19:45",
@@ -27237,7 +26667,7 @@
             "e": 85,
             "b": 95.0
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "21.11.2026 19:45",
@@ -29217,7 +28647,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 99
     },
     {
         "date": "21.11.2026 21:30",
@@ -29877,7 +29307,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 57
     },
     {
         "date": "21.11.2026 23:00",
@@ -30657,7 +30087,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "22.11.2026 04:00",
@@ -31047,7 +30477,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 67
+        "aiScore": 66
     },
     {
         "date": "22.11.2026 05:00",
@@ -31407,7 +30837,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "22.11.2026 08:30",
@@ -32877,7 +32307,7 @@
             "e": 85,
             "b": 88.24
         },
-        "aiScore": 97
+        "aiScore": 98
     },
     {
         "date": "22.11.2026 11:30",
@@ -33267,7 +32697,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 59
     },
     {
         "date": "22.11.2026 12:00",
@@ -35847,7 +35277,7 @@
             "e": 85,
             "b": 93.75
         },
-        "aiScore": 96
+        "aiScore": 97
     },
     {
         "date": "22.11.2026 13:00",
@@ -36147,7 +35577,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 62
     },
     {
         "date": "22.11.2026 13:30",
@@ -36747,7 +36177,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 69
     },
     {
         "date": "22.11.2026 13:45",
@@ -37557,7 +36987,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "22.11.2026 14:00",
@@ -38997,7 +38427,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "22.11.2026 15:00",
@@ -44217,7 +43647,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "22.11.2026 18:30",
@@ -47757,7 +47187,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 52
+        "aiScore": 51
     },
     {
         "date": "23.11.2026 19:45",
@@ -48537,7 +47967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 59
     },
     {
         "date": "23.11.2026 20:00",
@@ -48597,7 +48027,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "23.11.2026 20:00",
@@ -48867,7 +48297,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "23.11.2026 20:00",
@@ -49137,7 +48567,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 57
+        "aiScore": 56
     },
     {
         "date": "21.11.2026 17:00",
@@ -51597,7 +51027,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 99
+        "aiScore": 100
     },
     {
         "date": "21.11.2026 13:00",
@@ -52587,7 +52017,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 70
+        "aiScore": 69
     },
     {
         "date": "22.11.2026 21:00",
@@ -54207,7 +53637,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "22.11.2026 12:30",
@@ -54237,7 +53667,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 58
     },
     {
         "date": "22.11.2026 12:30",
@@ -55587,7 +55017,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 57
     },
     {
         "date": "23.11.2026 14:00",
@@ -56457,7 +55887,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 63
     },
     {
         "date": "24.11.2026 01:00",
@@ -56817,7 +56247,7 @@
             "e": 85,
             "b": 86.49
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "22.11.2026 11:00",
@@ -57537,7 +56967,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 96
+        "aiScore": 97
     },
     {
         "date": "20.11.2026 00:30",
@@ -58377,7 +57807,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 59
+        "aiScore": 58
     },
     {
         "date": "21.11.2026 12:00",
@@ -58797,7 +58227,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "22.11.2026 22:30",
@@ -59307,7 +58737,7 @@
             "e": 85,
             "b": 84.0
         },
-        "aiScore": 60
+        "aiScore": 59
     },
     {
         "date": "20.11.2026 12:45",
@@ -59517,7 +58947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "20.11.2026 13:00",
@@ -60207,7 +59637,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "21.11.2026 16:00",
@@ -60987,7 +60417,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 61
     },
     {
         "date": "20.11.2026 11:50",
@@ -62007,7 +61437,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "20.11.2026 11:50",
@@ -63717,7 +63147,7 @@
             "e": 85,
             "b": 81.82
         },
-        "aiScore": 63
+        "aiScore": 62
     },
     {
         "date": "20.11.2026 12:45",
@@ -63927,7 +63357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 54
+        "aiScore": 53
     },
     {
         "date": "20.11.2026 13:00",
@@ -63987,7 +63417,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 71
+        "aiScore": 70
     },
     {
         "date": "20.11.2026 13:00",
@@ -64917,7 +64347,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "22.11.2026 09:30",
@@ -67107,7 +66537,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 55
+        "aiScore": 54
     },
     {
         "date": "22.11.2026 12:30",
@@ -69777,7 +69207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "21.11.2026 14:00",
@@ -70077,7 +69507,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "20.11.2026 16:30",
@@ -71877,7 +71307,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 60
     },
     {
         "date": "20.11.2026 17:00",
@@ -72087,7 +71517,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "20.11.2026 18:30",
@@ -72687,7 +72117,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "20.11.2026 17:30",
@@ -73167,7 +72597,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "20.11.2026 18:30",
@@ -74637,7 +74067,7 @@
             "e": 85,
             "b": 94.12
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "20.11.2026 20:00",
@@ -76257,7 +75687,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 56
     },
     {
         "date": "21.11.2026 15:30",
@@ -76527,7 +75957,7 @@
             "e": 85,
             "b": 81.82
         },
-        "aiScore": 64
+        "aiScore": 63
     },
     {
         "date": "21.11.2026 01:40",
@@ -76647,7 +76077,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 59
+        "aiScore": 58
     },
     {
         "date": "21.11.2026 01:00",
@@ -77277,7 +76707,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "21.11.2026 07:30",
@@ -77547,7 +76977,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "21.11.2026 04:00",
@@ -79017,7 +78447,7 @@
             "e": 85,
             "b": 86.96
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "21.11.2026 10:00",
@@ -79197,7 +78627,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 55
+        "aiScore": 54
     },
     {
         "date": "22.11.2026 14:00",
@@ -79977,7 +79407,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 60
+        "aiScore": 59
     },
     {
         "date": "21.11.2026 06:00",
@@ -80337,7 +79767,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 70
+        "aiScore": 69
     },
     {
         "date": "21.11.2026 11:00",
@@ -81868,5 +81298,755 @@
             "b": 86.52
         },
         "aiScore": 91
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "ENDL1",
+        "matchCode": "4550404",
+        "home": "PSM Makassar",
+        "away": "Persija Jakarta",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 2",
+        "ihtimal": "80.0",
+        "odds": "1.31",
+        "matchCount": "15",
+        "matchLink": "4550404",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 06:12",
+        "patternScore": 68.27,
+        "patternText": "190.527/279.076",
+        "patternInfo": {
+            "m": 56,
+            "s": 5,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 63
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "AL2",
+        "matchCode": "4495842",
+        "home": "Nuremberg",
+        "away": "Eintracht Braunschweig",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "100.0",
+        "odds": "1.09",
+        "matchCount": "6",
+        "matchLink": "4495842",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/6",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 06:13",
+        "patternScore": 64.6,
+        "patternText": "251.721/389.675",
+        "patternInfo": {
+            "m": 86,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 92
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "AL2",
+        "matchCode": "4495842",
+        "home": "Nuremberg",
+        "away": "Eintracht Braunschweig",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "83.33333333333334",
+        "odds": "1.23",
+        "matchCount": "6",
+        "matchLink": "4495842",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/6",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 06:13",
+        "patternScore": 67.36,
+        "patternText": "220.992/328.056",
+        "patternInfo": {
+            "m": 86,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 90.0
+        },
+        "aiScore": 65
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "AL2",
+        "matchCode": "4495842",
+        "home": "Nuremberg",
+        "away": "Eintracht Braunschweig",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (1:0) 1",
+        "ihtimal": "100.0",
+        "odds": "1.07",
+        "matchCount": "6",
+        "matchLink": "4495842",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/6",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 06:13",
+        "patternScore": 63.3,
+        "patternText": "219.733/347.113",
+        "patternInfo": {
+            "m": 83,
+            "s": 2,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 92
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "AL2",
+        "matchCode": "4495842",
+        "home": "Nuremberg",
+        "away": "Eintracht Braunschweig",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "83.33",
+        "odds": "1.49",
+        "matchCount": "6",
+        "matchLink": "4495842",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/6",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 06:13",
+        "patternScore": 67.31,
+        "patternText": "234.619/348.574",
+        "patternInfo": {
+            "m": 80,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 87.5
+        },
+        "aiScore": 55
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "AL2",
+        "matchCode": "4495842",
+        "home": "Nuremberg",
+        "away": "Eintracht Braunschweig",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 4.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.13",
+        "matchCount": "6",
+        "matchLink": "4495842",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/6",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 06:13",
+        "patternScore": 63.51,
+        "patternText": "220.142/346.626",
+        "patternInfo": {
+            "m": 88,
+            "s": 9,
+            "f": 4,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 87
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "AL2",
+        "matchCode": "4495842",
+        "home": "Nuremberg",
+        "away": "Eintracht Braunschweig",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "100.0",
+        "odds": "1.08",
+        "matchCount": "6",
+        "matchLink": "4495842",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/6",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 06:13",
+        "patternScore": 64.32,
+        "patternText": "238.322/370.519",
+        "patternInfo": {
+            "m": 88,
+            "s": 5,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 93
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "AL2",
+        "matchCode": "4495839",
+        "home": "Hannover 96",
+        "away": "SpVgg Greuther Furth",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 1",
+        "ihtimal": "75.0",
+        "odds": "1.54",
+        "matchCount": "8",
+        "matchLink": "4495839",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/8",
+        "mbs": 1,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 67.33,
+        "patternText": "310.097/460.562",
+        "patternInfo": {
+            "m": 78,
+            "s": 3,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 54
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "AL2",
+        "matchCode": "4495839",
+        "home": "Hannover 96",
+        "away": "SpVgg Greuther Furth",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "75.0",
+        "odds": "1.10",
+        "matchCount": "8",
+        "matchLink": "4495839",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/8",
+        "mbs": 1,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 69.62,
+        "patternText": "420.471/603.984",
+        "patternInfo": {
+            "m": 95,
+            "s": 10,
+            "f": 4,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 93
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "AL2",
+        "matchCode": "4495839",
+        "home": "Hannover 96",
+        "away": "SpVgg Greuther Furth",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (1:0) 1",
+        "ihtimal": "100.0",
+        "odds": "1.06",
+        "matchCount": "8",
+        "matchLink": "4495839",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/8",
+        "mbs": 1,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 63.67,
+        "patternText": "224.248/352.227",
+        "patternInfo": {
+            "m": 90,
+            "s": 6,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 96
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "AL2",
+        "matchCode": "4495839",
+        "home": "Hannover 96",
+        "away": "SpVgg Greuther Furth",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "87.5",
+        "odds": "1.35",
+        "matchCount": "8",
+        "matchLink": "4495839",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/8",
+        "mbs": 1,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 67.3,
+        "patternText": "236.872/351.939",
+        "patternInfo": {
+            "m": 90,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 87.5
+        },
+        "aiScore": 59
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "AL2",
+        "matchCode": "4495839",
+        "home": "Hannover 96",
+        "away": "SpVgg Greuther Furth",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 4.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.07",
+        "matchCount": "8",
+        "matchLink": "4495839",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/8",
+        "mbs": 1,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 63.85,
+        "patternText": "222.214/348.039",
+        "patternInfo": {
+            "m": 91,
+            "s": 4,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 95
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "AL2",
+        "matchCode": "4495839",
+        "home": "Hannover 96",
+        "away": "SpVgg Greuther Furth",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Total Goals 2-3",
+        "ihtimal": "87.5",
+        "odds": "1.87",
+        "matchCount": "8",
+        "matchLink": "4495839",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/8",
+        "mbs": 1,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 66.85,
+        "patternText": "208.232/311.491",
+        "patternInfo": {
+            "m": 70,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 85.71
+        },
+        "aiScore": 52
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "AL2",
+        "matchCode": "4495839",
+        "home": "Hannover 96",
+        "away": "SpVgg Greuther Furth",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "87.5",
+        "odds": "1.07",
+        "matchCount": "8",
+        "matchLink": "4495839",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/8",
+        "mbs": 1,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 68.93,
+        "patternText": "262.234/380.409",
+        "patternInfo": {
+            "m": 95,
+            "s": 4,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 96
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "AL2",
+        "matchCode": "4495837",
+        "home": "VfL Wolfsburg",
+        "away": "Holstein Kiel",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "80.0",
+        "odds": "1.07",
+        "matchCount": "5",
+        "matchLink": "4495837",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 06:14",
+        "patternScore": 69.84,
+        "patternText": "305.886/438.007",
+        "patternInfo": {
+            "m": 92,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        },
+        "aiScore": 94
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "AL2",
+        "matchCode": "4495837",
+        "home": "VfL Wolfsburg",
+        "away": "Holstein Kiel",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "80.0",
+        "odds": "1.60",
+        "matchCount": "5",
+        "matchLink": "4495837",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 06:14",
+        "patternScore": 67.35,
+        "patternText": "234.350/347.972",
+        "patternInfo": {
+            "m": 72,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 87.5
+        },
+        "aiScore": 54
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "AL2",
+        "matchCode": "4495837",
+        "home": "VfL Wolfsburg",
+        "away": "Holstein Kiel",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 4.5 Goals",
+        "ihtimal": "80.0",
+        "odds": "1.18",
+        "matchCount": "5",
+        "matchLink": "4495837",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 06:14",
+        "patternScore": 67.74,
+        "patternText": "227.243/335.468",
+        "patternInfo": {
+            "m": 81,
+            "s": 4,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 73
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "AL2",
+        "matchCode": "4495837",
+        "home": "VfL Wolfsburg",
+        "away": "Holstein Kiel",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "80.0",
+        "odds": "1.06",
+        "matchCount": "5",
+        "matchLink": "4495837",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 06:14",
+        "patternScore": 69.26,
+        "patternText": "267.973/386.923",
+        "patternInfo": {
+            "m": 91,
+            "s": 6,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 96
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "AL2",
+        "matchCode": "4495837",
+        "home": "VfL Wolfsburg",
+        "away": "Holstein Kiel",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 2.5",
+        "ihtimal": "80.0",
+        "odds": "1.08",
+        "matchCount": "5",
+        "matchLink": "4495837",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 06:14",
+        "patternScore": 68.16,
+        "patternText": "231.001/338.929",
+        "patternInfo": {
+            "m": 78,
+            "s": 5,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 92
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "MAC2",
+        "matchCode": "4503642",
+        "home": "Bvsc",
+        "away": "Gyirmot",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "76.86",
+        "odds": "1.15",
+        "matchCount": "121",
+        "matchLink": "4503642",
+        "status": "Pending",
+        "predictedScore": "0-1",
+        "predictedScoreText": "19/121",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 70.24,
+        "patternText": "380.819/542.170",
+        "patternInfo": {
+            "m": 75,
+            "s": 3,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 75
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "MAC2",
+        "matchCode": "4503642",
+        "home": "Bvsc",
+        "away": "Gyirmot",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "71.07",
+        "odds": "1.15",
+        "matchCount": "121",
+        "matchLink": "4503642",
+        "status": "Pending",
+        "predictedScore": "0-1",
+        "predictedScoreText": "19/121",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 69.61,
+        "patternText": "323.885/465.282",
+        "patternInfo": {
+            "m": 73,
+            "s": 6,
+            "f": 4,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 69
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "MAC2",
+        "matchCode": "4503642",
+        "home": "Bvsc",
+        "away": "Gyirmot",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "71.07",
+        "odds": "1.22",
+        "matchCount": "121",
+        "matchLink": "4503642",
+        "status": "Pending",
+        "predictedScore": "0-1",
+        "predictedScoreText": "19/121",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 68.16,
+        "patternText": "293.259/430.226",
+        "patternInfo": {
+            "m": 60,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 87.5
+        },
+        "aiScore": 60
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "TAY1",
+        "matchCode": "4539378",
+        "home": "Chainat Hornbi",
+        "away": "Muang Thong United",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "77.86",
+        "odds": "1.13",
+        "matchCount": "131",
+        "matchLink": "4539378",
+        "status": "Pending",
+        "predictedScore": "0-1",
+        "predictedScoreText": "19/131",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 70.25,
+        "patternText": "378.292/538.484",
+        "patternInfo": {
+            "m": 70,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 90.91
+        },
+        "aiScore": 77
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "BOSN",
+        "matchCode": "4550896",
+        "home": "Bsk Banja Luka",
+        "away": "HFK Zrinjski Mostar",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "80.0",
+        "odds": "1.23",
+        "matchCount": "5",
+        "matchLink": "4550896",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "3/5",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 06:16",
+        "patternScore": 66.95,
+        "patternText": "233.895/349.346",
+        "patternInfo": {
+            "m": 60,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 91.67
+        },
+        "aiScore": 65
+    },
+    {
+        "date": "21.11.2026 12:00",
+        "league": "KARA",
+        "matchCode": "4485002",
+        "home": "Otrant",
+        "away": "Bokelj Kotor",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "78.57",
+        "odds": "1.16",
+        "matchCount": "56",
+        "matchLink": "4485002",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "14/56",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 70.08,
+        "patternText": "374.900/534.944",
+        "patternInfo": {
+            "m": 61,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 89.47
+        },
+        "aiScore": 74
     }
 ]
