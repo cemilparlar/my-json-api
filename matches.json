@@ -480,36 +480,6 @@
         "aiScore": 64
     },
     {
-        "date": "21.11.2026 21:30",
-        "league": "ELSAL",
-        "matchCode": "4504434",
-        "home": "Deportivo FAS",
-        "away": "Cacahuatique FC",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "75.0",
-        "odds": "1.34",
-        "matchCount": "16",
-        "matchLink": "4504434",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 67.96,
-        "patternText": "252.127/371.005",
-        "patternInfo": {
-            "m": 61,
-            "s": 1,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 56
-    },
-    {
         "date": "22.11.2026 02:00",
         "league": "GUAT",
         "matchCode": "4490465",
@@ -4197,7 +4167,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "23.11.2026 19:45",
@@ -4887,7 +4857,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "23.11.2026 20:00",
@@ -6720,36 +6690,6 @@
         "aiScore": 65
     },
     {
-        "date": "21.11.2026 21:30",
-        "league": "EKV1",
-        "matchCode": "4563411",
-        "home": "Universidad Catolica",
-        "away": "Barcelona SC Guayaquil",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "80.0",
-        "odds": "1.08",
-        "matchCount": "85",
-        "matchLink": "4563411",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "13/85",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 71.66,
-        "patternText": "204.574/285.484",
-        "patternInfo": {
-            "m": 62,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 93
-    },
-    {
         "date": "21.11.2026 22:50",
         "league": "MEK",
         "matchCode": "4476499",
@@ -7110,66 +7050,6 @@
         "aiScore": 58
     },
     {
-        "date": "21.11.2026 21:30",
-        "league": "VEN",
-        "matchCode": "4576832",
-        "home": "Deportivo Tachira",
-        "away": "Caracas FC",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "75.32",
-        "odds": "1.08",
-        "matchCount": "77",
-        "matchLink": "4576832",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "12/77",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 18:03",
-        "patternScore": 70.55,
-        "patternText": "312.123/442.405",
-        "patternInfo": {
-            "m": 69,
-            "s": 6,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 84
-    },
-    {
-        "date": "21.11.2026 21:30",
-        "league": "VEN",
-        "matchCode": "4576832",
-        "home": "Deportivo Tachira",
-        "away": "Caracas FC",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 1",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "71.43",
-        "odds": "1.29",
-        "matchCount": "77",
-        "matchLink": "4576832",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "12/77",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 18:03",
-        "patternScore": 68.12,
-        "patternText": "234.538/344.295",
-        "patternInfo": {
-            "m": 58,
-            "s": 4,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 58
-    },
-    {
         "date": "21.11.2026 23:30",
         "league": "KOSTA",
         "matchCode": "4487121",
@@ -7288,36 +7168,6 @@
             "b": 100.0
         },
         "aiScore": 82
-    },
-    {
-        "date": "21.11.2026 21:30",
-        "league": "VEN",
-        "matchCode": "4576821",
-        "home": "Carabobo FC",
-        "away": "Portuguesa FC",
-        "firstHalf": "1 - 1",
-        "finalScore": "1 - 1",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "73.03",
-        "odds": "1.24",
-        "matchCount": "89",
-        "matchLink": "4576821",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "14/89",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 19:17",
-        "patternScore": 68.71,
-        "patternText": "237.329/345.385",
-        "patternInfo": {
-            "m": 58,
-            "s": 6,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 66
     },
     {
         "date": "22.11.2026 02:00",
@@ -9567,7 +9417,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "22.11.2026 05:00",
@@ -12657,7 +12507,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 58
     },
     {
         "date": "22.11.2026 12:30",
@@ -12987,7 +12837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 56
     },
     {
         "date": "22.11.2026 11:30",
@@ -13017,7 +12867,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 84
     },
     {
         "date": "22.11.2026 12:30",
@@ -13497,7 +13347,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "22.11.2026 13:00",
@@ -13917,7 +13767,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "22.11.2026 15:00",
@@ -14607,7 +14457,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "22.11.2026 13:30",
@@ -14697,7 +14547,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "22.11.2026 13:30",
@@ -15087,7 +14937,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 63
+        "aiScore": 62
     },
     {
         "date": "22.11.2026 13:30",
@@ -15267,7 +15117,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "22.11.2026 11:00",
@@ -16467,7 +16317,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 97
+        "aiScore": 96
     },
     {
         "date": "24.11.2026 01:00",
@@ -18117,7 +17967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 63
     },
     {
         "date": "22.11.2026 11:00",
@@ -18927,7 +18777,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 70
+        "aiScore": 69
     },
     {
         "date": "22.11.2026 11:30",
@@ -23547,7 +23397,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "22.11.2026 16:00",
@@ -25227,7 +25077,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "22.11.2026 16:30",
@@ -25437,7 +25287,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "22.11.2026 16:30",
@@ -26307,7 +26157,7 @@
             "e": 85,
             "b": 87.93
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "22.11.2026 14:00",
@@ -26847,7 +26697,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 59
     },
     {
         "date": "22.11.2026 14:00",
@@ -27777,7 +27627,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "23.11.2026 19:00",
@@ -28947,7 +28797,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 66
     },
     {
         "date": "22.11.2026 16:30",
@@ -30597,7 +30447,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "22.11.2026 21:00",
@@ -31047,7 +30897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "22.11.2026 17:00",
@@ -31317,7 +31167,7 @@
             "e": 85,
             "b": 83.87
         },
-        "aiScore": 52
+        "aiScore": 53
     },
     {
         "date": "22.11.2026 18:15",
@@ -33297,7 +33147,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 62
+        "aiScore": 61
     },
     {
         "date": "22.11.2026 21:00",
@@ -34227,7 +34077,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "23.11.2026 00:00",
@@ -34437,7 +34287,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 60
     },
     {
         "date": "23.11.2026 01:10",
@@ -34650,36 +34500,6 @@
         "aiScore": 85
     },
     {
-        "date": "23.11.2026 04:00",
-        "league": "JWEL",
-        "matchCode": "4488327",
-        "home": "Albirex Niigata",
-        "away": "Sanfrecce Hiros",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "77.11",
-        "odds": "1.12",
-        "matchCount": "83",
-        "matchLink": "4488327",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "13/71",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 03:23",
-        "patternScore": 71.01,
-        "patternText": "307.743/433.350",
-        "patternInfo": {
-            "m": 53,
-            "s": 9,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 94
-    },
-    {
         "date": "23.11.2026 06:00",
         "league": "JWEL",
         "matchCode": "4488330",
@@ -34828,5 +34648,35 @@
             "b": 100.0
         },
         "aiScore": 52
+    },
+    {
+        "date": "23.11.2026 04:00",
+        "league": "JWEL",
+        "matchCode": "4488327",
+        "home": "Albirex Niigata",
+        "away": "Sanfrecce Hiros",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "70.42",
+        "odds": "1.13",
+        "matchCount": "71",
+        "matchLink": "4488327",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "13/71",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 03:23",
+        "patternScore": 70.41,
+        "patternText": "400.563/568.908",
+        "patternInfo": {
+            "m": 57,
+            "s": 14,
+            "f": 5,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 89
     }
 ]
