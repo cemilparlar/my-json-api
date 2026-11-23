@@ -2487,7 +2487,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "23.11.2026 18:00",
@@ -3057,7 +3057,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "23.11.2026 18:00",
@@ -5517,7 +5517,7 @@
             "e": 85,
             "b": 86.89
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "23.11.2026 12:30",
@@ -7677,7 +7677,7 @@
             "e": 85,
             "b": 92.0
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "21.11.2026 23:00",
@@ -8067,7 +8067,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "22.11.2026 01:00",
@@ -10827,7 +10827,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "22.11.2026 11:00",
@@ -12867,7 +12867,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "22.11.2026 12:30",
@@ -14547,7 +14547,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "22.11.2026 13:30",
@@ -14967,7 +14967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "22.11.2026 13:30",
@@ -16317,7 +16317,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 96
+        "aiScore": 97
     },
     {
         "date": "24.11.2026 01:00",
@@ -17967,7 +17967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "22.11.2026 11:00",
@@ -18597,7 +18597,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "22.11.2026 11:00",
@@ -21747,7 +21747,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "22.11.2026 13:00",
@@ -22167,7 +22167,7 @@
             "e": 85,
             "b": 89.47
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "22.11.2026 13:00",
@@ -25287,7 +25287,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "22.11.2026 16:30",
@@ -31767,7 +31767,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 96
     },
     {
         "date": "22.11.2026 23:30",
@@ -33147,7 +33147,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "22.11.2026 21:00",
@@ -34002,7 +34002,7 @@
         "odds": "1.63",
         "matchCount": "3",
         "matchLink": "4574416",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 3,
@@ -34077,7 +34077,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "23.11.2026 00:00",
@@ -34392,7 +34392,7 @@
         "odds": "1.28",
         "matchCount": "4",
         "matchLink": "4581754",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": "3-0",
         "predictedScoreText": "2/4",
         "mbs": 1,
@@ -34422,7 +34422,7 @@
         "odds": "1.19",
         "matchCount": "4",
         "matchLink": "4581754",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": "3-0",
         "predictedScoreText": "2/4",
         "mbs": 1,
@@ -34452,7 +34452,7 @@
         "odds": "1.07",
         "matchCount": "4",
         "matchLink": "4581754",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": "3-0",
         "predictedScoreText": "2/4",
         "mbs": 1,
@@ -34482,7 +34482,7 @@
         "odds": "1.08",
         "matchCount": "4",
         "matchLink": "4581754",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": "3-0",
         "predictedScoreText": "2/4",
         "mbs": 1,
@@ -34498,66 +34498,6 @@
             "b": 100.0
         },
         "aiScore": 85
-    },
-    {
-        "date": "23.11.2026 06:00",
-        "league": "JWEL",
-        "matchCode": "4488330",
-        "home": "Ntv Beleza Women",
-        "away": "INAC Kobe Leonessa",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Match Result 1",
-        "ihtimal": "72.09",
-        "odds": "1.44",
-        "matchCount": "43",
-        "matchLink": "4488330",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "7/48",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 03:45",
-        "patternScore": 68.33,
-        "patternText": "166.476/243.618",
-        "patternInfo": {
-            "m": 35,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 86.96
-        },
-        "aiScore": 55
-    },
-    {
-        "date": "23.11.2026 06:00",
-        "league": "JWEL",
-        "matchCode": "4488330",
-        "home": "Ntv Beleza Women",
-        "away": "INAC Kobe Leonessa",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "86.05",
-        "odds": "1.06",
-        "matchCount": "43",
-        "matchLink": "4488330",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "7/48",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 03:45",
-        "patternScore": 72.72,
-        "patternText": "156.883/215.726",
-        "patternInfo": {
-            "m": 47,
-            "s": 3,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 97
     },
     {
         "date": "23.11.2026 04:00",
@@ -34678,5 +34618,35 @@
             "b": 100.0
         },
         "aiScore": 89
+    },
+    {
+        "date": "23.11.2026 06:00",
+        "league": "JWEL",
+        "matchCode": "4488330",
+        "home": "Ntv Beleza Women",
+        "away": "INAC Kobe Leonessa",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 2.5 Goals",
+        "ihtimal": "72.92",
+        "odds": "1.39",
+        "matchCount": "48",
+        "matchLink": "4488330",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "7/48",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 03:45",
+        "patternScore": 68.1,
+        "patternText": "163.896/240.686",
+        "patternInfo": {
+            "m": 33,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 86.96
+        },
+        "aiScore": 55
     }
 ]
