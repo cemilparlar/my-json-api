@@ -147,7 +147,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 99
     },
     {
         "date": "24.11.2026 19:45",
@@ -297,7 +297,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "24.11.2026 19:45",
@@ -987,7 +987,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 70
     },
     {
         "date": "22.11.2026 15:00",
@@ -1227,7 +1227,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "22.11.2026 18:15",
@@ -2247,7 +2247,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "23.11.2026 23:00",
@@ -2277,7 +2277,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "23.11.2026 23:00",
@@ -2607,7 +2607,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "22.11.2026 16:00",
@@ -3147,7 +3147,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "22.11.2026 13:00",
@@ -3777,7 +3777,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "22.11.2026 15:30",
@@ -3808,96 +3808,6 @@
             "b": 90.0
         },
         "aiScore": 84
-    },
-    {
-        "date": "22.11.2026 10:00",
-        "league": "FRU19",
-        "matchCode": "4562116",
-        "home": "Sa Merignac U1",
-        "away": "Beaucouze U19",
-        "firstHalf": "0 - 1",
-        "finalScore": "0 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "73.75",
-        "odds": "1.07",
-        "matchCount": "80",
-        "matchLink": "4562116",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "11/80",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "22.11.2026 04:13",
-        "patternScore": 70.79,
-        "patternText": "395.746/559.008",
-        "patternInfo": {
-            "m": 70,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 83
-    },
-    {
-        "date": "22.11.2026 10:00",
-        "league": "İSTL",
-        "matchCode": "4530116",
-        "home": "Cala Pozuelo",
-        "away": "Torrejon",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "71.2",
-        "odds": "1.15",
-        "matchCount": "191",
-        "matchLink": "4530116",
-        "status": "Lost",
-        "predictedScore": "0-0",
-        "predictedScoreText": "21/191",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "22.11.2026 04:14",
-        "patternScore": 70.17,
-        "patternText": "320.526/456.754",
-        "patternInfo": {
-            "m": 76,
-            "s": 5,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 70
-    },
-    {
-        "date": "22.11.2026 10:00",
-        "league": "İTAPŞ1",
-        "matchCode": "4544756",
-        "home": "SS Lazio U20",
-        "away": "AC Milan U20",
-        "firstHalf": "0 - 1",
-        "finalScore": "0 - 1",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "73.96",
-        "odds": "1.13",
-        "matchCount": "169",
-        "matchLink": "4544756",
-        "status": "Lost",
-        "predictedScore": "1-1",
-        "predictedScoreText": "22/169",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "22.11.2026 04:14",
-        "patternScore": 69.56,
-        "patternText": "265.610/381.838",
-        "patternInfo": {
-            "m": 53,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 91.67
-        },
-        "aiScore": 71
     },
     {
         "date": "22.11.2026 10:15",
@@ -4557,7 +4467,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 59
+        "aiScore": 58
     },
     {
         "date": "22.11.2026 11:30",
@@ -4740,36 +4650,6 @@
         "aiScore": 67
     },
     {
-        "date": "22.11.2026 10:00",
-        "league": "T2L-B",
-        "matchCode": "4500029",
-        "home": "Somaspor",
-        "away": "Elazig Spor",
-        "firstHalf": "0 - 1",
-        "finalScore": "1 - 4",
-        "prediction": "Match Result 2",
-        "ihtimal": "100.0",
-        "odds": "1.21",
-        "matchCount": "2",
-        "matchLink": "4500029",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 57.66,
-        "patternText": "248.482/430.964",
-        "patternInfo": {
-            "m": 52,
-            "s": 2,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 57
-    },
-    {
         "date": "22.11.2026 16:00",
         "league": "İSTL",
         "matchCode": "4532254",
@@ -4828,36 +4708,6 @@
             "b": 87.5
         },
         "aiScore": 70
-    },
-    {
-        "date": "22.11.2026 10:00",
-        "league": "MAC3",
-        "matchCode": "4504611",
-        "home": "Nyiregyhaza Ii",
-        "away": "Fuzesabony",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "70.8",
-        "odds": "1.12",
-        "matchCount": "137",
-        "matchLink": "4504611",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "16/137",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "22.11.2026 06:12",
-        "patternScore": 70.23,
-        "patternText": "319.636/455.150",
-        "patternInfo": {
-            "m": 68,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 86.67
-        },
-        "aiScore": 67
     },
     {
         "date": "22.11.2026 12:00",
@@ -6087,7 +5937,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 96
     },
     {
         "date": "22.11.2026 11:00",
@@ -6267,7 +6117,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "22.11.2026 11:00",
@@ -6447,7 +6297,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 84
     },
     {
         "date": "22.11.2026 13:00",
@@ -8487,7 +8337,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "22.11.2026 11:00",
@@ -8787,7 +8637,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "22.11.2026 14:00",
@@ -8998,36 +8848,6 @@
             "b": 90.91
         },
         "aiScore": 79
-    },
-    {
-        "date": "22.11.2026 10:00",
-        "league": "ALU19",
-        "matchCode": "4542343",
-        "home": "Chemnitzer Fc",
-        "away": "Carl Zeiss Jena",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 2",
-        "prediction": "Over 2.5 Goals",
-        "ihtimal": "75.0",
-        "odds": "1.13",
-        "matchCount": "8",
-        "matchLink": "4542343",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "2/8",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 67.54,
-        "patternText": "278.100/411.764",
-        "patternInfo": {
-            "m": 54,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 85.71
-        },
-        "aiScore": 67
     },
     {
         "date": "22.11.2026 11:30",
@@ -9750,66 +9570,6 @@
         "aiScore": 74
     },
     {
-        "date": "22.11.2026 10:00",
-        "league": "MAC3",
-        "matchCode": "4505089",
-        "home": "Honved Ii",
-        "away": "Vasas Ii",
-        "firstHalf": "0 - 0",
-        "finalScore": "3 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "74.14",
-        "odds": "1.12",
-        "matchCount": "116",
-        "matchLink": "4505089",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "16/116",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 70.26,
-        "patternText": "322.403/458.903",
-        "patternInfo": {
-            "m": 73,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 90.91
-        },
-        "aiScore": 70
-    },
-    {
-        "date": "22.11.2026 10:00",
-        "league": "MAC3",
-        "matchCode": "4505089",
-        "home": "Honved Ii",
-        "away": "Vasas Ii",
-        "firstHalf": "0 - 0",
-        "finalScore": "3 - 0",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "70.69",
-        "odds": "1.43",
-        "matchCount": "116",
-        "matchLink": "4505089",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "16/116",
-        "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 68.5,
-        "patternText": "244.021/356.244",
-        "patternInfo": {
-            "m": 54,
-            "s": 1,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 55
-    },
-    {
         "date": "22.11.2026 10:30",
         "league": "ROM2",
         "matchCode": "4513341",
@@ -9927,7 +9687,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "22.11.2026 11:00",
@@ -11217,7 +10977,7 @@
             "e": 85,
             "b": 88.24
         },
-        "aiScore": 60
+        "aiScore": 59
     },
     {
         "date": "22.11.2026 11:00",
@@ -11757,7 +11517,7 @@
             "e": 85,
             "b": 84.21
         },
-        "aiScore": 52
+        "aiScore": 53
     },
     {
         "date": "22.11.2026 11:30",
@@ -12777,7 +12537,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "22.11.2026 13:45",
@@ -13227,7 +12987,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 97
     },
     {
         "date": "22.11.2026 12:00",
@@ -15117,7 +14877,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "22.11.2026 13:30",
@@ -15447,7 +15207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 56
+        "aiScore": 55
     },
     {
         "date": "22.11.2026 13:30",
@@ -15657,7 +15417,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "22.11.2026 15:00",
@@ -15717,7 +15477,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "22.11.2026 15:00",
@@ -15897,7 +15657,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "22.11.2026 16:00",
@@ -17427,7 +17187,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "22.11.2026 15:00",
@@ -18927,7 +18687,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "22.11.2026 18:30",
@@ -19107,7 +18867,7 @@
             "e": 85,
             "b": 84.62
         },
-        "aiScore": 59
+        "aiScore": 58
     },
     {
         "date": "22.11.2026 14:00",
@@ -19497,7 +19257,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "22.11.2026 14:00",
@@ -19887,7 +19647,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "22.11.2026 19:00",
@@ -19977,7 +19737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "22.11.2026 14:30",
@@ -22707,7 +22467,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 61
     },
     {
         "date": "22.11.2026 16:30",
@@ -23487,7 +23247,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "22.11.2026 17:00",
@@ -25677,7 +25437,7 @@
             "e": 85,
             "b": 81.82
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "22.11.2026 23:30",
@@ -25947,7 +25707,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 51
+        "aiScore": 52
     },
     {
         "date": "23.11.2026 00:00",
@@ -27087,7 +26847,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "24.11.2026 12:15",
@@ -29727,7 +29487,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "26.11.2026 17:45",
@@ -30237,7 +29997,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "26.11.2026 17:45",
@@ -31197,7 +30957,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "26.11.2026 20:00",
@@ -34077,7 +33837,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "24.11.2026 19:45",
@@ -35517,7 +35277,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 85
+        "aiScore": 84
     },
     {
         "date": "24.11.2026 19:45",
@@ -36987,7 +36747,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "24.11.2026 19:45",
@@ -37227,7 +36987,7 @@
             "e": 85,
             "b": 93.75
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "24.11.2026 14:00",
@@ -37887,7 +37647,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "24.11.2026 20:00",
@@ -41697,7 +41457,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "25.11.2026 19:00",
@@ -42357,7 +42117,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "25.11.2026 19:45",
@@ -43077,7 +42837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "26.11.2026 14:00",
@@ -43647,7 +43407,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 62
     },
     {
         "date": "26.11.2026 20:00",
@@ -43827,7 +43587,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 60
     },
     {
         "date": "23.11.2026 12:40",
@@ -43857,7 +43617,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 56
+        "aiScore": 55
     },
     {
         "date": "23.11.2026 12:40",
@@ -45087,7 +44847,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "23.11.2026 17:00",
@@ -47850,156 +47610,6 @@
         "aiScore": 61
     },
     {
-        "date": "23.11.2026 19:30",
-        "league": "İS2",
-        "matchCode": "4492837",
-        "home": "AD Ceuta",
-        "away": "UD Almeria",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "82.35",
-        "odds": "1.15",
-        "matchCount": "17",
-        "matchLink": "4492837",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 15:49",
-        "patternScore": 70.74,
-        "patternText": "202.315/285.997",
-        "patternInfo": {
-            "m": 87,
-            "s": 5,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 83
-    },
-    {
-        "date": "23.11.2026 19:30",
-        "league": "İS2",
-        "matchCode": "4492837",
-        "home": "AD Ceuta",
-        "away": "UD Almeria",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (0:1) 2",
-        "ihtimal": "76.47058823529412",
-        "odds": "1.12",
-        "matchCount": "17",
-        "matchLink": "4492837",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 15:49",
-        "patternScore": 68.39,
-        "patternText": "228.884/334.662",
-        "patternInfo": {
-            "m": 69,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 91.67
-        },
-        "aiScore": 66
-    },
-    {
-        "date": "23.11.2026 19:30",
-        "league": "İS2",
-        "matchCode": "4492837",
-        "home": "AD Ceuta",
-        "away": "UD Almeria",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (2:0) 1",
-        "ihtimal": "82.35294117647058",
-        "odds": "1.11",
-        "matchCount": "17",
-        "matchLink": "4492837",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 15:49",
-        "patternScore": 69.29,
-        "patternText": "138.863/200.408",
-        "patternInfo": {
-            "m": 60,
-            "s": 5,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 88
-    },
-    {
-        "date": "23.11.2026 19:30",
-        "league": "İS2",
-        "matchCode": "4492837",
-        "home": "AD Ceuta",
-        "away": "UD Almeria",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "70.59",
-        "odds": "1.12",
-        "matchCount": "17",
-        "matchLink": "4492837",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 15:49",
-        "patternScore": 69.19,
-        "patternText": "251.099/362.916",
-        "patternInfo": {
-            "m": 77,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 94.44
-        },
-        "aiScore": 71
-    },
-    {
-        "date": "23.11.2026 19:30",
-        "league": "İS2",
-        "matchCode": "4492837",
-        "home": "AD Ceuta",
-        "away": "UD Almeria",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "82.35",
-        "odds": "1.09",
-        "matchCount": "17",
-        "matchLink": "4492837",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 15:49",
-        "patternScore": 70.41,
-        "patternText": "168.647/239.528",
-        "patternInfo": {
-            "m": 74,
-            "s": 7,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 94
-    },
-    {
         "date": "23.11.2026 19:45",
         "league": "FR3",
         "matchCode": "4496252",
@@ -48117,7 +47727,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "23.11.2026 19:45",
@@ -48598,126 +48208,6 @@
             "b": 100.0
         },
         "aiScore": 79
-    },
-    {
-        "date": "23.11.2026 20:00",
-        "league": "İS1",
-        "matchCode": "4492383",
-        "home": "Levante UD",
-        "away": "Elche CF",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "83.33",
-        "odds": "1.15",
-        "matchCount": "30",
-        "matchLink": "4492383",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "3/13",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 15:49",
-        "patternScore": 71.22,
-        "patternText": "165.829/232.829",
-        "patternInfo": {
-            "m": 72,
-            "s": 4,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 85
-    },
-    {
-        "date": "23.11.2026 20:00",
-        "league": "İS1",
-        "matchCode": "4492383",
-        "home": "Levante UD",
-        "away": "Elche CF",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (0:2) 2",
-        "ihtimal": "86.66666666666667",
-        "odds": "1.08",
-        "matchCount": "30",
-        "matchLink": "4492383",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "3/13",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 15:49",
-        "patternScore": 70.23,
-        "patternText": "115.039/163.797",
-        "patternInfo": {
-            "m": 63,
-            "s": 7,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 96
-    },
-    {
-        "date": "23.11.2026 20:00",
-        "league": "İS1",
-        "matchCode": "4492383",
-        "home": "Levante UD",
-        "away": "Elche CF",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "76.67",
-        "odds": "1.07",
-        "matchCount": "30",
-        "matchLink": "4492383",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "3/13",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 15:49",
-        "patternScore": 69.77,
-        "patternText": "212.768/304.947",
-        "patternInfo": {
-            "m": 70,
-            "s": 11,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 95
-    },
-    {
-        "date": "23.11.2026 20:00",
-        "league": "İS1",
-        "matchCode": "4492383",
-        "home": "Levante UD",
-        "away": "Elche CF",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "76.67",
-        "odds": "1.14",
-        "matchCount": "30",
-        "matchLink": "4492383",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "3/13",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 15:49",
-        "patternScore": 69.57,
-        "patternText": "213.888/307.434",
-        "patternInfo": {
-            "m": 71,
-            "s": 10,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 88
     },
     {
         "date": "23.11.2026 20:00",
@@ -49377,7 +48867,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "23.11.2026 19:00",
@@ -50191,216 +49681,6 @@
     },
     {
         "date": "23.11.2026 19:45",
-        "league": "İTA",
-        "matchCode": "4475158",
-        "home": "AC Monza",
-        "away": "ACF Fiorentina",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "80.0",
-        "odds": "1.64",
-        "matchCount": "5",
-        "matchLink": "4475158",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 15:49",
-        "patternScore": 67.69,
-        "patternText": "169.724/250.746",
-        "patternInfo": {
-            "m": 61,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 91.67
-        },
-        "aiScore": 53
-    },
-    {
-        "date": "23.11.2026 19:45",
-        "league": "İTA",
-        "matchCode": "4475158",
-        "home": "AC Monza",
-        "away": "ACF Fiorentina",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "80.0",
-        "odds": "1.62",
-        "matchCount": "5",
-        "matchLink": "4475158",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 15:49",
-        "patternScore": 66.76,
-        "patternText": "151.320/226.646",
-        "patternInfo": {
-            "m": 62,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 91.67
-        },
-        "aiScore": 53
-    },
-    {
-        "date": "23.11.2026 19:45",
-        "league": "İTA",
-        "matchCode": "4475158",
-        "home": "AC Monza",
-        "away": "ACF Fiorentina",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (2:0) 1",
-        "ihtimal": "100.0",
-        "odds": "1.15",
-        "matchCount": "5",
-        "matchLink": "4475158",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 15:49",
-        "patternScore": 61.41,
-        "patternText": "150.634/245.275",
-        "patternInfo": {
-            "m": 67,
-            "s": 6,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 76
-    },
-    {
-        "date": "23.11.2026 19:45",
-        "league": "İTA",
-        "matchCode": "4475158",
-        "home": "AC Monza",
-        "away": "ACF Fiorentina",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "80.0",
-        "odds": "1.07",
-        "matchCount": "5",
-        "matchLink": "4475158",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 15:49",
-        "patternScore": 68.79,
-        "patternText": "183.536/266.793",
-        "patternInfo": {
-            "m": 74,
-            "s": 12,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 99
-    },
-    {
-        "date": "23.11.2026 19:45",
-        "league": "İTA",
-        "matchCode": "4475158",
-        "home": "AC Monza",
-        "away": "ACF Fiorentina",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Both Teams to Score - Yes",
-        "ihtimal": "80.0",
-        "odds": "1.43",
-        "matchCount": "5",
-        "matchLink": "4475158",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 15:49",
-        "patternScore": 66.09,
-        "patternText": "151.838/229.728",
-        "patternInfo": {
-            "m": 67,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 91.67
-        },
-        "aiScore": 54
-    },
-    {
-        "date": "23.11.2026 19:45",
-        "league": "İTA",
-        "matchCode": "4475158",
-        "home": "AC Monza",
-        "away": "ACF Fiorentina",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "80.0",
-        "odds": "1.09",
-        "matchCount": "5",
-        "matchLink": "4475158",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 15:49",
-        "patternScore": 68.78,
-        "patternText": "187.798/273.028",
-        "patternInfo": {
-            "m": 76,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 91.67
-        },
-        "aiScore": 90
-    },
-    {
-        "date": "23.11.2026 19:45",
-        "league": "İTA",
-        "matchCode": "4475158",
-        "home": "AC Monza",
-        "away": "ACF Fiorentina",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "80.0",
-        "odds": "1.16",
-        "matchCount": "5",
-        "matchLink": "4475158",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 15:49",
-        "patternScore": 67.51,
-        "patternText": "172.604/255.684",
-        "patternInfo": {
-            "m": 70,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 72
-    },
-    {
-        "date": "23.11.2026 19:45",
         "league": "FR2",
         "matchCode": "4476923",
         "home": "FC Nantes",
@@ -50727,7 +50007,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "23.11.2026 19:45",
@@ -51028,5 +50308,575 @@
             "b": 100.0
         },
         "aiScore": 79
+    },
+    {
+        "date": "23.11.2026 19:30",
+        "league": "İS2",
+        "matchCode": "4492837",
+        "home": "AD Ceuta",
+        "away": "UD Almeria",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "81.82",
+        "odds": "1.14",
+        "matchCount": "11",
+        "matchLink": "4492837",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 15:49",
+        "patternScore": 70.26,
+        "patternText": "201.057/286.157",
+        "patternInfo": {
+            "m": 88,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 82
+    },
+    {
+        "date": "23.11.2026 19:30",
+        "league": "İS2",
+        "matchCode": "4492837",
+        "home": "AD Ceuta",
+        "away": "UD Almeria",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:1) 2",
+        "ihtimal": "72.72727272727273",
+        "odds": "1.11",
+        "matchCount": "11",
+        "matchLink": "4492837",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 15:49",
+        "patternScore": 68.17,
+        "patternText": "234.811/344.428",
+        "patternInfo": {
+            "m": 82,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        },
+        "aiScore": 70
+    },
+    {
+        "date": "23.11.2026 19:30",
+        "league": "İS2",
+        "matchCode": "4492837",
+        "home": "AD Ceuta",
+        "away": "UD Almeria",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "81.82",
+        "odds": "1.12",
+        "matchCount": "11",
+        "matchLink": "4492837",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 15:49",
+        "patternScore": 69.44,
+        "patternText": "164.594/237.044",
+        "patternInfo": {
+            "m": 84,
+            "s": 6,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 88
+    },
+    {
+        "date": "23.11.2026 19:30",
+        "league": "İS2",
+        "matchCode": "4492837",
+        "home": "AD Ceuta",
+        "away": "UD Almeria",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "72.73",
+        "odds": "1.08",
+        "matchCount": "11",
+        "matchLink": "4492837",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 15:49",
+        "patternScore": 68.91,
+        "patternText": "251.205/364.538",
+        "patternInfo": {
+            "m": 87,
+            "s": 5,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 88
+    },
+    {
+        "date": "23.11.2026 19:30",
+        "league": "İS2",
+        "matchCode": "4492837",
+        "home": "AD Ceuta",
+        "away": "UD Almeria",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "72.73",
+        "odds": "1.21",
+        "matchCount": "11",
+        "matchLink": "4492837",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 15:49",
+        "patternScore": 68.06,
+        "patternText": "246.931/362.801",
+        "patternInfo": {
+            "m": 88,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 93.33
+        },
+        "aiScore": 65
+    },
+    {
+        "date": "23.11.2026 19:45",
+        "league": "İTA",
+        "matchCode": "4475158",
+        "home": "AC Monza",
+        "away": "ACF Fiorentina",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "72.73",
+        "odds": "1.14",
+        "matchCount": "11",
+        "matchLink": "4475158",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 15:49",
+        "patternScore": 69.56,
+        "patternText": "303.886/436.850",
+        "patternInfo": {
+            "m": 80,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 74
+    },
+    {
+        "date": "23.11.2026 19:45",
+        "league": "İTA",
+        "matchCode": "4475158",
+        "home": "AC Monza",
+        "away": "ACF Fiorentina",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:1) 2",
+        "ihtimal": "72.72727272727273",
+        "odds": "1.10",
+        "matchCount": "11",
+        "matchLink": "4475158",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 15:49",
+        "patternScore": 68.26,
+        "patternText": "234.355/343.334",
+        "patternInfo": {
+            "m": 73,
+            "s": 5,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 86
+    },
+    {
+        "date": "23.11.2026 19:45",
+        "league": "İTA",
+        "matchCode": "4475158",
+        "home": "AC Monza",
+        "away": "ACF Fiorentina",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (2:0) 1",
+        "ihtimal": "72.72727272727273",
+        "odds": "1.14",
+        "matchCount": "11",
+        "matchLink": "4475158",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 15:49",
+        "patternScore": 68.09,
+        "patternText": "224.579/329.822",
+        "patternInfo": {
+            "m": 64,
+            "s": 1,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 68
+    },
+    {
+        "date": "23.11.2026 19:45",
+        "league": "İTA",
+        "matchCode": "4475158",
+        "home": "AC Monza",
+        "away": "ACF Fiorentina",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "72.73",
+        "odds": "1.07",
+        "matchCount": "11",
+        "matchLink": "4475158",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 15:49",
+        "patternScore": 69.08,
+        "patternText": "255.447/369.783",
+        "patternInfo": {
+            "m": 76,
+            "s": 8,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 93
+    },
+    {
+        "date": "23.11.2026 19:45",
+        "league": "İTA",
+        "matchCode": "4475158",
+        "home": "AC Monza",
+        "away": "ACF Fiorentina",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "81.82",
+        "odds": "1.09",
+        "matchCount": "11",
+        "matchLink": "4475158",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 15:49",
+        "patternScore": 69.88,
+        "patternText": "171.757/245.806",
+        "patternInfo": {
+            "m": 71,
+            "s": 4,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 92
+    },
+    {
+        "date": "23.11.2026 19:45",
+        "league": "İTA",
+        "matchCode": "4475158",
+        "home": "AC Monza",
+        "away": "ACF Fiorentina",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "81.82",
+        "odds": "1.16",
+        "matchCount": "11",
+        "matchLink": "4475158",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 15:49",
+        "patternScore": 68.51,
+        "patternText": "156.229/228.022",
+        "patternInfo": {
+            "m": 70,
+            "s": 5,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 76
+    },
+    {
+        "date": "23.11.2026 19:45",
+        "league": "İTA",
+        "matchCode": "4475158",
+        "home": "AC Monza",
+        "away": "ACF Fiorentina",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "72.73",
+        "odds": "1.38",
+        "matchCount": "11",
+        "matchLink": "4475158",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 15:49",
+        "patternScore": 67.35,
+        "patternText": "233.742/347.031",
+        "patternInfo": {
+            "m": 71,
+            "s": 2,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 56
+    },
+    {
+        "date": "23.11.2026 20:00",
+        "league": "İS1",
+        "matchCode": "4492383",
+        "home": "Levante UD",
+        "away": "Elche CF",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "76.92",
+        "odds": "1.15",
+        "matchCount": "13",
+        "matchLink": "4492383",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "3/13",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 15:49",
+        "patternScore": 69.91,
+        "patternText": "281.085/402.082",
+        "patternInfo": {
+            "m": 83,
+            "s": 4,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 81
+    },
+    {
+        "date": "23.11.2026 20:00",
+        "league": "İS1",
+        "matchCode": "4492383",
+        "home": "Levante UD",
+        "away": "Elche CF",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "84.61538461538461",
+        "odds": "1.08",
+        "matchCount": "13",
+        "matchLink": "4492383",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "3/13",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 15:49",
+        "patternScore": 69.5,
+        "patternText": "128.943/185.521",
+        "patternInfo": {
+            "m": 68,
+            "s": 8,
+            "f": 5,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 95
+    },
+    {
+        "date": "23.11.2026 20:00",
+        "league": "İS1",
+        "matchCode": "4492383",
+        "home": "Levante UD",
+        "away": "Elche CF",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "92.31",
+        "odds": "1.06",
+        "matchCount": "13",
+        "matchLink": "4492383",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "3/13",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 15:49",
+        "patternScore": 69.98,
+        "patternText": "89.884/128.440",
+        "patternInfo": {
+            "m": 66,
+            "s": 4,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 98
+    },
+    {
+        "date": "23.11.2026 20:00",
+        "league": "İS1",
+        "matchCode": "4492383",
+        "home": "Levante UD",
+        "away": "Elche CF",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 2.5 Goals",
+        "ihtimal": "76.92",
+        "odds": "1.47",
+        "matchCount": "13",
+        "matchLink": "4492383",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "3/13",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 15:49",
+        "patternScore": 67.3,
+        "patternText": "191.322/284.291",
+        "patternInfo": {
+            "m": 62,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 87.5
+        },
+        "aiScore": 53
+    },
+    {
+        "date": "23.11.2026 20:00",
+        "league": "İS1",
+        "matchCode": "4492383",
+        "home": "Levante UD",
+        "away": "Elche CF",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "84.62",
+        "odds": "1.32",
+        "matchCount": "13",
+        "matchLink": "4492383",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "3/13",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 15:49",
+        "patternScore": 68.28,
+        "patternText": "128.400/188.062",
+        "patternInfo": {
+            "m": 65,
+            "s": 4,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 64
+    },
+    {
+        "date": "23.11.2026 20:00",
+        "league": "İS1",
+        "matchCode": "4492383",
+        "home": "Levante UD",
+        "away": "Elche CF",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Total Goals 2-3",
+        "ihtimal": "76.92307692307693",
+        "odds": "1.85",
+        "matchCount": "13",
+        "matchLink": "4492383",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "3/13",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 15:49",
+        "patternScore": 67.48,
+        "patternText": "183.142/271.405",
+        "patternInfo": {
+            "m": 54,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 87.5
+        },
+        "aiScore": 52
+    },
+    {
+        "date": "23.11.2026 20:00",
+        "league": "İS1",
+        "matchCode": "4492383",
+        "home": "Levante UD",
+        "away": "Elche CF",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "76.92",
+        "odds": "1.14",
+        "matchCount": "13",
+        "matchLink": "4492383",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "3/13",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 15:49",
+        "patternScore": 69.02,
+        "patternText": "227.665/329.831",
+        "patternInfo": {
+            "m": 73,
+            "s": 7,
+            "f": 4,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 87
     }
 ]
