@@ -2877,7 +2877,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "23.11.2026 19:30",
@@ -10017,7 +10017,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 61
     },
     {
         "date": "22.11.2026 16:00",
@@ -10857,7 +10857,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "22.11.2026 13:30",
@@ -21147,7 +21147,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "22.11.2026 16:30",
@@ -25257,7 +25257,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "22.11.2026 20:00",
@@ -25557,7 +25557,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "22.11.2026 16:00",
@@ -30327,7 +30327,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "23.11.2026 06:00",
@@ -31017,7 +31017,7 @@
             "e": 85,
             "b": 86.67
         },
-        "aiScore": 61
+        "aiScore": 60
     },
     {
         "date": "24.11.2026 17:45",
@@ -32727,7 +32727,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "26.11.2026 17:45",
@@ -35787,7 +35787,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "24.11.2026 11:30",
@@ -39087,7 +39087,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "24.11.2026 19:45",
@@ -43287,7 +43287,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "25.11.2026 10:00",
@@ -45717,7 +45717,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "25.11.2026 19:45",
@@ -47311,36 +47311,6 @@
     },
     {
         "date": "23.11.2026 15:00",
-        "league": "UMM",
-        "matchCode": "4573361",
-        "home": "Bahla Club",
-        "away": "Smail",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "77.65",
-        "odds": "1.10",
-        "matchCount": "179",
-        "matchLink": "4573361",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "20/124",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 11:28",
-        "patternScore": 70.69,
-        "patternText": "281.196/397.771",
-        "patternInfo": {
-            "m": 53,
-            "s": 5,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 84
-    },
-    {
-        "date": "23.11.2026 15:00",
         "league": "MSR",
         "matchCode": "4537891",
         "home": "Wadi Degla",
@@ -47698,66 +47668,6 @@
             "b": 100.0
         },
         "aiScore": 85
-    },
-    {
-        "date": "23.11.2026 12:00",
-        "league": "MAKE1",
-        "matchCode": "4477285",
-        "home": "Skendija",
-        "away": "Fk Sileks",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "75.53",
-        "odds": "1.10",
-        "matchCount": "94",
-        "matchLink": "4477285",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "15/89",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 11:27",
-        "patternScore": 70.98,
-        "patternText": "279.767/394.171",
-        "patternInfo": {
-            "m": 61,
-            "s": 4,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 82
-    },
-    {
-        "date": "23.11.2026 12:00",
-        "league": "MAKE1",
-        "matchCode": "4477285",
-        "home": "Skendija",
-        "away": "Fk Sileks",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "72.34",
-        "odds": "1.22",
-        "matchCount": "94",
-        "matchLink": "4477285",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "15/89",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 11:27",
-        "patternScore": 68.43,
-        "patternText": "209.009/305.427",
-        "patternInfo": {
-            "m": 53,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 90.0
-        },
-        "aiScore": 60
     },
     {
         "date": "23.11.2026 12:40",
@@ -48417,7 +48327,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "23.11.2026 14:30",
@@ -50488,5 +50398,95 @@
             "b": 100.0
         },
         "aiScore": 56
+    },
+    {
+        "date": "23.11.2026 12:00",
+        "league": "MAKE1",
+        "matchCode": "4477285",
+        "home": "Skendija",
+        "away": "Fk Sileks",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "71.91",
+        "odds": "1.10",
+        "matchCount": "89",
+        "matchLink": "4477285",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "15/89",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 11:27",
+        "patternScore": 70.86,
+        "patternText": "272.943/385.175",
+        "patternInfo": {
+            "m": 64,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 75
+    },
+    {
+        "date": "23.11.2026 12:00",
+        "league": "MAKE1",
+        "matchCode": "4477285",
+        "home": "Skendija",
+        "away": "Fk Sileks",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "74.16",
+        "odds": "1.26",
+        "matchCount": "89",
+        "matchLink": "4477285",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "15/89",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 11:27",
+        "patternScore": 68.69,
+        "patternText": "201.317/293.087",
+        "patternInfo": {
+            "m": 51,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 92.31
+        },
+        "aiScore": 62
+    },
+    {
+        "date": "23.11.2026 15:00",
+        "league": "UMM",
+        "matchCode": "4573361",
+        "home": "Bahla Club",
+        "away": "Smail",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "73.39",
+        "odds": "1.12",
+        "matchCount": "124",
+        "matchLink": "4573361",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "20/124",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 11:28",
+        "patternScore": 70.6,
+        "patternText": "285.746/404.759",
+        "patternInfo": {
+            "m": 61,
+            "s": 8,
+            "f": 6,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 78
     }
 ]
