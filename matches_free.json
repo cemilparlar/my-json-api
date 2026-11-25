@@ -4227,7 +4227,7 @@
             "e": 85,
             "b": 90.24
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "25.11.2026 15:00",
@@ -4377,7 +4377,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "25.11.2026 15:00",
@@ -4527,7 +4527,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "25.11.2026 17:00",
@@ -6177,7 +6177,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 60
+        "aiScore": 59
     },
     {
         "date": "25.11.2026 23:20",
@@ -6687,7 +6687,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "26.11.2026 14:25",
@@ -9867,7 +9867,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "24.11.2026 12:15",
@@ -13707,7 +13707,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "24.11.2026 19:45",
@@ -16617,7 +16617,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "24.11.2026 18:00",
@@ -17187,7 +17187,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 63
+        "aiScore": 62
     },
     {
         "date": "24.11.2026 19:45",
@@ -17607,7 +17607,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "24.11.2026 19:45",
@@ -20517,7 +20517,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 60
     },
     {
         "date": "24.11.2026 20:00",
@@ -23533,11 +23533,11 @@
         "matchCount": "8",
         "matchLink": "4487281",
         "status": "Pending",
-        "predictedScore": "1-3",
-        "predictedScoreText": "2/8",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 07:29",
+        "tahminUpdatedAt": "25.11.2026 08:30",
         "patternScore": 69.19,
         "patternText": "270.435/390.867",
         "patternInfo": {
@@ -23563,11 +23563,11 @@
         "matchCount": "8",
         "matchLink": "4487281",
         "status": "Pending",
-        "predictedScore": "1-3",
-        "predictedScoreText": "2/8",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 07:29",
+        "tahminUpdatedAt": "25.11.2026 08:30",
         "patternScore": 68.16,
         "patternText": "213.011/312.515",
         "patternInfo": {
@@ -23593,11 +23593,11 @@
         "matchCount": "8",
         "matchLink": "4487281",
         "status": "Pending",
-        "predictedScore": "1-3",
-        "predictedScoreText": "2/8",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 07:29",
+        "tahminUpdatedAt": "25.11.2026 08:30",
         "patternScore": 68.42,
         "patternText": "218.553/319.417",
         "patternInfo": {
@@ -23623,11 +23623,11 @@
         "matchCount": "8",
         "matchLink": "4487281",
         "status": "Pending",
-        "predictedScore": "1-3",
-        "predictedScoreText": "2/8",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 07:29",
+        "tahminUpdatedAt": "25.11.2026 08:30",
         "patternScore": 68.0,
         "patternText": "143.880/211.592",
         "patternInfo": {
@@ -23653,11 +23653,11 @@
         "matchCount": "8",
         "matchLink": "4487281",
         "status": "Pending",
-        "predictedScore": "1-3",
-        "predictedScoreText": "2/8",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 07:29",
+        "tahminUpdatedAt": "25.11.2026 08:30",
         "patternScore": 67.31,
         "patternText": "224.095/332.951",
         "patternInfo": {
@@ -24027,7 +24027,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 59
+        "aiScore": 58
     },
     {
         "date": "25.11.2026 14:00",
@@ -24253,11 +24253,11 @@
         "matchCount": "103",
         "matchLink": "4488067",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "19/103",
+        "predictedScore": "3-1",
+        "predictedScoreText": "9/76",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 07:43",
+        "tahminUpdatedAt": "25.11.2026 08:30",
         "patternScore": 66.74,
         "patternText": "256.046/383.644",
         "patternInfo": {
@@ -25050,96 +25050,6 @@
         "aiScore": 56
     },
     {
-        "date": "25.11.2026 09:00",
-        "league": "JAP3",
-        "matchCode": "4488070",
-        "home": "Mio Biwako Shi",
-        "away": "Kochi United",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "75.72",
-        "odds": "1.15",
-        "matchCount": "173",
-        "matchLink": "4488070",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "28/191",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:27",
-        "patternScore": 70.66,
-        "patternText": "241.177/341.299",
-        "patternInfo": {
-            "m": 57,
-            "s": 5,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 75
-    },
-    {
-        "date": "25.11.2026 09:00",
-        "league": "JAP3",
-        "matchCode": "4488070",
-        "home": "Mio Biwako Shi",
-        "away": "Kochi United",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "71.68",
-        "odds": "1.10",
-        "matchCount": "173",
-        "matchLink": "4488070",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "28/191",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:27",
-        "patternScore": 70.28,
-        "patternText": "195.757/278.527",
-        "patternInfo": {
-            "m": 57,
-            "s": 6,
-            "f": 5,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 78
-    },
-    {
-        "date": "25.11.2026 09:00",
-        "league": "JAP3",
-        "matchCode": "4488070",
-        "home": "Mio Biwako Shi",
-        "away": "Kochi United",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "71.1",
-        "odds": "1.26",
-        "matchCount": "173",
-        "matchLink": "4488070",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "28/191",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:27",
-        "patternScore": 68.61,
-        "patternText": "172.705/251.717",
-        "patternInfo": {
-            "m": 41,
-            "s": 4,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 58
-    },
-    {
         "date": "25.11.2026 09:30",
         "league": "JAP2",
         "matchCode": "4487695",
@@ -25153,11 +25063,11 @@
         "matchCount": "68",
         "matchLink": "4487695",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "0-1",
+        "predictedScoreText": "3/15",
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:02",
+        "tahminUpdatedAt": "25.11.2026 08:29",
         "patternScore": 70.99,
         "patternText": "248.842/350.510",
         "patternInfo": {
@@ -25183,11 +25093,11 @@
         "matchCount": "68",
         "matchLink": "4487695",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "0-1",
+        "predictedScoreText": "3/15",
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:02",
+        "tahminUpdatedAt": "25.11.2026 08:29",
         "patternScore": 69.75,
         "patternText": "200.256/287.105",
         "patternInfo": {
@@ -25213,11 +25123,11 @@
         "matchCount": "68",
         "matchLink": "4487695",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "0-1",
+        "predictedScoreText": "3/15",
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:02",
+        "tahminUpdatedAt": "25.11.2026 08:29",
         "patternScore": 68.43,
         "patternText": "181.974/265.928",
         "patternInfo": {
@@ -25737,7 +25647,7 @@
             "e": 85,
             "b": 86.67
         },
-        "aiScore": 62
+        "aiScore": 61
     },
     {
         "date": "25.11.2026 10:00",
@@ -26098,5 +26008,95 @@
             "b": 100.0
         },
         "aiScore": 58
+    },
+    {
+        "date": "25.11.2026 09:00",
+        "league": "JAP3",
+        "matchCode": "4488070",
+        "home": "Mio Biwako Shi",
+        "away": "Kochi United",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "75.39",
+        "odds": "1.16",
+        "matchCount": "191",
+        "matchLink": "4488070",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "28/191",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "25.11.2026 08:27",
+        "patternScore": 70.41,
+        "patternText": "230.669/327.595",
+        "patternInfo": {
+            "m": 52,
+            "s": 4,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 73
+    },
+    {
+        "date": "25.11.2026 09:00",
+        "league": "JAP3",
+        "matchCode": "4488070",
+        "home": "Mio Biwako Shi",
+        "away": "Kochi United",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "75.92",
+        "odds": "1.13",
+        "matchCount": "191",
+        "matchLink": "4488070",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "28/191",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "25.11.2026 08:27",
+        "patternScore": 69.51,
+        "patternText": "183.597/264.117",
+        "patternInfo": {
+            "m": 49,
+            "s": 4,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 71
+    },
+    {
+        "date": "25.11.2026 09:00",
+        "league": "JAP3",
+        "matchCode": "4488070",
+        "home": "Mio Biwako Shi",
+        "away": "Kochi United",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "74.87",
+        "odds": "1.22",
+        "matchCount": "191",
+        "matchLink": "4488070",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "28/191",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "25.11.2026 08:27",
+        "patternScore": 68.28,
+        "patternText": "174.535/255.611",
+        "patternInfo": {
+            "m": 47,
+            "s": 8,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 63
     }
 ]
