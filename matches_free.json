@@ -267,7 +267,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "25.11.2026 17:45",
@@ -777,7 +777,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "26.11.2026 17:45",
@@ -2577,7 +2577,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "26.11.2026 20:00",
@@ -2997,7 +2997,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 93
     },
     {
         "date": "26.11.2026 20:00",
@@ -3117,7 +3117,7 @@
             "e": 85,
             "b": 93.75
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "26.11.2026 20:00",
@@ -4167,7 +4167,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "25.11.2026 10:00",
@@ -4497,7 +4497,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "25.11.2026 15:00",
@@ -4827,7 +4827,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "25.11.2026 17:30",
@@ -4887,7 +4887,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "25.11.2026 17:30",
@@ -5187,7 +5187,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "25.11.2026 19:00",
@@ -5697,7 +5697,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "25.11.2026 19:45",
@@ -6387,7 +6387,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "25.11.2026 23:20",
@@ -6627,7 +6627,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "26.11.2026 00:00",
@@ -6837,7 +6837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "26.11.2026 14:00",
@@ -8760,126 +8760,6 @@
         "aiScore": 55
     },
     {
-        "date": "23.11.2026 23:00",
-        "league": "BR1",
-        "matchCode": "4423380",
-        "home": "Botafogo de Futebol e Regatas",
-        "away": "Sao Paulo FC",
-        "firstHalf": "0 - 1",
-        "finalScore": "1 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "81.82",
-        "odds": "1.17",
-        "matchCount": "22",
-        "matchLink": "4423380",
-        "status": "Lost",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 20:48",
-        "patternScore": 71.38,
-        "patternText": "157.852/221.144",
-        "patternInfo": {
-            "m": 67,
-            "s": 4,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 89
-    },
-    {
-        "date": "23.11.2026 23:00",
-        "league": "BR1",
-        "matchCode": "4423380",
-        "home": "Botafogo de Futebol e Regatas",
-        "away": "Sao Paulo FC",
-        "firstHalf": "0 - 1",
-        "finalScore": "1 - 1",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "81.82",
-        "odds": "1.14",
-        "matchCount": "22",
-        "matchLink": "4423380",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 20:48",
-        "patternScore": 70.54,
-        "patternText": "126.016/178.655",
-        "patternInfo": {
-            "m": 63,
-            "s": 7,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 85
-    },
-    {
-        "date": "23.11.2026 23:00",
-        "league": "BR1",
-        "matchCode": "4423380",
-        "home": "Botafogo de Futebol e Regatas",
-        "away": "Sao Paulo FC",
-        "firstHalf": "0 - 1",
-        "finalScore": "1 - 1",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "72.73",
-        "odds": "1.14",
-        "matchCount": "22",
-        "matchLink": "4423380",
-        "status": "Lost",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 20:48",
-        "patternScore": 69.67,
-        "patternText": "216.590/310.902",
-        "patternInfo": {
-            "m": 67,
-            "s": 7,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 84
-    },
-    {
-        "date": "23.11.2026 23:00",
-        "league": "BR1",
-        "matchCode": "4423380",
-        "home": "Botafogo de Futebol e Regatas",
-        "away": "Sao Paulo FC",
-        "firstHalf": "0 - 1",
-        "finalScore": "1 - 1",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "81.82",
-        "odds": "1.24",
-        "matchCount": "22",
-        "matchLink": "4423380",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 20:48",
-        "patternScore": 69.61,
-        "patternText": "116.523/167.401",
-        "patternInfo": {
-            "m": 64,
-            "s": 5,
-            "f": 0,
-            "e": 85,
-            "b": 92.86
-        },
-        "aiScore": 66
-    },
-    {
         "date": "24.11.2026 17:45",
         "league": "ŞMP",
         "matchCode": "4549473",
@@ -10047,7 +9927,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "25.11.2026 16:00",
@@ -10077,7 +9957,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "25.11.2026 16:00",
@@ -10797,7 +10677,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "24.11.2026 12:15",
@@ -13437,7 +13317,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "24.11.2026 18:00",
@@ -14517,7 +14397,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "24.11.2026 19:45",
@@ -15177,7 +15057,7 @@
             "e": 85,
             "b": 86.67
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "24.11.2026 19:45",
@@ -16377,7 +16257,7 @@
             "e": 85,
             "b": 91.3
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "24.11.2026 17:30",
@@ -16707,7 +16587,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "24.11.2026 17:45",
@@ -18837,7 +18717,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "24.11.2026 19:45",
@@ -20547,7 +20427,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "24.11.2026 19:45",
@@ -22197,7 +22077,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "25.11.2026 03:00",
@@ -22617,7 +22497,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "25.11.2026 10:00",
@@ -22647,7 +22527,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "25.11.2026 10:00",
@@ -22797,7 +22677,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "25.11.2026 10:00",
@@ -22977,7 +22857,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "25.11.2026 10:00",
@@ -23743,11 +23623,11 @@
         "matchCount": "23",
         "matchLink": "4550022",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "6/23",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:28",
+        "tahminUpdatedAt": "25.11.2026 05:06",
         "patternScore": 69.2,
         "patternText": "192.215/277.757",
         "patternInfo": {
@@ -23773,11 +23653,11 @@
         "matchCount": "23",
         "matchLink": "4550022",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "6/23",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:28",
+        "tahminUpdatedAt": "25.11.2026 05:06",
         "patternScore": 69.97,
         "patternText": "208.480/297.952",
         "patternInfo": {
@@ -23803,11 +23683,11 @@
         "matchCount": "23",
         "matchLink": "4550022",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "6/23",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:28",
+        "tahminUpdatedAt": "25.11.2026 05:06",
         "patternScore": 68.41,
         "patternText": "174.378/254.900",
         "patternInfo": {
@@ -23997,7 +23877,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "25.11.2026 10:00",
@@ -24327,7 +24207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "25.11.2026 10:00",
