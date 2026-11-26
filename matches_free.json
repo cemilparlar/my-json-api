@@ -6897,7 +6897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "25.11.2026 09:30",
@@ -7287,7 +7287,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "25.11.2026 11:00",
@@ -9387,7 +9387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 93
     },
     {
         "date": "25.11.2026 12:10",
@@ -12897,7 +12897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "25.11.2026 19:00",
@@ -13047,7 +13047,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 94
     },
     {
         "date": "25.11.2026 19:45",
@@ -14187,7 +14187,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "26.11.2026 22:30",
@@ -15267,7 +15267,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 96
     },
     {
         "date": "27.11.2026 08:30",
@@ -16287,7 +16287,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 99
+        "aiScore": 98
     },
     {
         "date": "27.11.2026 15:30",
@@ -19767,7 +19767,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "27.11.2026 19:30",
@@ -20907,7 +20907,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "27.11.2026 19:45",
@@ -28407,7 +28407,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "28.11.2026 04:00",
@@ -36777,7 +36777,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 97
     },
     {
         "date": "28.11.2026 14:30",
@@ -38457,7 +38457,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 96
+        "aiScore": 95
     },
     {
         "date": "28.11.2026 15:00",
@@ -39237,7 +39237,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "28.11.2026 15:00",
@@ -41308,5 +41308,125 @@
             "b": 100.0
         },
         "aiScore": 90
+    },
+    {
+        "date": "28.11.2026 15:00",
+        "league": "İNGNLP",
+        "matchCode": "4518309",
+        "home": "Afc Whyteleafe",
+        "away": "Aveley",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "73.61",
+        "odds": "1.09",
+        "matchCount": "72",
+        "matchLink": "4518309",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "12/72",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 70.79,
+        "patternText": "666.703/941.834",
+        "patternInfo": {
+            "m": 112,
+            "s": 8,
+            "f": 0,
+            "e": 85,
+            "b": 88.89
+        },
+        "aiScore": 79
+    },
+    {
+        "date": "28.11.2026 15:00",
+        "league": "İCON",
+        "matchCode": "4516159",
+        "home": "Maidstone Unit",
+        "away": "Chesham United",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 1",
+        "ihtimal": "84.38",
+        "odds": "1.33",
+        "matchCount": "32",
+        "matchLink": "4516159",
+        "status": "Pending",
+        "predictedScore": "2-0",
+        "predictedScoreText": "9/32",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 68.65,
+        "patternText": "204.739/298.227",
+        "patternInfo": {
+            "m": 57,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 96.43
+        },
+        "aiScore": 62
+    },
+    {
+        "date": "28.11.2026 15:00",
+        "league": "İCON",
+        "matchCode": "4516159",
+        "home": "Maidstone Unit",
+        "away": "Chesham United",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 4.5 Goals",
+        "ihtimal": "87.5",
+        "odds": "1.07",
+        "matchCount": "32",
+        "matchLink": "4516159",
+        "status": "Pending",
+        "predictedScore": "2-0",
+        "predictedScoreText": "9/32",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 70.18,
+        "patternText": "225.215/320.907",
+        "patternInfo": {
+            "m": 84,
+            "s": 17,
+            "f": 5,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 99
+    },
+    {
+        "date": "28.11.2026 15:00",
+        "league": "İCON",
+        "matchCode": "4516159",
+        "home": "Maidstone Unit",
+        "away": "Chesham United",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "75.0",
+        "odds": "1.41",
+        "matchCount": "32",
+        "matchLink": "4516159",
+        "status": "Pending",
+        "predictedScore": "2-0",
+        "predictedScoreText": "9/32",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 68.32,
+        "patternText": "329.388/482.121",
+        "patternInfo": {
+            "m": 62,
+            "s": 5,
+            "f": 0,
+            "e": 85,
+            "b": 96.43
+        },
+        "aiScore": 56
     }
 ]
