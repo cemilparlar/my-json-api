@@ -57,7 +57,7 @@
             "e": 85,
             "b": 86.21
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "26.11.2026 17:45",
@@ -237,97 +237,7 @@
             "e": 85,
             "b": 93.75
         },
-        "aiScore": 73
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487690",
-        "home": "Iwaki FC",
-        "away": "Kataller Toyama",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "77.22",
-        "odds": "1.10",
-        "matchCount": "79",
-        "matchLink": "4487690",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 70.91,
-        "patternText": "257.268/362.796",
-        "patternInfo": {
-            "m": 77,
-            "s": 8,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 88
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487690",
-        "home": "Iwaki FC",
-        "away": "Kataller Toyama",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 1",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "72.15",
-        "odds": "1.08",
-        "matchCount": "79",
-        "matchLink": "4487690",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 69.78,
-        "patternText": "189.894/272.131",
-        "patternInfo": {
-            "m": 58,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 76
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487690",
-        "home": "Iwaki FC",
-        "away": "Kataller Toyama",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 1",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "70.89",
-        "odds": "1.20",
-        "matchCount": "79",
-        "matchLink": "4487690",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 69.1,
-        "patternText": "188.620/272.954",
-        "patternInfo": {
-            "m": 67,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 62
+        "aiScore": 72
     },
     {
         "date": "26.11.2026 17:30",
@@ -447,7 +357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "26.11.2026 20:00",
@@ -537,7 +447,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "26.11.2026 20:00",
@@ -1080,636 +990,6 @@
         "aiScore": 72
     },
     {
-        "date": "25.11.2026 10:00",
-        "league": "JAP3",
-        "matchCode": "4488073",
-        "home": "Renofa Yamaguchi",
-        "away": "Fukushima United FC",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 2",
-        "prediction": "Double Chance 12",
-        "ihtimal": "79.49",
-        "odds": "1.06",
-        "matchCount": "78",
-        "matchLink": "4488073",
-        "status": "Won",
-        "predictedScore": "2-0",
-        "predictedScoreText": "11/78",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:08",
-        "patternScore": 71.13,
-        "patternText": "255.448/359.151",
-        "patternInfo": {
-            "m": 71,
-            "s": 10,
-            "f": 7,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 95
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP3",
-        "matchCode": "4488073",
-        "home": "Renofa Yamaguchi",
-        "away": "Fukushima United FC",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 2",
-        "prediction": "1st Half Double Chance 12",
-        "ihtimal": "71.79",
-        "odds": "1.27",
-        "matchCount": "78",
-        "matchLink": "4488073",
-        "status": "Lost",
-        "predictedScore": "2-0",
-        "predictedScoreText": "11/78",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:08",
-        "patternScore": 68.35,
-        "patternText": "171.643/251.120",
-        "patternInfo": {
-            "m": 47,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 57
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487277",
-        "home": "Mito HollyHock",
-        "away": "Tokyo Verdy",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "100.0",
-        "odds": "1.24",
-        "matchCount": "6",
-        "matchLink": "4487277",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "2/6",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:09",
-        "patternScore": 63.99,
-        "patternText": "166.400/260.037",
-        "patternInfo": {
-            "m": 82,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 90.0
-        },
-        "aiScore": 68
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487277",
-        "home": "Mito HollyHock",
-        "away": "Tokyo Verdy",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "100.0",
-        "odds": "1.15",
-        "matchCount": "6",
-        "matchLink": "4487277",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "2/6",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:09",
-        "patternScore": 62.7,
-        "patternText": "146.140/233.063",
-        "patternInfo": {
-            "m": 80,
-            "s": 4,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 80
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487277",
-        "home": "Mito HollyHock",
-        "away": "Tokyo Verdy",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "100.0",
-        "odds": "1.09",
-        "matchCount": "6",
-        "matchLink": "4487277",
-        "status": "Won",
-        "predictedScore": "1-0",
-        "predictedScoreText": "2/6",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:09",
-        "patternScore": 62.49,
-        "patternText": "151.060/241.736",
-        "patternInfo": {
-            "m": 81,
-            "s": 6,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 90
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP3",
-        "matchCode": "4488071",
-        "home": "Cerezo Osaka",
-        "away": "Tochigi SC",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "72.83",
-        "odds": "1.14",
-        "matchCount": "254",
-        "matchLink": "4488071",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "34/254",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:09",
-        "patternScore": 70.44,
-        "patternText": "244.060/346.465",
-        "patternInfo": {
-            "m": 67,
-            "s": 14,
-            "f": 6,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 81
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP3",
-        "matchCode": "4488071",
-        "home": "Cerezo Osaka",
-        "away": "Tochigi SC",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "80.31",
-        "odds": "1.08",
-        "matchCount": "254",
-        "matchLink": "4488071",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "34/254",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:09",
-        "patternScore": 71.34,
-        "patternText": "122.704/171.996",
-        "patternInfo": {
-            "m": 50,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 91
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487283",
-        "home": "V-Varen Nagasaki",
-        "away": "Kawasaki Frontale",
-        "firstHalf": "1 - 1",
-        "finalScore": "1 - 2",
-        "prediction": "Double Chance 12",
-        "ihtimal": "100.0",
-        "odds": "1.12",
-        "matchCount": "3",
-        "matchLink": "4487283",
-        "status": "Won",
-        "predictedScore": "0-2",
-        "predictedScoreText": "2/3",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:10",
-        "patternScore": 60.18,
-        "patternText": "252.706/419.941",
-        "patternInfo": {
-            "m": 108,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 91.67
-        },
-        "aiScore": 73
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487283",
-        "home": "V-Varen Nagasaki",
-        "away": "Kawasaki Frontale",
-        "firstHalf": "1 - 1",
-        "finalScore": "1 - 2",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "100.0",
-        "odds": "1.39",
-        "matchCount": "3",
-        "matchLink": "4487283",
-        "status": "Won",
-        "predictedScore": "0-2",
-        "predictedScoreText": "2/3",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:10",
-        "patternScore": 57.03,
-        "patternText": "208.118/364.915",
-        "patternInfo": {
-            "m": 106,
-            "s": 3,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 54
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487283",
-        "home": "V-Varen Nagasaki",
-        "away": "Kawasaki Frontale",
-        "firstHalf": "1 - 1",
-        "finalScore": "1 - 2",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "100.0",
-        "odds": "1.08",
-        "matchCount": "3",
-        "matchLink": "4487283",
-        "status": "Won",
-        "predictedScore": "0-2",
-        "predictedScoreText": "2/3",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:10",
-        "patternScore": 58.02,
-        "patternText": "210.474/362.791",
-        "patternInfo": {
-            "m": 100,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 87.5
-        },
-        "aiScore": 78
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487283",
-        "home": "V-Varen Nagasaki",
-        "away": "Kawasaki Frontale",
-        "firstHalf": "1 - 1",
-        "finalScore": "1 - 2",
-        "prediction": "Total Goals 2-3",
-        "ihtimal": "100.0",
-        "odds": "1.89",
-        "matchCount": "3",
-        "matchLink": "4487283",
-        "status": "Won",
-        "predictedScore": "0-2",
-        "predictedScoreText": "2/3",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:10",
-        "patternScore": 55.46,
-        "patternText": "184.900/333.407",
-        "patternInfo": {
-            "m": 93,
-            "s": 0,
-            "f": 0,
-            "e": 85,
-            "b": 83.33
-        },
-        "aiScore": 51
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487283",
-        "home": "V-Varen Nagasaki",
-        "away": "Kawasaki Frontale",
-        "firstHalf": "1 - 1",
-        "finalScore": "1 - 2",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "100.0",
-        "odds": "1.09",
-        "matchCount": "3",
-        "matchLink": "4487283",
-        "status": "Won",
-        "predictedScore": "0-2",
-        "predictedScoreText": "2/3",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:10",
-        "patternScore": 58.63,
-        "patternText": "220.788/376.547",
-        "patternInfo": {
-            "m": 100,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 80
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487283",
-        "home": "V-Varen Nagasaki",
-        "away": "Kawasaki Frontale",
-        "firstHalf": "1 - 1",
-        "finalScore": "1 - 2",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "100.0",
-        "odds": "1.43",
-        "matchCount": "3",
-        "matchLink": "4487283",
-        "status": "Lost",
-        "predictedScore": "0-2",
-        "predictedScoreText": "2/3",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:10",
-        "patternScore": 56.61,
-        "patternText": "204.572/361.347",
-        "patternInfo": {
-            "m": 102,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 54
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487694",
-        "home": "Shonan Bellmare",
-        "away": "Kofu",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "79.17",
-        "odds": "1.07",
-        "matchCount": "48",
-        "matchLink": "4487694",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:12",
-        "patternScore": 70.92,
-        "patternText": "256.124/361.127",
-        "patternInfo": {
-            "m": 75,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 90
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487694",
-        "home": "Shonan Bellmare",
-        "away": "Kofu",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "85.42",
-        "odds": "1.09",
-        "matchCount": "48",
-        "matchLink": "4487694",
-        "status": "Lost",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:12",
-        "patternScore": 71.6,
-        "patternText": "134.228/187.457",
-        "patternInfo": {
-            "m": 66,
-            "s": 10,
-            "f": 5,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 97
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487279",
-        "home": "JEF United Chiba",
-        "away": "Nagoya Grampus",
-        "firstHalf": "1 - 1",
-        "finalScore": "1 - 2",
-        "prediction": "Double Chance 12",
-        "ihtimal": "73.33",
-        "odds": "1.17",
-        "matchCount": "15",
-        "matchLink": "4487279",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "4/15",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:13",
-        "patternScore": 70.06,
-        "patternText": "261.028/372.595",
-        "patternInfo": {
-            "m": 84,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 91.67
-        },
-        "aiScore": 70
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487279",
-        "home": "JEF United Chiba",
-        "away": "Nagoya Grampus",
-        "firstHalf": "1 - 1",
-        "finalScore": "1 - 2",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "73.33",
-        "odds": "1.15",
-        "matchCount": "15",
-        "matchLink": "4487279",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "4/15",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:13",
-        "patternScore": 69.39,
-        "patternText": "225.266/324.645",
-        "patternInfo": {
-            "m": 92,
-            "s": 6,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 71
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487279",
-        "home": "JEF United Chiba",
-        "away": "Nagoya Grampus",
-        "firstHalf": "1 - 1",
-        "finalScore": "1 - 2",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "80.0",
-        "odds": "1.17",
-        "matchCount": "15",
-        "matchLink": "4487279",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "4/15",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:13",
-        "patternScore": 69.29,
-        "patternText": "128.625/185.636",
-        "patternInfo": {
-            "m": 74,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 73
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487279",
-        "home": "JEF United Chiba",
-        "away": "Nagoya Grampus",
-        "firstHalf": "1 - 1",
-        "finalScore": "1 - 2",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "73.33",
-        "odds": "1.25",
-        "matchCount": "15",
-        "matchLink": "4487279",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "4/15",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:13",
-        "patternScore": 69.25,
-        "patternText": "212.947/307.484",
-        "patternInfo": {
-            "m": 73,
-            "s": 5,
-            "f": 0,
-            "e": 85,
-            "b": 93.33
-        },
-        "aiScore": 65
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487279",
-        "home": "JEF United Chiba",
-        "away": "Nagoya Grampus",
-        "firstHalf": "1 - 1",
-        "finalScore": "1 - 2",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "86.67",
-        "odds": "1.25",
-        "matchCount": "15",
-        "matchLink": "4487279",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "4/15",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 04:13",
-        "patternScore": 69.12,
-        "patternText": "123.126/178.137",
-        "patternInfo": {
-            "m": 73,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 68
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP3",
-        "matchCode": "4488072",
-        "home": "Nara Club",
-        "away": "Matsumoto Yamag",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "81.55",
-        "odds": "1.13",
-        "matchCount": "168",
-        "matchLink": "4488072",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "20/168",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 05:29",
-        "patternScore": 71.69,
-        "patternText": "152.388/212.577",
-        "patternInfo": {
-            "m": 58,
-            "s": 12,
-            "f": 5,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 97
-    },
-    {
         "date": "27.11.2026 00:30",
         "league": "URUK",
         "matchCode": "4580384",
@@ -1767,7 +1047,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "25.11.2026 12:00",
@@ -1800,276 +1080,6 @@
         "aiScore": 64
     },
     {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487693",
-        "home": "Yokohama FC",
-        "away": "Vegalta Sendai",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 1",
-        "prediction": "Double Chance 12",
-        "ihtimal": "73.14",
-        "odds": "1.13",
-        "matchCount": "242",
-        "matchLink": "4487693",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "29/242",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 06:27",
-        "patternScore": 70.53,
-        "patternText": "248.382/352.156",
-        "patternInfo": {
-            "m": 65,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 95.83
-        },
-        "aiScore": 72
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487693",
-        "home": "Yokohama FC",
-        "away": "Vegalta Sendai",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 1",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "71.49",
-        "odds": "1.08",
-        "matchCount": "242",
-        "matchLink": "4487693",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "29/242",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 06:27",
-        "patternScore": 69.87,
-        "patternText": "200.395/286.807",
-        "patternInfo": {
-            "m": 57,
-            "s": 0,
-            "f": 0,
-            "e": 85,
-            "b": 83.33
-        },
-        "aiScore": 68
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487693",
-        "home": "Yokohama FC",
-        "away": "Vegalta Sendai",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 1",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "71.07",
-        "odds": "1.20",
-        "matchCount": "242",
-        "matchLink": "4487693",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "29/242",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 06:27",
-        "patternScore": 68.74,
-        "patternText": "188.481/274.176",
-        "patternInfo": {
-            "m": 53,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 62
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487693",
-        "home": "Yokohama FC",
-        "away": "Vegalta Sendai",
-        "firstHalf": "1 - 0",
-        "finalScore": "2 - 1",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "73.14",
-        "odds": "1.19",
-        "matchCount": "242",
-        "matchLink": "4487693",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "29/242",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 06:27",
-        "patternScore": 69.54,
-        "patternText": "191.644/275.569",
-        "patternInfo": {
-            "m": 53,
-            "s": 0,
-            "f": 0,
-            "e": 85,
-            "b": 83.33
-        },
-        "aiScore": 62
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP3",
-        "matchCode": "4488074",
-        "home": "Kamatamare Sanuki",
-        "away": "Gainare Tottori",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "78.53",
-        "odds": "1.15",
-        "matchCount": "163",
-        "matchLink": "4488074",
-        "status": "Won",
-        "predictedScore": "0-0",
-        "predictedScoreText": "23/163",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 06:48",
-        "patternScore": 69.39,
-        "patternText": "196.218/282.775",
-        "patternInfo": {
-            "m": 55,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 85.19
-        },
-        "aiScore": 69
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP3",
-        "matchCode": "4488074",
-        "home": "Kamatamare Sanuki",
-        "away": "Gainare Tottori",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "74.23",
-        "odds": "1.24",
-        "matchCount": "163",
-        "matchLink": "4488074",
-        "status": "Won",
-        "predictedScore": "0-0",
-        "predictedScoreText": "23/163",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 06:48",
-        "patternScore": 68.23,
-        "patternText": "184.184/269.961",
-        "patternInfo": {
-            "m": 52,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 85.71
-        },
-        "aiScore": 60
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "AŞMP",
-        "matchCode": "4550101",
-        "home": "Kashima Antlers",
-        "away": "Jeonbuk Hm",
-        "firstHalf": "1 - 0",
-        "finalScore": "3 - 0",
-        "prediction": "Handicap (0:2) 2",
-        "ihtimal": "75.0",
-        "odds": "1.33",
-        "matchCount": "32",
-        "matchLink": "4550101",
-        "status": "Lost",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 06:49",
-        "patternScore": 68.66,
-        "patternText": "179.131/260.881",
-        "patternInfo": {
-            "m": 57,
-            "s": 4,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 58
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487280",
-        "home": "FC Tokyo",
-        "away": "Sanfrecce Hiroshima",
-        "firstHalf": "0 - 1",
-        "finalScore": "2 - 2",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "72.22222222222221",
-        "odds": "1.15",
-        "matchCount": "18",
-        "matchLink": "4487280",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "4/18",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 06:49",
-        "patternScore": 68.81,
-        "patternText": "208.290/302.711",
-        "patternInfo": {
-            "m": 82,
-            "s": 0,
-            "f": 0,
-            "e": 85,
-            "b": 84.0
-        },
-        "aiScore": 63
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487280",
-        "home": "FC Tokyo",
-        "away": "Sanfrecce Hiroshima",
-        "firstHalf": "0 - 1",
-        "finalScore": "2 - 2",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "83.33",
-        "odds": "1.13",
-        "matchCount": "18",
-        "matchLink": "4487280",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "4/18",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 06:49",
-        "patternScore": 70.28,
-        "patternText": "136.219/193.831",
-        "patternInfo": {
-            "m": 77,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 90.0
-        },
-        "aiScore": 83
-    },
-    {
         "date": "25.11.2026 13:00",
         "league": "ZAM",
         "matchCode": "4570457",
@@ -2098,306 +1108,6 @@
             "b": 100.0
         },
         "aiScore": 67
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487687",
-        "home": "Consadole Sapporo",
-        "away": "Fujieda MYFC",
-        "firstHalf": "0 - 0",
-        "finalScore": "2 - 1",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "80.41",
-        "odds": "1.08",
-        "matchCount": "148",
-        "matchLink": "4487687",
-        "status": "Won",
-        "predictedScore": "2-0",
-        "predictedScoreText": "20/148",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 07:27",
-        "patternScore": 70.99,
-        "patternText": "124.853/175.880",
-        "patternInfo": {
-            "m": 60,
-            "s": 9,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 92
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487687",
-        "home": "Consadole Sapporo",
-        "away": "Fujieda MYFC",
-        "firstHalf": "0 - 0",
-        "finalScore": "2 - 1",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "78.38",
-        "odds": "1.14",
-        "matchCount": "148",
-        "matchLink": "4487687",
-        "status": "Won",
-        "predictedScore": "2-0",
-        "predictedScoreText": "20/148",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 07:27",
-        "patternScore": 69.12,
-        "patternText": "199.303/288.336",
-        "patternInfo": {
-            "m": 71,
-            "s": 10,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 81
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487692",
-        "home": "Omiya Ardija",
-        "away": "Tokushima Vortis",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 2",
-        "prediction": "Double Chance 12",
-        "ihtimal": "78.23",
-        "odds": "1.11",
-        "matchCount": "147",
-        "matchLink": "4487692",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 07:28",
-        "patternScore": 70.79,
-        "patternText": "253.455/358.036",
-        "patternInfo": {
-            "m": 81,
-            "s": 6,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 83
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487692",
-        "home": "Omiya Ardija",
-        "away": "Tokushima Vortis",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 2",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "72.79",
-        "odds": "1.08",
-        "matchCount": "147",
-        "matchLink": "4487692",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 07:28",
-        "patternScore": 69.98,
-        "patternText": "204.437/292.156",
-        "patternInfo": {
-            "m": 72,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 88.24
-        },
-        "aiScore": 71
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487692",
-        "home": "Omiya Ardija",
-        "away": "Tokushima Vortis",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 2",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "70.75",
-        "odds": "1.21",
-        "matchCount": "147",
-        "matchLink": "4487692",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 07:28",
-        "patternScore": 68.88,
-        "patternText": "196.562/285.357",
-        "patternInfo": {
-            "m": 71,
-            "s": 7,
-            "f": 0,
-            "e": 85,
-            "b": 93.75
-        },
-        "aiScore": 65
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487692",
-        "home": "Omiya Ardija",
-        "away": "Tokushima Vortis",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 2",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "82.99",
-        "odds": "1.06",
-        "matchCount": "147",
-        "matchLink": "4487692",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 07:28",
-        "patternScore": 71.94,
-        "patternText": "127.648/177.445",
-        "patternInfo": {
-            "m": 63,
-            "s": 8,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 97
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487696",
-        "home": "Sagan Tosu",
-        "away": "Oita Trinita",
-        "firstHalf": "3 - 0",
-        "finalScore": "4 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "77.27",
-        "odds": "1.06",
-        "matchCount": "22",
-        "matchLink": "4487696",
-        "status": "Won",
-        "predictedScore": "0-0",
-        "predictedScoreText": "5/22",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 07:28",
-        "patternScore": 70.86,
-        "patternText": "270.431/381.639",
-        "patternInfo": {
-            "m": 82,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 91
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487696",
-        "home": "Sagan Tosu",
-        "away": "Oita Trinita",
-        "firstHalf": "3 - 0",
-        "finalScore": "4 - 0",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "77.27",
-        "odds": "1.16",
-        "matchCount": "22",
-        "matchLink": "4487696",
-        "status": "Lost",
-        "predictedScore": "0-0",
-        "predictedScoreText": "5/22",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 07:28",
-        "patternScore": 68.8,
-        "patternText": "215.100/312.630",
-        "patternInfo": {
-            "m": 76,
-            "s": 4,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 74
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487696",
-        "home": "Sagan Tosu",
-        "away": "Oita Trinita",
-        "firstHalf": "3 - 0",
-        "finalScore": "4 - 0",
-        "prediction": "1st Half Double Chance 12",
-        "ihtimal": "72.73",
-        "odds": "1.32",
-        "matchCount": "22",
-        "matchLink": "4487696",
-        "status": "Won",
-        "predictedScore": "0-0",
-        "predictedScoreText": "5/22",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 07:28",
-        "patternScore": 68.14,
-        "patternText": "180.854/265.426",
-        "patternInfo": {
-            "m": 56,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 85.71
-        },
-        "aiScore": 55
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487696",
-        "home": "Sagan Tosu",
-        "away": "Oita Trinita",
-        "firstHalf": "3 - 0",
-        "finalScore": "4 - 0",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "72.73",
-        "odds": "1.21",
-        "matchCount": "22",
-        "matchLink": "4487696",
-        "status": "Won",
-        "predictedScore": "0-0",
-        "predictedScoreText": "5/22",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 07:28",
-        "patternScore": 68.57,
-        "patternText": "209.990/306.240",
-        "patternInfo": {
-            "m": 71,
-            "s": 1,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 63
     },
     {
         "date": "25.11.2026 10:30",
@@ -2700,606 +1410,6 @@
         "aiScore": 90
     },
     {
-        "date": "25.11.2026 10:00",
-        "league": "AŞMP",
-        "matchCode": "4550100",
-        "home": "Gamba Osaka",
-        "away": "Port FC",
-        "firstHalf": "0 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "75.0",
-        "odds": "1.71",
-        "matchCount": "4",
-        "matchLink": "4550100",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "2/4",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:03",
-        "patternScore": 64.39,
-        "patternText": "243.841/378.689",
-        "patternInfo": {
-            "m": 72,
-            "s": 0,
-            "f": 0,
-            "e": 85,
-            "b": 83.33
-        },
-        "aiScore": 52
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "AŞMP",
-        "matchCode": "4550100",
-        "home": "Gamba Osaka",
-        "away": "Port FC",
-        "firstHalf": "0 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "75.0",
-        "odds": "1.24",
-        "matchCount": "4",
-        "matchLink": "4550100",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "2/4",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:03",
-        "patternScore": 64.39,
-        "patternText": "230.866/358.539",
-        "patternInfo": {
-            "m": 67,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 60
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "AŞMP",
-        "matchCode": "4550100",
-        "home": "Gamba Osaka",
-        "away": "Port FC",
-        "firstHalf": "0 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "Total Goals 2-3",
-        "ihtimal": "75.0",
-        "odds": "2.19",
-        "matchCount": "4",
-        "matchLink": "4550100",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "2/4",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:03",
-        "patternScore": 63.48,
-        "patternText": "216.554/341.133",
-        "patternInfo": {
-            "m": 57,
-            "s": 0,
-            "f": 0,
-            "e": 85,
-            "b": 83.33
-        },
-        "aiScore": 51
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "AŞMP",
-        "matchCode": "4550100",
-        "home": "Gamba Osaka",
-        "away": "Port FC",
-        "firstHalf": "0 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "75.0",
-        "odds": "1.78",
-        "matchCount": "4",
-        "matchLink": "4550100",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "2/4",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:03",
-        "patternScore": 64.44,
-        "patternText": "234.678/364.203",
-        "patternInfo": {
-            "m": 62,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 92.31
-        },
-        "aiScore": 52
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "AŞMP",
-        "matchCode": "4550100",
-        "home": "Gamba Osaka",
-        "away": "Port FC",
-        "firstHalf": "0 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "1st Half Under 2.5",
-        "ihtimal": "75.0",
-        "odds": "1.10",
-        "matchCount": "4",
-        "matchLink": "4550100",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "2/4",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:03",
-        "patternScore": 64.86,
-        "patternText": "235.538/363.145",
-        "patternInfo": {
-            "m": 69,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 83
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP3",
-        "matchCode": "4488068",
-        "home": "AC Parceiro Nagano",
-        "away": "Kagoshima United",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 2",
-        "prediction": "Double Chance X2",
-        "ihtimal": "81.2",
-        "odds": "1.12",
-        "matchCount": "133",
-        "matchLink": "4488068",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "25/133",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:04",
-        "patternScore": 69.87,
-        "patternText": "108.930/155.909",
-        "patternInfo": {
-            "m": 48,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 87.5
-        },
-        "aiScore": 78
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP3",
-        "matchCode": "4488068",
-        "home": "AC Parceiro Nagano",
-        "away": "Kagoshima United",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 2",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "89.47",
-        "odds": "1.07",
-        "matchCount": "133",
-        "matchLink": "4488068",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "25/133",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:04",
-        "patternScore": 70.85,
-        "patternText": "113.740/160.529",
-        "patternInfo": {
-            "m": 50,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 87.5
-        },
-        "aiScore": 95
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP3",
-        "matchCode": "4488068",
-        "home": "AC Parceiro Nagano",
-        "away": "Kagoshima United",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 2",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "72.93",
-        "odds": "1.23",
-        "matchCount": "133",
-        "matchLink": "4488068",
-        "status": "Won",
-        "predictedScore": "0-1",
-        "predictedScoreText": "25/133",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:04",
-        "patternScore": 68.33,
-        "patternText": "187.678/274.672",
-        "patternInfo": {
-            "m": 57,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 87.1
-        },
-        "aiScore": 59
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487689",
-        "home": "Montedio Yamagata",
-        "away": "Jubilo Iwata",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "87.5",
-        "odds": "1.11",
-        "matchCount": "40",
-        "matchLink": "4487689",
-        "status": "Won",
-        "predictedScore": "2-1",
-        "predictedScoreText": "7/40",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:04",
-        "patternScore": 71.95,
-        "patternText": "162.473/225.819",
-        "patternInfo": {
-            "m": 70,
-            "s": 7,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 96
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487689",
-        "home": "Montedio Yamagata",
-        "away": "Jubilo Iwata",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "92.5",
-        "odds": "1.08",
-        "matchCount": "40",
-        "matchLink": "4487689",
-        "status": "Lost",
-        "predictedScore": "2-1",
-        "predictedScoreText": "7/40",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:04",
-        "patternScore": 70.89,
-        "patternText": "71.146/100.365",
-        "patternInfo": {
-            "m": 51,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 96
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487689",
-        "home": "Montedio Yamagata",
-        "away": "Jubilo Iwata",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "70.0",
-        "odds": "1.19",
-        "matchCount": "40",
-        "matchLink": "4487689",
-        "status": "Won",
-        "predictedScore": "2-1",
-        "predictedScoreText": "7/40",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:04",
-        "patternScore": 68.95,
-        "patternText": "199.584/289.473",
-        "patternInfo": {
-            "m": 66,
-            "s": 5,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 65
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487689",
-        "home": "Montedio Yamagata",
-        "away": "Jubilo Iwata",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 0",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "70.0",
-        "odds": "1.06",
-        "matchCount": "40",
-        "matchLink": "4487689",
-        "status": "Won",
-        "predictedScore": "2-1",
-        "predictedScoreText": "7/40",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:04",
-        "patternScore": 70.04,
-        "patternText": "205.332/293.183",
-        "patternInfo": {
-            "m": 71,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 86
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487282",
-        "home": "Avispa Fukuoka",
-        "away": "Yokohama F. Marinos",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 2",
-        "prediction": "Double Chance X2",
-        "ihtimal": "80.0",
-        "odds": "1.15",
-        "matchCount": "5",
-        "matchLink": "4487282",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "2/5",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:04",
-        "patternScore": 67.83,
-        "patternText": "149.390/220.231",
-        "patternInfo": {
-            "m": 76,
-            "s": 0,
-            "f": 0,
-            "e": 85,
-            "b": 81.48
-        },
-        "aiScore": 73
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487282",
-        "home": "Avispa Fukuoka",
-        "away": "Yokohama F. Marinos",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 2",
-        "prediction": "Handicap (0:1) 2",
-        "ihtimal": "80.0",
-        "odds": "1.13",
-        "matchCount": "5",
-        "matchLink": "4487282",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "2/5",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:04",
-        "patternScore": 67.53,
-        "patternText": "138.720/205.423",
-        "patternInfo": {
-            "m": 69,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 87.5
-        },
-        "aiScore": 70
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487282",
-        "home": "Avispa Fukuoka",
-        "away": "Yokohama F. Marinos",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 2",
-        "prediction": "Handicap (2:0) 1",
-        "ihtimal": "100.0",
-        "odds": "1.06",
-        "matchCount": "5",
-        "matchLink": "4487282",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "2/5",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:04",
-        "patternScore": 62.14,
-        "patternText": "130.688/210.317",
-        "patternInfo": {
-            "m": 70,
-            "s": 7,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 97
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487282",
-        "home": "Avispa Fukuoka",
-        "away": "Yokohama F. Marinos",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 2",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "100.0",
-        "odds": "1.10",
-        "matchCount": "5",
-        "matchLink": "4487282",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "2/5",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:04",
-        "patternScore": 62.28,
-        "patternText": "145.456/233.542",
-        "patternInfo": {
-            "m": 79,
-            "s": 4,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 86
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487282",
-        "home": "Avispa Fukuoka",
-        "away": "Yokohama F. Marinos",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 2",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "100.0",
-        "odds": "1.26",
-        "matchCount": "5",
-        "matchLink": "4487282",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "2/5",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:04",
-        "patternScore": 61.8,
-        "patternText": "134.847/218.185",
-        "patternInfo": {
-            "m": 66,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 89.47
-        },
-        "aiScore": 61
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487282",
-        "home": "Avispa Fukuoka",
-        "away": "Yokohama F. Marinos",
-        "firstHalf": "1 - 0",
-        "finalScore": "1 - 2",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "80.0",
-        "odds": "1.21",
-        "matchCount": "5",
-        "matchLink": "4487282",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "2/5",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:04",
-        "patternScore": 66.9,
-        "patternText": "147.038/219.792",
-        "patternInfo": {
-            "m": 81,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 86.67
-        },
-        "aiScore": 61
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487691",
-        "home": "Tochigi City FC",
-        "away": "Blaublitz Akita",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "70.78",
-        "odds": "1.21",
-        "matchCount": "154",
-        "matchLink": "4487691",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:04",
-        "patternScore": 68.86,
-        "patternText": "196.103/284.786",
-        "patternInfo": {
-            "m": 68,
-            "s": 7,
-            "f": 0,
-            "e": 85,
-            "b": 93.75
-        },
-        "aiScore": 65
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP2",
-        "matchCode": "4487691",
-        "home": "Tochigi City FC",
-        "away": "Blaublitz Akita",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "76.62",
-        "odds": "1.15",
-        "matchCount": "154",
-        "matchLink": "4487691",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:04",
-        "patternScore": 69.95,
-        "patternText": "208.792/298.500",
-        "patternInfo": {
-            "m": 67,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 72
-    },
-    {
         "date": "25.11.2026 12:00",
         "league": "KEN",
         "matchCode": "4581418",
@@ -3388,156 +1498,6 @@
             "b": 100.0
         },
         "aiScore": 58
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487281",
-        "home": "Fagiano Okayama",
-        "away": "Shimizu S-Pulse",
-        "firstHalf": "0 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "80.0",
-        "odds": "1.10",
-        "matchCount": "5",
-        "matchLink": "4487281",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:30",
-        "patternScore": 68.92,
-        "patternText": "162.038/235.102",
-        "patternInfo": {
-            "m": 72,
-            "s": 3,
-            "f": 0,
-            "e": 85,
-            "b": 87.5
-        },
-        "aiScore": 88
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487281",
-        "home": "Fagiano Okayama",
-        "away": "Shimizu S-Pulse",
-        "firstHalf": "0 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "Handicap (0:2) 2",
-        "ihtimal": "100.0",
-        "odds": "1.07",
-        "matchCount": "5",
-        "matchLink": "4487281",
-        "status": "Lost",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:30",
-        "patternScore": 61.83,
-        "patternText": "130.896/211.695",
-        "patternInfo": {
-            "m": 66,
-            "s": 7,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 93
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487281",
-        "home": "Fagiano Okayama",
-        "away": "Shimizu S-Pulse",
-        "firstHalf": "0 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "80.0",
-        "odds": "1.08",
-        "matchCount": "5",
-        "matchLink": "4487281",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:30",
-        "patternScore": 68.28,
-        "patternText": "145.844/213.610",
-        "patternInfo": {
-            "m": 71,
-            "s": 5,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 93
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487281",
-        "home": "Fagiano Okayama",
-        "away": "Shimizu S-Pulse",
-        "firstHalf": "0 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "80.0",
-        "odds": "1.30",
-        "matchCount": "5",
-        "matchLink": "4487281",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:30",
-        "patternScore": 68.03,
-        "patternText": "144.044/211.728",
-        "patternInfo": {
-            "m": 76,
-            "s": 8,
-            "f": 5,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 65
-    },
-    {
-        "date": "25.11.2026 10:00",
-        "league": "JAP",
-        "matchCode": "4487281",
-        "home": "Fagiano Okayama",
-        "away": "Shimizu S-Pulse",
-        "firstHalf": "0 - 0",
-        "finalScore": "2 - 0",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "100.0",
-        "odds": "1.36",
-        "matchCount": "5",
-        "matchLink": "4487281",
-        "status": "Lost",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 08:30",
-        "patternScore": 61.19,
-        "patternText": "131.970/215.671",
-        "patternInfo": {
-            "m": 67,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 89.47
-        },
-        "aiScore": 56
     },
     {
         "date": "25.11.2026 10:30",
@@ -3687,7 +1647,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 99
     },
     {
         "date": "25.11.2026 12:00",
@@ -4467,7 +2427,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "25.11.2026 11:00",
@@ -4977,7 +2937,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 95
+        "aiScore": 96
     },
     {
         "date": "25.11.2026 16:00",
@@ -5037,7 +2997,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "25.11.2026 12:00",
@@ -5307,7 +3267,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "25.11.2026 15:00",
@@ -5397,7 +3357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 99
     },
     {
         "date": "25.11.2026 16:30",
@@ -5547,7 +3507,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 97
     },
     {
         "date": "25.11.2026 17:00",
@@ -5697,7 +3657,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "25.11.2026 12:15",
@@ -6087,7 +4047,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 70
     },
     {
         "date": "25.11.2026 13:45",
@@ -6177,7 +4137,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "25.11.2026 14:00",
@@ -6387,7 +4347,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "25.11.2026 17:00",
@@ -6417,7 +4377,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "25.11.2026 14:00",
@@ -6717,7 +4677,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 53
+        "aiScore": 54
     },
     {
         "date": "25.11.2026 19:00",
@@ -7077,7 +5037,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "25.11.2026 16:00",
@@ -8487,7 +6447,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 96
     },
     {
         "date": "25.11.2026 19:00",
@@ -9627,7 +7587,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "25.11.2026 19:45",
@@ -10467,7 +8427,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 97
     },
     {
         "date": "25.11.2026 22:30",
@@ -11427,7 +9387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 97
     },
     {
         "date": "27.11.2026 08:30",
@@ -11757,7 +9717,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "27.11.2026 11:30",
@@ -13047,7 +11007,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "27.11.2026 17:00",
@@ -13257,7 +11217,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "27.11.2026 17:00",
@@ -13887,7 +11847,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "27.11.2026 17:30",
@@ -14067,7 +12027,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "27.11.2026 18:00",
@@ -14727,7 +12687,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "27.11.2026 18:30",
@@ -15207,7 +13167,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "27.11.2026 19:00",
@@ -15807,7 +13767,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "27.11.2026 19:15",
@@ -17967,7 +15927,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "27.11.2026 20:00",
@@ -18117,7 +16077,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "27.11.2026 20:00",
@@ -19107,7 +17067,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "28.11.2026 03:00",
@@ -19377,7 +17337,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "28.11.2026 05:00",
@@ -19467,7 +17427,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "28.11.2026 05:00",
@@ -20097,7 +18057,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 63
     },
     {
         "date": "28.11.2026 06:00",
@@ -20397,7 +18357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 96
     },
     {
         "date": "28.11.2026 07:00",
@@ -21027,7 +18987,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "28.11.2026 08:30",
@@ -21927,7 +19887,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "28.11.2026 11:00",
@@ -22137,7 +20097,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "28.11.2026 11:00",
@@ -22797,7 +20757,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "28.11.2026 12:00",
@@ -22887,7 +20847,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "28.11.2026 12:00",
@@ -23517,7 +21477,7 @@
             "e": 85,
             "b": 90.48
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "26.11.2026 13:00",
@@ -23757,7 +21717,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 96
     },
     {
         "date": "27.11.2026 19:00",
@@ -24777,7 +22737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "28.11.2026 08:30",
@@ -25227,7 +23187,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "28.11.2026 12:00",
@@ -25557,7 +23517,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "28.11.2026 12:00",
@@ -26817,7 +24777,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "28.11.2026 13:00",
@@ -26907,7 +24867,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "28.11.2026 13:00",
@@ -27837,7 +25797,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "28.11.2026 13:00",
@@ -28227,7 +26187,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 97
     },
     {
         "date": "28.11.2026 13:00",
@@ -28497,7 +26457,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 95
+        "aiScore": 96
     },
     {
         "date": "28.11.2026 13:30",
@@ -28617,7 +26577,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "28.11.2026 13:30",
@@ -29397,7 +27357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "28.11.2026 14:00",
@@ -29697,7 +27657,7 @@
             "e": 85,
             "b": 86.67
         },
-        "aiScore": 50
+        "aiScore": 51
     },
     {
         "date": "28.11.2026 14:00",
@@ -29967,7 +27927,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "28.11.2026 14:00",
@@ -30417,7 +28377,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 98
     },
     {
         "date": "27.11.2026 15:00",
@@ -30687,7 +28647,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "28.11.2026 11:00",
@@ -31077,7 +29037,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "28.11.2026 12:30",
@@ -31317,7 +29277,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "28.11.2026 13:00",
@@ -31647,7 +29607,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "28.11.2026 14:00",
@@ -32007,7 +29967,7 @@
             "e": 85,
             "b": 89.66
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "28.11.2026 14:00",
@@ -32907,7 +30867,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "28.11.2026 14:30",
@@ -33297,7 +31257,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "27.11.2026 18:00",
@@ -33897,7 +31857,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "28.11.2026 14:30",
@@ -34047,7 +32007,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "28.11.2026 15:00",
@@ -34197,7 +32157,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 98
     },
     {
         "date": "28.11.2026 15:00",
@@ -34317,7 +32277,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 97
     },
     {
         "date": "28.11.2026 15:00",
@@ -34377,7 +32337,7 @@
             "e": 85,
             "b": 94.44
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "28.11.2026 15:00",
@@ -34497,7 +32457,7 @@
             "e": 85,
             "b": 83.33
         },
-        "aiScore": 67
+        "aiScore": 66
     },
     {
         "date": "26.11.2026 12:15",
@@ -35067,7 +33027,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "28.11.2026 15:00",
@@ -35247,7 +33207,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "28.11.2026 15:00",
@@ -36117,7 +34077,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "28.11.2026 15:00",
@@ -36477,7 +34437,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "28.11.2026 15:00",
@@ -36747,7 +34707,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "28.11.2026 15:00",
@@ -37467,7 +35427,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 71
+        "aiScore": 70
     },
     {
         "date": "27.11.2026 19:30",
@@ -37737,7 +35697,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "28.11.2026 15:00",
@@ -38007,7 +35967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 66
     },
     {
         "date": "28.11.2026 15:00",
@@ -38037,7 +35997,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "26.11.2026 15:00",
@@ -38097,7 +36057,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 53
+        "aiScore": 52
     },
     {
         "date": "27.11.2026 12:00",
@@ -38847,7 +36807,7 @@
             "e": 85,
             "b": 92.86
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "28.11.2026 15:00",
@@ -39597,7 +37557,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "26.11.2026 20:00",
@@ -39627,7 +37587,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 99
+        "aiScore": 100
     },
     {
         "date": "26.11.2026 20:00",
@@ -39897,7 +37857,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "26.11.2026 20:00",
@@ -40257,7 +38217,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "26.11.2026 20:00",
@@ -41457,7 +39417,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "28.11.2026 15:00",
@@ -41577,7 +39537,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 95
+        "aiScore": 96
     },
     {
         "date": "28.11.2026 15:00",
@@ -41817,7 +39777,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "28.11.2026 15:00",
@@ -42297,7 +40257,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "28.11.2026 15:00",
@@ -42477,7 +40437,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "28.11.2026 15:00",
@@ -42777,7 +40737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "28.11.2026 15:00",
@@ -42837,7 +40797,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "28.11.2026 15:00",
@@ -42897,7 +40857,7 @@
             "e": 85,
             "b": 86.67
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "28.11.2026 15:00",
@@ -43617,7 +41577,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "26.11.2026 16:30",
@@ -44187,7 +42147,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "26.11.2026 17:45",
@@ -44847,7 +42807,7 @@
             "e": 85,
             "b": 86.76
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "28.11.2026 15:00",
@@ -45138,9 +43098,16 @@
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null,
-        "aiScore": 99
+        "patternScore": 69.13,
+        "patternText": "174.445/252.352",
+        "patternInfo": {
+            "m": 63,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 92.31
+        },
+        "aiScore": 92
     },
     {
         "date": "28.11.2026 15:00",
@@ -45161,9 +43128,16 @@
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null,
-        "aiScore": 95
+        "patternScore": 68.69,
+        "patternText": "328.521/478.236",
+        "patternInfo": {
+            "m": 73,
+            "s": 2,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 67
     },
     {
         "date": "28.11.2026 15:00",
@@ -45184,9 +43158,16 @@
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null,
-        "aiScore": 100
+        "patternScore": 68.7,
+        "patternText": "155.173/225.882",
+        "patternInfo": {
+            "m": 66,
+            "s": 3,
+            "f": 0,
+            "e": 85,
+            "b": 90.0
+        },
+        "aiScore": 93
     },
     {
         "date": "28.11.2026 15:00",
@@ -45207,9 +43188,16 @@
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null,
-        "aiScore": 99
+        "patternScore": 70.18,
+        "patternText": "186.550/265.807",
+        "patternInfo": {
+            "m": 74,
+            "s": 2,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 93
     },
     {
         "date": "28.11.2026 15:00",
@@ -45230,8 +43218,75 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null,
-        "aiScore": 98
+        "patternScore": 70.81,
+        "patternText": "418.284/590.746",
+        "patternInfo": {
+            "m": 73,
+            "s": 6,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 86
+    },
+    {
+        "date": "28.11.2026 15:00",
+        "league": "İS4",
+        "matchCode": "4494014",
+        "home": "Eibar Ii",
+        "away": "Marino De Luanc",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "71.13",
+        "odds": "1.08",
+        "matchCount": "97",
+        "matchLink": "4494014",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "16/97",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 70.62,
+        "patternText": "417.116/590.656",
+        "patternInfo": {
+            "m": 94,
+            "s": 5,
+            "f": 0,
+            "e": 85,
+            "b": 86.76
+        },
+        "aiScore": 79
+    },
+    {
+        "date": "28.11.2026 15:00",
+        "league": "İS4",
+        "matchCode": "4494014",
+        "home": "Eibar Ii",
+        "away": "Marino De Luanc",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "72.16",
+        "odds": "1.24",
+        "matchCount": "97",
+        "matchLink": "4494014",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "16/97",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 68.39,
+        "patternText": "322.504/471.545",
+        "patternInfo": {
+            "m": 77,
+            "s": 4,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 61
     }
 ]
