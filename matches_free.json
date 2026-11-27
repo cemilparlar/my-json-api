@@ -390,186 +390,6 @@
         "aiScore": 62
     },
     {
-        "date": "25.11.2026 23:00",
-        "league": "BOLPLK",
-        "matchCode": "4580790",
-        "home": "Real Potosi",
-        "away": "Always Ready",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "Double Chance 12",
-        "ihtimal": "75.51",
-        "odds": "1.12",
-        "matchCount": "147",
-        "matchLink": "4580790",
-        "status": "Lost",
-        "predictedScore": "1-1",
-        "predictedScoreText": "17/147",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 22:29",
-        "patternScore": 70.63,
-        "patternText": "241.844/342.396",
-        "patternInfo": {
-            "m": 59,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 92.31
-        },
-        "aiScore": 73
-    },
-    {
-        "date": "25.11.2026 23:00",
-        "league": "BOLPLK",
-        "matchCode": "4580790",
-        "home": "Real Potosi",
-        "away": "Always Ready",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "72.79",
-        "odds": "1.36",
-        "matchCount": "147",
-        "matchLink": "4580790",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "17/147",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 22:29",
-        "patternScore": 68.63,
-        "patternText": "177.013/257.907",
-        "patternInfo": {
-            "m": 43,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 92.31
-        },
-        "aiScore": 58
-    },
-    {
-        "date": "25.11.2026 23:00",
-        "league": "BOLPLK",
-        "matchCode": "4580790",
-        "home": "Real Potosi",
-        "away": "Always Ready",
-        "firstHalf": "0 - 0",
-        "finalScore": "0 - 0",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "76.87",
-        "odds": "1.15",
-        "matchCount": "147",
-        "matchLink": "4580790",
-        "status": "Won",
-        "predictedScore": "1-1",
-        "predictedScoreText": "17/147",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 22:29",
-        "patternScore": 69.84,
-        "patternText": "198.589/284.333",
-        "patternInfo": {
-            "m": 52,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 92.31
-        },
-        "aiScore": 74
-    },
-    {
-        "date": "25.11.2026 23:00",
-        "league": "BR1",
-        "matchCode": "4423384",
-        "home": "Atletico Mineiro",
-        "away": "SC Corinthians",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "84.21",
-        "odds": "1.11",
-        "matchCount": "19",
-        "matchLink": "4423384",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 22:29",
-        "patternScore": 70.0,
-        "patternText": "130.216/186.031",
-        "patternInfo": {
-            "m": 69,
-            "s": 6,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 91
-    },
-    {
-        "date": "25.11.2026 23:00",
-        "league": "BR1",
-        "matchCode": "4423384",
-        "home": "Atletico Mineiro",
-        "away": "SC Corinthians",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "73.68",
-        "odds": "1.15",
-        "matchCount": "19",
-        "matchLink": "4423384",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 22:29",
-        "patternScore": 69.63,
-        "patternText": "220.755/317.022",
-        "patternInfo": {
-            "m": 78,
-            "s": 11,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 79
-    },
-    {
-        "date": "25.11.2026 23:00",
-        "league": "BR1",
-        "matchCode": "4423384",
-        "home": "Atletico Mineiro",
-        "away": "SC Corinthians",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "73.68",
-        "odds": "1.21",
-        "matchCount": "19",
-        "matchLink": "4423384",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 22:29",
-        "patternScore": 68.01,
-        "patternText": "205.563/302.264",
-        "patternInfo": {
-            "m": 77,
-            "s": 5,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 62
-    },
-    {
         "date": "26.11.2026 00:00",
         "league": "ARJ",
         "matchCode": "4580874",
@@ -1213,11 +1033,11 @@
         "matchCount": "11",
         "matchLink": "4546763",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "4/11",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "27.11.2026 04:58",
         "patternScore": 68.19,
         "patternText": "223.010/327.066",
         "patternInfo": {
@@ -1243,11 +1063,11 @@
         "matchCount": "11",
         "matchLink": "4546763",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "4/11",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "27.11.2026 04:58",
         "patternScore": 70.11,
         "patternText": "148.146/211.299",
         "patternInfo": {
@@ -1273,11 +1093,11 @@
         "matchCount": "11",
         "matchLink": "4546763",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "4/11",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "27.11.2026 04:58",
         "patternScore": 69.45,
         "patternText": "252.886/364.112",
         "patternInfo": {
@@ -1303,11 +1123,11 @@
         "matchCount": "11",
         "matchLink": "4546763",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "4/11",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "27.11.2026 04:58",
         "patternScore": 68.96,
         "patternText": "242.650/351.894",
         "patternInfo": {
@@ -15567,7 +15387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "28.11.2026 12:30",
@@ -17457,7 +17277,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "28.11.2026 13:00",
@@ -17757,7 +17577,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "28.11.2026 13:00",
@@ -17997,7 +17817,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 62
     },
     {
         "date": "28.11.2026 13:30",
@@ -27327,7 +27147,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 64
+        "aiScore": 63
     },
     {
         "date": "28.11.2026 15:00",
@@ -38577,7 +38397,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "28.11.2026 16:00",
@@ -40317,7 +40137,7 @@
             "e": 85,
             "b": 94.74
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "28.11.2026 16:30",
@@ -50007,7 +49827,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "29.11.2026 01:00",
@@ -50757,7 +50577,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "29.11.2026 04:00",
@@ -53787,7 +53607,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "29.11.2026 10:30",
@@ -54537,7 +54357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 84
     },
     {
         "date": "29.11.2026 11:00",
@@ -68787,7 +68607,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 83
+        "aiScore": 82
     },
     {
         "date": "29.11.2026 17:30",
@@ -72987,7 +72807,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "29.11.2026 23:30",
@@ -73707,7 +73527,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "30.11.2026 16:00",
