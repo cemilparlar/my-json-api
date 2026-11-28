@@ -2593,8 +2593,8 @@
         "matchCount": "5",
         "matchLink": "4517738",
         "status": "Pending",
-        "predictedScore": "2-2",
-        "predictedScoreText": "2/4",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -2623,8 +2623,8 @@
         "matchCount": "5",
         "matchLink": "4517738",
         "status": "Pending",
-        "predictedScore": "2-2",
-        "predictedScoreText": "2/4",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -2653,8 +2653,8 @@
         "matchCount": "5",
         "matchLink": "4517738",
         "status": "Pending",
-        "predictedScore": "2-2",
-        "predictedScoreText": "2/4",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -2683,8 +2683,8 @@
         "matchCount": "5",
         "matchLink": "4517738",
         "status": "Pending",
-        "predictedScore": "2-2",
-        "predictedScoreText": "2/4",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -2713,8 +2713,8 @@
         "matchCount": "5",
         "matchLink": "4517738",
         "status": "Pending",
-        "predictedScore": "2-2",
-        "predictedScoreText": "2/4",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -3523,11 +3523,11 @@
         "matchCount": "117",
         "matchLink": "4496731",
         "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "14/117",
+        "predictedScore": "1-1",
+        "predictedScoreText": "6/48",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:47",
         "patternScore": 70.65,
         "patternText": "425.059/601.600",
         "patternInfo": {
@@ -3553,11 +3553,11 @@
         "matchCount": "117",
         "matchLink": "4496731",
         "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "14/117",
+        "predictedScore": "1-1",
+        "predictedScoreText": "6/48",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:47",
         "patternScore": 70.41,
         "patternText": "223.662/317.660",
         "patternInfo": {
@@ -3583,11 +3583,11 @@
         "matchCount": "117",
         "matchLink": "4496731",
         "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "14/117",
+        "predictedScore": "1-1",
+        "predictedScoreText": "6/48",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:47",
         "patternScore": 69.63,
         "patternText": "227.374/326.560",
         "patternInfo": {
@@ -3883,11 +3883,11 @@
         "matchCount": "48",
         "matchLink": "4496726",
         "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "6/48",
+        "predictedScore": "2-2",
+        "predictedScoreText": "7/53",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:45",
         "patternScore": 69.22,
         "patternText": "333.684/482.043",
         "patternInfo": {
@@ -3913,11 +3913,11 @@
         "matchCount": "48",
         "matchLink": "4496726",
         "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "6/48",
+        "predictedScore": "2-2",
+        "predictedScoreText": "7/53",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:45",
         "patternScore": 69.49,
         "patternText": "215.903/310.676",
         "patternInfo": {
@@ -3943,11 +3943,11 @@
         "matchCount": "48",
         "matchLink": "4496726",
         "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "6/48",
+        "predictedScore": "2-2",
+        "predictedScoreText": "7/53",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:45",
         "patternScore": 70.22,
         "patternText": "219.161/312.126",
         "patternInfo": {
@@ -5997,7 +5997,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "28.11.2026 15:00",
@@ -6597,7 +6597,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "28.11.2026 15:00",
@@ -12507,7 +12507,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 96
     },
     {
         "date": "28.11.2026 15:30",
@@ -18087,7 +18087,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "28.11.2026 17:45",
@@ -19287,7 +19287,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "28.11.2026 18:00",
@@ -23637,7 +23637,7 @@
             "e": 85,
             "b": 85.96
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "29.11.2026 03:30",
@@ -27627,7 +27627,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 84
     },
     {
         "date": "29.11.2026 11:00",
@@ -29007,7 +29007,7 @@
             "e": 85,
             "b": 87.8
         },
-        "aiScore": 63
+        "aiScore": 62
     },
     {
         "date": "29.11.2026 11:45",
@@ -30297,7 +30297,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "29.11.2026 13:00",
@@ -30807,7 +30807,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "29.11.2026 13:00",
@@ -31257,7 +31257,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 84
     },
     {
         "date": "29.11.2026 13:00",
@@ -31737,7 +31737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 93
     },
     {
         "date": "29.11.2026 13:30",
@@ -32367,7 +32367,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "29.11.2026 13:30",
@@ -32517,7 +32517,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 69
     },
     {
         "date": "29.11.2026 13:30",
@@ -35967,7 +35967,7 @@
             "e": 85,
             "b": 93.75
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "29.11.2026 14:05",
@@ -39507,7 +39507,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "29.11.2026 16:30",
@@ -39717,7 +39717,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "29.11.2026 16:30",
@@ -41157,7 +41157,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "29.11.2026 17:30",
@@ -42897,7 +42897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "29.11.2026 19:30",
@@ -43347,7 +43347,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "29.11.2026 20:00",
@@ -45147,7 +45147,7 @@
             "e": 85,
             "b": 93.33
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "28.11.2026 15:00",
@@ -49827,7 +49827,7 @@
             "e": 85,
             "b": 90.0
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "27.11.2026 10:30",
@@ -50577,7 +50577,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "29.11.2026 16:00",
@@ -50727,7 +50727,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "30.11.2026 12:00",
@@ -51657,7 +51657,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "27.11.2026 11:00",
@@ -53743,11 +53743,11 @@
         "matchCount": "1",
         "matchLink": "4495526",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-3",
+        "predictedScoreText": "1/1",
         "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:45",
         "patternScore": 59.51,
         "patternText": "329.657/553.974",
         "patternInfo": {
@@ -53773,11 +53773,11 @@
         "matchCount": "1",
         "matchLink": "4495526",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-3",
+        "predictedScoreText": "1/1",
         "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:45",
         "patternScore": 59.16,
         "patternText": "325.071/549.520",
         "patternInfo": {
@@ -53803,11 +53803,11 @@
         "matchCount": "1",
         "matchLink": "4495526",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-3",
+        "predictedScoreText": "1/1",
         "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:45",
         "patternScore": 59.13,
         "patternText": "317.063/536.230",
         "patternInfo": {
@@ -55287,7 +55287,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 71
+        "aiScore": 70
     },
     {
         "date": "28.11.2026 13:00",
@@ -55647,7 +55647,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 97
     },
     {
         "date": "28.11.2026 16:00",
@@ -56173,11 +56173,11 @@
         "matchCount": "4",
         "matchLink": "4582234",
         "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "3/15",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:39",
         "patternScore": 59.8,
         "patternText": "319.612/534.486",
         "patternInfo": {
@@ -57717,7 +57717,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "27.11.2026 17:00",
@@ -60477,7 +60477,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "28.11.2026 18:00",
@@ -62067,7 +62067,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 82
     },
     {
         "date": "27.11.2026 19:00",
@@ -62187,7 +62187,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "27.11.2026 19:00",
@@ -63537,7 +63537,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 92
     },
     {
         "date": "27.11.2026 19:45",
@@ -66207,7 +66207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "28.11.2026 05:00",
@@ -68577,7 +68577,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 98
     },
     {
         "date": "28.11.2026 12:00",
@@ -68773,11 +68773,11 @@
         "matchCount": "5",
         "matchLink": "4495849",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "2-1",
+        "predictedScoreText": "4/15",
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 06:08",
+        "tahminUpdatedAt": "28.11.2026 10:37",
         "patternScore": 69.61,
         "patternText": "317.106/455.566",
         "patternInfo": {
@@ -68803,11 +68803,11 @@
         "matchCount": "5",
         "matchLink": "4495849",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "2-1",
+        "predictedScoreText": "4/15",
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 06:08",
+        "tahminUpdatedAt": "28.11.2026 10:37",
         "patternScore": 67.15,
         "patternText": "228.835/340.763",
         "patternInfo": {
@@ -68833,11 +68833,11 @@
         "matchCount": "5",
         "matchLink": "4495849",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "2-1",
+        "predictedScoreText": "4/15",
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 06:08",
+        "tahminUpdatedAt": "28.11.2026 10:37",
         "patternScore": 64.3,
         "patternText": "243.913/379.333",
         "patternInfo": {
@@ -68863,11 +68863,11 @@
         "matchCount": "5",
         "matchLink": "4495849",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "2-1",
+        "predictedScoreText": "4/15",
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 06:08",
+        "tahminUpdatedAt": "28.11.2026 10:37",
         "patternScore": 66.93,
         "patternText": "216.753/323.835",
         "patternInfo": {
@@ -68893,11 +68893,11 @@
         "matchCount": "5",
         "matchLink": "4495849",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "2-1",
+        "predictedScoreText": "4/15",
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 06:08",
+        "tahminUpdatedAt": "28.11.2026 10:37",
         "patternScore": 67.05,
         "patternText": "223.461/333.269",
         "patternInfo": {
@@ -68923,11 +68923,11 @@
         "matchCount": "5",
         "matchLink": "4495849",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "2-1",
+        "predictedScoreText": "4/15",
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 06:08",
+        "tahminUpdatedAt": "28.11.2026 10:37",
         "patternScore": 63.25,
         "patternText": "231.774/366.443",
         "patternInfo": {
@@ -68953,11 +68953,11 @@
         "matchCount": "5",
         "matchLink": "4495849",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "2-1",
+        "predictedScoreText": "4/15",
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 06:08",
+        "tahminUpdatedAt": "28.11.2026 10:37",
         "patternScore": 66.83,
         "patternText": "216.343/323.709",
         "patternInfo": {
@@ -69387,7 +69387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "29.11.2026 12:15",
@@ -69673,11 +69673,11 @@
         "matchCount": "151",
         "matchLink": "4551366",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "18/151",
+        "predictedScore": "1-1",
+        "predictedScoreText": "15/83",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 06:30",
+        "tahminUpdatedAt": "28.11.2026 10:37",
         "patternScore": 70.44,
         "patternText": "392.228/556.844",
         "patternInfo": {
@@ -69747,7 +69747,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "28.11.2026 07:30",
@@ -69883,11 +69883,11 @@
         "matchCount": "112",
         "matchLink": "4489430",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "17/112",
+        "predictedScore": "1-0",
+        "predictedScoreText": "15/111",
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 06:46",
+        "tahminUpdatedAt": "28.11.2026 10:39",
         "patternScore": 70.58,
         "patternText": "397.785/563.589",
         "patternInfo": {
@@ -69913,11 +69913,11 @@
         "matchCount": "112",
         "matchLink": "4489430",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "17/112",
+        "predictedScore": "1-0",
+        "predictedScoreText": "15/111",
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 06:46",
+        "tahminUpdatedAt": "28.11.2026 10:39",
         "patternScore": 69.08,
         "patternText": "302.659/438.139",
         "patternInfo": {
@@ -69943,11 +69943,11 @@
         "matchCount": "112",
         "matchLink": "4489430",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "17/112",
+        "predictedScore": "1-0",
+        "predictedScoreText": "15/111",
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 06:46",
+        "tahminUpdatedAt": "28.11.2026 10:39",
         "patternScore": 69.14,
         "patternText": "309.197/447.205",
         "patternInfo": {
@@ -69973,11 +69973,11 @@
         "matchCount": "112",
         "matchLink": "4489430",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "17/112",
+        "predictedScore": "1-0",
+        "predictedScoreText": "15/111",
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 06:46",
+        "tahminUpdatedAt": "28.11.2026 10:39",
         "patternScore": 69.68,
         "patternText": "327.215/469.628",
         "patternInfo": {
@@ -70003,11 +70003,11 @@
         "matchCount": "112",
         "matchLink": "4489430",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "17/112",
+        "predictedScore": "1-0",
+        "predictedScoreText": "15/111",
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 06:46",
+        "tahminUpdatedAt": "28.11.2026 10:39",
         "patternScore": 68.66,
         "patternText": "313.009/455.862",
         "patternInfo": {
@@ -70603,11 +70603,11 @@
         "matchCount": "36",
         "matchLink": "4505920",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "9/36",
+        "predictedScore": "2-1",
+        "predictedScoreText": "14/91",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 07:12",
+        "tahminUpdatedAt": "28.11.2026 10:38",
         "patternScore": 70.92,
         "patternText": "427.094/602.226",
         "patternInfo": {
@@ -70767,7 +70767,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "28.11.2026 08:40",
@@ -71143,11 +71143,11 @@
         "matchCount": "65",
         "matchLink": "4478114",
         "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "9/65",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 08:06",
+        "tahminUpdatedAt": "28.11.2026 10:40",
         "patternScore": 71.02,
         "patternText": "274.933/387.100",
         "patternInfo": {
@@ -71173,11 +71173,11 @@
         "matchCount": "65",
         "matchLink": "4478114",
         "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "9/65",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 08:06",
+        "tahminUpdatedAt": "28.11.2026 10:40",
         "patternScore": 69.84,
         "patternText": "218.735/313.194",
         "patternInfo": {
@@ -71817,7 +71817,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 93
     },
     {
         "date": "28.11.2026 13:00",
@@ -72707,7 +72707,7 @@
         "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 08:27",
+        "tahminUpdatedAt": "28.11.2026 10:37",
         "patternScore": 67.47,
         "patternText": "241.348/357.686",
         "patternInfo": {
@@ -73543,11 +73543,11 @@
         "matchCount": "3",
         "matchLink": "4476065",
         "status": "Pending",
-        "predictedScore": "0-1",
-        "predictedScoreText": "2/3",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 08:39",
+        "tahminUpdatedAt": "28.11.2026 10:42",
         "patternScore": 59.19,
         "patternText": "326.992/552.461",
         "patternInfo": {
@@ -73737,7 +73737,7 @@
             "e": 85,
             "b": 90.91
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "28.11.2026 13:30",
@@ -74023,11 +74023,11 @@
         "matchCount": "16",
         "matchLink": "4485933",
         "status": "Pending",
-        "predictedScore": "1-4",
-        "predictedScoreText": "3/16",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 08:42",
+        "tahminUpdatedAt": "28.11.2026 10:43",
         "patternScore": 65.93,
         "patternText": "271.860/412.316",
         "patternInfo": {
@@ -74053,11 +74053,11 @@
         "matchCount": "16",
         "matchLink": "4485933",
         "status": "Pending",
-        "predictedScore": "1-4",
-        "predictedScoreText": "3/16",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 08:42",
+        "tahminUpdatedAt": "28.11.2026 10:43",
         "patternScore": 69.23,
         "patternText": "170.567/246.372",
         "patternInfo": {
@@ -74083,11 +74083,11 @@
         "matchCount": "16",
         "matchLink": "4485933",
         "status": "Pending",
-        "predictedScore": "1-4",
-        "predictedScoreText": "3/16",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 08:42",
+        "tahminUpdatedAt": "28.11.2026 10:43",
         "patternScore": 68.62,
         "patternText": "227.146/331.012",
         "patternInfo": {
@@ -76201,216 +76201,6 @@
     },
     {
         "date": "28.11.2026 11:00",
-        "league": "RUS",
-        "matchCode": "4485934",
-        "home": "Rubin Kazan",
-        "away": "FC Akron Togliatti",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "81.25",
-        "odds": "1.16",
-        "matchCount": "32",
-        "matchLink": "4485934",
-        "status": "Pending",
-        "predictedScore": "2-0",
-        "predictedScoreText": "3/12",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 10:29",
-        "patternScore": 70.56,
-        "patternText": "261.705/370.916",
-        "patternInfo": {
-            "m": 76,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 92.86
-        },
-        "aiScore": 79
-    },
-    {
-        "date": "28.11.2026 11:00",
-        "league": "RUS",
-        "matchCode": "4485934",
-        "home": "Rubin Kazan",
-        "away": "FC Akron Togliatti",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "75.0",
-        "odds": "1.08",
-        "matchCount": "32",
-        "matchLink": "4485934",
-        "status": "Pending",
-        "predictedScore": "2-0",
-        "predictedScoreText": "3/12",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 10:29",
-        "patternScore": 69.15,
-        "patternText": "315.527/456.287",
-        "patternInfo": {
-            "m": 76,
-            "s": 4,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 83
-    },
-    {
-        "date": "28.11.2026 11:00",
-        "league": "RUS",
-        "matchCode": "4485934",
-        "home": "Rubin Kazan",
-        "away": "FC Akron Togliatti",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "78.12",
-        "odds": "1.17",
-        "matchCount": "32",
-        "matchLink": "4485934",
-        "status": "Pending",
-        "predictedScore": "2-0",
-        "predictedScoreText": "3/12",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 10:29",
-        "patternScore": 69.16,
-        "patternText": "321.758/465.264",
-        "patternInfo": {
-            "m": 78,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 87.5
-        },
-        "aiScore": 69
-    },
-    {
-        "date": "28.11.2026 11:00",
-        "league": "RUS",
-        "matchCode": "4485934",
-        "home": "Rubin Kazan",
-        "away": "FC Akron Togliatti",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "81.25",
-        "odds": "1.15",
-        "matchCount": "32",
-        "matchLink": "4485934",
-        "status": "Pending",
-        "predictedScore": "2-0",
-        "predictedScoreText": "3/12",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 10:29",
-        "patternScore": 69.29,
-        "patternText": "219.689/317.045",
-        "patternInfo": {
-            "m": 74,
-            "s": 8,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 82
-    },
-    {
-        "date": "28.11.2026 11:00",
-        "league": "RUS",
-        "matchCode": "4485934",
-        "home": "Rubin Kazan",
-        "away": "FC Akron Togliatti",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "90.62",
-        "odds": "1.06",
-        "matchCount": "32",
-        "matchLink": "4485934",
-        "status": "Pending",
-        "predictedScore": "2-0",
-        "predictedScoreText": "3/12",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 10:29",
-        "patternScore": 70.42,
-        "patternText": "158.085/224.477",
-        "patternInfo": {
-            "m": 65,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 88.1
-        },
-        "aiScore": 98
-    },
-    {
-        "date": "28.11.2026 11:00",
-        "league": "RUS",
-        "matchCode": "4485934",
-        "home": "Rubin Kazan",
-        "away": "FC Akron Togliatti",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "71.88",
-        "odds": "1.26",
-        "matchCount": "32",
-        "matchLink": "4485934",
-        "status": "Pending",
-        "predictedScore": "2-0",
-        "predictedScoreText": "3/12",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 10:29",
-        "patternScore": 68.6,
-        "patternText": "310.875/453.174",
-        "patternInfo": {
-            "m": 71,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 87.5
-        },
-        "aiScore": 60
-    },
-    {
-        "date": "28.11.2026 11:00",
-        "league": "RUS",
-        "matchCode": "4485934",
-        "home": "Rubin Kazan",
-        "away": "FC Akron Togliatti",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "78.12",
-        "odds": "1.24",
-        "matchCount": "32",
-        "matchLink": "4485934",
-        "status": "Pending",
-        "predictedScore": "2-0",
-        "predictedScoreText": "3/12",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 10:29",
-        "patternScore": 68.23,
-        "patternText": "312.509/458.014",
-        "patternInfo": {
-            "m": 72,
-            "s": 2,
-            "f": 0,
-            "e": 85,
-            "b": 87.5
-        },
-        "aiScore": 62
-    },
-    {
-        "date": "28.11.2026 11:00",
         "league": "POR2",
         "matchCode": "4517361",
         "home": "AVS",
@@ -76753,11 +76543,11 @@
         "matchCount": "146",
         "matchLink": "4476313",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "17/146",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:47",
+        "tahminUpdatedAt": "28.11.2026 10:37",
         "patternScore": 70.33,
         "patternText": "392.586/558.176",
         "patternInfo": {
@@ -76783,11 +76573,11 @@
         "matchCount": "146",
         "matchLink": "4476313",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "17/146",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:47",
+        "tahminUpdatedAt": "28.11.2026 10:37",
         "patternScore": 69.03,
         "patternText": "322.431/467.099",
         "patternInfo": {
@@ -76813,11 +76603,11 @@
         "matchCount": "1",
         "matchLink": "4522625",
         "status": "Pending",
-        "predictedScore": "1-4",
-        "predictedScoreText": "1/1",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:49",
+        "tahminUpdatedAt": "28.11.2026 10:38",
         "patternScore": 59.26,
         "patternText": "308.009/519.742",
         "patternInfo": {
@@ -76843,11 +76633,11 @@
         "matchCount": "1",
         "matchLink": "4522625",
         "status": "Pending",
-        "predictedScore": "1-4",
-        "predictedScoreText": "1/1",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:49",
+        "tahminUpdatedAt": "28.11.2026 10:38",
         "patternScore": 58.15,
         "patternText": "279.035/479.880",
         "patternInfo": {
@@ -76873,11 +76663,11 @@
         "matchCount": "1",
         "matchLink": "4522625",
         "status": "Pending",
-        "predictedScore": "1-4",
-        "predictedScoreText": "1/1",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:49",
+        "tahminUpdatedAt": "28.11.2026 10:38",
         "patternScore": 59.17,
         "patternText": "311.443/526.376",
         "patternInfo": {
@@ -76903,11 +76693,11 @@
         "matchCount": "1",
         "matchLink": "4522625",
         "status": "Pending",
-        "predictedScore": "1-4",
-        "predictedScoreText": "1/1",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:49",
+        "tahminUpdatedAt": "28.11.2026 10:38",
         "patternScore": 57.98,
         "patternText": "285.615/492.634",
         "patternInfo": {
@@ -76933,11 +76723,11 @@
         "matchCount": "1",
         "matchLink": "4522625",
         "status": "Pending",
-        "predictedScore": "1-4",
-        "predictedScoreText": "1/1",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:49",
+        "tahminUpdatedAt": "28.11.2026 10:38",
         "patternScore": 57.98,
         "patternText": "279.447/481.984",
         "patternInfo": {
@@ -76963,11 +76753,11 @@
         "matchCount": "1",
         "matchLink": "4522625",
         "status": "Pending",
-        "predictedScore": "1-4",
-        "predictedScoreText": "1/1",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:49",
+        "tahminUpdatedAt": "28.11.2026 10:38",
         "patternScore": 58.19,
         "patternText": "297.447/511.184",
         "patternInfo": {
@@ -76993,11 +76783,11 @@
         "matchCount": "1",
         "matchLink": "4522625",
         "status": "Pending",
-        "predictedScore": "1-4",
-        "predictedScoreText": "1/1",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:49",
+        "tahminUpdatedAt": "28.11.2026 10:38",
         "patternScore": 58.0,
         "patternText": "279.875/482.508",
         "patternInfo": {
@@ -77023,11 +76813,11 @@
         "matchCount": "1",
         "matchLink": "4522625",
         "status": "Pending",
-        "predictedScore": "1-4",
-        "predictedScoreText": "1/1",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:49",
+        "tahminUpdatedAt": "28.11.2026 10:38",
         "patternScore": 58.06,
         "patternText": "285.431/491.644",
         "patternInfo": {
@@ -77053,11 +76843,11 @@
         "matchCount": "1",
         "matchLink": "4522625",
         "status": "Pending",
-        "predictedScore": "1-4",
-        "predictedScoreText": "1/1",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:49",
+        "tahminUpdatedAt": "28.11.2026 10:38",
         "patternScore": 59.18,
         "patternText": "304.247/514.138",
         "patternInfo": {
@@ -77083,11 +76873,11 @@
         "matchCount": "1",
         "matchLink": "4522625",
         "status": "Pending",
-        "predictedScore": "1-4",
-        "predictedScoreText": "1/1",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:49",
+        "tahminUpdatedAt": "28.11.2026 10:38",
         "patternScore": 57.82,
         "patternText": "284.969/492.816",
         "patternInfo": {
@@ -77113,11 +76903,11 @@
         "matchCount": "1",
         "matchLink": "4522625",
         "status": "Pending",
-        "predictedScore": "1-4",
-        "predictedScoreText": "1/1",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:49",
+        "tahminUpdatedAt": "28.11.2026 10:38",
         "patternScore": 58.09,
         "patternText": "278.629/479.682",
         "patternInfo": {
@@ -77923,11 +77713,11 @@
         "matchCount": "142",
         "matchLink": "4484689",
         "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "19/142",
+        "predictedScore": "2-0",
+        "predictedScoreText": "13/84",
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:52",
+        "tahminUpdatedAt": "28.11.2026 10:39",
         "patternScore": 70.55,
         "patternText": "393.198/557.324",
         "patternInfo": {
@@ -77953,11 +77743,11 @@
         "matchCount": "142",
         "matchLink": "4484689",
         "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "19/142",
+        "predictedScore": "2-0",
+        "predictedScoreText": "13/84",
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:52",
+        "tahminUpdatedAt": "28.11.2026 10:39",
         "patternScore": 68.53,
         "patternText": "305.209/445.340",
         "patternInfo": {
@@ -78253,11 +78043,11 @@
         "matchCount": "5",
         "matchLink": "4492389",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/17",
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:54",
+        "tahminUpdatedAt": "28.11.2026 10:41",
         "patternScore": 69.98,
         "patternText": "341.813/488.416",
         "patternInfo": {
@@ -78283,11 +78073,11 @@
         "matchCount": "5",
         "matchLink": "4492389",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/17",
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:54",
+        "tahminUpdatedAt": "28.11.2026 10:41",
         "patternScore": 68.42,
         "patternText": "258.806/378.243",
         "patternInfo": {
@@ -78313,11 +78103,11 @@
         "matchCount": "5",
         "matchLink": "4492389",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "2-1",
+        "predictedScoreText": "3/17",
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:54",
+        "tahminUpdatedAt": "28.11.2026 10:41",
         "patternScore": 62.3,
         "patternText": "228.420/366.623",
         "patternInfo": {
@@ -78617,7 +78407,7 @@
         "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:56",
+        "tahminUpdatedAt": "28.11.2026 10:43",
         "patternScore": 70.32,
         "patternText": "423.243/601.846",
         "patternInfo": {
@@ -78647,7 +78437,7 @@
         "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:56",
+        "tahminUpdatedAt": "28.11.2026 10:43",
         "patternScore": 69.27,
         "patternText": "352.344/508.683",
         "patternInfo": {
@@ -78677,7 +78467,7 @@
         "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:56",
+        "tahminUpdatedAt": "28.11.2026 10:43",
         "patternScore": 69.48,
         "patternText": "348.112/501.002",
         "patternInfo": {
@@ -78707,7 +78497,7 @@
         "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:56",
+        "tahminUpdatedAt": "28.11.2026 10:43",
         "patternScore": 68.35,
         "patternText": "327.202/478.721",
         "patternInfo": {
@@ -78794,10 +78584,10 @@
         "matchLink": "4580975",
         "status": "Pending",
         "predictedScore": "1-1",
-        "predictedScoreText": "29/219",
+        "predictedScoreText": "25/183",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:58",
+        "tahminUpdatedAt": "28.11.2026 10:44",
         "patternScore": 70.27,
         "patternText": "416.835/593.168",
         "patternInfo": {
@@ -78824,10 +78614,10 @@
         "matchLink": "4580975",
         "status": "Pending",
         "predictedScore": "1-1",
-        "predictedScoreText": "29/219",
+        "predictedScoreText": "25/183",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 09:58",
+        "tahminUpdatedAt": "28.11.2026 10:44",
         "patternScore": 69.32,
         "patternText": "339.269/489.414",
         "patternInfo": {
@@ -79274,10 +79064,10 @@
         "matchLink": "4495527",
         "status": "Pending",
         "predictedScore": "0-1",
-        "predictedScoreText": "3/14",
+        "predictedScoreText": "6/12",
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 10:00",
+        "tahminUpdatedAt": "28.11.2026 10:44",
         "patternScore": 70.36,
         "patternText": "313.175/445.079",
         "patternInfo": {
@@ -79304,10 +79094,10 @@
         "matchLink": "4495527",
         "status": "Pending",
         "predictedScore": "0-1",
-        "predictedScoreText": "3/14",
+        "predictedScoreText": "6/12",
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 10:00",
+        "tahminUpdatedAt": "28.11.2026 10:44",
         "patternScore": 68.79,
         "patternText": "359.297/522.273",
         "patternInfo": {
@@ -79334,10 +79124,10 @@
         "matchLink": "4495527",
         "status": "Pending",
         "predictedScore": "0-1",
-        "predictedScoreText": "3/14",
+        "predictedScoreText": "6/12",
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 10:00",
+        "tahminUpdatedAt": "28.11.2026 10:44",
         "patternScore": 68.23,
         "patternText": "223.416/327.424",
         "patternInfo": {
@@ -79364,10 +79154,10 @@
         "matchLink": "4495527",
         "status": "Pending",
         "predictedScore": "0-1",
-        "predictedScoreText": "3/14",
+        "predictedScoreText": "6/12",
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "28.11.2026 10:00",
+        "tahminUpdatedAt": "28.11.2026 10:44",
         "patternScore": 68.48,
         "patternText": "187.082/273.197",
         "patternInfo": {
@@ -79393,11 +79183,11 @@
         "matchCount": "10",
         "matchLink": "4495529",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "4/19",
+        "predictedScore": "1-1",
+        "predictedScoreText": "3/10",
         "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:44",
         "patternScore": 68.28,
         "patternText": "179.055/262.223",
         "patternInfo": {
@@ -79423,11 +79213,11 @@
         "matchCount": "10",
         "matchLink": "4495529",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "4/19",
+        "predictedScore": "1-1",
+        "predictedScoreText": "3/10",
         "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:44",
         "patternScore": 68.07,
         "patternText": "339.995/499.512",
         "patternInfo": {
@@ -79453,11 +79243,11 @@
         "matchCount": "10",
         "matchLink": "4495529",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "4/19",
+        "predictedScore": "1-1",
+        "predictedScoreText": "3/10",
         "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:44",
         "patternScore": 67.59,
         "patternText": "160.449/237.393",
         "patternInfo": {
@@ -79483,11 +79273,11 @@
         "matchCount": "10",
         "matchLink": "4495529",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "4/19",
+        "predictedScore": "1-1",
+        "predictedScoreText": "3/10",
         "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:44",
         "patternScore": 68.34,
         "patternText": "366.361/536.105",
         "patternInfo": {
@@ -79513,11 +79303,11 @@
         "matchCount": "10",
         "matchLink": "4495529",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "4/19",
+        "predictedScore": "1-1",
+        "predictedScoreText": "3/10",
         "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:44",
         "patternScore": 69.97,
         "patternText": "256.191/366.163",
         "patternInfo": {
@@ -79543,11 +79333,11 @@
         "matchCount": "10",
         "matchLink": "4495529",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "4/19",
+        "predictedScore": "1-1",
+        "predictedScoreText": "3/10",
         "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:44",
         "patternScore": 67.7,
         "patternText": "340.431/502.858",
         "patternInfo": {
@@ -79573,11 +79363,11 @@
         "matchCount": "10",
         "matchLink": "4495529",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "4/19",
+        "predictedScore": "1-1",
+        "predictedScoreText": "3/10",
         "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:44",
         "patternScore": 68.39,
         "patternText": "176.585/258.207",
         "patternInfo": {
@@ -79603,11 +79393,11 @@
         "matchCount": "10",
         "matchLink": "4495529",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "4/19",
+        "predictedScore": "1-1",
+        "predictedScoreText": "3/10",
         "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:44",
         "patternScore": 68.73,
         "patternText": "385.789/561.324",
         "patternInfo": {
@@ -79633,11 +79423,11 @@
         "matchCount": "10",
         "matchLink": "4495529",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "4/19",
+        "predictedScore": "1-1",
+        "predictedScoreText": "3/10",
         "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:44",
         "patternScore": 67.99,
         "patternText": "238.583/350.924",
         "patternInfo": {
@@ -79978,5 +79768,125 @@
             "b": 100.0
         },
         "aiScore": 99
+    },
+    {
+        "date": "28.11.2026 11:00",
+        "league": "RUS",
+        "matchCode": "4485934",
+        "home": "Rubin Kazan",
+        "away": "FC Akron Togliatti",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "100.0",
+        "odds": "1.09",
+        "matchCount": "12",
+        "matchLink": "4485934",
+        "status": "Pending",
+        "predictedScore": "2-0",
+        "predictedScoreText": "3/12",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:29",
+        "patternScore": 65.02,
+        "patternText": "237.671/365.520",
+        "patternInfo": {
+            "m": 76,
+            "s": 5,
+            "f": 0,
+            "e": 85,
+            "b": 91.18
+        },
+        "aiScore": 95
+    },
+    {
+        "date": "28.11.2026 11:00",
+        "league": "RUS",
+        "matchCode": "4485934",
+        "home": "Rubin Kazan",
+        "away": "FC Akron Togliatti",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (1:0) 1",
+        "ihtimal": "100.0",
+        "odds": "1.07",
+        "matchCount": "12",
+        "matchLink": "4485934",
+        "status": "Pending",
+        "predictedScore": "2-0",
+        "predictedScoreText": "3/12",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:29",
+        "patternScore": 63.65,
+        "patternText": "206.358/324.232",
+        "patternInfo": {
+            "m": 76,
+            "s": 3,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 94
+    },
+    {
+        "date": "28.11.2026 11:00",
+        "league": "RUS",
+        "matchCode": "4485934",
+        "home": "Rubin Kazan",
+        "away": "FC Akron Togliatti",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 2.5 Goals",
+        "ihtimal": "75.0",
+        "odds": "1.56",
+        "matchCount": "12",
+        "matchLink": "4485934",
+        "status": "Pending",
+        "predictedScore": "2-0",
+        "predictedScoreText": "3/12",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:29",
+        "patternScore": 67.77,
+        "patternText": "298.831/440.978",
+        "patternInfo": {
+            "m": 67,
+            "s": 1,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 55
+    },
+    {
+        "date": "28.11.2026 11:00",
+        "league": "RUS",
+        "matchCode": "4485934",
+        "home": "Rubin Kazan",
+        "away": "FC Akron Togliatti",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.14",
+        "matchCount": "12",
+        "matchLink": "4485934",
+        "status": "Pending",
+        "predictedScore": "2-0",
+        "predictedScoreText": "3/12",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 10:29",
+        "patternScore": 63.69,
+        "patternText": "217.258/341.131",
+        "patternInfo": {
+            "m": 77,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 80
     }
 ]
